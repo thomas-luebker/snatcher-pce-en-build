@@ -10,6 +10,7 @@ CD audio, so the track is copied in raw - but first the two are aligned on their
 starts at the offset where the music beds line up, and is cut to exactly the PCE track's length.
 """
 import array
+import glob
 import math
 import os
 import re
@@ -18,7 +19,9 @@ import sys
 RATE, BPS = 44100, 4
 SECTOR = 2352
 PCE_CUE, PCE_DIR = "disc/Snatcher CD-ROMantic (Japan).cue", "disc"
-SCD_CUE, SCD_DIR = "Snatcher (USA)/Snatcher (USA).cue", "Snatcher (USA)"
+SCD_DIR = os.environ.get("SCD_RIP", "Snatcher (USA)")          # your own Sega CD rip, wherever it lives
+_cues = sorted(glob.glob(os.path.join(SCD_DIR, "*.cue")))
+SCD_CUE = _cues[0] if _cues else os.path.join(SCD_DIR, "missing.cue")
 PCE_TRACK, SCD_TRACK = 17, 3
 OUT = "build-en"
 

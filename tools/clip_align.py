@@ -9,10 +9,11 @@ global sequence alignment (Needleman-Wunsch) with gaps on both sides, scored by 
 """
 import json
 import math
+import os
 import struct
 import sys
 
-sys.path.insert(0, "tools")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import cliptable  # noqa: E402
 
 

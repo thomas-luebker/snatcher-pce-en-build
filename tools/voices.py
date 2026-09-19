@@ -8,6 +8,7 @@ whole line still fits; only if even 8 kHz is too short is it cut with a fade. Th
 every table copy (sectors 86..106 and the boot copy of table 86 at sector 54).
 """
 import json
+import os
 import sys
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])

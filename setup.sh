@@ -54,11 +54,28 @@ if [[ ! -f emu/mednafen_pce_libretro.dylib ]]; then
   if [[ -n $u ]]; then curl -fsSL -o work/core.zip $u && unzip -qo work/core.zip -d emu && rm -f work/core.zip; fi
 fi
 
+# --- extract the Sega CD data track, if the user has that rip ---------------------------------
+SCD_RIP=${SCD_RIP:-Snatcher (USA)}
+if [[ ! -f segacd/files/PCMLD_01.BIN ]] && ls "$SCD_RIP"/*"(Track 01).bin" >/dev/null 2>&1; then
+  say "extracting the Sega CD data track (for the English voices)"
+  python3 - "$SCD_RIP" <<'PY'
+import sys, glob, os
+sys.path.insert(0, "tools"); import cdsector as C
+raw = sorted(glob.glob(os.path.join(sys.argv[1], "*(Track 01).bin")))[0]
+os.makedirs("segacd", exist_ok=True)
+open("segacd/track01.iso", "wb").write(C.bin2iso(open(raw, "rb").read(), pregap=0))
+print("  wrote segacd/track01.iso")
+PY
+  if command -v 7zz >/dev/null; then 7zz x -y -osegacd/files segacd/track01.iso >/dev/null
+  elif command -v 7z  >/dev/null; then 7z  x -y -osegacd/files segacd/track01.iso >/dev/null
+  else print "  install p7zip, then: 7zz x -y -osegacd/files segacd/track01.iso"; fi
+fi
+
 print
 say "public prerequisites are in place"
 print "Still needed from you:"
 [[ -f "disc/Snatcher CD-ROMantic (Japan).cue" ]] && print "  disc/            ok" || print "  disc/            MISSING - your own Snatcher (Japan) rip"
-[[ -d "Snatcher (USA)" ]] && print "  Snatcher (USA)/  ok" || print "  Snatcher (USA)/  missing - only needed for English voices/intro"
+[[ -f segacd/files/PCMLD_01.BIN ]] && print "  Sega CD files    ok" || print "  Sega CD files    missing - only needed for English voices/intro"
 [[ -f ~/.mednafen/firmware/syscard3.pce ]] && print "  System Card      ok" || print "  System Card      missing - ~/.mednafen/firmware/syscard3.pce (test harness only)"
 print
 print "Then: see BUILD.md"
