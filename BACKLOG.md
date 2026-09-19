@@ -90,7 +90,18 @@
 ## Next
 - [ ] Playtest the full build; check the scenes that grew (0x0de, 0x1be, 0x21e, 0x26e) and the low-confidence alignments (0x09e, 0x0ce, 0x0fe, 0x1fe, 0x27e)
 - [ ] Voice pairing is still only order+duration for most clips - verify by ear as you play
-- [ ] Intro / cutscenes (CD-DA) still Japanese; title menu `初めから` is a sprite
+- [ ] Title menu `初めから` is a sprite built at runtime - needs instruction-level tracing
+- [x] **Cutscene audio (CD-DA): settled, mostly negative.** The intro (PCE 17 <- SCD 3) works. The
+  rest cannot be done by swapping tracks - the two versions do not share recordings, and outside one
+  coincidence no two tracks are even the same length. `tools/match_cutscenes.py` automates the search
+  and validates against the known-good intro pair; its verdict is that only PCE 20 <- SCD 14 scores
+  above that benchmark (0.48 vs 0.39), and it is in `PAIRS` marked unverified. Three earlier methods
+  produced confident matches that were artifacts - see `docs/FINDINGS.md`, including the near miss
+  (PCE 10 / SCD 19: equal length to 0.43s, correlating 0.04 where they must align).
+- [ ] **Cutscene speech, the route that should work**: don't swap tracks. English speech lives apart
+  from the music in `PCMLD_01.BIN` (already the source for the 1,050 in-game clips), so mixing it
+  onto the original PC Engine music bed keeps the right music by construction. Script cmd `$0E`
+  gives the track each scene plays; `work/aligned/<lba>.json` names each scene's Sega CD script file.
 
 ## Fixed 2026-09-18 night (hardware report: "it also hangs")
 - [x] **Hang fixed**: after the end of an English message the game calls `decode_next_pair` once more to

@@ -31,10 +31,10 @@ else
 fi
 
 if (( do_voices )) && ls "$SCD_RIP"/*.cue >/dev/null 2>&1; then
-  print -P "%F{green}==>%f intro narration (source: $SCD_RIP)"
-  python3 tools/intro_audio.py | tail -1
+  print -P "%F{green}==>%f cutscene audio (source: $SCD_RIP)"
+  python3 tools/intro_audio.py | sed 's/^/    /'
 else
-  print -P "%F{yellow}==>%f no Sega CD .cue in '$SCD_RIP' - the intro narration stays Japanese"
+  print -P "%F{yellow}==>%f no Sega CD .cue in '$SCD_RIP' - the cutscene audio stays Japanese"
 fi
 
 python3 tools/binmerge.py "build-en/Snatcher CD-ROMantic (Japan).cue" build-en-single "Snatcher (English)"

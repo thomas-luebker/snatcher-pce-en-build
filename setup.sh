@@ -15,6 +15,14 @@ mkdir -p reference emu disc segacd work
 
 say() { print -P "%F{green}==>%f $*"; }
 
+# --- numpy, for the cutscene audio matcher ----------------------------------------------------
+# Only tools/match_cutscenes.py needs it; the build itself is pure Python, so a failure here is
+# not fatal.
+if ! python3 -c "import numpy" 2>/dev/null; then
+  say "numpy (tools/match_cutscenes.py only)"
+  python3 -m pip install --quiet numpy 2>/dev/null || print "  could not install numpy - the build still works without it"
+fi
+
 # --- the Sega CD English script dump (Artemio Urbina / Junker HQ) -----------------------------
 if [[ ! -d reference/junkerhq-dumps/scd ]]; then
   say "Sega CD English script dump (junkerhq.net)"

@@ -22,8 +22,26 @@ PCE_CUE, PCE_DIR = "disc/Snatcher CD-ROMantic (Japan).cue", "disc"
 SCD_DIR = os.environ.get("SCD_RIP", "Snatcher (USA)")          # your own Sega CD rip, wherever it lives
 _cues = sorted(glob.glob(os.path.join(SCD_DIR, "*.cue")))
 SCD_CUE = _cues[0] if _cues else os.path.join(SCD_DIR, "missing.cue")
-PCE_TRACK, SCD_TRACK = 17, 3
 OUT = "build-en"
+
+# (PC Engine track, Sega CD track) pairs that carry the same cue in both versions, so the Sega CD
+# recording -- which has the English speech on it -- can stand in for the Japanese one.
+#
+# Only pairs with independent corroboration are listed. Establishing one is deliberately hard,
+# because the two soundtracks are largely NOT the same recordings: see tools/match_cutscenes.py for
+# the matcher, and docs/FINDINGS.md for why most PC Engine cutscene tracks have no counterpart.
+# A wrong pair puts the wrong music under a scene, which is worse than leaving the speech Japanese.
+PAIRS = [
+    (17, 3),    # the opening narration. Verified on real hardware. Correlates 0.39 at alignment.
+    (20, 14),   # CANDIDATE, not verified by ear. The only pair in the whole disc that scores above
+                # the verified intro pair (0.48 vs 0.39) with the PC Engine track fully contained in
+                # the Sega CD one. Remove this line if the scene comes out with the wrong music.
+]
+# Nothing else qualifies, and the near miss is worth recording so it is not retried:
+# PCE 10 (422.20s) and SCD 19 (422.63s) agree in length to 0.43s, and the matcher ranked them top
+# with every rival at zero -- but two tracks of equal length can only align at offset 0, and there
+# they correlate 0.04, against 0.42 for the intro pair. The matcher's score came from overlapping a
+# 107s fragment at a +315s lag. Equal duration was a coincidence; the cue is not the same.
 
 
 def track_file(cue, folder, want):
@@ -67,26 +85,35 @@ def best_offset(a, b, win):
     return bestsh, best
 
 
-def main():
-    pce_path, pce_name = track_file(PCE_CUE, PCE_DIR, PCE_TRACK)
-    scd_path, _ = track_file(SCD_CUE, SCD_DIR, SCD_TRACK)
+def swap(pce_track, scd_track, dry):
+    pce_path, pce_name = track_file(PCE_CUE, PCE_DIR, pce_track)
+    scd_path, _ = track_file(SCD_CUE, SCD_DIR, scd_track)
     pce, scd = open(pce_path, "rb").read(), open(scd_path, "rb").read()
     win = RATE * BPS // 10                                   # 0.1 s
     off, c = best_offset(envelope(pce, win), envelope(scd, win), win)
     start = off * win
-    print(f"PCE track {PCE_TRACK}: {len(pce) / (RATE * BPS):.1f}s   Sega CD track {SCD_TRACK}: "
+    print(f"PCE track {pce_track}: {len(pce) / (RATE * BPS):.1f}s   Sega CD track {scd_track}: "
           f"{len(scd) / (RATE * BPS):.1f}s")
-    print(f"best alignment: start {start / (RATE * BPS):.2f}s into the Sega CD track, correlation {c:.2f}")
+    print(f"  aligned at {start / (RATE * BPS):.2f}s into the Sega CD track, correlation {c:.2f}")
     out = scd[start:start + len(pce)]
     out = out.ljust(len(pce), b"\0")                          # pad with silence if it runs short
     assert len(out) == len(pce) and len(out) % SECTOR == 0
-    if "--dry" in sys.argv:
+    if dry:
         return
     dst = os.path.join(OUT, pce_name)
     if os.path.islink(dst):
         os.unlink(dst)
     open(dst, "wb").write(out)
-    print(f"wrote {dst} ({len(out)} bytes) - English intro narration")
+    print(f"  wrote {dst} ({len(out)} bytes)")
+
+
+def main():
+    dry = "--dry" in sys.argv
+    only = [a for a in sys.argv[1:] if a.isdigit()]
+    for pce_track, scd_track in PAIRS:
+        if only and str(pce_track) not in only:
+            continue
+        swap(pce_track, scd_track, dry)
 
 
 if __name__ == "__main__":

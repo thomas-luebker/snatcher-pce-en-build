@@ -252,3 +252,49 @@ Redump set *Snatcher CD-ROMantic (Japan)*, 24 tracks.
 
 - Print loop at `$66D4`, glyphs via `EX_GETFNT`, custom-glyph override table at `$6A07`, the script
   command set. (The 12-bit text packing itself is now verified, see above.)
+
+## Cutscene audio: why most of it stays Japanese
+
+The intro narration was replaced by copying Sega CD track 3 over PC Engine track 17. The obvious next
+step -- do the same for the other cutscenes -- does not work, and it took several dead ends to be
+sure of that. Recorded here so the attempts are not repeated.
+
+**How the game picks a track.** Not by timecode, which was the first guess and wasted a search of the
+whole disc. Script command `$0E` reads the next script byte and stores it at `$26F5`; the CD state
+machine in the dialogue bank masks it with `$7F`, rejects anything `>= $64`, and passes it to BIOS
+`$E0B4`/`$E018` (`home/engine.asm` `cmd_0E_sub_0`, `home/dialogue.asm` `cd_playback_tick`). Codes
+`$FC`/`$FD`/`$FE` are fade and stop, not tracks. So a scene names an audio track by *number*, in one
+byte, and `tools/match_cutscenes.py`'s companion scan reads them straight out of the scene scripts.
+
+**Why the tracks cannot be matched by sound.** The two versions do not share recordings. The
+durations barely overlap: the PC Engine has 22 audio tracks, the Sega CD 20, and outside one
+coincidence no two are the same length. Three successive attempts each produced confident-looking
+matches that were artifacts:
+
+1. *Best correlation over all lags.* Everything matched the longest Sega CD tracks, because the more
+   lags a candidate offers, the better the luckiest one looks. Scores were not comparable between
+   pairs.
+2. *Correcting with a null.* Scoring each pair against the same track reversed -- same length, same
+   statistics, no possible true alignment -- removed most of the bias and made the known-good intro
+   pair stand out. But seven PC Engine tracks still claimed Sega CD 19.
+3. *Requiring a one-to-one assignment.* This produced matches that were arithmetically impossible:
+   a 149 s PC Engine cutscene assigned a 21 s Sega CD track. A replacement is cut to the PC Engine
+   track's length, so a shorter source could only be padded with silence.
+
+The instructive near miss: PC Engine 10 (422.20 s) and Sega CD 19 (422.63 s) agree in length to
+0.43 s, and the matcher ranked them first with every rival at zero. Two tracks of equal length can
+only align at offset 0 -- and there they correlate **0.04**, against 0.42 for the intro pair. The
+score had come from overlapping a 107 s fragment at a +315 s lag. Equal duration was coincidence.
+
+**What survives.** Scored properly -- envelope correlation with the PC Engine track fully contained
+in the Sega CD one, benchmarked against the intro pair's 0.39 -- exactly one candidate beats the
+benchmark: PC Engine 20 from Sega CD 14, at 0.48. It is in `PAIRS` in `tools/intro_audio.py`,
+labelled unverified. Everything else lands between 0.13 and 0.32, i.e. nothing.
+
+**The route that should work, if this is picked up again.** Do not swap tracks. The English speech
+exists separately from the music in `PCMLD_01.BIN` (84.7 MB of RF5C164 PCM), which is already the
+source for the ~1,200 in-game clips `tools/voices.py` replaces. Mixing the English narration onto
+the *original PC Engine music bed* keeps the right music by construction and removes the matching
+problem entirely. The work is in locating each cutscene's narration in that bank and its timing --
+`$0E` gives the track a scene plays, and `work/aligned/<lba>.json` already names the Sega CD script
+file for each scene, which is the thread to pull.

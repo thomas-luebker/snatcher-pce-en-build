@@ -20,7 +20,11 @@ locally.
 | Verified | on real hardware (PC Engine + Turbo EverDrive Pro), not only in an emulator |
 
 Still Japanese: the "start" option on the title screen (a picture the game builds at runtime — see
-`BACKLOG.md` for what has been ruled out) and cutscene audio other than the opening.
+`BACKLOG.md` for what has been ruled out), and the speech in cutscenes other than the opening. That
+last one is not an oversight — the two versions do not share music recordings, so there is no Sega CD
+track to put in most cutscenes' place. `tools/match_cutscenes.py` is the search, and
+`docs/FINDINGS.md` records what it found and the three ways of asking that gave confident wrong
+answers first.
 
 ## What you need
 
