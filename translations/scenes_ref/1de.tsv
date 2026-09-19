@@ -1,0 +1,783 @@
+R	W2a0a	sp03:3813:1
+R	W2a11	sp03:38ae:281
+R	W2a20	sp21:3a87:1
+R	W2a2b	sp03:38da:1
+R	W2a34	sp06:3989:1
+R	W2a41	sp03:3991:411
+R	W2a50	sp21:391c:1
+R	W2a5d	sp06:3a50:1
+R	W2a66	sp21:3ae7:81
+R	W2a75	sp03:38be:81
+R	W2a82	sp08:39cf:1
+R	W2a8b	sp18:390a:8201
+R	W2a9c	sp21:38f0:1
+R	W2aa9	sp03:38f2:1
+R	W2ab0	sp06:38a3:41
+R	W2abf	sp21:3a46:201
+R	W2ace	sp05:3a17:1
+R	W2ad9	sp06:384a:41
+R	W2aea	sp06:3aef:11
+R	W2af7	sp04:3aa9:41
+R	W2b08	sp21:380c:41
+R	W2b15	sp21:3ad7:81
+R	W2b22	sp06:395a:1
+R	W2b31	sp06:3951:1
+R	W2b3e	sp03:3850:1
+R	W2b4b	sp03:392c:1
+R	W2b56	sp03:3931:1
+R	W2b5f	sp03:3938:1
+R	W2b68	sp03:393f:1
+R	W2b71	sp03:3946:1
+R	W2b7a	sp03:3832:1
+R	W2b85	sp06:3968:1
+R	W2b8e	sp06:383e:41
+R	W2b9d	sp21:398d:1
+R	W2baa	sp21:399a:1
+R	W2bb7	sp21:397b:1
+R	W2bc4	sp05:38f1:1
+R	W2bcb	sp03:39ad:1
+R	W2bd8	sp06:39dd:1
+R	W2be7	sp07:38a5:1
+R	W2bf0	sp21:3b7c:1
+R	W2bfb	sp21:3862:1
+R	W2c06	sp21:39c7:1
+R	W2c11	sp21:3872:1
+R	W2c1c	sp06:3a8b:1
+R	W2c25	sp21:3a57:1
+R	W2c2c	sp21:3ba2:1
+R	W2c37	sp21:3a69:1
+R	W2c42	sp05:3bbb:1
+R	W2c47	sp22:3805:1
+R	W2c4c	sp03:38ed:1
+R	W2c51	sp21:3b93:1
+R	W2c5c	sp21:3841:1
+R	W2c69	sp03:39a0:1
+R	W2c76	sp21:3b88:1
+R	W2c7d	sp06:3a58:1
+R	W2c84	sp06:3a71:1
+R	W2c87	sp21:3800:41
+R	W2c94	sp21:38b1:1
+R	W2c9f	sp21:3890:1
+R	W2caa	sp06:3942:1
+R	W2cb1	sp05:3853:1
+T	W2cb6	Piece
+R	W2cb9	sp06:3acb:1
+R	W2cc0	sp03:38ca:1
+R	W2cc5	sp06:3a92:1
+R	W2cce	sp08:3a5f:1
+R	W2cd9	sp03:397d:1
+R	W2cde	sp03:382d:1
+R	W2ce5	sp03:390f:1
+R	W2cea	sp21:3a8d:1
+R	W2cf5	sp18:3a64:1
+R	W2d02	sp03:3909:1
+R	W2d07	sp06:3abc:1
+R	W2d0e	sp03:386a:41
+R	W2d17	sp21:3bac:1
+T	W2d24	Front desk
+R	W2d2d	sp06:3a0c:1
+R	W2d34	sp03:387b:1
+R	W2d3b	sp03:3921:11
+R	W2d44	sp06:3b19:1
+R	W2d47	sp08:39a7:1
+R	W2d54	sp03:38a2:1
+R	W2d5b	sp21:3bbc:1
+R	W2d64	sp21:3b6a:1
+R	W2d6d	sp21:38db:2001
+R	W2d7c	sp21:39ad:1
+R	W2d87	sp21:3af5:1
+R	W2d92	sp21:3855:1
+R	W2d9b	sp06:3922:1
+R	W2da0	sp06:3ad5:1
+R	M2da5	sp06:4dfb
+R	M2daf	sp21:3c30
+R	M2dc3	sp21:3c6f
+R	M2dd5	sp21:3c87
+R	M2de2	sp21:3caa
+R	M2df9	sp21:3cc8
+R	M2e19	sp21:3cfa
+R	M2e2c	sp21:3d20
+R	M2e54	sp21:3d67
+R	M2e6a	sp21:3d9a
+R	M2e7f	sp21:3dba
+R	M2ea2	sp21:3def
+T	M2ec0	I can't help feeling the weight of a runner's responsibility...
+R	M2edd	sp21:3e3f
+R	M2eec	sp21:3e5a
+R	M2f05	sp21:3ea6
+R	M2f17	sp21:3ece
+R	M2f36	sp21:3f0d
+R	M2f55	sp21:3f44
+R	M2f65	sp21:3f60
+R	M2f8f	sp21:3fb8
+R	M2faf	sp21:3feb
+R	M2fbe	sp08:4262
+R	M3001	sp21:409d
+R	M3015	sp21:40c6
+R	M3037	sp21:40ee
+R	M3050	sp21:4125
+R	M306e	sp21:4165
+R	M3092	sp21:41af
+R	M30a9	sp21:41e2
+R	M30e3	sp21:422f
+R	M3101	sp21:4276
+R	M3126	sp21:42ab
+R	M3142	sp21:42f0
+R	M314d	sp21:42ff
+R	M3163	sp21:4329
+R	M316e	sp21:4334
+R	M3192	sp21:437a
+R	M31a7	sp21:43ab
+R	M31bd	sp21:43df
+R	M31cb	sp21:4403
+R	M31e4	sp21:4432
+R	M31ee	sp21:444b
+R	M3200	sp21:446e
+R	M3219	sp21:4497
+R	M3228	sp21:44b4
+R	M323d	sp21:44ca
+R	M3258	sp21:4504
+R	M327e	sp21:454d
+R	M3294	sp21:4568
+R	M32bf	sp21:45c0
+R	M32d4	sp21:45ee
+R	M32e5	sp21:4611
+R	M32f7	sp21:462d
+R	M330a	sp21:4657
+R	M3331	sp21:469f
+R	M333d	sp21:46b0
+R	M3361	sp21:46fa
+R	M337a	sp21:473f
+R	M33bd	sp21:47a9
+R	M33d6	sp21:47dc
+R	M33f2	sp21:46fa
+R	M340b	sp21:473f
+R	M344e	sp21:48b7
+R	M3475	sp21:48fe
+R	M3489	sp21:491c
+R	M349d	sp21:4943
+R	M34c3	sp21:497d
+R	M34e0	sp21:49b9
+R	M3515	sp21:4a22
+R	M353e	sp21:4a7a
+R	M3559	sp21:4aa2
+R	M3581	sp21:4af6
+R	M359a	sp21:4b24
+R	M35ab	sp21:4b32
+R	M35ce	sp21:4b7d
+R	M35fd	sp21:4bca
+R	M3606	sp21:4bd5
+R	M361f	sp21:4c05
+R	M3633	sp21:4c2d
+R	M3645	sp21:4c4a
+R	M3666	sp21:4c7f
+R	M367d	sp21:4cb1
+R	M36a2	sp21:4cf3
+R	M36d1	sp21:4d37
+R	M36fd	sp21:4d8c
+R	M3729	sp21:4dce
+R	M374f	sp21:4e0e
+R	M3772	sp21:4e4d
+R	M3793	sp21:4e7c
+R	M37ce	sp21:4ee5
+R	M37f1	sp21:4f12
+R	M381c	sp21:4f4e
+R	M3851	sp21:4fb4
+R	M386f	sp21:4feb
+R	M389c	sp21:501c
+R	M38c6	sp21:5070
+R	M38e4	sp21:50a3
+R	M391a	sp21:5103
+R	M3945	sp21:514b
+R	M395f	sp21:516f
+R	M3984	sp21:51c0
+R	M398a	sp21:51ca
+R	M39c3	sp21:5234
+R	M39cf	sp21:5247
+R	M39f4	sp21:5284
+R	M3a02	sp21:529f
+R	M3a20	sp21:52da
+R	M3a38	sp21:52fe
+R	M3a63	sp21:534f
+R	M3a76	sp21:5374
+R	M3aae	sp21:53d5
+R	M3ac1	sp21:5402
+R	M3ad2	sp21:5412
+R	M3af5	sp05:8ab1
+R	M3aff	sp21:544b
+R	M3b0f	sp21:5470
+R	M3b22	sp21:5497
+R	M3b2c	sp21:54a3
+R	M3b3b	sp21:54b0
+R	M3b43	sp21:54c8
+R	M3b5d	sp05:8ab1
+R	M3b66	sp21:54fe
+R	M3b70	sp13:7e0f
+R	M3b76	sp21:5509
+R	M3b8f	sp21:5534
+R	M3b95	sp21:5549
+R	M3bc8	sp08:3df8
+R	M3bd0	sp21:55bb
+R	M3be1	sp21:55d8
+R	M3bec	sp21:55fd
+R	M3bfb	sp21:5638
+R	M3c06	sp21:5642
+R	M3c1a	sp21:5665
+R	M3c3b	sp21:56a4
+R	M3c45	sp21:56ad
+R	M3c5a	sp21:56be
+R	M3c6b	sp21:56f1
+R	M3c86	sp21:570a
+R	M3ca0	sp21:5729
+R	M3cc6	sp21:576b
+R	M3ce4	sp21:57aa
+R	M3d1d	sp21:5843
+R	M3d42	sp21:5880
+R	M3d58	sp21:58c0
+R	M3d6c	sp21:58ec
+R	M3d8b	sp21:5926
+R	M3dbd	sp21:5982
+R	M3dd5	sp21:59a5
+R	M3de0	sp21:59af
+R	M3e01	sp21:59f4
+R	M3e30	sp21:5a4c
+R	M3e56	sp21:5a86
+R	M3e7b	sp21:5ada
+R	M3e98	sp21:5b1a
+R	M3ebb	sp21:5b5b
+R	M3edf	sp21:5b91
+R	M3ef9	sp21:5bc5
+R	M3f1e	sp21:5c20
+R	M3f32	sp21:5c42
+R	M3f4d	sp21:5c75
+R	M3f62	sp21:5cb0
+R	M3f7c	sp21:5ccd
+R	M3fad	sp21:5d20
+R	M3fe5	sp21:5d8d
+R	M400c	sp21:5dd9
+R	M4037	sp21:5e41
+R	M406d	sp21:5e95
+R	M408b	sp21:5f1c
+R	M40a2	sp21:5f4d
+R	M40d3	sp21:5f9e
+R	M40f3	sp21:5fdd
+R	M411f	sp21:6047
+R	M4146	sp21:609e
+R	M4157	sp21:60b2
+R	M4177	sp21:6105
+R	M4190	sp21:6132
+R	M41b8	sp08:628d
+R	M41c2	sp21:6197
+R	M41e5	sp21:61d0
+R	M4201	sp21:61f0
+R	M4228	sp21:6230
+R	M4242	sp21:6257
+R	M425f	sp21:6287
+R	M4269	sp21:6295
+R	M4280	sp21:62bd
+R	M4295	sp21:62d9
+R	M42ac	sp21:6304
+R	M42bb	sp21:6321
+R	M42d2	sp21:633f
+R	M42e6	sp21:6358
+R	M42f8	sp21:3c6f
+R	M4309	sp08:9e5e
+R	M4317	sp21:63a6
+R	M4326	sp21:63c2
+R	M434b	sp21:6406
+R	M4372	sp21:6468
+R	M43a3	sp21:63a6
+R	M43b2	sp21:64e3
+R	M43c3	sp21:6501
+R	M43f6	sp21:6566
+R	M4413	sp21:6589
+R	M4431	sp21:65c3
+R	M4445	sp21:65e1
+R	M4483	sp21:663f
+R	M44ae	sp21:667c
+R	M44e1	sp21:66df
+R	M44ff	sp21:6709
+R	M4524	sp21:675b
+R	M454f	sp21:67a1
+R	M4584	sp21:6829
+R	M4599	sp21:6857
+R	M45ac	sp21:6886
+R	M45ce	sp21:68ca
+R	M45e3	sp21:68eb
+R	M4605	sp21:6932
+R	M461f	sp21:6962
+R	M4641	sp21:69a4
+R	M4667	sp21:69ee
+R	M4684	sp21:6a14
+R	M4699	sp21:6a4c
+R	M46b7	sp13:5682
+R	M46c8	sp21:6a9d
+R	M46db	sp21:6abd
+R	M4704	sp21:6af7
+R	M4728	sp21:6b2c
+R	M475f	sp21:6b7e
+R	M4785	sp21:6bcd
+R	M479e	sp21:6c0e
+R	M47d4	sp21:6c72
+R	M4800	sp21:6cc5
+R	M4844	sp21:6d38
+R	M4869	sp21:6d70
+R	M488e	sp21:6db0
+R	M48a9	sp21:6de1
+R	M48d1	sp21:6e2e
+R	M48ee	sp21:6e66
+R	M491e	sp21:6eb2
+R	M4938	sp15:5e18
+R	M4945	sp21:6efd
+R	M495a	sp21:6f24
+R	M497b	sp21:6f6b
+R	M498f	sp21:6f88
+R	M49c3	sp21:6fda
+R	M49db	sp21:700e
+R	M49fc	sp21:7044
+R	M4a33	sp21:708f
+R	M4a57	sp21:70c3
+R	M4a7a	sp21:70e8
+R	M4aaa	sp21:712b
+R	M4ad6	sp21:7181
+R	M4af4	sp21:71b6
+R	M4b19	sp21:71f4
+R	M4b3e	sp21:7252
+R	M4b5e	sp21:728a
+R	M4b7b	sp21:72b1
+R	M4b93	sp21:72dd
+R	M4bc4	sp21:7349
+R	M4be8	sp21:738a
+R	M4c04	sp21:73bc
+R	M4c1e	sp21:73ef
+R	M4c46	sp21:743c
+R	M4c6a	sp21:747b
+R	M4c85	sp21:74cc
+R	M4ca2	sp21:74f7
+R	M4cb5	sp21:7516
+R	M4cef	sp21:7586
+R	M4d10	sp21:75c1
+R	M4d27	sp21:75e6
+R	M4d4e	sp21:7633
+R	M4d72	sp21:7676
+R	M4d95	sp21:76b7
+R	M4db4	sp21:76e8
+R	M4dc1	sp21:76fe
+R	M4dd2	sp21:7722
+R	M4df6	sp21:7760
+R	M4e14	sp21:7799
+R	M4e4a	sp21:77dd
+R	M4e5b	sp21:7804
+R	M4e92	sp21:786d
+R	M4eb6	sp21:78be
+R	M4ece	sp21:78e4
+R	M4ee6	sp21:7917
+R	M4f02	sp21:7952
+R	M4f0e	sp21:797e
+R	M4f2c	sp21:7997
+R	M4f3a	sp21:79b9
+R	M4f51	sp21:79db
+R	M4f79	sp21:7a19
+R	M4f8e	sp21:7a3c
+R	M4f9d	sp21:7a5b
+R	M4fd4	sp21:7ad5
+R	M500e	sp21:7b74
+R	M5020	sp21:7ba5
+R	M5040	sp12:5750
+R	M504c	sp21:7be4
+R	M5058	sp21:7c09
+R	M5074	sp21:7c2e
+R	M5087	sp21:7c55
+R	M50b5	sp21:7ca8
+R	M50da	sp21:7cfa
+R	M50ee	sp21:7d40
+T	M5103	Keep showing me that piece and I'll get all confused.
+T	M511d	Looks like Mika's starting to pick up your habits, Gillian.
+T	M513c	...No way. Really?
+R	M514a	sp21:7d67
+R	M5160	sp21:7d99
+R	M517b	sp21:7dc0
+R	M519a	sp21:7e03
+R	M51b9	sp21:7e55
+R	M51d7	sp21:7e88
+R	M51f2	sp21:7ecf
+R	M520c	sp21:7ef6
+R	M5236	sp21:7f36
+R	M5246	sp21:7f55
+R	M524e	sp08:7c1c
+R	M5256	sp21:7f7b
+R	M527b	sp21:7fb4
+R	M528f	sp21:7fe4
+R	M52a3	sp21:800f
+R	M52b4	sp21:802f
+R	M52d4	sp21:807d
+R	M5307	sp21:80ce
+R	M5325	sp21:8102
+R	M5347	sp21:8137
+R	M5361	sp21:8174
+R	M5371	sp21:8198
+R	M5382	sp21:81c1
+R	M53a1	sp21:8207
+R	M53b2	sp21:8229
+R	M53c0	sp21:8250
+R	M53d7	sp21:8288
+R	M53ee	sp21:82b3
+R	M5406	sp21:82eb
+R	M5429	sp21:831f
+R	M5444	sp21:834c
+R	M5458	sp06:6cc7
+R	M5467	sp21:8380
+R	M5479	sp21:8399
+R	M5488	sp21:83af
+R	M54a1	sp21:83eb
+R	M54ae	sp21:8402
+R	M54c6	sp21:8436
+R	M54dd	sp21:845c
+R	M5502	sp21:84b3
+R	M552b	sp21:8509
+R	M554e	sp21:853f
+R	M5562	sp21:8563
+R	M557e	sp21:85a3
+R	M559f	sp21:85dc
+R	M55d5	sp21:8607
+R	M55ed	sp21:864a
+R	M5616	sp21:869c
+R	M564b	sp21:86fd
+R	M5668	sp21:8734
+R	M567f	sp21:8761
+R	M56a1	sp21:8799
+R	M56ae	sp21:87b0
+R	M56cc	sp21:880b
+R	M56f9	sp21:8846
+R	M571d	sp21:887a
+R	M573a	sp21:88af
+R	M5745	sp21:88b8
+R	M577e	sp21:8910
+R	M5797	sp21:8934
+R	M57c0	sp21:89b5
+R	M57df	sp21:89eb
+R	M5805	sp21:8a32
+R	M581d	sp21:8a6c
+R	M5850	sp21:8ac6
+R	M5871	sp21:8b18
+R	M589b	sp21:8b7a
+R	M58c6	sp21:8bcf
+R	M58f0	sp21:8c42
+R	M5914	sp21:8c99
+R	M5936	sp21:8ce0
+R	M596a	sp21:8d48
+R	M5987	sp21:8d8b
+R	M59ac	sp21:8dcb
+R	M59be	sp21:8df0
+R	M59f5	sp21:8e63
+R	M5a0f	sp21:8e9d
+R	M5a2a	sp21:8ed3
+R	M5a54	sp21:8f2d
+R	M5a6d	sp21:8f57
+R	M5a9b	sp21:8fc9
+R	M5abf	sp21:8ff6
+R	M5af2	sp21:9059
+R	M5b1e	sp21:90a9
+R	M5b3a	sp21:90e7
+R	M5b59	sp21:9118
+R	M5b80	sp21:9177
+R	M5bac	sp21:91f8
+R	M5bd0	sp21:9270
+R	M5bfe	sp21:92d4
+R	M5c1e	sp21:931c
+R	M5c2d	sp21:9367
+R	M5c4d	sp21:9395
+R	M5c62	sp21:93b1
+R	M5c82	sp21:9400
+R	M5ca3	sp21:9434
+R	M5cbc	sp21:9466
+R	M5ce0	sp21:94a8
+R	M5d03	sp21:94e5
+R	M5d2d	sp21:9529
+R	M5d6b	sp21:9583
+R	M5d9a	sp21:95d2
+R	M5dce	sp21:9649
+R	M5de4	sp21:968c
+R	M5df6	sp21:96bb
+R	M5e1a	sp21:9715
+R	M5e39	sp21:9744
+R	M5e64	sp21:97a0
+R	M5e93	sp21:97f4
+R	M5eb4	sp21:982a
+R	M5ece	sp21:984d
+R	M5edb	sp21:985d
+R	M5f00	sp21:9894
+R	M5f08	sp21:98a7
+R	M5f2b	sp21:98ea
+R	M5f49	sp21:993d
+R	M5f54	sp21:994a
+R	M5f6d	sp21:5cb0
+R	M5f86	sp21:99a0
+R	M5f9a	sp21:99d1
+R	M5faf	sp21:99ed
+R	M5fe8	sp21:9a57
+R	M5ff8	sp21:9a8a
+R	M601e	sp21:9ac9
+R	M6050	sp21:9b1e
+R	M607f	sp21:9b9f
+R	M60a5	sp21:9bde
+R	M60b0	sp21:9bee
+R	M60c5	sp21:9c16
+R	M60e3	sp21:9c4e
+R	M6102	sp21:9c91
+R	M6118	sp21:9cb6
+R	M613c	sp21:9d0d
+R	M6148	sp21:9d2b
+R	M616b	sp21:9d5a
+R	M6177	sp21:9d7b
+R	M619c	sp21:9dca
+R	M61b8	sp21:9e06
+R	M61cb	sp21:9e2e
+R	M61e4	sp21:9e4d
+R	M6207	sp21:9e9d
+R	M6222	sp21:9edd
+R	M6245	sp21:9f1d
+R	M6261	sp21:9f50
+R	M6285	sp21:9f9a
+R	M6296	sp21:9fd1
+R	M62c3	sp21:a02b
+R	M62dc	sp21:a061
+R	M62ec	sp21:a07c
+R	M6313	sp21:a0c0
+R	M6332	sp21:a0f7
+R	M6361	sp21:a152
+R	M637c	sp21:a173
+R	M63a1	sp21:a1c5
+R	M63c4	sp21:a20b
+R	M63e0	sp21:a242
+R	M641a	sp21:a28e
+R	M6432	sp21:a2cb
+R	M6464	sp21:a325
+R	M6494	sp06:8c6b
+R	M64a0	sp21:a39a
+R	M64c2	sp21:a3d9
+R	M64d6	sp21:a3f8
+R	M64ec	sp21:a420
+R	M6505	sp21:a44e
+R	M651b	sp21:a484
+R	M6538	sp21:a4bf
+R	M6550	sp21:a4ee
+R	M656b	sp21:a518
+R	M6582	sp21:a550
+R	M659b	sp21:a173
+R	M65c1	sp21:a5c3
+R	M65d4	sp21:a5eb
+R	M65ea	sp21:a60c
+R	M6615	sp21:a655
+R	M661f	sp21:a669
+R	M6635	sp21:a68c
+R	M6640	sp21:a6a0
+R	M6672	sp21:a6e8
+R	M668d	sp21:a71c
+R	M66a8	sp21:a73c
+R	M66b3	sp21:a74b
+R	M66d3	sp21:a787
+R	M66f0	sp21:a7b8
+R	M6713	sp21:a7f0
+R	M6739	sp21:a821
+R	M6744	sp21:a836
+R	M6762	sp21:a862
+R	M6785	sp21:a8d1
+R	M6795	sp21:a8f5
+R	M67a3	sp21:a910
+R	M67b1	sp21:a931
+R	M67ec	sp21:a9ad
+R	M681d	sp21:a9f8
+R	M6842	sp21:aa4a
+R	M685e	sp21:aa7a
+R	M687e	sp21:aaa5
+R	M6894	sp21:aaca
+R	M68b3	sp21:aaa5
+R	M68c9	sp21:ab1b
+R	M68d7	sp08:7c1c
+R	M68df	sp14:5704
+R	M68e6	sp21:ab46
+R	M6907	sp21:ab91
+R	M6925	sp21:abcd
+R	M692e	sp21:abd7
+R	M6947	sp21:abf2
+R	M6964	sp21:ac20
+R	M6977	sp21:ac3a
+R	M6986	sp21:ac52
+R	M699c	sp21:ac83
+R	M69c0	sp21:acb8
+R	M69d3	sp21:acde
+R	M69ed	sp21:ad0b
+R	M6a07	sp21:ad25
+R	M6a28	sp21:ad5b
+R	M6a46	sp21:ad8c
+R	M6a50	sp21:ad94
+R	M6a68	sp03:60b6
+R	M6a98	sp03:610e
+R	M6ab0	sp21:ae3f
+R	M6add	sp03:6228
+R	M6af6	sp21:aec5
+R	M6b10	sp21:af02
+R	M6b2c	sp21:af3d
+R	M6b48	sp21:af75
+R	M6b5c	sp21:afa2
+R	M6b76	sp21:afcb
+R	M6b94	sp21:b011
+R	M6bb0	sp21:b04e
+R	M6bd2	sp03:64b3
+R	M6bfd	sp03:64f8
+R	M6c20	sp21:b148
+R	M6c45	sp03:6662
+R	M6c6c	sp21:b1e1
+R	M6ca3	sp21:b24c
+R	M6ccb	sp21:b29c
+R	M6cf8	sp21:b309
+R	M6d1f	sp21:b35c
+R	M6d4e	sp21:b3a9
+R	M6d71	sp21:b3dd
+R	M6d9b	sp21:b430
+R	M6dc6	sp21:b475
+R	M6df4	sp21:b4d8
+R	M6e0d	sp21:b4f8
+R	M6e31	sp21:b547
+R	M6e4d	sp09:47ff
+R	M6e5c	sp03:728d
+R	M6e73	sp03:72cd
+R	M6e82	sp03:72fd
+R	M6ea4	sp03:732b
+R	M6ebf	sp03:7362
+T	M6edd	This is the Chief's office. He seems to be out.
+T	M6ef7	Let's search for clues while the Chief's away... to find out if he's a SNATCHER.
+T	M6f2e	Let's look for more clues.
+T	M6f47	First, let's put the Red Square photo back where it was.
+T	M6f69	Right, we can't let on that we've figured out this picture's secret...
+T	M6f96	I'll put the Red Square photo back now.
+T	M6fad	This is the Chief's chair. The Chief isn't here.
+T	M6fc6	The Chief seems to have stepped away.
+T	M6fdb	The monitor is turned off.
+T	M6fec	That's odd. Why would the monitor be off?
+T	M7009	Wait a second! Isn't there something odd about this picture of a vase?
+T	M702e	Look! ...Doesn't it look like a face?
+T	M7045	A face? ...I don't really see it.
+T	M7055	Look, doesn't it look like a face?
+T	M7068	I'm not sure, but it just looks like a picture of a vase.
+T	M7085	It looks familiar somehow... but I can't remember.
+T	M70a0	Why... would a photo like this be here?
+T	M70b7	The surface of the chair has gone cold.
+T	M70cf	It seems like quite a while since he left his seat.
+T	M70e9	Most of the monitors have gone cold too.
+T	M7102	It looks like it's been a while since the monitor was turned off.
+T	M711f	Look at this. I thought it was just a picture of a vase, but...
+T	M7144	If you swap the figure and the background... it's "Face to Face"!
+T	M7166	Could this be the "Face to Face" from Harry's memo?
+T	M7191	It's a picture designed to trick the human eye.
+T	M71a6	...You mean it wouldn't look like anything to someone who wasn't human?
+T	M71c7	Let's take a closer look.
+T	M71da	Check the "face to face" part for me.
+T	M71f1	Oh! There's a switch between the two faces. I'll try pressing it.
+T	M7217	The picture flipped over and turned into a photograph.
+T	M7230	All right... I'll press the switch.
+T	M7246	The picture flipped over and turned into a photograph.
+T	M725f	I've been wondering about this for a while, but don't you think this vase picture doesn't quite match the room?
+T	M729d	I've been wondering about that too.
+T	M72b1	Metal, don't you think something's off?
+R	M72c4	sp18:4ba6
+T	M72cc	If... I were a SNATCHER,
+T	M72e4	would I really hide evidence like this photo somewhere so easy to spot...
+T	M730e	That's a good point.
+T	M731a	There has to be a reason worth the risk of keeping this photo here.
+T	M7340	Red Square...? Why would a picture like this be in the Chief's office...
+T	M7363	Judging by the print quality and other factors, this photo is about half a century old.
+T	M7391	Either the Chief or Harry is a SNATCHER?
+T	M73ab	...Let's look for evidence. If we're not careful how we proceed, things could get serious.
+T	M73de	Let's start by searching this room.
+T	M73f6	...It seems both of them are out.
+T	M740e	Let's check the remaining room.
+T	M7421	Metal, where is this photo from?
+T	M7436	All right, I'll search the Alpha-One database for the location of this photo...
+T	M7466	...I've got it.
+T	M7473	This photo is of Moscow before the Catastrophe, specifically Red Square.
+T	M7499	Red Square...? Why would a picture like this be in the Chief's office...
+T	M74bc	Keep that image saved in memory for me.
+T	M74cf	I've recorded the photo's image in memory.
+T	M74e9	The Chief had this photo?
+T	M74f8	Or perhaps... someone put it here to frame the Chief?
+T	M7515	First Harry's matches, and now this... which one is it?
+T	M752d	Which one is it...?
+T	M7539	We're missing the deciding clue. They're both suspicious.
+T	M7555	Or... could it be someone else entirely?
+T	M7569	In that case, that patient record with the name "Benson" looks suspicious too, doesn't it?
+T	M758e	Was it left for us on purpose...?
+T	M759f	To begin with, it's strange for a SNATCHER to leave a patient record behind at all.
+T	M75c4	Is it a trap?
+T	M75cd	Based on the circumstantial evidence so far, we can't really say.
+T	M75eb	The Chief being away from his desk...
+T	M75fd	Like Mika said, maybe he's just busy preparing for the Summit?
+T	M761f	Something doesn't sit right...
+T	M762c	Looks like the Chief's been out for a while now.
+T	M7644	...Looks that way.
+T	M7651	This is engineering. ...It seems Harry is out.
+T	M7674	Let's look for clues while Harry's away.
+T	M7697	Let's search for clues while he's out.
+T	M76b0	It's a sexy movie actress from the last century.
+T	M76c7	It's a photo of Harry as a young boy.
+T	M76dd	There are matches on the desk.
+R	M76ee	sp26:6201
+T	M76fe	...It's matches, and... a memo.
+T	M7715	There are matches and a memo on the desk.
+T	M7729	The box has the "Outer Heaven" logo printed on it.
+T	M774f	It says "Face to Face" on it.
+T	M776d	Face to face, huh...?
+T	M7779	It's quite worn, but the four corners have been reinforced.
+T	M7798	Looks like Harry really treasures this.
+T	M77b3	If we could see the original photo, we might learn who Harry's parents were...
+T	M77d3	These are definitely matches given out to regulars at "Outer Heaven".
+T	M77fb	These are matches given out at "Outer Heaven".
+T	M781b	This is Harry's handwriting. Could it be a message?
+T	M7834	"Face to face" must be the key. ...In any case, all we can do is search wherever this phrase brings to mind.
+T	M786a	Maybe it means "look for face to face"! ...Or perhaps "watch out for face to face"?
+T	M78a8	Hang on to this memo for me.
+T	M78be	All right, I'll hang on to this memo.
+T	M78d8	From "Outer Heaven"? Harry had those!
+T	M78f7	Harry's the only one at Junker HQ who smokes.
+T	M791c	You don't mean... Harry?
+T	M7927	If he's carrying matches from Outer Heaven, then...
+T	M7945	Harry, a SNATCHER? No way...
+R	M795a	sp22:4d5e
+T	M796c	There's no need. These are the same matches we already have.
+T	M7997	I've already recorded the situation. ...Carrying more would just weigh down the investigation.
+T	M79bb	Let's just leave it here.
+R	M79cd	sp03:60b6
+R	M79fd	sp03:610e
+R	M7a15	sp21:ae3f
+R	M7a3e	sp03:6228
+R	M7a57	sp21:aec5
+R	M7a71	sp21:af02
+R	M7a8d	sp21:af3d
+R	M7aa9	sp21:af75
+R	M7abd	sp21:afa2
+R	M7ad7	sp21:afcb
+R	M7af5	sp21:b011
+R	M7b11	sp21:b04e
+R	M7b33	sp03:64b3
+R	M7b5e	sp03:64f8
+R	M7b81	sp21:b148
+R	M7ba6	sp03:6662
+R	M7bcd	sp21:b1e1
+R	M7c04	sp21:b24c
+R	M7c2c	sp21:b29c
+R	M7c58	sp21:b309
+R	M7c7f	sp21:b35c
+R	M7cad	sp21:b3a9
+R	M7cd0	sp21:b3dd
+R	M7cfa	sp21:b430
+R	M7d25	sp21:b475
+R	M7d53	sp21:b4d8
+R	M7d6c	sp21:b4f8
+R	M7d90	sp21:b547
+R	M7dac	sp09:47ff
+R	M7dbb	sp03:728d
+R	M7dd2	sp03:72cd
+R	M7de1	sp03:72fd
+R	M7e03	sp03:732b
+R	M7e1e	sp03:7362

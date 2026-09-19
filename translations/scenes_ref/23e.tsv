@@ -1,0 +1,414 @@
+T	W148c	*
+R	W148f	sp03:3813:1
+T	W1496	Neck
+R	W149d	sp03:38ae:281
+R	W14ac	sp03:38da:1
+R	W14b5	sp03:3991:411
+R	W14c4	sp28:3903:1001
+R	W14d3	sp07:3906:81
+R	W14e4	sp03:38be:81
+R	W14f1	sp08:3800:41
+T	W14fc	Auren
+T	W1505	Owen
+R	W150e	sp21:3a87:1
+R	W1517	sp28:39a1:1
+T	W1520	Oleenu
+R	W1529	sp28:39a8:1
+T	W1532	Orin
+T	W1539	Oriin
+T	W1542	Ohrin
+T	W154b	Chart
+R	W1552	sp28:3937:401
+R	W1563	sp28:3928:401
+T	W1572	Katrina's Chest
+R	W1581	sp05:3a17:1
+R	W158c	sp28:3949:1
+R	W1593	sp28:38bd:401
+T	W15a2	Crane
+R	W15ab	sp28:39ba:841
+R	W15b8	sp28:39e6:1
+R	W15c1	sp28:3a37:81
+R	W15d0	sp03:3850:41
+R	W15dd	sp03:392c:1
+R	W15e8	sp03:3931:1
+R	W15f1	sp03:3938:1
+R	W15fa	sp03:393f:1
+R	W1603	sp03:3946:1
+R	W160c	sp03:3832:41
+R	W1617	sp28:394e:1
+R	W161e	sp28:384b:21
+R	W1629	sp28:3856:1
+R	W1634	sp28:39af:21
+T	W1641	Apartment
+R	W164c	sp21:3a57:1
+R	W1653	sp03:38ed:1
+T	W1658	Bra
+R	W165d	sp03:39a0:41
+R	W166a	sp03:3884:1
+T	W1673	Piece
+R	W1676	sp03:38ca:1
+R	W167b	sp03:397d:1
+R	W1680	sp03:382d:1
+R	W1687	sp03:390f:1
+R	W168c	sp07:38f3:1
+T	W1697	Clothes
+T	W16a0	Self
+T	W16a5	Room
+R	W16aa	sp03:386a:41
+T	W16b3	Taken Bra
+T	W16be	Take
+T	W16c3	Ask Clue
+R	W16d0	sp26:38a0:1
+R	W16d3	sp03:387b:1
+R	W16da	sp03:396d:1
+T	W16e5	Odor
+R	W16ea	sp03:3921:11
+R	W16f3	sp28:38b2:1
+R	W16f8	sp03:3898:9
+R	W1701	sp03:38a2:1
+R	W1708	sp28:380e:41
+R	W1713	sp06:3984:1
+R	W1716	sp28:381f:1
+R	W171b	sp06:3922:1
+R	W1720	sp28:38e4:801
+R	W172b	sp28:38d6:201
+R	W1736	sp04:3c3e:10101
+R	W173f	sp03:385b:41
+R	W174a	sp06:3ad5:1
+R	M174f	sp28:3a72
+R	M1766	sp28:3a93
+R	M1784	sp28:3ac8
+R	M1791	sp28:3ad8
+R	M17ac	sp28:3afe
+R	M17ce	sp24:3a32
+R	M17e1	sp28:3b57
+R	M17f2	sp28:3b66
+R	M1824	sp28:3bc0
+R	M183e	sp28:3bfc
+R	M185c	sp28:3c3f
+R	M1870	sp28:3c6d
+R	M1894	sp28:3cac
+R	M18a4	sp28:3cc0
+R	M18b5	sp28:3ce9
+R	M18d8	sp28:3d20
+R	M18ef	sp28:3d4d
+R	M1908	sp28:3d77
+R	M1926	sp28:3dc9
+R	M1946	sp28:3e03
+R	M1957	sp28:3e25
+R	M197a	sp28:3e62
+R	M1991	sp28:3e81
+R	M19b0	sp28:3ec0
+R	M19d1	sp28:3efc
+R	M19e6	sp28:3f11
+R	M19fa	sp28:3f39
+T	M1a1a	This is Gillian's living room.
+R	M1a2a	sp28:3f7e
+R	M1a41	sp28:3f9b
+R	M1a66	sp28:3fdc
+R	M1aa0	sp28:401c
+R	M1ab6	sp28:403f
+R	M1adf	sp28:4093
+R	M1b00	sp28:40de
+R	M1b1f	sp28:411d
+R	M1b38	sp28:416c
+R	M1b53	sp28:41a3
+R	M1b6b	sp28:41c6
+R	M1b99	sp28:4241
+R	M1bb2	sp28:4274
+R	M1bc7	sp28:4295
+R	M1bed	sp28:4301
+R	M1bfc	sp28:431e
+R	M1c11	sp05:8ab1
+R	M1c1a	sp28:4342
+R	M1c27	sp28:435b
+R	M1c3b	sp28:4380
+R	M1c51	sp28:43b0
+R	M1c68	sp28:43d7
+R	M1c79	sp28:43ef
+R	M1c86	sp28:43fb
+R	M1c9d	sp28:4433
+R	M1cbc	sp28:446e
+R	M1cdb	sp28:44ad
+R	M1cf7	sp28:44e2
+R	M1d15	sp28:4521
+R	M1d23	sp28:4537
+R	M1d43	sp28:4561
+R	M1d57	sp28:4584
+T	M1d7a	There's some underwear on the floor. I wonder whose it is?
+T	M1d96	Is this your thing, Gillian?
+T	M1da6	Don't be stupid! I don't know anything about it!
+T	M1db8	Oh? There's something on the floor.
+T	M1dce	Something has fallen on the floor.
+T	M1de0	Hmm... cute underwear.
+T	M1df3	...why is there underwear like this in my room?
+T	M1e13	Playing dumb, are we, Gillian?
+R	M1e28	sp28:45e3
+R	M1e4e	sp28:463f
+R	M1e6d	sp28:4667
+R	M1e8e	sp28:4697
+T	M1eaa	There's nothing here besides that underwear from before.
+T	M1ec4	Is this... panties? Or... a bra?
+R	M1ee1	sp13:7e0f
+T	M1ee7	Shh, it's underwear! And women's, at that...
+T	M1f03	Women's underwear!
+T	M1f0d	There's women's underwear on the floor.
+R	M1f20	sp28:46d7
+R	M1f56	sp28:4738
+T	M1f6e	It's silk underwear. Its owner must be someone who takes real care with her clothes. Underwear is a woman's ultimate weapon, after all.
+T	M1fb6	The kind of woman who wears underwear like this is usually high society or a model.
+T	M1fe3	A model?... Katrina?
+T	M1ff3	T-this is... hers?
+T	M2004	Then... Katrina's naked?
+T	M2018	Gillian, don't let your guard down.
+T	M2030	What if it's a SNATCHER?
+T	M2045	What are you planning, taking your clothes off?
+T	M2059	I'm going to put this underwear on.
+T	M206e	I'm going to take a bath.
+T	M207c	You're joking, right?
+T	M2086	Yeah...
+T	M208e	Maybe I'll just keep it...
+T	M209d	I'm telling the Chief!
+T	M20ac	Metal! For the sake of the investigation, we need to examine this underwear. Go get it for me!!
+T	M20da	I suppose it can't be helped... but you'd better give it back.
+T	M20f8	Honestly, you're already holding it, aren't you?
+T	M2113	All right! Let's have a sniff. Sniff, sniff... Mmm! Nice smell. Huh?... This smell?
+T	M2142	So that's the kind of thing you're into...
+T	M2158	Don't tell anyone. ...Hey! That's not it... This smell, could it be...?
+R	M2188	sp10:4bcb
+T	M2193	That's it, this smell!
+T	M21a2	Is it Katrina?
+T	M21ae	...I want to think so.
+T	M21bd	I knew it! Metal, I've got it! This smell!
+T	M21d8	Sniff, sniff... smells kind of sweaty?
+T	M21ec	You've been so busy with the investigation, you haven't had a bath, have you?
+T	M220d	Come to think of it, I haven't...
+T	M2222	Do I smell bad?
+T	M222a	It doesn't bother me, but...
+T	M2238	Haven't done laundry either. Girls are going to hate me at this rate.
+T	M225c	(Looking at her like this, she's pretty coquettish...)
+R	M227c	sp28:481f
+T	M2287	(Something... feels kind of strange...)
+T	M229b	Is there something on my face?
+T	M22ac	What?! Gillian, are you mad?
+T	M22c1	(Hmm. Pretty glamorous!)
+T	M22d4	(Bad for a single guy's eyes...)
+R	M22ea	sp28:481f
+T	M22f5	(So sexy...)
+T	M2304	(...Women are devils.)
+R	M2315	sp28:481f
+R	M2320	sp28:48b0
+R	M2339	sp28:48dd
+R	M2362	sp28:4911
+R	M2376	sp28:4993
+R	M2388	sp28:49bc
+T	M239d	Well then, why don't I take a bath too?
+T	M23b7	Gillian! This isn't the time for that!
+T	M23ce	Ugh!! You keep saying stuff like that! You just want to see me naked, don't you!
+T	M23f6	Metal Gear, I need a favor. Get me a bath towel!
+T	M2416	Using my full name won't help. Why should I have to do that?
+T	M2449	What are you two talking about?
+T	M245e	Gillian! Knock it off already!!
+R	M2471	sp28:49d4
+R	M2482	sp28:49fa
+R	M24ad	sp28:4a47
+R	M24c5	sp28:4a75
+R	M24d7	sp28:4aa3
+R	M24ec	sp28:4ad0
+R	M24fd	sp28:4aee
+R	M2513	sp28:4b25
+R	M2535	sp28:4b57
+R	M2548	sp28:4b69
+R	M2555	sp28:4b82
+R	M255f	sp28:4b97
+R	M2568	sp28:4ba1
+R	M2570	sp10:4bcb
+R	M2579	sp28:4bb9
+R	M258c	sp28:4bda
+R	M2593	sp28:4be8
+R	M25a3	sp28:4bfd
+R	M25cb	sp28:4c22
+R	M25ea	sp28:4c4f
+R	M2605	sp28:4c74
+R	M260b	sp28:4c86
+R	M2622	sp28:4cb8
+R	M2634	sp28:4cd1
+R	M2644	sp28:4ce5
+R	M2680	sp18:576f
+R	M268d	sp28:4d64
+R	M26b2	sp05:8ab1
+R	M26ba	sp28:4dbc
+R	M26d6	sp28:4e01
+R	M2709	sp28:4e69
+R	M2737	sp28:4eb2
+R	M2748	sp28:4ecc
+R	M2765	sp28:4f03
+R	M2787	sp28:4f5e
+R	M27c0	sp28:4faf
+R	M27f1	sp28:4ff3
+R	M27fe	sp28:5020
+R	M2812	sp28:503f
+R	M284e	sp28:50be
+R	M287a	sp28:5106
+R	M28a8	sp28:514b
+R	M28c2	sp28:5171
+R	M28f7	sp28:51c0
+R	M2919	sp28:5200
+R	M2940	sp28:5250
+R	M2955	sp28:5283
+R	M2988	sp28:52ed
+R	M29a6	sp28:531a
+R	M29cf	sp28:5361
+R	M29e1	sp28:537b
+R	M29eb	sp28:5392
+R	M2a05	sp28:53da
+R	M2a1e	sp28:53ff
+R	M2a3a	sp28:5429
+R	M2a60	sp28:5480
+R	M2a84	sp28:54c5
+R	M2a91	sp28:54d9
+R	M2aa4	sp28:5503
+R	M2ab8	sp28:553e
+R	M2ae4	sp28:5592
+R	M2b03	sp28:55cd
+R	M2b23	sp28:5608
+R	M2b42	sp28:563f
+R	M2b5a	sp28:5660
+R	M2b7b	sp28:569c
+R	M2b92	sp28:56b7
+R	M2bad	sp28:56fd
+R	M2bbe	sp28:5719
+R	M2bd3	sp28:5735
+R	M2be0	sp28:5752
+R	M2bf7	sp28:5773
+R	M2c01	sp28:5783
+R	M2c1d	sp28:57ed
+R	M2c3c	sp28:580e
+R	M2c55	sp28:5841
+R	M2c6e	sp28:5868
+T	M2c8a	...Though I do like a good crane game.
+T	M2ca2	Sure, well then... win one for me sometime?
+T	M2cbd	...Katrina.
+T	M2cc9	Oh, sorry.
+T	M2cd6	"Owen," right? Now searching...
+T	M2cef	"Auren," right? Now searching...
+T	M2d08	"Ohrin," right? Now searching...
+R	M2d21	sp28:58d4
+R	M2d39	sp28:58ad
+R	M2d51	sp28:5910
+T	M2d6a	...Come to think of it, wasn't there a song like this once?
+T	M2d85	Oleen, Oleen, Olee... Oleeeen...?
+T	M2da1	Isn't that "Jolene"?
+T	M2db0	Oh, was it...
+R	M2dbc	sp28:5910
+T	M2dd8	All right, as Katrina suggested... "Oleena," then...
+T	M2dfa	All right, as Katrina suggested... "Oleens," then...
+T	M2e1c	"Oleenu"?
+T	M2e28	Sounds kind of like Katrina, doesn't it?
+T	M2e3b	It doesn't sound alike at all...
+T	M2e47	Is that right, "Oleenu"?
+T	M2e53	It's Katrina!
+T	M2e5d	...'Orin'? ...'orin'?
+R	M2e6f	sp13:5682
+T	M2e7e	I've heard a name like that before. I think it was... Kito...
+T	M2ea2	...Isn't that from some novel?
+T	M2eb5	Come on, be serious.
+R	M2ec7	sp28:5978
+R	M2ed3	sp28:5984
+R	M2ee1	sp28:5990
+R	M2eed	sp28:599c
+R	M2f0c	sp28:59c3
+R	M2f2e	sp28:59f5
+R	M2f4e	sp28:5a2e
+R	M2f75	sp28:5a75
+R	M2f9c	sp28:5ac8
+R	M2fb8	sp28:5aeb
+R	M2fd7	sp28:5b2a
+R	M2ff6	sp28:5b88
+R	M3012	sp28:5bcc
+R	M302d	sp28:5bec
+R	M3047	sp28:5c15
+R	M3075	sp28:5c97
+R	M309c	sp28:5cdf
+R	M30ad	sp28:5cfd
+R	M30c1	sp28:5d34
+R	M30fe	sp28:5ddb
+R	M3118	sp28:5e05
+R	M3139	sp28:5e4f
+R	M314f	sp28:5e75
+R	M3162	sp28:5e91
+R	M318b	sp28:5ed2
+T	M31ac	Gillian?! Where are you looking?!
+T	M31c1	You're looking somewhere weird again!! You're thinking something naughty, aren't you!!
+T	M31e6	Gillian... don't stare so much.
+R	M31fd	sp28:5f0e
+R	M3211	sp18:4340
+R	M3228	sp28:5f49
+R	M3235	sp28:5f62
+R	M3245	sp28:5f76
+R	M3257	sp28:5f96
+R	M3276	sp28:5fc1
+R	M329e	sp28:5ff9
+R	M32bf	sp28:6026
+R	M32dc	sp28:6058
+R	M3310	sp28:60cb
+R	M3339	sp28:6120
+R	M3361	sp28:614c
+R	M337b	sp28:6196
+R	M339c	sp28:61c8
+R	M33ce	sp28:61c8
+R	M3400	sp28:6262
+R	M3416	sp28:6286
+R	M3444	sp28:62c8
+R	M346d	sp28:62fc
+R	M348e	sp28:6330
+R	M349b	sp14:5704
+R	M34a3	sp28:6346
+R	M34bd	sp28:636c
+R	M34d7	sp28:6397
+R	M34f5	sp28:63c1
+R	M3512	sp28:63fc
+R	M3534	sp28:6426
+R	M354f	sp28:6460
+R	M3567	sp28:6483
+R	M3571	sp28:64a0
+R	M3586	sp28:64c1
+R	M35a4	sp03:60b6
+R	M35d4	sp03:610e
+R	M35ec	sp21:ae3f
+R	M3615	sp03:6228
+R	M362e	sp21:aec5
+R	M3648	sp21:af02
+R	M3664	sp21:af3d
+R	M3680	sp21:af75
+R	M3694	sp21:afa2
+R	M36ae	sp21:afcb
+R	M36cc	sp21:b011
+R	M36e7	sp21:b04e
+R	M3709	sp03:64b3
+R	M3734	sp03:64f8
+R	M3757	sp21:b148
+R	M377c	sp03:6662
+R	M37a3	sp21:b1e1
+R	M37da	sp21:b24c
+R	M3802	sp21:b29c
+R	M382e	sp21:b309
+R	M3855	sp21:b35c
+R	M3883	sp21:b3a9
+R	M38a6	sp21:b3dd
+R	M38d0	sp21:b430
+R	M38fb	sp22:5500
+R	M3929	sp03:728d
+R	M3940	sp03:72cd
+R	M394f	sp03:72fd
+R	M3971	sp03:732b
+R	M398c	sp03:7362
+R	M39aa	sp03:72fd
+R	M39cc	sp03:732b
+R	M39e7	sp03:7362
+R	M3a05	sp03:72fd
+R	M3a27	sp03:732b
+R	M3a42	sp03:7362
+R	M3a60	sp03:72fd
+R	M3a82	sp03:732b
+R	M3a9d	sp03:7362

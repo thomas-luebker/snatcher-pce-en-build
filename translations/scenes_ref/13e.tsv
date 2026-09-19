@@ -1,0 +1,633 @@
+R	W21df	sp03:3813:1
+T	W21e6	Other
+R	W21ed	sp06:3926:1
+T	W21fa	Bounty Hunters?
+T	W220b	Junker staff
+T	W221a	Junker rights
+T	W2229	Junker job
+R	W2234	sp06:3895:41
+T	W2245	Junker ID
+T	W2254	Engineering
+R	W2261	sp03:3991:411
+R	W2270	sp05:3b8d:41
+R	W227b	sp06:3a50:1
+R	W2284	sp06:3930:1
+R	W228b	sp06:38a3:41
+R	W229c	sp06:384a:41
+R	W22a9	sp06:3aef:11
+T	W22b6	Gillian's
+R	W22c1	sp06:3831:41
+T	W22d2	On Gibson
+R	W22e1	sp06:395a:1
+R	W22f0	sp06:3951:1
+T	W22fd	Snatchers?
+R	W230e	sp14:39e0:1
+R	W231b	sp03:3850:1
+R	W2328	sp03:392c:1
+R	W2333	sp03:3931:1
+R	W233c	sp03:3938:1
+R	W2345	sp03:393f:1
+R	W234e	sp03:3946:1
+R	W2357	sp06:3ad0:1
+R	W235e	sp06:3ada:1
+R	W2365	sp06:3968:1
+T	W236e	Navigators?
+R	W237f	sp04:3b44:1
+T	W238c	Neo Kobe
+R	W239b	sp06:383e:41
+T	W23aa	On Harry
+R	W23b7	sp05:38f1:1
+R	W23be	sp03:39ad:1
+R	W23cb	sp06:39dd:1
+R	W23dc	sp04:3876:1
+R	W23e7	sp06:3a79:1
+R	W23f0	sp06:3a8b:1
+R	W23f9	sp06:38c2:41
+T	W2406	Mika's sizes
+T	W2415	Her face
+T	W241e	Her bust
+T	W2427	On Mika
+R	W2430	sp05:3bbb:1
+T	W2435	Rear desk
+R	W243c	sp06:3a71:1
+R	W243f	sp03:3884:1
+T	W2448	Leave
+T	W2451	Office
+R	W2458	sp05:3853:1
+R	W245d	sp06:3acb:1
+R	W2464	sp03:38ca:1
+T	W2469	Train
+T	W2472	Training?
+T	W247d	Factory
+T	W2484	Money
+R	W248b	sp03:390f:1
+R	W2490	sp03:3909:1
+T	W2495	Range
+T	W249c	Get in
+T	W24a5	Get out
+R	W24b0	sp07:3815:1
+R	W24b5	sp06:3a58:1
+T	W24be	Reception
+T	W24c5	Usage
+R	W24cc	sp06:3b19:1
+R	W24cf	sp06:399a:1
+R	W24d8	sp03:38a2:1
+T	W24df	Bought
+T	W24e6	Not bought
+R	W24f1	sp06:3984:1
+R	W24f4	sp06:3922:1
+T	W24f9	Wall photo
+R	W2502	sp06:3b14:1
+R	W2505	sp06:3ad5:1
+R	M250a	sp06:3b20
+R	M252a	sp06:3b50
+R	M254b	sp06:3b92
+R	M2573	sp06:3bcb
+R	M2590	sp06:3c0e
+R	M25a6	sp06:3c34
+R	M25b9	sp06:3c5f
+R	M25cc	sp06:3c81
+R	M25e3	sp06:3cbb
+R	M260a	sp06:3cff
+R	M2620	sp06:3d34
+R	M2636	sp06:3d56
+R	M264c	sp06:3d84
+R	M2666	sp06:3dc0
+R	M2681	sp06:3df5
+R	M269e	sp06:3e36
+R	M26c2	sp06:3e77
+R	M26eb	sp06:3ec4
+R	M2710	sp06:3f02
+R	M272e	sp06:3f3d
+R	M2742	sp06:3f62
+R	M2755	sp06:3f8b
+R	M2769	sp06:3fac
+R	M2779	sp06:3fcc
+R	M27a6	sp06:4026
+R	M27c0	sp06:404d
+R	M27e5	sp06:409e
+R	M27f7	sp06:40c1
+R	M280d	sp06:40e9
+R	M2822	sp06:4117
+R	M2847	sp06:417f
+R	M285e	sp06:41a9
+R	M2877	sp06:41d4
+R	M2890	sp06:420d
+R	M28a9	sp06:4236
+R	M28c4	sp06:4273
+R	M28e3	sp06:42b2
+R	M290c	sp06:42f7
+R	M2926	sp06:432c
+R	M2943	sp06:4375
+R	M2959	sp06:439a
+R	M2989	sp06:43e2
+R	M29b1	sp06:444b
+R	M29d5	sp06:4490
+R	M29e4	sp06:44ab
+R	M29f1	sp06:44b9
+R	M2a0a	sp06:4502
+R	M2a27	sp06:4530
+R	M2a44	sp06:4556
+R	M2a63	sp06:4587
+R	M2a86	sp06:45bc
+T	M2a9f	Let's see... Judgement Uninfected Naked Kind & Execute Ranger...?
+R	M2ae8	sp06:45f9
+T	M2b1e	Judgement Uninfected Naked Kind & Execute Ranger...
+R	M2b62	sp06:467d
+R	M2b71	sp06:4697
+R	M2b80	sp06:46af
+R	M2b9d	sp06:46ea
+R	M2bb4	sp06:470a
+R	M2be8	sp06:476c
+R	M2c01	sp06:47a0
+R	M2c36	sp06:47fd
+R	M2c4e	sp06:4830
+R	M2c64	sp06:4856
+R	M2c97	sp06:48ba
+R	M2cb4	sp06:490e
+R	M2cc8	sp06:492f
+R	M2ce8	sp06:4972
+R	M2d1b	sp06:49ec
+R	M2d39	sp06:4a27
+R	M2d60	sp06:4a70
+R	M2d76	sp06:4a8e
+R	M2d88	sp06:4ab4
+R	M2d9a	sp06:4ad9
+R	M2db9	sp06:4b08
+R	M2dd3	sp06:4b48
+R	M2df4	sp06:4b77
+R	M2e0a	sp06:4b95
+R	M2e28	sp06:4bc1
+R	M2e3d	sp06:4bf2
+R	M2e4c	sp06:4c15
+R	M2e5e	sp06:4c33
+R	M2e79	sp06:4c61
+R	M2e93	sp06:4c97
+R	M2ea4	sp06:4cbc
+R	M2eb9	sp06:4ce0
+R	M2ecb	sp06:4d01
+R	M2edb	sp06:4d21
+R	M2eef	sp06:4d60
+R	M2efc	sp06:4d79
+R	M2f16	sp06:4da9
+R	M2f38	sp06:4dc8
+R	M2f50	sp06:4dfb
+R	M2f5a	sp06:4e17
+R	M2f79	sp06:4e55
+T	M2f8c	It's fine to take an interest in Mika, but there are limits. Control yourself.
+R	M2fb7	sp06:4ee2
+T	M2fc5	Seed, you don't seem to understand. Your love life is your own business, but watch your behavior inside headquarters.
+R	M2ffc	sp06:4fb1
+R	M3017	sp06:4fe7
+R	M302a	sp06:500d
+R	M3040	sp06:5044
+R	M3054	sp06:506a
+R	M306d	sp06:508c
+R	M3089	sp06:50cf
+R	M30a1	sp06:50fe
+R	M30bb	sp03:6b63
+R	M30c6	sp06:5159
+R	M30d9	sp06:5182
+R	M30f9	sp06:51b9
+R	M311b	sp06:51f9
+R	M3148	sp06:5259
+R	M316d	sp06:528a
+T	M318b	A picture of a vase. What a weird pattern...
+R	M31a0	sp06:52ea
+R	M31b3	sp06:5310
+R	M31cd	sp06:5327
+R	M31e3	sp06:5355
+T	M3200	Suspecting people is part of this job, but aren't you overdoing it?
+R	M3229	sp06:53e8
+R	M323d	sp06:5401
+R	M3278	sp06:546d
+R	M32a2	sp06:54c4
+T	M32b9	Don't touch that picture! It's my treasure.
+R	M32d6	sp06:551f
+R	M32fc	sp06:555e
+R	M3308	sp06:5575
+R	M331e	sp06:55a1
+R	M3331	sp06:55e0
+R	M334a	sp06:561a
+R	M3360	sp06:5643
+R	M336a	sp06:5653
+R	M337e	sp06:5672
+R	M339a	sp06:56b5
+R	M33ac	sp06:56d7
+R	M33e4	sp06:5746
+T	M33f9	That's right. Whatever the reason... hurting people is never allowed.
+R	M3425	sp06:57bd
+R	M344d	sp06:5816
+R	M3476	sp06:586e
+R	M3482	sp06:56b5
+R	M3494	sp06:58b4
+R	M34b2	sp06:58dd
+R	M34e1	sp06:593f
+T	M3523	Would you like to hear about your duties once more? Or... do you have another question?
+R	M354d	sp06:5a04
+R	M357e	sp06:5a6e
+R	M359f	sp06:5aa4
+T	M35bd	That Harry doesn't seem to be around, though?
+R	M35d0	sp06:5af3
+R	M35fa	sp06:5b40
+R	M3623	sp06:5b92
+T	M3645	As you can see, she's a beautiful and intelligent woman. ...A bit strong-willed, though.
+R	M3670	sp06:5c51
+R	M367e	sp06:5c5e
+R	M36a6	sp06:5cb1
+R	M36e9	sp06:56b5
+R	M36fb	sp06:5d53
+R	M3728	sp06:5dcc
+T	M3747	It's the nickname of the A.I. in the computer room. It manages all the systems and information of this headquarters.
+R	M3782	sp06:5eb6
+R	M37b9	sp06:5f1f
+R	M37d9	sp06:5f6f
+R	M37f5	sp06:5f9e
+R	M381b	sp06:5fd8
+R	M3839	sp06:6017
+R	M385b	sp06:6049
+T	M387d	Exactly. Even if it's only training...
+R	M3894	sp06:60d6
+R	M38b4	sp06:610e
+R	M38de	sp06:6152
+R	M38f9	sp06:617d
+R	M3905	sp06:619d
+R	M3929	sp06:61dc
+R	M3944	sp06:620f
+R	M3969	sp06:6259
+R	M399c	sp06:62b6
+R	M39c7	sp06:6259
+R	M39f5	sp06:6384
+T	M3a1c	...So you were keeping an eye on me after all?
+T	M3a31	Try to calm down a little.
+T	M3a43	Hm. ...Snatchers suddenly appeared in this Neo Kobe City three years ago.
+T	M3a73	Snatchers suddenly appeared in this Neo Kobe City three years ago.
+R	M3a9d	sp06:64c4
+R	M3ac1	sp06:64fd
+T	M3b11	JUNKER was set up inside police headquarters one year ago as a special anti-Snatcher section.
+R	M3b44	sp06:65f6
+T	M3b7c	Still... that poster is in bad taste.
+R	M3b96	sp06:669a
+R	M3bae	sp06:66c3
+R	M3bc2	sp06:66f4
+R	M3bf9	sp06:675b
+R	M3c28	sp06:67a2
+R	M3c5b	sp06:67fa
+R	M3c9d	sp06:688d
+R	M3cd5	sp06:68d7
+R	M3d1b	sp06:6946
+R	M3d28	sp06:6960
+R	M3d63	sp06:69ae
+R	M3dba	sp06:6a5f
+R	M3dec	sp06:6ac2
+R	M3e3b	sp06:6b3b
+R	M3e64	sp06:6b7b
+R	M3e82	sp06:6bb4
+R	M3ea0	sp06:6be9
+R	M3eae	sp06:6c13
+T	M3ebd	From what Mika tells me, you bought the Pilot Disk?
+T	M3ee2	Uh... yes, that's what I said.
+T	M3ef5	For someone who did, you sure ask a lot. Well, I won't press the matter.
+R	M3f1a	sp06:6c34
+R	M3f4e	sp06:6c89
+R	M3f6b	sp06:6cc7
+R	M3f7a	sp06:6cdc
+R	M3f95	sp06:6d01
+R	M3fb1	sp06:6d27
+R	M3fc9	sp06:6d5f
+R	M3fe2	sp06:6d84
+R	M4009	sp06:6dd6
+R	M4028	sp06:6e1c
+R	M403f	sp06:6e47
+R	M4054	sp06:6e68
+R	M406c	sp06:6ea0
+R	M4092	sp06:6ed8
+R	M40a4	sp06:6f04
+R	M40b1	sp06:6f25
+R	M40d2	sp06:6f62
+R	M40eb	sp06:6f91
+R	M410e	sp06:6fd9
+R	M4123	sp06:700e
+R	M4152	sp06:7050
+R	M415f	sp06:7072
+R	M417e	sp06:70ba
+R	M41a4	sp06:70e9
+R	M41b8	sp06:7111
+T	M41ca	A her-mit-crab, eh? ...Heh, that's a good one.
+R	M41ec	sp06:7156
+R	M4201	sp06:7171
+R	M421f	sp06:71ad
+R	M424e	sp06:7216
+R	M426f	sp06:7265
+R	M4289	sp06:72a1
+R	M429b	sp06:72c3
+R	M42bb	sp06:7315
+R	M42d5	sp06:7365
+R	M42fd	sp06:73b7
+R	M4319	sp06:73dd
+R	M4323	sp06:73ea
+R	M4345	sp06:7447
+R	M4363	sp06:7488
+R	M4383	sp06:74bd
+R	M4397	sp06:74ee
+R	M43bb	sp06:753f
+R	M43e4	sp06:7577
+R	M43f0	sp06:7598
+R	M4403	sp06:75b8
+R	M4416	sp06:75e9
+R	M4431	sp06:761e
+R	M445d	sp06:7659
+R	M447a	sp06:768c
+R	M4498	sp06:76d6
+R	M44c9	sp06:7724
+R	M450e	sp06:77b3
+R	M4529	sp06:77ee
+R	M4565	sp06:786c
+R	M45a9	sp06:791d
+R	M45e7	sp06:79b0
+R	M4602	sp06:79eb
+R	M4612	sp06:7a11
+R	M461c	sp06:7a1f
+R	M4647	sp06:7a76
+R	M4672	sp06:7af4
+R	M46a2	sp06:7b3f
+R	M46be	sp06:7b80
+R	M46e0	sp06:7bdf
+R	M46f6	sp06:7c20
+R	M470e	sp06:7c48
+R	M471a	sp06:7c81
+R	M472b	sp06:7cb2
+R	M4758	sp06:7cf4
+R	M476f	sp06:7d32
+R	M4793	sp06:7db6
+R	M47b4	sp06:7e0c
+R	M47c5	sp06:7e24
+R	M47ee	sp06:7e64
+R	M4825	sp06:7ecc
+R	M482c	sp06:7ee6
+R	M4854	sp06:7f3e
+R	M488e	sp06:7fbd
+R	M48a3	sp06:7ff6
+R	M48cd	sp06:803c
+R	M48e6	sp06:806b
+R	M490b	sp06:80b6
+R	M491e	sp06:8101
+R	M4941	sp06:814d
+R	M4979	sp06:81ab
+R	M4998	sp06:81da
+R	M49b6	sp06:8208
+R	M49d7	sp06:8233
+R	M49ee	sp06:8271
+R	M4a09	sp06:82bf
+R	M4a1b	sp06:82e6
+R	M4a5b	sp06:8381
+R	M4a65	sp06:83aa
+R	M4a87	sp06:83e9
+R	M4aa3	sp06:8416
+R	M4aac	sp06:8426
+R	M4ab9	sp06:843a
+R	M4acd	sp06:8473
+R	M4aec	sp06:849b
+R	M4b13	sp06:84df
+R	M4b23	sp06:84f8
+R	M4b32	sp06:8515
+R	M4b4d	sp06:8544
+R	M4b75	sp06:8583
+R	M4b8d	sp06:85c2
+R	M4ba2	sp06:85e5
+R	M4bc2	sp06:8611
+R	M4bf3	sp06:8679
+R	M4c0c	sp06:86b0
+R	M4c35	sp06:8718
+R	M4c53	sp06:8763
+R	M4c85	sp06:87ba
+R	M4ca8	sp06:8800
+R	M4cc0	sp06:882d
+R	M4d0b	sp06:88ec
+R	M4d83	sp06:89fe
+R	M4ddd	sp06:8aaf
+R	M4e07	sp06:8af8
+R	M4e4c	sp06:8b8c
+R	M4e66	sp06:8bcc
+R	M4e7d	sp06:8be6
+R	M4e9a	sp06:8c1e
+R	M4eca	sp06:8c6b
+R	M4ed4	sp06:8ca4
+R	M4ef3	sp06:8ce1
+R	M4f15	sp06:8d43
+R	M4f21	sp06:8d5e
+R	M4f37	sp06:8d84
+R	M4f5a	sp06:8de5
+R	M4f7f	sp06:8e0b
+R	M4f98	sp06:8e3d
+T	M4fcb	...is what I'd like to say, but you got good reviews on the Pilot Disk, so...
+R	M4ff8	sp06:8c87
+T	M5005	It's a special commemorative disc released ahead of the main game. Did you buy it, Gillian?
+T	M5031	You've had enough training. You already trained on the Pilot Disk, didn't you?
+T	M5054	You'll be fine. You trained on the Pilot Disk, didn't you?
+R	M507a	sp06:8eaf
+R	M5095	sp06:8ee0
+R	M509f	sp06:8eec
+R	M50c9	sp06:8f0f
+R	M50ee	sp06:8f88
+R	M50fb	sp06:8f9d
+T	M5113	I guess so...
+R	M511d	sp06:8fc2
+R	M5134	sp06:8ff7
+R	M5143	sp06:9060
+R	M5163	sp06:9088
+R	M518b	sp06:9142
+R	M5195	sp06:917a
+R	M51b1	sp06:9060
+R	M51c7	sp06:9088
+R	M51e5	sp01:3cfe
+R	M5205	sp06:928d
+R	M5233	sp06:92ce
+R	M526d	sp06:9303
+R	M528c	sp06:9354
+R	M5296	sp06:7dad
+R	M52be	sp06:93cd
+R	M52de	sp06:941b
+R	M52f7	sp06:9490
+T	M5318	And you waste a lot of shots... Waste fewer shots and make sure of your target, okay?
+R	M534c	sp06:94c9
+T	M5369	After that, it's about telling citizens from Snatchers, right?
+R	M5385	sp06:9504
+R	M53a8	sp06:9546
+R	M53ca	sp06:958b
+R	M53ec	sp06:95df
+R	M541b	sp06:9641
+R	M5446	sp06:96ac
+R	M5462	sp06:96f1
+R	M5479	sp06:971e
+R	M5498	sp06:974a
+R	M54a7	sp06:9766
+R	M54b9	sp06:9785
+R	M54ce	sp06:97c0
+R	M54e8	sp06:97f5
+R	M54fc	sp06:9828
+R	M5517	sp06:9854
+R	M5533	sp06:987c
+R	M555d	sp06:98e3
+R	M557c	sp06:9923
+R	M559c	sp06:9982
+R	M55bc	sp06:99cd
+R	M55f0	sp06:9a20
+R	M5616	sp06:9a60
+R	M562b	sp06:9a7f
+R	M564a	sp06:9abe
+R	M566c	sp06:9b1b
+R	M568f	sp06:9b5a
+R	M56b8	sp06:9ba9
+R	M56d9	sp06:9bfd
+R	M5701	sp06:9c5e
+R	M571d	sp06:9c8e
+R	M5747	sp06:9cd6
+R	M5776	sp06:9d3a
+R	M57a4	sp06:9da8
+R	M57c6	sp06:9dea
+R	M57e1	sp06:9e33
+R	M57fc	sp06:9e6f
+R	M5814	sp06:9ea7
+R	M5836	sp06:9eec
+R	M5857	sp06:9f29
+R	M5869	sp06:9f55
+R	M5886	sp06:9e33
+R	M58a1	sp06:9fc0
+R	M58b9	sp06:9ffa
+R	M58d8	sp06:a048
+R	M58f5	sp06:a090
+R	M5913	sp06:a0e5
+R	M5939	sp06:a136
+R	M5960	sp06:9e33
+R	M597b	sp06:9fc0
+R	M5993	sp06:a1ea
+R	M59ae	sp06:a22c
+R	M59d6	sp06:a285
+R	M59f9	sp06:a2ca
+R	M5a13	sp06:a2fa
+R	M5a27	sp06:a320
+R	M5a39	sp06:a349
+R	M5a55	sp06:9e33
+R	M5a70	sp06:9fc0
+R	M5a88	sp06:a403
+R	M5aae	sp06:a468
+R	M5adc	sp06:a4b3
+R	M5b06	sp06:a4fc
+R	M5b39	sp06:a56e
+R	M5b6d	sp06:a5d3
+R	M5b8f	sp06:a638
+R	M5bad	sp06:a66b
+R	M5bd7	sp06:a6e4
+R	M5bfd	sp06:a72c
+R	M5c26	sp06:a785
+R	M5c47	sp06:a7c1
+R	M5c77	sp06:a83c
+R	M5c9b	sp06:a890
+R	M5ca7	sp06:a8b5
+R	M5cc2	sp06:a912
+R	M5ccd	sp06:a93a
+R	M5cda	sp06:a944
+R	M5cf5	sp06:a97d
+R	M5cfe	sp06:a993
+R	M5d10	sp06:a9cf
+T	M5d1a	...Turn off your turbo button, okay?
+T	M5d31	You really are beautiful...
+T	M5d3f	...Thank you, Gillian. I'll take that as a compliment.
+R	M5d61	sp06:a9db
+R	M5d72	sp06:aa02
+T	M5d87	Huh? ...Did you say something?
+T	M5d9d	Those files look heavy, so I thought I'd carry them for you...
+R	M5dbc	sp06:aa21
+R	M5dcc	sp06:aa50
+R	M5dd4	sp06:aa58
+R	M5de1	sp06:aa6f
+R	M5e01	sp06:aac6
+R	M5e1c	sp06:aaea
+R	M5e32	sp06:ab25
+R	M5e43	sp06:ab46
+T	M5e60	(More than I expected...)
+T	M5e74	Where are you looking! Honestly...
+R	M5e84	sp06:ab75
+R	M5e9c	sp06:abd2
+T	M5eb1	Give it a rest...
+T	M5ebf	Really... you're hopeless.
+T	M5ecf	...Maybe the Chief is right about you?
+R	M5ee4	sp06:ac20
+T	M5f07	Harry Benson is JUNKER's mechanic. He likes his drink a little, but he's a kind, old-fashioned man. Everybody calls him 'Pops'.
+T	M5f5f	Harry is a genius who has won three Nobel Prizes and a Fields Medal.
+R	M5f8a	sp06:ac5c
+T	M5fae	He seems to have... stepped out. He'll be back before long.
+R	M5fd1	sp06:aca2
+R	M5fea	sp06:acda
+R	M602b	sp06:ad47
+R	M6067	sp06:ada0
+R	M607c	sp06:adcf
+R	M6099	sp06:ae03
+R	M60cd	sp06:ae6f
+R	M60f0	sp06:aea9
+R	M611a	sp06:af0d
+R	M6133	sp06:af42
+R	M614e	sp06:af75
+R	M616b	sp06:af97
+T	M6185	...Maybe next time. If the chance comes up...
+T	M61a5	I'll leave that to your imagination.
+T	M61b5	Oh, Gillian! ...But no! I'm not telling. Why don't you look it up yourself?
+T	M61e0	It wasn't in Jordan, though?
+T	M61f2	Unbelievable... You actually looked?
+T	M6206	I'm the serious type. But why?
+R	M621f	sp06:afcc
+T	M6247	Your three sizes: an unsolved case?
+R	M625b	sp06:b01a
+T	M6273	(I would if I could.)
+R	M6285	sp06:b05d
+T	M629a	...The Chief will get mad at you again, you know?
+R	M62b0	sp06:b090
+R	M62d3	sp06:b0cf
+T	M62fb	That's your JUNKER ID. Take good care of it, okay?
+T	M6318	You shouldn't go showing it around in public too much...
+T	M6337	It's expense money, so you can use it when the investigation calls for it.
+R	M6356	sp06:b11e
+R	M6371	sp06:b169
+R	M63a1	sp06:b1c0
+R	M63d6	sp06:b201
+R	M63ef	sp06:b239
+R	M6416	sp06:b286
+R	M6442	sp06:b2d6
+R	M646a	sp06:b33c
+R	M6481	sp06:b36d
+R	M64a1	sp06:b3a7
+R	M64c5	sp06:b36d
+R	M64e5	sp06:b429
+R	M6504	sp06:b457
+R	M6519	sp06:b36d
+R	M6539	sp06:b4b4
+R	M654d	sp06:b4d9
+R	M656a	sp03:728d
+R	M6581	sp03:72cd
+R	M6590	sp03:72fd
+R	M65b2	sp03:732b
+R	M65cd	sp03:7362
+R	M65eb	sp03:72fd
+R	M660d	sp03:732b
+R	M6628	sp03:7362
+R	M6646	sp03:72fd
+R	M6668	sp03:732b
+R	M6683	sp03:7362
+R	M66a1	sp03:72fd
+R	M66c3	sp03:732b
+R	M66de	sp03:7362
+R	M66fc	sp06:b7e2
+R	M6716	sp06:b801
+R	M6727	sp06:b82a
+R	M6740	sp06:b854
+R	M675f	sp06:b88f
+R	M6781	sp06:b8c6
+R	M679b	sp06:b8f7
+R	M67b2	sp06:b923
+R	M67d7	sp06:b953
+R	M67f0	sp06:b984
+R	M6812	sp06:b9b6
+R	M6821	sp06:b9cc
+R	M6837	sp06:b9fc
+R	M6855	sp06:ba33

@@ -1,0 +1,600 @@
+T	W2310	Dummy B
+T	W2313	Dummy C
+T	W231a	Dummy D
+T	W231f	Dummy E
+T	W2322	Dummy F
+T	W2329	Dummy G
+R	W232e	sp09:3b27
+R	W2333	sp09:3b2a
+R	W2338	sp09:3b2d
+R	W233d	sp09:3b30
+R	W2342	sp09:3b33
+R	W2347	sp09:3b36
+R	W234c	sp09:3b39
+R	W2351	sp09:3b3c
+R	W2356	sp09:3b3f
+R	W235b	sp09:3b42
+R	W2360	sp09:3b45
+T	W2365	60
+T	W236a	61
+T	W236f	64
+T	W2374	75
+T	W2379	77
+T	W237e	8*
+T	W2383	80
+T	W2388	81
+T	W238d	82
+T	W2392	83
+T	W2397	84
+T	W239c	86
+T	W23a1	88
+T	W23a6	89
+T	W23ab	9*
+R	W23b0	sp03:3813:1
+T	W23b7	Grope
+T	W23c2	3 Sizes
+R	W23cb	sp08:3a34:101
+R	W23dc	sp03:38ae:281
+R	W23eb	sp09:3851:c1
+R	W23fc	sp03:3991:411
+R	W240b	sp03:38df:101
+R	W241c	sp09:38a3:21
+R	W242b	sp08:3800:41
+R	W2436	sp05:3814:1
+R	W243d	sp08:3a0a:41
+R	W244e	sp03:38ba:1
+R	W2453	sp06:38a3:41
+R	W2462	sp05:3a17:1
+R	W246d	sp06:3831:41
+R	W247a	sp03:3889:201
+R	W2489	sp09:3957:201
+R	W2498	sp03:3850:41
+R	W24a5	sp03:392c:1
+R	W24b0	sp03:3931:1
+R	W24b9	sp03:3938:1
+R	W24c2	sp03:393f:1
+R	W24cb	sp03:3946:1
+T	W24d4	Chess
+R	W24dd	sp03:383e:1
+R	W24e6	sp08:3853:41
+R	W24f5	sp09:39ec:1
+R	W2500	sp06:3951:1
+R	W2509	sp03:39ad:1
+R	W2516	sp03:38cf:1
+T	W251d	Dark
+T	W2522	Soothe
+T	W2529	Take Advantage
+R	W2538	sp03:38ed:1
+T	W253d	Push Down
+T	W2546	Do It
+R	W254f	sp09:394d:1
+R	W2554	sp09:38dc:1
+R	W2557	sp03:3884:1
+T	W2560	Room
+T	W2565	Piece
+R	W2568	sp09:399f:1
+R	W256d	sp06:3acb:1
+R	W2574	sp03:38ca:1
+T	W2579	Flirt
+T	W2580	About Buffalo
+T	W258f	Paper
+R	W2596	sp03:382d:1
+R	W259d	sp03:390f:1
+T	W25a2	Inside
+R	W25a7	sp18:3821:1
+R	W25b4	sp03:3909:1
+T	W25b9	Get In
+R	W25c2	sp08:3ac7:1
+T	W25c7	Return
+R	W25d2	sp09:3a97:1
+T	W25d7	Proof
+T	W25de	Touch
+R	W25e3	sp06:3b19:1
+R	W25e6	sp09:389e:1
+T	W25ed	Check
+T	W25f4	Prove It
+R	W25fd	sp03:3973:1
+R	W2608	sp06:3922:1
+R	W260d	sp09:3897:1
+T	W2610	Yard
+T	W2615	Wipe
+R	W261c	sp06:3ad5:1
+R	M2621	sp09:3b48
+R	M2633	sp09:3b63
+R	M264c	sp09:3b87
+T	M266a	We've been thrown out again. Please get a grip, Gillian!
+R	M268c	sp09:3bc3
+R	M269e	sp09:3be2
+R	M26ac	sp09:3bfa
+R	M26b6	sp09:3c1d
+R	M26c4	sp09:3c3d
+R	M26da	sp09:3c3d
+R	M26f0	sp09:3c89
+R	M2700	sp09:3cb2
+R	M2721	sp09:3cf8
+R	M2732	sp09:3d17
+R	M2743	sp09:3d34
+R	M2756	sp09:3d50
+R	M276a	sp09:3d6d
+R	M2781	sp09:3d98
+R	M278f	sp09:3dcd
+R	M27a0	sp09:3ddd
+R	M27b6	sp09:3df4
+R	M27d3	sp09:3e18
+R	M27e5	sp09:3e31
+R	M27f8	sp09:3e57
+R	M2824	sp09:3ea2
+R	M2843	sp09:3ed5
+R	M2876	sp09:3f3b
+R	M28a3	sp09:3f89
+R	M28b2	sp09:3f94
+R	M28c0	sp09:3fac
+R	M28d0	sp09:3fc2
+R	M28e6	sp09:3fe9
+R	M28f5	sp09:400a
+R	M2911	sp09:4041
+R	M2920	sp09:406d
+R	M2932	sp09:4095
+R	M2954	sp09:40e1
+R	M2972	sp09:414e
+R	M2998	sp09:41ab
+R	M29bb	sp09:4201
+R	M29c8	sp09:421f
+R	M29d9	sp09:425c
+R	M2a02	sp09:42ab
+R	M2a19	sp09:42ce
+R	M2a33	sp09:42f2
+R	M2a53	sp09:4344
+R	M2a6f	sp09:4371
+R	M2a87	sp09:4396
+R	M2aae	sp09:43db
+R	M2ac8	sp09:4410
+R	M2af5	sp09:4456
+R	M2aff	sp09:4460
+R	M2b13	sp09:447b
+R	M2b33	sp09:447b
+T	M2b56	No way! You pervert!!
+T	M2b65	Seems you've taken the joke too far.
+R	M2b76	sp09:447b
+R	M2b96	sp09:455b
+R	M2bc4	sp09:45b5
+R	M2bde	sp09:45d9
+R	M2bf5	sp09:45f7
+T	M2c2f	...I see. You really do seem genuine.
+R	M2c43	sp09:4661
+T	M2c5b	Kyaaah!
+T	M2c63	What are you doing showing her that?! Honestly...
+T	M2c78	Sorry, sorry. I just got a little carried away...
+T	M2c92	Kyaaah! You pervert!!
+T	M2ca0	Please stop!! You're only going to lose her trust!
+R	M2cbb	sp09:4689
+R	M2cc9	sp09:46a4
+R	M2cde	sp09:46c9
+R	M2cf0	sp09:46f4
+R	M2d10	sp09:4727
+R	M2d2f	sp09:4751
+R	M2d41	sp09:476a
+R	M2d7a	sp09:47cc
+R	M2d87	sp09:47de
+R	M2d9c	sp09:47ff
+R	M2da3	sp09:480d
+R	M2dd7	sp09:4864
+R	M2deb	sp09:4889
+R	M2e18	sp09:48cb
+R	M2e2f	sp09:48f3
+R	M2e51	sp09:493b
+T	M2e65	First... it's my bust size, right?
+T	M2e78	Once again... starting with the bust size?
+R	M2e8e	sp09:49c6
+T	M2ec7	You don't need a leading zero, you know.
+T	M2ed6	That's three digits! Get rid of the leading zero.
+T	M2eee	There's no way it's a single digit!!
+T	M2eff	Hmph, I'm good at this kind of thing. Straight up... 81!!
+T	M2f1d	Um... 81, that's it!!
+T	M2f2d	...Correct. Now... what about my waist size?
+R	M2f48	sp09:49c6
+T	M2f81	...58!!
+T	M2f8d	This one, of course... ...58!!
+T	M2fa2	...That's right too. ...One more to go. What about my hips?
+R	M2fc3	sp09:49c6
+T	M2ffc	I know this one for sure! ...83!!
+T	M3018	All correct! I guess you really are the real thing. Wait, I'll open the door.
+T	M3045	What?! ...How rude!
+T	M3059	Three digits?! You're joking, right?
+R	M3070	sp09:49fb
+T	M3085	Gillian... you have to input something!
+T	M30a1	Please input something, Gillian!?
+R	M30ba	sp09:4c74
+R	M30ce	sp09:4c97
+R	M30dd	sp09:4cb5
+R	M30f1	sp09:4cd9
+R	M30ff	sp09:4d01
+R	M310f	sp09:4d22
+R	M3122	sp09:4d38
+R	M313a	sp09:4d5d
+R	M3149	sp09:4d71
+T	M315f	So you were just guessing about dad's age too, huh!
+R	M3175	sp09:4d97
+T	M3194	So, Gillian, you like big breasts, huh?
+T	M31ac	Yeah... I suppose you could say that.
+T	M31c3	Then what about Jamie...?
+T	M31d5	Sh-shut up!
+T	M31df	Am I really that fat?
+T	M31ee	It's not that big!
+T	M31fe	That can't be right!
+T	M320b	It's not that small!
+T	M321b	You saw Katrina's 3 sizes on Jordan, didn't you?
+T	M3239	Come on, try to remember.
+T	M324a	If you check Jordan's data, you should be able to find out Katrina's 3 sizes.
+R	M3272	sp09:4e70
+R	M3282	sp09:4ea2
+R	M3299	sp09:4edf
+R	M32ac	sp09:4efd
+R	M32c6	sp09:4f2c
+R	M32e0	sp09:4f70
+R	M32fa	sp09:4fa3
+R	M330b	sp09:4fb7
+R	M3330	sp09:4ffa
+R	M3340	sp09:5011
+R	M3367	sp09:4efd
+R	M3381	sp09:5099
+T	M339a	Fine, but don't show me anything like that again...
+T	M33ba	That's right, Gillian.
+R	M33c8	sp09:50d3
+R	M33d7	sp09:50f1
+R	M33ed	sp09:5119
+R	M33fe	sp09:514a
+R	M3416	sp09:5183
+R	M342a	sp09:51a9
+R	M343b	sp09:51d1
+R	M3456	sp09:5210
+R	M346b	sp09:5239
+T	M3487	Oh... do you have to leave already? Will you please come back again sometime? I'll be waiting for you.
+R	M34b4	sp09:526a
+R	M34d0	sp09:5296
+R	M34d9	sp09:52a2
+R	M34f6	sp09:52cf
+R	M34fe	sp09:5343
+R	M3512	sp09:5362
+R	M3529	sp09:539a
+R	M353b	sp09:53c4
+R	M356d	sp09:542a
+R	M358d	sp09:546f
+R	M35a5	sp09:54ac
+R	M35bb	sp09:54ec
+R	M35da	sp09:552d
+R	M35e9	sp09:5545
+R	M35fc	sp09:5568
+R	M3605	sp09:5575
+R	M363a	sp09:55d7
+R	M364f	sp09:55f8
+R	M3662	sp09:5623
+R	M3672	sp09:563e
+R	M3679	sp09:5645
+R	M368c	sp09:5653
+R	M3694	sp09:565d
+R	M36b4	sp09:56b5
+R	M36d8	sp09:56f9
+R	M36ea	sp09:571b
+R	M3702	sp09:5758
+R	M372a	sp09:5790
+R	M375b	sp09:57e6
+R	M3782	sp09:5838
+R	M37a0	sp09:5860
+R	M37bb	sp09:5887
+R	M37d6	sp09:58bf
+R	M3809	sp09:5915
+R	M3821	sp09:5941
+R	M3836	sp09:5964
+R	M3848	sp09:5986
+R	M3861	sp09:59ac
+R	M3884	sp09:59e7
+R	M389f	sp09:5a0b
+R	M38ae	sp09:5a1c
+R	M38e3	sp09:5a6c
+R	M390e	sp09:5ac3
+R	M3934	sp09:5b01
+R	M3953	sp09:5b31
+R	M396f	sp09:5b65
+R	M3998	sp09:5ba9
+R	M39ad	sp09:5bc5
+R	M39c1	sp09:5be7
+R	M39e7	sp09:5c31
+R	M3a06	sp09:5c62
+R	M3a2b	sp09:5ca6
+R	M3a49	sp09:5cd3
+R	M3a6d	sp09:5d1f
+R	M3a93	sp09:5d61
+R	M3ab3	sp09:5d8d
+R	M3aea	sp09:5e08
+R	M3b0e	sp09:5e4b
+R	M3b50	sp09:5ebe
+R	M3b70	sp09:5efc
+R	M3b79	sp09:5f12
+R	M3b91	sp09:5f38
+R	M3ba8	sp09:5f56
+R	M3bc5	sp09:5f92
+R	M3bce	sp09:5f9d
+R	M3bf1	sp09:5fe0
+R	M3c02	sp09:5ffc
+R	M3c10	sp09:600c
+R	M3c27	sp09:6029
+R	M3c3d	sp09:604c
+R	M3c47	sp09:6058
+R	M3c5e	sp09:6085
+R	M3cf9	sp09:60d9
+R	M3d02	sp09:60ed
+R	M3d1c	sp09:6116
+R	M3d2b	sp09:6134
+R	M3d42	sp09:6150
+T	M3d53	No! It's a...mosquito.
+R	M3d68	sp05:8ab1
+T	M3d71	Ah! Alice got it!
+T	M3d86	...A mosquito-catching dog, huh...
+T	M3d97	Huh? What is it, Gillian?
+T	M3da7	No, it's nothing...
+R	M3db6	sp09:61a7
+R	M3dc7	sp09:61ca
+R	M3dda	sp09:61f4
+R	M3dff	sp09:6236
+R	M3e1e	sp09:6285
+R	M3e3b	sp09:62b8
+R	M3e5c	sp09:6301
+R	M3e6c	sp09:6323
+R	M3e8c	sp09:635f
+R	M3ea4	sp09:6393
+R	M3ebb	sp09:63d2
+R	M3eda	sp09:6430
+R	M3ef5	sp09:6472
+R	M3f0c	sp09:64a1
+R	M3f2e	sp09:64cd
+R	M3f44	sp09:64f1
+R	M3f5a	sp09:651a
+R	M3f6b	sp09:6538
+R	M3f8a	sp09:6599
+R	M3fa4	sp09:65dc
+R	M3fb0	sp09:65fe
+R	M3fc4	sp09:6624
+R	M3fde	sp09:6648
+R	M3ff8	sp09:6673
+R	M4010	sp09:66a2
+R	M4025	sp09:66d9
+R	M4034	sp09:66ef
+R	M4047	sp09:670d
+R	M405a	sp09:672c
+R	M4069	sp09:670d
+R	M407c	sp09:6768
+R	M40a3	sp09:67b2
+T	M40b2	Please don't stare at me... my make-up is a mess...
+R	M40d1	sp09:6807
+T	M40fa	All right, how about you get undressed, then?
+T	M4113	Not now! You can't do that!
+T	M4123	Thank you... for trying to make me laugh...
+T	M413f	(But I'm quite serious about this.)
+T	M4151	Well then, how about you take your clothes off?
+T	M4168	This is no joking matter!
+T	M4177	.......
+T	M4180	Come on, take it off?!
+T	M418d	If you can't get undressed, I'll help?
+R	M419f	sp09:6853
+R	M41c1	sp09:687d
+R	M41d2	sp09:6893
+R	M41ec	sp09:68af
+T	M4229	Oh dad... <<sob>>
+R	M423a	sp09:6938
+R	M4254	sp09:6972
+R	M4272	sp09:69c1
+R	M4292	sp09:6a0e
+R	M42b6	sp09:6a3d
+R	M42d6	sp03:3cb2
+R	M42e6	sp09:6aa9
+R	M42fb	sp09:6ada
+R	M430f	sp09:6b13
+R	M431e	sp09:6b31
+R	M4356	sp09:6b8c
+R	M4360	sp09:6ba2
+R	M4380	sp09:6be4
+R	M4397	sp09:6c0a
+R	M43b4	sp09:6c48
+R	M43c5	sp09:6c6f
+R	M43ce	sp09:6c79
+R	M43ef	sp09:6cc2
+R	M440f	sp09:6cfd
+R	M4424	sp09:6d2f
+R	M4431	sp09:6d49
+R	M4457	sp09:6d89
+R	M4488	sp09:6dd1
+R	M44a1	sp09:6df6
+R	M44bb	sp09:6e23
+R	M44d6	sp09:6e64
+R	M44f3	sp09:6e95
+R	M450a	sp09:6eb6
+R	M451d	sp09:6edc
+T	M4534	What is she joking about?
+T	M4544	Hey, Metal! She's just trying to make us laugh...
+T	M4565	Ohh?! ...I see, you're right.
+T	M4576	...No, I'm sorry.
+T	M4586	It's cruel, isn't it... eating whale.
+R	M459e	sp09:6f11
+R	M45c0	sp09:6f58
+R	M45d2	sp09:6f7b
+R	M45ef	sp09:6fc5
+R	M460f	sp09:6ff0
+R	M462c	sp09:7025
+R	M4643	sp09:7040
+R	M4654	sp09:7060
+T	M466c	Really... thank goodness.
+R	M4679	sp09:70ad
+R	M4691	sp09:70d4
+R	M46b1	sp09:7111
+R	M46d7	sp09:717d
+R	M46fa	sp09:71b6
+T	M471e	At first we had two. There was another dog named Teles, too. But she died...
+T	M474a	Back then, we used to call them both 'Aristoteles' together. ...Funny, right?
+T	M4778	...? Funny, funny... Laugh, Metal.
+T	M4797	Ha ha ha ha... ha?
+R	M47a3	sp09:71f3
+R	M47c0	sp09:7224
+R	M47fa	sp09:729a
+R	M481b	sp09:72d3
+R	M4834	sp09:7319
+R	M486f	sp09:7390
+R	M488a	sp09:73c9
+R	M48a2	sp09:7400
+R	M48b8	sp09:742b
+R	M48d2	sp09:745f
+R	M48f2	sp09:74ae
+R	M4915	sp09:74ee
+R	M4937	sp09:7518
+R	M4950	sp09:74ee
+R	M4972	sp09:7570
+T	M499c	How contrived.
+R	M49a6	sp09:7604
+R	M49c1	sp09:7633
+R	M49d8	sp09:7662
+T	M49f6	(Heh heh heh...)
+T	M4a02	Gillian, your ulterior motives are showing on your face.
+R	M4a19	sp09:76a1
+R	M4a2c	sp09:76b4
+T	M4a3a	...There's no way you could do that! Not at a time like this?
+T	M4a5a	(I can't, but... I'd sure like to try.)
+T	M4a6e	Did I mishear you? Didn't you mean 'comfort her'?
+T	M4a8f	Yeah, all right, don't lecture me... my bad.
+R	M4aa7	sp09:76d0
+R	M4abe	sp09:76f0
+R	M4af1	sp09:772c
+T	M4b14	The reason I don't have a handkerchief is because I've got an air towel at my place.
+T	M4b3a	True... that was the case at your place, Gillian.
+T	M4b55	But... that much is just common courtesy...
+R	M4b70	sp09:7758
+R	M4b80	sp09:7769
+R	M4b92	sp09:7780
+R	M4bad	sp09:77c8
+R	M4bca	sp09:78e8
+T	M4bdc	What are you saying?! And with such intensity, too.
+T	M4bf9	Katrina, is that a mosquito right there?
+T	M4c0d	Katrina, is that a piece of lint right there?
+T	M4c23	Katrina, is that a raindrop right there?
+T	M4c3a	Aaahn!
+T	M4c42	Where are you touching?!
+T	M4c52	Gillian, what are you doing?!
+T	M4c64	Katrina, look out! Get down!
+T	M4c7a	Get down!! Katrina!
+T	M4c8b	Kyaah!! ...Ow!
+T	M4c9b	Aaahn!... come on!
+T	M4caa	What are you doing? What's supposed to be dangerous?!
+T	M4cc4	Telling such a see-through lie... just to push Katrina down like that!
+T	M4ce6	Katrina, you little...! Want me to grope you?!
+T	M4d00	'Grope'? ...What does that mean?
+T	M4d19	...I got a little excited there.
+T	M4d2c	Honestly now... please show a little more self-awareness.
+T	M4d4a	Isn't that the truth...
+T	M4d55	...You're joking, right?
+R	M4d64	sp09:7819:8
+T	M4d71	...I've decided I'm not dealing with you anymore.
+T	M4d8a	That's probably for the best.
+T	M4d95	A pervert like you won't be cured until you die!
+T	M4dae	Waaaait!!
+T	M4dcf	Sorry about that... Katrina?
+T	M4de0	Learned your lesson, haven't you?
+T	M4dea	...Don't do that again, okay?
+R	M4df9	sp09:7904
+R	M4e13	sp09:7921
+R	M4e2f	sp09:795d
+R	M4e51	sp09:7991
+R	M4e70	sp09:79e9
+R	M4e86	sp09:7a0c
+R	M4ead	sp09:7a6d
+R	M4ed7	sp09:7abb
+R	M4ef4	sp09:7afe
+R	M4f05	sp09:7b1d
+R	M4f22	sp09:7b50
+R	M4f3e	sp09:7b7b
+R	M4f57	sp09:7ba9
+R	M4f6d	sp09:7bc6
+R	M4f8a	sp09:7c1e
+R	M4fa3	sp09:7c46
+R	M4fc7	sp09:7c85
+R	M4fec	sp09:7cc3
+R	M500d	sp09:7d00
+R	M501d	sp09:7d3a
+R	M502d	sp09:7d59
+R	M5045	sp09:7d86
+R	M5051	sp09:7d9a
+T	M5069	Oh dad...
+R	M5073	sp09:7de1
+R	M508d	sp09:7e0c
+R	M509b	sp09:7e3e
+R	M50bb	sp09:7e77
+R	M50c9	sp09:7e90
+R	M50e0	sp09:7ebc
+R	M50fc	sp09:7eed
+R	M5114	sp09:7f10
+R	M512e	sp09:7f3d
+R	M5136	sp06:5643
+R	M5147	sp09:7f56
+R	M5160	sp03:60b6
+R	M5190	sp03:610e
+R	M51a8	sp03:6141
+R	M51d8	sp03:61bb
+R	M51f5	sp03:61e4
+R	M520d	sp03:6205
+R	M5223	sp03:6228
+R	M523c	sp03:6250
+R	M5259	sp03:6285
+R	M5276	sp03:62c9
+R	M528b	sp03:62f7
+R	M52bf	sp03:6348
+R	M52d9	sp03:637e
+R	M5308	sp03:63e3
+R	M532a	sp03:6416
+R	M5337	sp03:643b
+R	M5344	sp03:6450
+R	M535d	sp03:6476
+R	M537e	sp03:64b3
+R	M53a9	sp03:64f8
+R	M53cc	sp03:6565
+R	M53dd	sp03:6585
+R	M5403	sp03:65cc
+R	M541b	sp03:6605
+R	M544e	sp03:6662
+R	M5475	sp03:66b4
+R	M548e	sp03:66d1
+R	M54ab	sp03:66fc
+R	M54c0	sp03:6719
+R	M54ec	sp03:675c
+R	M5509	sp03:679a
+R	M552b	sp03:67de
+R	M5552	sp03:6450
+R	M556b	sp03:684e
+R	M5587	sp03:6893
+R	M55b7	sp03:68d8
+R	M55d0	sp03:68f3
+R	M55e4	sp03:6917
+R	M55fa	sp03:693a
+R	M561b	sp03:6977
+R	M563c	sp03:69bd
+R	M5667	sp03:6a11
+R	M5688	sp09:8929
+R	M5697	sp03:6a7f
+R	M56b6	sp03:6abe
+R	M56d8	sp03:6b0c
+R	M5708	sp03:6b63
+R	M5715	sp03:6b7a
+R	M5722	sp09:8a59
+R	M5732	sp09:8a78
+R	M5742	sp09:8a97
+R	M574d	sp03:728d
+R	M5764	sp03:72cd
+R	M5773	sp03:72fd
+R	M5795	sp03:732b
+R	M57b0	sp03:7362
+R	M57ce	sp03:72fd
+R	M57f0	sp03:732b
+R	M580b	sp03:7362
+R	M5829	sp03:72fd
+R	M584b	sp03:732b
+R	M5866	sp03:7362
+R	M5884	sp03:72fd
+R	M58a6	sp03:732b
+R	M58c1	sp03:7362

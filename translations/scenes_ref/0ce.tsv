@@ -1,0 +1,340 @@
+T	W10e3	1987
+T	W10ec	1988
+T	W10f5	1990
+T	W10fe	1991
+T	W1107	10 Times
+T	W110e	128XX
+T	W1119	128XY
+T	W1124	12 Times
+T	W112b	18XX
+T	W1134	18XY
+T	W113d	1 Disc
+T	W1142	2 Times
+T	W1147	2 Discs
+T	W114c	3 Discs
+T	W1151	46XX
+T	W115a	46XY
+T	W1163	4 Times
+T	W1168	4 Discs
+T	W116d	5 Discs
+T	W1172	64XX
+T	W117b	64XY
+T	W1184	6 Times
+T	W1189	6 Discs
+T	W118e	7 Discs
+T	W1193	8 Times
+T	W1198	8 Discs
+T	W119d	MSX2+
+T	W11a8	MSX2
+T	W11b1	MSX
+T	W11b8	PC-88
+T	W11c1	PC-98
+T	W11ca	FM Towns
+T	W11d5	X68000
+T	W11e2	Yonsenman
+T	W11ef	Agnes Lamune
+T	W1200	Don't Play
+T	W120d	Play Games
+T	W1218	Quit Game
+T	W1225	Mr Koshianko
+T	W1234	Toshi-chan
+T	W123f	Petty Mama
+R	W124c	sp03:38d4:1
+T	W1253	Milo-chan
+T	W125e	Safe Zone
+T	W1267	Baku Baku Club
+T	W1272	Mikawa Ken-ichi
+R	M127b	sp02:3812
+R	M1287	sp02:381c
+R	M129e	sp02:3844
+R	M12a4	sp02:3853
+R	M12b9	sp02:386b
+R	M12c4	sp02:3878
+R	M12eb	sp02:386b
+R	M12f6	sp02:38e6
+R	M1306	sp02:390d
+R	M1313	sp02:391d
+R	M131f	sp02:3948
+R	M1333	sp02:3967
+R	M134b	sp02:3998
+R	M135c	sp02:39b1
+R	M1379	sp02:3a02
+R	M1382	sp02:3a11
+R	M1394	sp02:3a62
+R	M13bf	sp02:3ab9
+R	M13d2	sp02:3ad3
+R	M13da	sp02:3adf
+R	M13f8	sp02:3b05
+R	M140e	sp02:3b1a
+R	M1433	sp02:3b64
+R	M1451	sp02:3b8b
+R	M1463	sp02:3ba7
+R	M1472	sp02:3bdb
+R	M1488	sp02:3c2c
+R	M14c1	sp02:3c75
+R	M14ef	sp02:3cd9
+T	M1578	No answer, huh? Let's hang up.
+T	M158e	Can't be helped...
+T	M159a	Well, hanging up now.
+T	M15d6	Hey mister, wanna have some fun?
+T	M15e5	Can't even see your face.
+T	M15f0	That's exactly what makes it exciting, isn't it?
+T	M1605	I guess that's how it goes...
+T	M1612	It's a high-tech world now, so this kind of thing really gets to you.
+T	M1633	I don't think so.
+T	M1642	How about it, mister? Wanna do it with me?
+T	M1656	Wh-what did you say?
+T	M1661	S-so sudden?!
+T	M166c	What's wrong with sudden?
+T	M167e	We both want the same thing, right?
+T	M1692	(mumbles)...
+T	M169c	...How about 10000 credits?
+T	M16b1	That's expensive!!
+T	M16b9	That's the going rate. Such a cheapskate.
+T	M16cf	Cheapskate? You call me a cheapskate?!
+T	M16e0	Never mind then. Deal's off...
+T	M16f8	I'll be the one to hang up!
+T	M170a	...Let's just stop here? I'll hang up.
+T	M1722	...What a woman!
+T	M172f	Surprisingly calm about it, aren't you?
+T	M1741	No, more like... a cheapskate?
+T	M1751	You too?! Not you as well!!
+T	M1760	Gillian, in a way I've reconsidered my opinion of you.
+T	M177b	Well, thanks a lot.
+T	M182b	What'll you do? Wanna give it a try?
+T	M183d	A quiz, huh? Said something about winning a fancy prize?
+T	M185f	I'm good at quizzes...
+T	M1871	Isn't that just a lucky streak?
+T	M188b	Say whatever you want...
+T	M191f	Damn! Did I get it wrong?!
+T	M1930	Huh? Wrong again?
+T	M1a2c	So it's true you bought the Pilot Disk?
+T	M1a4c	Thanks for that.
+T	M1a56	Huh? Didn't I just hear a voice?
+T	M1a6f	No, I didn't hear anything.
+T	M1ae1	You did it!? Gillian!
+T	M1af2	Not the fancy prize, but... another quiz?
+T	M1b0d	Anyway, let's hang up for now.
+T	M1b20	Is it okay to just hang up like this?
+T	M1b34	No need to worry, I remember this line's number.
+T	M1ecb	You did it!? Gillian!
+T	M1edc	Not the fancy prize, but... oh well.
+T	M1ef7	Yeah, yeah, I get it already...
+T	M1f05	Let's not...
+T	M1f11	Let's stop wasting money...
+T	M1f21	Damn! Did I get it wrong?!
+T	M1f32	Huh? Wrong again?
+T	M1f7e	Hasn't this service already been busted and shut down?
+T	M1f9d	Damn, what a gutless bunch...
+T	M2359	Click!
+T	M2361	Hey!! Metal?! You hung up on me?!
+T	M2378	...Click!
+T	M2383	Hey!! What are you doing?!
+T	M2394	...Gillian, let's stop here, okay?
+T	M23af	Gillian... that's enough, isn't it?
+T	M23c2	What a waste! I'll pick up right where I left off.
+T	M23d6	Ugh!! ...Did I get taken?
+R	M23e5	sp02:4656
+R	M2405	sp02:4699
+R	M240f	sp02:46aa
+R	M2433	sp02:4718
+R	M2448	sp02:473f
+R	M2460	sp02:4749
+R	M2470	sp02:476f
+R	M247e	sp02:4792
+R	M249d	sp02:47d1
+R	M24b8	sp02:480d
+R	M24d6	sp02:4831
+R	M24e6	sp02:4867
+R	M252a	sp02:48d7
+R	M2553	sp02:4944
+R	M2585	sp02:49bd
+R	M258e	sp02:49cd
+R	M25c3	sp02:4a24
+R	M25d7	sp02:4a63
+R	M25f6	sp02:4a96
+R	M262c	sp02:4aeb
+R	M2645	sp02:4b1f
+R	M2650	sp02:4b2e
+R	M266f	sp02:4b60
+R	M26df	sp02:4bfa
+R	M26f3	sp02:4c23
+R	M2714	sp02:4c60
+R	M27ae	sp02:4d94
+R	M27d5	sp02:4d58
+R	M27f6	sp02:4dd6
+R	M280c	sp02:4e1a
+R	M2843	sp02:4eac
+T	M2876	I even got to appear on TV, and even showed up on the Pilot Disk...
+T	M28a0	Oh, that reminds me... did everyone buy the Pilot Disk?
+T	M28c8	If you did, that would make Hayasaka even happier...!
+T	M28e9	Well... anyway, setting that aside...
+R	M28fb	sp02:50ee
+R	M2925	sp02:5199
+R	M293f	sp02:523d
+R	M2954	sp02:5257
+R	M2979	sp02:52bd
+R	M29a1	sp02:5309
+R	M29b0	sp02:531d
+R	M29db	sp02:535c
+R	M2a01	sp02:538b
+R	M2a18	sp02:53af
+R	M2a26	sp02:53bc
+T	M2a36	Huh? That's a woman's voice.
+T	M2a46	Yes. Assistant Director Inoue has a wife.
+T	M2a5d	Grr, cheeky for a lowly underling! And here I'm even separated!
+T	M2a88	Please calm down. He's probably cooped up at the office anyway. He can't do a thing.
+T	M2abd	I see... fine then.
+T	M2acb	That's right. I haven't even seen my husband's face lately...
+T	M2ae9	Now, now, calm down... just leave a guy like that be, and go out and have some fun.
+T	M2b1c	I'll do that. Thank you so much.
+R	M2b2f	sp02:53de
+T	M2b69	...Yes, this is Inoue.
+T	M2b79	...What's wrong? You sound down.
+T	M2b90	I finally got off work and came home, and my wife's not here. Grrr!!
+T	M2bb9	...Yes, this is Inoue.
+T	M2bc9	That wife of mine... she still hasn't come home.
+T	M2be6	Is it really okay to say things that could break up someone else's family?
+T	M2c0b	It's fine. They say misery loves company.
+T	M2c28	...Gillian, do you hold some kind of grudge against that AD?
+T	M2c4e	Can you tell?
+T	M2c56	...Seems like they're not in.
+T	M2c66	My advice earlier really worked, huh?
+T	M2c7e	Did you hear that, Metal? Total success.
+T	M2c92	...Yes, this is Shinohara.
+T	M2ca2	I bought a new car recently.
+T	M2cb6	Currently looking for a cute girl to sit in the passenger seat.
+T	M2cde	I'm away right now, so try again later. I'll be waiting!
+T	M2d08	But I just scraped the whole passenger door. And it's only got 500km on it...
+T	M2d45	Figures, coming from a disciple of the Crash King.
+T	M2d66	I'm sending it in for repairs, so hang tight a while.
+T	M2d7f	Huh...
+T	M2d87	Come on, that's enough about that already...
+T	M2da0	There's been a lot going on, but...
+T	M2db0	Once again, looking for a cute girl to sit in the passenger seat.
+T	M2dd7	Waiting for your call.
+T	M2de3	Big brother, phone!
+T	M2df1	Hello. Oh, mom, phone for you!
+T	M2e08	Hello, uh-huh, daaad!
+T	M2e1d	Uh-huh, oh, is that so. Got it. Well, if you'll excuse me, I'll go pee now.
+T	M2e47	...Yes, this is Yoshioka.
+T	M2e58	...Itcho, phone for you!!
+T	M2e6d	...What is it?
+T	M2e7a	Itcho!! Phone!!
+T	M2e8c	What now?
+T	M2e98	Itcho!! Phooone!!
+T	M2ead	It's always me... no way out of it.
+T	M2ec0	Oh, Ben-chan?
+T	M2ecc	I'm gonna head over to Dr. Hiromoto's place for a bit.
+T	M2eeb	Off again, huh.
+T	M2ef7	Go play with Yanai for a while?
+T	M2f05	...And leave me your phone number?
+T	M2f19	Let's see... 54-8418.
+T	M2f2d	Say hi to your wife for me.
+T	M2f39	...I'm off, then.
+T	M2f48	...Itcho?
+T	M2f55	Itcho's not in.
+T	M2f67	I think he's gone to Dr. Hiromoto's to shoot the breeze...
+T	M2f8e	...Itcho?
+T	M2f9b	Itcho's still not in, sorry.
+T	M2fb2	I'll tell you the quiz answer. I look like Agnes Lamune, apparently...
+T	M2fdf	...Is that Yotchi?
+T	M2fec	...Whatever, I don't care.
+T	M2ff9	...Boring.
+T	M3005	Hey, watcha say?
+T	M3010	I'll TAKE it!
+T	M301c	Come on, you two...
+T	M302c	Itcho, hurry up and come home?
+T	M3040	Oh, Itcho?
+T	M304d	......
+T	M3056	Itcho?
+T	M3060	......
+T	M3069	...Itcho?
+T	M3076	That stings!!
+T	M3080	...Yes, this is Matsuhana.
+T	M3090	No... it's not Matsubana. It's Matsuhana. No dots on it.
+T	M30b3	Matsu as in pine tree, Hana as in flower field.
+T	M30cc	Not 'wait-nose'. Pleased to meet you. Click!!
+T	M30e6	...This is Matsuhana.
+T	M30f3	I'm at the insurance office right now about last week's accident.
+T	M3114	Please get back to me later. ...Beep!!
+T	M312b	Oh, this is Matsuhana. Sorry about the other day.
+T	M3148	...No no, that parking lot accident last month is all settled now.
+T	M316e	The one where the bicycle crashed into me on Awaji Island? That kid's doing fine now, I hear.
+T	M31a2	The rice-paddy runaway incident in February went fine too. Well, my whole bonus got drained, but...
+T	M31d9	Oh. The car break-in... I got my bag back, at least.
+T	M31ff	Though they cleaned out all the cash first, of course...
+T	M321c	The broken leg from the truck collision two years back? Yeah, it's healed up fine, thanks to you.
+T	M3250	And then just the other day my battery died on me.
+T	M326d	While taking it out, some battery fluid got on my jeans and dissolved them right through.
+T	M32a2	I really am an insurance agent's nightmare, aren't I. Even I have to laugh. Hahahaha. Click!!
+T	M32d8	...This is Matsuhana. Let me give you the answer to Quiz 2.
+T	M32fd	Number of accidents: 8 times. Number of narrow escapes: 2 times.
+T	M3323	Good luck with Quiz 2, then. ...Beep!!
+T	M333e	...Yes, this is Hiromoto Shinichi.
+T	M3352	How's everyone doing?
+T	M3365	My wild new book is on sale now.
+T	M337f	SINGLE ACTION ARMY Volume 1
+T	M339c	500 Yen (tax included)
+T	M33b3	A demonic gun that'll blow your mind away!!
+T	M33d2	As long as you're holding onto that, there's no way you'll forget me.
+T	M33fb	But...
+T	M3405	If we say goodbye now, while I still feel the same as when I said I loved you...
+T	M3431	......
+T	M343a	You like me that much, huh?
+T	M344f	...Hide, turn the TV off when it's over, okay!
+T	M346d	Yeah... got it.
+T	M347a	I'll try hard.
+T	M3481	Will you come flying to me when I'm lonely at night?
+T	M349b	I'll come flying.
+T	M34a5	If I call you from the top of the Himalayas and ask you to come get me, will you come?
+T	M34d1	I'll come get you.
+T	M34da	Hide? Are you still watching?!
+T	M34eb	If you don't get to bed soon you'll be late tomorrow, you know?
+T	M3502	...Yes, yes.
+T	M350e	Come on, right when we're about to start, what's with that face...
+T	M352d	......
+T	M3536	Right, we should toast to my departure.
+T	M3556	H-hey...
+T	M3560	I'll be right back.
+T	M356f	Live a little smarter, will you.
+T	M3580	Hide!! Seriously, turn the TV off already!
+T	M359c	......
+T	M35a5	If anything, I've gotten even more beautiful, haven't I?
+T	M35c8	A little, maybe.
+T	M35d2	I'm telling Satomi-chan on you.
+T	M35e6	Go ahead.
+T	M35ed	I will...
+T	M35f6	...Hide? Are you listening?!
+T	M360b	...Sniff.
+T	M3616	Thanks.
+T	M361f	For what?
+T	M3625	......
+T	M362e	Hide... are you crying?
+T	M363f	......
+T	M3648	Fzzzt...........
+T	M3654	...ZZZzzz....
+R	M367e	sp02:6888
+R	M3685	sp02:688e
+R	M369f	sp02:68c0
+T	M36d7	...I'm hanging up.
+R	M36e5	sp02:6934
+R	M36fc	sp02:694a
+R	M3712	sp02:6978
+R	M3731	sp02:69b5
+R	M3765	sp02:6a04
+R	M377c	sp02:6a29
+R	M378a	sp02:6a39
+R	M3799	sp02:6a55
+R	M37b8	sp02:6a80
+R	M37db	sp02:6ac2
+R	M3811	sp02:6b10
+R	M3832	sp02:6b5a
+R	M384e	sp02:6b91
+R	M3874	sp02:6bdd
+R	M388f	sp02:6c08
+R	M389f	sp02:7227
+R	M38bf	sp02:7259
+R	M38d7	sp02:727e
+R	M38f5	sp02:72c2
+R	M3914	sp02:72f2

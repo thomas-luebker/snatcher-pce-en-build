@@ -1,0 +1,15 @@
+Snatcher CD-ROMantic (Japan) -- English patch v0.1 TEST
+
+Your unpatched Redump tracks must match these (md5):
+  fd6e66d66ac3ee8b594b7474254ee29f  (Track 02).bin
+  b03c1a5dbaec636a1022c2389c302a21  (Track 24).bin
+  19418cb26105272b10f04ab5263256a5  (Track 17).bin
+
+After the FULL patch:
+  0084ea9b1a0f00149b11525a3aa29bcf  (Track 02).bin
+  5cc06890e24488da2a8218e57f434c88  (Track 24).bin
+  e510b1cd8859947e47be8baf1a50a431  (Track 17).bin
+
+After the TEXT-ONLY patch, tracks 02 and 24 only (track 17 stays unpatched):
+  103ae9b96101eb1aaee5d53cc85a76d1  (Track 02).bin
+  1348ea9681dc976b6b2326949d615262  (Track 24).bin

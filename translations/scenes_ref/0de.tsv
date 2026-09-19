@@ -1,0 +1,274 @@
+R	W0d2a	sp04:3a57:81
+R	W0d35	sp04:3a75:81
+R	W0d40	sp04:3a3d:81
+R	W0d4b	sp04:38ad:801
+R	W0d5c	sp04:3a8f:101
+R	W0d67	sp04:3d10
+R	W0d70	sp04:3c56:401
+R	W0d7f	sp04:3902:81
+R	W0d90	sp04:3c72:201
+R	W0d9f	sp04:3a37:1
+R	W0dae	sp04:3ab6:81
+R	W0dbf	sp04:3c65:21
+R	W0dd0	sp04:380c:41
+R	W0ddd	sp04:3a2e:1
+R	W0dea	sp04:3800:11
+R	W0dfb	sp04:3d3b:11
+R	W0e06	sp04:3c25:21
+R	W0e17	sp04:3aa9:41
+R	W0e28	sp04:3a9d:21
+R	W0e39	sp04:3b6d:211
+R	W0e44	sp04:3897:8021
+R	W0e53	sp04:3cdb:20201
+R	W0e64	sp04:3a81:201
+R	W0e75	sp04:3c93:201
+R	W0e86	sp04:3d0a:1
+R	W0e8f	sp04:38d3:801
+R	W0ea0	sp04:3cf1:1
+R	W0eab	sp04:3d25:21
+R	W0ebc	sp04:3d30:1
+R	W0ecb	sp04:3948:81
+R	W0edc	sp04:3955:1
+R	W0eed	sp04:3b44:1
+R	W0efa	sp04:38bf:8801
+R	W0f0b	sp04:3b5c:211
+R	W0f1c	sp04:3b4e:211
+R	W0f2d	sp04:384d:1
+R	W0f3a	sp04:3845:11
+R	W0f47	sp04:3876:1
+R	W0f52	sp04:3c07:41
+R	W0f63	sp04:386b:41
+R	W0f6e	sp04:385e:41
+R	W0f73	sp04:3a1c:401
+R	W0f7c	sp04:3ca3:1
+R	W0f81	sp04:3af5:4021
+R	W0f8c	sp04:3adf:4021
+R	W0f99	sp04:3cf8:41
+R	W0fa2	sp04:3966:1
+R	W0fa7	sp04:396d:1
+R	W0fac	sp04:3974:1
+R	W0fb1	sp04:397b:1
+R	W0fb6	sp04:3982:1
+R	W0fbb	sp04:3989:1
+R	W0fc0	sp04:3961:1
+R	W0fc3	sp04:3bbf:101
+R	W0fcc	sp04:3a49:81
+R	W0fd3	sp04:38e8:801
+R	W0fd8	sp04:3b14:1
+R	W0fdd	sp04:3b1c:1
+R	W0fe2	sp04:3b24:1
+R	W0fe7	sp04:3b2c:1
+R	W0fec	sp04:3b34:1
+R	W0ff1	sp04:3b3c:1
+R	W0ff6	sp04:3b0e:1
+R	W0ff9	sp04:3c31:21
+T	W1004	Structure
+R	W1009	sp04:3ac1:421
+R	W101a	sp04:382c:40401
+R	W102b	sp04:399d:1
+R	W1034	sp04:3c11:1
+R	W1041	sp04:3c85:21
+R	W104a	sp04:387e:81
+R	W1055	sp04:3bee:41
+R	W1064	sp04:3bfe:1
+R	W1069	sp04:3bd3:201
+R	W1072	sp04:3a63:81
+R	W107b	sp04:3816:10801
+R	W108c	sp04:3ad0:4a1
+R	W109d	sp04:3d15:11
+R	W10a4	sp04:3d4f:441
+R	W10b3	sp04:3be1:1
+R	W10bc	sp04:3b7c:1041
+R	W10c5	sp04:39b0:21
+R	W10cc	sp04:39bd:21
+R	W10d3	sp04:39ca:21
+R	W10da	sp04:39d7:21
+R	W10e1	sp04:39e4:21
+R	W10e8	sp04:39f1:21
+R	W10ef	sp04:39a5:21
+R	W10f4	sp04:3930:8001
+R	W10fb	sp04:388c:1
+R	W1100	sp04:3921:101
+R	W110f	sp04:3911:101
+R	W1118	sp04:3b95:1
+R	W111d	sp04:3b9c:1
+R	W1122	sp04:3ba3:1
+R	W1127	sp04:3baa:1
+R	W112c	sp04:3bb1:1
+R	W1131	sp04:3bb8:1
+R	W1136	sp04:3b90:1
+R	W1139	sp04:3d44:41
+R	W1142	sp04:3c3e:10101
+R	W114b	sp04:3a06:b
+R	W1156	sp04:3a0e:b
+R	W115f	sp04:3cab:1
+R	W1166	sp04:3cb3:1
+R	W116d	sp04:3cbb:1
+R	W1174	sp04:3cc3:1
+R	W117b	sp04:3ccb:1
+R	W1182	sp04:3cd3:1
+R	W1189	sp04:3990:81
+R	W118e	sp04:39fe:1
+R	M1193	sp04:3d6d
+R	M11c6	sp04:3da1
+R	M11e0	sp04:3dbe
+T	M11f3	Heh, it asks about everything. What an inflexible computer.
+R	M1217	sp04:3de6
+R	M1231	sp04:3e04
+R	M1244	sp04:3e1c
+R	M1257	sp04:3e3c
+R	M1267	sp04:3e5d
+R	M1288	sp04:3e96
+R	M129d	sp04:3ebd
+R	M12b6	sp04:3eda
+R	M12e6	sp04:3f33
+T	M1306	For example, John Smith should be entered as JohnSmith.
+T	M1336	Or you can search by just entering Smith.
+R	M1363	sp04:3fd8
+R	M138f	sp04:401b
+R	M13a2	sp04:4046
+R	M13b5	sp04:4064
+R	M13c9	sp04:4093
+T	M13ee	"Catastrophe, The." On June 6, 1996, a mysterious explosion destroyed the Chernoton research facility near Moscow. The explosion released a biological weapon called "Lucifer-Alpha," which had been under development by the old Soviet regime, into the atmosphere, creating the greatest biohazard in history. Within one week, the bacteria spread throughout Eastern Europe and Eurasia, killing 80% of the population there. Six months later, "Lucifer-Alpha" suddenly mutated into a non-lethal form. Northern Eurasia, now an unpopulated wasteland, was designated and remains a United Nations Neutral Zone to prevent unauthorized exploitation. Since the disaster, which has become known simply as "The Catastrophe," hundreds of research papers have been published purporting to reveal its causes, but the real reason behind it remains unknown.
+T	M157b	World War Three (2010-2011) On August 24, 2010, exactly ten years after The Catastrophe, World War Three broke out over the UN Neutral Zone, the largest buffer region remaining. China provided military support to hardline remnants of the old Soviet army who had escaped The Catastrophe, in an attempt to invade the neutral zone. However, an economic blockade by the Western powers quickly forced China to withdraw, securing victory for the UN forces. Ending just six months after it began, this conflict has become known as the "Half-Year War".
+R	M169c	sp04:463e
+R	M17b6	sp04:482e
+T	M1874	"Witch Hunts (a.k.a. Bioroid Hunts)" A social phenomenon caused by the SNATCHER problem. A form of group violence involving the lynching of numerous innocent individuals who were believed to be bioroid SNATCHERS in reality. In general, individuals of lower social standing were the targets of the attacks. Named after the medieval witch hunts which took place in Salem, Massachusetts, U.S.A., due to the similarity of the two occurrences. The phenomenon underscored the "North-South" rift of modern society, a form of revulsion at the growing poverty problem. Well-to-do groups from the north attacked slum dwellers in the southern regions, resulting in great loss of life to individuals who had no connection to the SNATCHER menace. The problem died out when it became clear that SNATCHERS only targeted individuals of high social standing.
+T	M1a00	Junker Official Name: JUDGEMENT (to judge) - UNINFECTED (not infected) - NAKED (pure) - KIND (humanity) - AND (whether, and if necessary) - EXECUTE (process) - RANGER (special agent). Also includes the meaning of JUNK (scrap) plus ER (person): a scrap processor.
+R	M1b01	sp04:4da6
+T	M1bcd	The Navigator is a support robot. Related group - "Junk Team". 'Engineer' is responsible for development and maintenance of all Junker support equipment. 'OPERATOR' is responsible for management of data transmitted from the field by 'navigators' as well as day-to-day operation of HQ facilities. 'Chief' is in charge of judgment of overall situation and assignment of duties to 'runners'. 'Runners' are responsible for carrying out actual investigations of SNATCHER activities with the assistance of 'Navigator' robots. This post is exceptionally dangerous. 'Junk Team' is responsible for clean-up and data gathering at sites where 'Runners' have dispatched SNATCHERS.
+T	M1d74	Junker Staff: Benson Cunningham - Chief. Harry Benson - Mechanic. Mika - Operator. Gillian Seed - Runner. Lewis Gilmore - Runner (KIA). Sergio Glazer - Runner (KIA). David Johnson - Runner (KIA). Schultz Deckard - Runner (KIA). Jean-Jack Gibson - Runner (KIA). (As of December 2047)
+T	M1e99	Junker Staff: Benson Cunningham - Chief. Jean-Jack Gibson - Runner. Harry Benson - Mechanic. Mika - Operator. Gillian Seed - Runner (New). Lewis Gilmore - Runner (KIA). Sergio Glazer - Runner (KIA). David Johnson - Runner (KIA). Schultz Deckard - Runner (KIA). (As of December 2047)
+R	M1fbf	sp04:5514
+T	M204a	Junker Data: Address - Neo Kobe City, Central Ward, Port Island MT-7-3-2, Konami Omni Building, Floor 150. (Konami Omni Building: 165 floors above ground, 35 below, 630 meters tall.) Videophone Number: 256-128
+T	M2103	Junker Bylaws: (1) A Junker's purpose is to process bioroid SNATCHERS. (2) A Junker must never harm a human being, even to carry out (1). (3) Under Civil Code 18-12 (Protection of Citizens' Rights in SNATCHER Cases), a Junker may not physically restrain or directly investigate a suspect without conclusive proof they are a SNATCHER. (4) Under Criminal Code Special Clause 3 (Bounty Hunter Assistance), a Junker is obligated to cooperate with and support civilian bounty hunters. (5) In order to carry out (1), a Junker is allowed the use of a blaster, and a navigator, and a turbocycle.
+R	M229e	sp04:599a
+R	M23a7	sp04:5b91
+R	M2406	sp04:5da6
+R	M2512	sp04:5e75
+R	M2578	sp04:5f23
+T	M2622	Runners have adopted the following two blood transfusion techniques for lowering the risk of death due to injuries suffered in the line of duty. (1) Artificial Blood Exchange. Artificial blood is supplied to an injured runner while their natural blood is withdrawn and then duplicated through bio-genetic culturing techniques. When sufficient quantities of their natural blood are available, the two blood types are swapped once again. While artificial blood can be produced in unlimited quantities, making it useful in cases of massive blood loss, it's ion structure places strain on the recipient's organs, making prolonged use inadvisable. (2) Self-Donation (Personal Blood Bank) Runners collect their own blood through regular donation. This blood is mixed with a nutrient solution, concentrated, and stored at minus 42 Celsius. In an emergency, the blood is flash-thawed and returned to its "owner".
+R	M2797	sp04:63fe
+R	M2874	sp04:6614
+R	M29be	sp04:6873
+R	M2abe	sp04:6a62
+R	M2b91	sp04:6c16
+T	M2c63	Distinguishing Features of SNATCHERS: (1) SNATCHERS are only active in winter, and only at night. (2) SNATCHERS only snatch VIPs; their goal seems to lie in secondary effects rather than the snatch itself. (3) A SNATCHER's snatching ability has limits, since there are set standards for contracting body parts, joints and skeleton. This range is thought to be a height of 150 to 180cm, meaning children and the elderly probably cannot be snatched. (4) SNATCHER weapon: a laser cannon hidden in the mouth. (5) Weak point: Thin, slit portions of their skull armor which make head size adjustment possible.
+R	M2db9	sp04:701b
+R	M2de8	sp04:7085
+T	M2e1d	"SNATCHER History". Dec. 22, 2044: First contact. A bioroid's remains are recovered from the wreckage of SRS Flight 4003, which crashed in the Rokko Mountain range. Feb. 18, 2045: A SNATCHER which had killed and replaced ("snatched") the mayor of Neo Kobe, B. O'Connor, is captured, but self-destructs during transport. In December, Neo Kobe is thrown into a panic over the problem. The "Witch Hunts" take place as people try to uncover and destroy imagined SNATCHERS. Nov. 3, 2047: A KBC newscaster is discovered to be a SNATCHER and terminated. The remains are destroyed by self-detonation. Nov. 15, 2047: The leader of a radical new religious group is found to be a SNATCHER; the remains catch fire in a traffic accident during pursuit. Nov. 20, 2047: The former president of a biotechnology firm is uncovered as a SNATCHER and terminated. During transport, the remains are stolen.
+R	M2fea	sp04:7511
+R	M3127	sp04:773c
+R	M320d	sp04:7852
+R	M3328	sp04:7a4a
+R	M33e0	sp04:7c40
+R	M34ca	sp04:7d57
+R	M34fb	sp04:7dc8
+T	M3517	Larger than ordinary pollen, the crystals are visible to the naked eye and appear similar to snow, hence the name. Nevertheless, it is re-emerging in tropical regions, as well as those sub-tropical regions where water supplies are plentiful, such as near rivers. At present, the only known area affected in Neo Kobe is in the vicinity of the Ina River. As the pollen appeared in Neo Kobe only after the first presence of SNATCHERS was confirmed, the relationship between the two is currently under careful investigation.
+T	M36d6	A mysterious disease which originated in France around 2035. The first patient in Neo Kobe was recorded in the summer of 2040. At present, between 50,000 and 100,000 residents of Neo Kobe are believed infected. STBO Victims develop fever, joint and muscle pain, diarrhea, lymph node inflammation, tremors and pneumonia, with over 60% dying from the disease. Transmission is via bodily fluids such as blood, saliva and semen and generally spread by sexual contact or hypodermic needles, particularly when unsterilized ones are used for the injection of illegal drugs. Similarities to the disease AIDS, which emerged some 55 years ago, led researchers to believe at one time that STBO was a mutated form of the AIDS virus, but the two have since been shown to be unrelated. There is still no treatment or cure. Public discomfort about the disease and concerns about whether others close to them are carriers has noticeably increased the level of suspicion in the general population, and significantly harmed interpersonal communication. In many ways, this trend has made detection of SNATCHERS more difficult.
+R	M38b9	sp04:8633
+R	M39c1	sp04:8869
+R	M3b44	sp04:8b1b
+R	M3c7d	sp04:8d95
+T	M3d4d	A term referring to illegal, manned taxis. The word "taxi" usually refers to government operated, computer-controlled, unmanned vehicles. However such taxis, requiring personal identification to board, only operate in areas designated as "municipal data administration districts". They generate records of where customers board and get out, thus making their use impossible or impractical for many immigrants and illegal aliens. On the other hand "black taxis" require no identification and will go anywhere, making them extremely popular. As such, government officials have decided that the "black taxis", though illegal, have formed such a sophisticated organization throughout the city that they cannot be ignored any longer and plans are being studied which would legalize their operation.
+R	M3ef7	sp04:92a2
+T	M3fdc	"Mars Research Chronology" Aug., 1988: The Phobos Project. Phobos 1 & 2, launched by the former Soviet Union, explore Mars and its two moons, Phobos and Deimos. Oct., 1989: Mars Observer, launched by the U.S., studies the planet's atmosphere and soil. Apr., 1997: Pesta Project. Unmanned probe retrieves data on Mars, asteroids and comets. Project initiated by Eastern European nations, but The Catastrophe forces transfer of the project to the U.S. Dec., 2005: Construction begins on "Wells Project," an unmanned robot production facility on Mars. Jun., 2010: First satellite put into permanent Mars orbit. Jul., 2015: Construction begins on experimental manned base, "Le Guin". Nov., 2022: Construction begins on Mars space port, "Moorcock". Jun, 2025: Completion of early manned base, "Herbert". Dec., 2030: First full-scale Mars base, "Vonnegut," begins operations. Jan., 2035: Operations begin at "Asimov," the first mine on Mars.
+T	M41d4	"The Mars Greening Project". A project to turn the barren planet into a lush, green world like Earth. Initially, large reflecting mirrors will be placed in orbit to reflect heat radiation back down to the planet. Simultaneously, greenhouse gasses will be released into the Martian atmosphere. By warming the planet, conditions which allow yeast and other bacteria to flourish are established. Following this, the oxygen given off by these bacteria will be employed to make conditions favorable for higher forms of life. The vast underground deposits of frozen water, the existence of which was discovered by earlier bases on the planet, have moved this project from the realm of fantasy, into likely reality. At present, phrases like "Turn the Red Planet Green," and "Mars: The New Promised Land" represent the energy that those involved are putting into the project. Phase one of the project, the installation of reflecting mirrors around the planet, is currently scheduled for 2049. A rocket carrying the first immigration investigative team to Mars, the "Beagle Jerusalem," was launched just last week.
+R	M43c2	sp04:9cfe
+R	M44e5	sp04:9f0b
+R	M4581	sp04:a04f
+R	M4690	sp04:a24a
+R	M47a3	sp04:a42c
+R	M489d	sp04:a65a
+R	M4968	sp04:a7e0
+R	M49cb	sp04:a8e4
+R	M49ed	sp04:a931
+R	M4a32	sp04:a9ef
+R	M4ade	sp04:ab22
+R	M4bf9	sp04:ad04
+R	M4cf5	sp04:aee5
+T	M4e22	Individuals who have managed to erase all record of their own existence from public and private databases and live without fixed residences. Also known as "freemen". Not to be confused with "homeless" who have been forced into their condition by economic misfortune. In modern, information-controlled society, the lack of computer records on any given individual is tantamount to that individual's non-existence. The recent increase in their numbers has begun to contribute to crime and labor difficulties in the city. Many of the individuals who choose this lifestyle are former workers in computer-related and data management industries. Their presence underscores one of the major shortcomings of society's current dependence on centralized data control and management. Most of these individuals live in regions of the city which are not "municipal data administration districts," or in the old tunnels of the abandoned Tube-Liner system.
+R	M4f5e	sp04:b5ac
+R	M50d1	sp04:b8f2
+T	M5204	Neo Kobe can be divided into two distinct areas. Those regions where satellite and fiber-optic cable networks are used to manage all forms of data, the so-called "municipal data administration districts," and the mainly slum regions which are not under such control and oversight. Individuals who cannot get personal guarantees or identification invariably concentrate in the latter regions as the lack of such ID prevents social functioning in the controlled regions of the city. No forms of cards or credit are accepted in these areas; cash is the only currency. While government proposals to remedy the situation have been discussed for a number of years, debate over implementation methods, civil rights and the like has prevented any actual progress from being made. Approximately 30% of the city's total area is officially recognized as falling outside of the municipal data administration districts, and at least another 10% is believed to be similarly beyond government control, though not yet designated as such.
+R	M5360	sp04:bed1
+R	M5377	sp04:bf08
+R	M5392	sp04:bf55
+R	M53af	sp04:bf9c
+T	M53da	FILE search
+T	M53eb	Now scanning montage against Alpha-One database.
+T	M540f	FILE EXIST
+R	M5420	sp04:c061
+R	M542a	sp04:c077
+R	M543a	sp04:c08c
+R	M5456	sp04:c0c1
+R	M546b	sp04:c0ec
+R	M54da	sp04:c185
+R	M5500	sp04:c1c4
+R	M5577	sp04:c272
+R	M5591	sp04:c294
+R	M55ae	sp04:c2bb
+R	M55ba	sp04:c2d2
+R	M55f0	sp04:c341
+R	M5616	sp04:c388
+R	M5638	sp04:c3c3
+R	M5649	sp04:c3dd
+T	M5665	FILE NOT FOUND
+R	M5678	sp04:c417
+R	M5689	sp04:c43a
+R	M569d	sp04:c456
+R	M56b1	sp04:c476
+R	M56c5	sp04:c49d
+T	M56d6	FILE NOT FOUND
+R	M56e9	sp04:c583
+R	M5726	sp04:c5e5
+R	M5740	sp04:c606
+R	M5755	sp04:c622
+R	M5769	sp04:c649
+R	M577b	sp04:c667
+R	M578d	sp04:c686
+R	M579f	sp04:c6a6
+R	M57b3	sp04:c6ca
+R	M57d6	sp04:c702
+R	M57f2	sp04:c731
+R	M5816	sp04:c76c
+R	M582b	sp04:c782
+R	M5834	sp04:c792
+R	M583d	sp04:c7a2
+R	M5851	sp04:c7c6
+R	M585a	sp04:c7d6
+R	M5863	sp04:c7e6
+R	M586c	sp04:c7f6
+R	M5875	sp04:c806
+R	M58a2	sp04:c826
+R	M58b7	sp04:c82e
+R	M58be	sp04:c83a
+R	M58c5	sp04:c846
+R	M58cc	sp04:c852
+R	M58d3	sp04:c85e
+R	M58da	sp04:c86a
+R	M58e1	sp04:c876
+R	M5906	sp04:c8a1
+R	M591b	sp04:c8bd
+R	M5922	sp04:c8ca
+R	M5929	sp04:c8d7
+R	M5930	sp04:c8e4
+R	M5942	sp04:c90c
+R	M5949	sp04:c919
+R	M5950	sp04:c926
+R	M5957	sp04:c933
+R	M597b	sp04:c95f
+R	M5994	sp04:c97a
+R	M599b	sp04:c988
+R	M59a2	sp04:c996
+R	M59a9	sp04:c9a4
+R	M59b0	sp04:c9b2
+R	M59b7	sp04:c9c0
+R	M59be	sp04:c9ce
+R	M59ea	sp04:c9f2
+R	M5a03	sp04:ca3a
+R	M5a0c	sp04:ca47
+R	M5a15	sp04:ca54
+R	M5a1e	sp04:ca61
+R	M5a27	sp04:ca6e
+R	M5a30	sp04:ca7b
