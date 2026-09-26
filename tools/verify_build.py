@@ -79,7 +79,7 @@ def check_report():
             fail(f"build report says {bad!r}")
     m = re.search(r"voices: (\d+) table entries", r)
     if not m and "voices: SKIPPED" in r:
-        skip("voices -- no Sega CD data files, every spoken line is Japanese")
+        skip("voices (VOICES=0 or no Sega CD data files) -- every spoken line is Japanese")
     elif not m:
         fail("the voice step did not run (VOICE=0?) -- every spoken line would be Japanese")
     elif int(m.group(1)) < VOICES_AT_LEAST:
