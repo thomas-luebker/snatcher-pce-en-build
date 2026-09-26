@@ -196,13 +196,19 @@ def build_resident():
     a.label("loader_hook")
     a.w(0x9C, 0x3F21)                                               # the instruction the jsr replaced
     a.b(0x43, 0x10, 0x48, 0xA9, DATA_BANK, 0x53, 0x10)              # tma #$10 ; pha ; lda #$82 ; tam #$10
-    a.w(0xAD, DATA_ORG); a.b(0xC9, MAGIC[0]); a.r(0xD0, "rtry")     # block intact?
-    a.w(0xAD, DATA_ORG + 1); a.b(0xC9, MAGIC[1]); a.r(0xF0, "done")
+    # Not in engine states 2 and 3, the intro and the cutscene engine: the seek to sector 57 costs the time
+    # the intro's pictures are cued in against the CD music, and the circuit board after the skeleton arm and
+    # the street scene under the credits came out as garbage tiles (hardware, 24-26 Sep). Nothing draws our
+    # text there; the next load in play (state 4/5, the reception first) puts the block back.
+    a.b(0xA5, 0x18, 0x4A, 0x3A); a.r(0xF0, "done")                  # lda <$18 ; lsr ; dec ; beq: state 2 or 3
+    # One byte of the magic word is enough, and it has to be: only the boot load ($FF) and the two act images
+    # ($C7, $A2) ever reach $9800-$9801, so "E" there is our block.
+    a.w(0xAD, DATA_ORG); a.b(0xC9, MAGIC[0]); a.r(0xF0, "done")     # block intact?
     a.label("rtry")                                                 # CD_READ ($E009): sector 0:0:57 in $FC/$FD/$FE,
     a.b(0x64, 0xFC, 0x64, 0xFD, 0xA9, DATA_SECTOR, 0x85, 0xFE, 0x64, 0xFF)   # $FF = 0: to local memory
     a.b(0x64, 0xFA, 0xA9, DATA_ORG >> 8, 0x85, 0xFB)                # at $9800
     a.b(0x64, 0xF8, 0xA9, 0x08, 0x85, 0xF9)                         # $0800 bytes
-    a.w(0x20, 0xE009); a.b(0xC9, 0x00); a.r(0xD0, "rtry")          # again until it succeeds, as the loader does
+    a.w(0x20, 0xE009); a.b(0xA8); a.r(0xD0, "rtry")                # tay ; bne: again until it succeeds, as the loader does
     a.label("done")
     a.b(0x68, 0x53, 0x10, 0x60)                                     # pla ; tam #$10 ; rts
     code = a.link()

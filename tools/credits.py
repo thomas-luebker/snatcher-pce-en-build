@@ -26,6 +26,13 @@ IMAGE = (130 * 2048, 133 * 2048)
 # The opening roll (sector 170, drawn over the intro) is NOT touched: the cutscene engine draws it with its own
 # font, which renders kanji and knows nothing of our cells -- translating it put garbage tiles across the intro
 # on hardware (24 Sep). Only the ending roll goes through the dialogue renderer and the glyph hook.
+# The caption under the Junker HQ tower at the end of the intro (sector 127, in the block the intro loads through
+# the scene loader) is plain SJIS drawn by the dialogue renderer, and 本 ($96) is one of our cell leads: with our
+# block out of memory in the intro that jumped into nothing and the game hung (hardware, 26 Sep). Full-width Latin
+# ($82) goes through the game's own path, so "HQ" needs neither hook nor block. Same 40 bytes.
+SJ = lambda t: t.encode("shift_jis")
+CAPTION_JP = SJ("コナミオムニビル　　") + b"\xfb\x06\x03" + SJ("ＪＵＮＫＥＲ本部") + b"\xff"
+CAPTION_EN = SJ("コナミオムニビル　") + b"\xfb\x06\x03" + SJ("ＪＵＮＫＥＲ　ＨＱ") + b"\xff"
 LINE = re.compile(rb"((?:[\x81-\x9f\xe0-\xef][\x40-\xfc]){4,})")  # a run of full-width characters
 PAD = b"\x81\x40"
 
@@ -95,7 +102,15 @@ def apply(isos):
             assert originals[k][p:p + len(raw)] == raw
             isos[k][p:p + len(raw)] = new
         done += 1
-    return f"credits: {done} lines in English in {len(places)} copies of the ending roll; untranslated: {missing}"
+    assert len(CAPTION_EN) == len(CAPTION_JP)
+    caps = 0
+    for k, src in originals.items():
+        at = src.find(CAPTION_JP)
+        assert at >= 0 and src.find(CAPTION_JP, at + 1) < 0, f"track {k}: the Junker HQ caption is not where expected"
+        isos[k][at:at + len(CAPTION_JP)] = CAPTION_EN
+        caps += 1
+    return (f"credits: {done} lines in English in {len(places)} copies of the ending roll; untranslated: {missing}; "
+            f"Junker HQ caption on {caps} tracks")
 
 
 if __name__ == "__main__":

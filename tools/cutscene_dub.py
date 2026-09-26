@@ -97,6 +97,17 @@ PINS = {
     14: [(15, 1.7, 1.2), (15, 3.6, 2.3), (15, 4.8, 3.2), (15, 6.8, 4.4), (15, 9.1, 6.4), (15, 11.0, 7.1),
          (15, 16.4, 14.5), (15, 45.6, 45.2), (15, 60.5, 59.1), (15, 61.8, 60.4), (15, 63.7, 61.7), (15, 69.8, 70.5)],
     16: [(19, 30.0, 75.5)],      # "Metal?" answers the Japanese 「お前メタルか?」 after the kept stretch
+    19: [(4, 223.6, 143.7), (4, 258.5, 178.6)],   # Gillian's file: the cockpit shot is on screen 148.8-184.3 s,
+                                 # then the Junker HQ tower. Unpinned, the English (40 s against the Japanese
+                                 # 31 s) ran on over the tower (hardware, 26 Sep: "the audio should end with the video");
+                                 # at natural speed ("do not speed it up"), so it starts in the flash before the
+                                 # cockpit and ends half a second before the cut
+}
+
+# Where the picture the speech belongs to is cut away (s, measured in the emulator). The English has to be
+# over by then; render() refuses a track that is not, so a re-pairing cannot quietly push it over again.
+SHOT_END = {
+    19: 183.8,                   # cockpit -> Junker HQ tower at 184.3, less half a second (hardware, 26 Sep)
 }
 
 # Source times (Sega CD track -> seconds) where an utterance must be cut in two: Whisper sometimes
@@ -355,6 +366,7 @@ def en_timeline(pce):
 
 
 MAX_SPEED = 1.2                                      # fastest an English line may be played to fit
+MAX_SPEED_FOR = {19: 1.0}                            # Gillian's file: never faster (Thomas, 26 Sep)
 
 
 def schedule(pce, jp, jp_len):
@@ -387,7 +399,7 @@ def schedule(pce, jp, jp_len):
     for s0, s1 in zip(bounds, bounds[1:]):
         limit = (pins[s1] if s1 in pins else jp_len + TAIL) - TAIL + (TAIL - GAP if s1 in pins else 0)
         start = want[s0]
-        for r in np.arange(1.0, MAX_SPEED + 1e-9, 0.02):
+        for r in np.arange(1.0, MAX_SPEED_FOR.get(pce, MAX_SPEED) + 1e-9, 0.02):
             free, pos = -1.0, []
             for k in range(s0, s1):
                 dur = (en[k]["t1"] - en[k]["t0"]) / r
@@ -471,6 +483,8 @@ def render(pce):
     os.makedirs(os.path.join(WORK, "out"), exist_ok=True)
     sf.write(os.path.join(WORK, "out", f"pce{pce:02d}.wav"), out, RATE, subtype="PCM_16")
     ends = [at + (ln["t1"] - ln["t0"]) / sp for ln, at, sp in sched]
+    if pce in SHOT_END and max(ends) > SHOT_END[pce]:
+        raise SystemExit(f"PCE {pce}: the English runs to {max(ends):.1f} s, past the cut at {SHOT_END[pce]} s")
     overlaps = [round(ends[k] - sched[k + 1][1], 1) for k in range(len(sched) - 1) if ends[k] > sched[k + 1][1] + 0.05]
     fast = [sp for _, _, sp in sched if sp > 1.001]
     print(f"PCE {pce:2d}: {len(jp):3d} JP / {len(sched):3d} EN lines, {len(PINS.get(pce, []))} pins; "

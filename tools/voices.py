@@ -93,8 +93,37 @@ def fixups(d):
         # game itself repeats lines between scenes (the HQ emergency call), and each slot gets its own copy.
         d["pairs"] = [[a, b] for a, b in d["pairs"] if a != i]
         d["pairs"].append([i, scd])
+        d.setdefault("hand", set()).add(i)
         n += 1
     return n
+
+
+SHARED = 4
+
+
+def sound_effects(d, iso):
+    """Clips that are the game's shared sound-effect bank, not speech: entries 12-18 and 22-25 of every table
+    hold the same eleven recordings, byte for byte. No line of speech repeats that often (three at most), so
+    a Japanese clip found SHARED or more times is a sound effect and is never replaced. Paired anyway, one
+    take was copied over every copy -- "Gillian, behind you!" over the Act 1 title card (26 Sep)."""
+    seen = {}
+    for i, c in enumerate(d["pce"]):
+        seen.setdefault(iso[c["lba"] * SECT:(c["lba"] + c["sectors"]) * SECT], []).append(i)
+    return {i for g in seen.values() if len(g) >= SHARED for i in g}
+
+
+def drop_sound_effects(d, iso):
+    """Drop the pairs on the shared sound effects, and let a hand pair speak for every byte-identical copy of
+    its Japanese: the copies step writes a take over every copy, so an aligner pair on a copy would silently
+    undo the hand pair (Jamie's voicemail, 94/217, is the same recording as 90/174). -> real pairs dropped."""
+    sfx = sound_effects(d, iso)
+    clip = lambda i: iso[d["pce"][i]["lba"] * SECT:(d["pce"][i]["lba"] + d["pce"][i]["sectors"]) * SECT]
+    handed = {clip(i) for i in d.get("hand", ())}
+    real = lambda p: p[0] is not None and p[1] is not None
+    before = sum(map(real, d["pairs"]))
+    d["pairs"] = [[a, b] for a, b in d["pairs"]
+                  if a not in sfx and (a is None or a in d.get("hand", ()) or clip(a) not in handed)]
+    return before - sum(map(real, d["pairs"]))
 
 
 def squeeze(smp, factor, hz):
@@ -125,6 +154,7 @@ def apply(isos, limit=None):
     fixed = fixups(d)
     pcm = open(os.path.join(SCD_FILES, "PCMLD_01.BIN"), "rb").read()
     original = bytes(isos[2])
+    sfx = drop_sound_effects(d, original)
     originals = {t: bytes(iso) for t, iso in isos.items()}      # pristine copies to search: the tracks change as we go
     partner = {i: j for i, j in d["pairs"] if i is not None and j is not None}
     copies = 0
@@ -176,7 +206,8 @@ def apply(isos, limit=None):
         done += 1
     return (f"voices: {done} table entries, {len(cache)} clips re-encoded (16 kHz: {rates[14]}, "
             f"10.7 kHz: {rates[13]}, 8 kHz: {rates[12]}, squeezed to fit: {squeezed}, cut: {cut}); "
-            f"{fixed} pairs from {os.path.basename(FIXUPS)}; {copies} copies at other offsets replaced too")
+            f"{fixed} pairs from {os.path.basename(FIXUPS)}; {copies} copies at other offsets replaced too; "
+            f"{sfx} pairs dropped (shared sound effects, copies of a hand pair)")
 
 
 if __name__ == "__main__":

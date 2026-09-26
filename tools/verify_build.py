@@ -39,7 +39,9 @@ import sncells        # noqa: E402
 import title_patch    # noqa: E402
 
 N = "Snatcher CD-ROMantic (Japan)"
-VOICES_AT_LEAST = 1106                        # what the pairing reaches today; it may only go up
+VOICES_AT_LEAST = 1091                        # what the pairing reaches today; it may only go up. (1106 -> 1091 on
+                                              # 26 Sep was not a loosening: 15 pairs were wrong -- speech on the shared
+                                              # sound effects, and an aligner pair on a copy of Jamie's voicemail)
 fails = []
 skips = []
 
@@ -217,6 +219,18 @@ def check_title(built):
     code_at = title_patch.BLOCK_ISO + title_patch.CODE_ORG - title_patch.BLOCK_ORG
     if b[code_at:code_at + 4] == b"\xff\xff\xff\xff":
         fail("title: routine is not in the title's load")
+    import credits
+    for t in sorted(built):
+        if credits.CAPTION_JP in built[t] or credits.CAPTION_EN not in built[t]:
+            fail(f"track {t:02d}: the Junker HQ caption still has 本部 (a cell lead: the intro hangs without our block)")
+    # the loader hook must not re-read our block in engine states 2/3: the seek costs the intro its timing, and
+    # the circuit board and the street scene come out as garbage tiles (hardware, 26 Sep)
+    import snhack
+    hook, _ = snhack.build_resident()
+    for t in sorted(built):
+        at = built[t][snhack.RES_ISO:snhack.RES_ISO + len(hook)]
+        if at != hook or bytes.fromhex("a5184a3af0") not in at:
+            fail(f"track {t:02d}: the loader hook is not the one that skips the intro (states 2/3)")
 
 
 def check_digits(built, orig, scenes):
@@ -264,7 +278,26 @@ def check_voice_copies(built, orig):
     import voices
     d = json.load(open(voices.ALIGN))
     voices.fixups(d)
+    voices.drop_sound_effects(d, orig[2])
     partner = {i for i, j in d["pairs"] if i is not None and j is not None}
+    # The shared sound-effect bank stays the original on both tracks: a speech take on one of its entries is
+    # copied over every copy of the effect ("Gillian, behind you!" on the Act 1 card, 26 Sep).
+    for i in sorted(voices.sound_effects(d, orig[2])):
+        c = d["pce"][i]
+        size, off = c["sectors"] * 2048, c["lba"] * 2048
+        for t in (2, 24):
+            if built[t][off:off + size] != orig[t][off:off + size]:
+                fail(f"sound effect clip {i} (table {c['table']} entry {c['idx']}) was replaced on track {t:02d}")
+    # Identical Japanese clips must not carry different English: the copies step writes each take over every
+    # copy of its Japanese, so the last pair processed would silently win everywhere.
+    same = {}
+    for i, j in d["pairs"]:
+        if i is not None and j is not None:
+            c = d["pce"][i]
+            same.setdefault(orig[2][c["lba"] * 2048:(c["lba"] + c["sectors"]) * 2048], set()).add(str(j))
+    clash = [sorted(v) for v in same.values() if len(v) > 1]
+    if clash:
+        fail(f"identical Japanese clips paired with different English takes: {clash[:5]}")
     left = 0
     for i, c in enumerate(d["pce"]):
         if i not in partner:
@@ -345,6 +378,31 @@ def check_emu():
     ram = mdfnstate.parse("work/_verify_reception.state")["HuC.SysCardRAM"]
     if sncells.sjis_plain("Enter") not in ram or "中に入る".encode("cp932") in ram:
         fail("emulator: the reception's menu is not English in RAM after a cold boot")
+    check_intro(cue)
+
+
+INTRO = r"""
+import os, sys
+sys.path.insert(0, "tools"); import retro
+e = retro.Emu(os.path.abspath("emu/mednafen_pce_libretro.dylib"), os.path.expanduser("~/.mednafen/firmware"))
+e.load(sys.argv[1]); seen = set()
+for f in range(1, 27001):
+    e.run([retro.BUTTONS["start"]] if f in (1310, 2600) else [])
+    seen.add(e.peek(0x2018))
+    if seen & {4, 5}:
+        print("in play at frame", f); break
+else:
+    print("never left the intro; states seen", sorted(seen))
+"""
+
+
+def check_intro(cue):
+    """The whole intro, not skipped: the Junker HQ caption hung the game in state 3 (hardware, 26 Sep) while the
+    boot above -- which presses START through the intro -- passed. Its own process: the core keeps the first disc."""
+    out = subprocess.run([sys.executable, "-c", INTRO, cue], capture_output=True, text=True).stdout.strip()
+    print(f"intro: {out}")
+    if not out.startswith("in play"):
+        fail(f"emulator: the intro does not reach the game ({out})")
 
 
 def main():
