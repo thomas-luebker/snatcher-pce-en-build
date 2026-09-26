@@ -183,6 +183,22 @@
   Japanese on the phone, no English take exists: 「ギリアン危ない」, 「おやすみなさい」, the 「キャー!エッチ!」
   line (its English is 2.5x the slot), and four garbled ones the transcripts cannot name
 - [x] 24 Sep 19:51 image on hardware: apart from the intro, flawless up to the abandoned factory (Thomas, 24 Sep late); the factory shows none of the door glitches seen on 23 Sep on the same code -- the fault may not be stable (FINDINGS, door section)
+- [x] **Intro glitches fixed (26 Sep, confirmed on hardware)**: the circuit board after the skeleton arm and the street
+  scene under the credits were garbage tiles on every English image since the loader hook (19 Sep) -- the hook's re-read
+  of sector 57 costs a seek the intro's CD-timed pictures cannot absorb. The hook now skips engine states 2/3 (intro and
+  cutscene engine); the next load in play restores the block. Gate checks the hook. FINDINGS has the hunt
+- [x] Metal's "Gillian, behind you!" on the Act 1 card (26 Sep, from hardware): entries 12-18/22-25 of every clip table
+  are one shared sound-effect bank; speech paired onto one copy was spread over all of them by the twin step. The bank is
+  never replaced now, a hand pair speaks for every byte-identical copy, and the gate checks both. 1,106 -> 1,091 pairs
+- [x] Gillian's file in the car (26 Sep, from hardware): the English ran on over the Junker HQ tower. Pinned into the
+  cockpit shot (150.8-184.3 s, x1.18); `cutscene_dub.py` refuses a track that runs past its measured shot end
+- [x] Hang at the Junker HQ picture (26 Sep, from hardware, the 19:06 image): the caption under the tower is plain SJIS
+  drawn by the dialogue renderer, and 本 ($96) is one of our cell leads -- with the block out of memory in the intro the
+  glyph hook jumped into nothing. The caption is now `ＪＵＮＫＥＲ　ＨＱ` (full-width, the game's own path), and the gate
+  plays the whole intro unskipped (its boot had pressed START through it) and fails unless the game reaches play
+- [x] Gillian's file at natural speed (26 Sep, Thomas: "do not speed it up"): 143.7-183.7 s, half a second before the cut
+- [ ] Hardware, the next image: the car scene's timing; the sound effects that had played stray English lines
+  ("Something to give me?", "Gillian, we should hurry.", "Sounds cold...") are back to the original effects -- listen
 - [x] Intro broken by the credits step (24 Sep, from hardware, same evening): the opening roll at sector 170 belongs
   to the cutscene engine, not the dialogue renderer; left untouched now. A "which sectors did the build change"
   gate follows, so an unexpected write is a failure

@@ -1203,3 +1203,46 @@ cell codes, it drew tile salad. Only the ending roll (the image at LBA 0x82) goe
 and the glyph hook, which is what the photographs had shown. `credits.py` now rewrites that one image and its
 exact copies, nothing else, and the gate checks the ending roll by image. The lesson generalises: a byte on this
 disc is not text because it decodes as text -- it is text because of who draws it.
+
+## The intro's two broken pictures: our loader hook's seek (2026-09-26, from hardware)
+
+Every English image since the loader hook went in (19 Sep) showed garbage tiles where the intro has the circuit
+board after the skeleton arm and the Neo Kobe street scene under the credits; the Japanese image on the same card
+was clean. The emulator reproduces it, and a bisect over the changed sectors (hybrid images, one group reverted
+back to the original at a time) narrowed it to the engine bank: with only the `jsr loader_hook` at `$54F1` put
+back, both pictures match the Japanese frame for frame.
+
+What it is not: the hook's zero-page parameters (saving and restoring `$F8-$FF` changed nothing), the drive
+position (repeating the loader's own read afterwards changed nothing), or the block's contents. It is the time:
+the intro's picture loads are cued against the CD music, and the extra seek to sector 57 at the two loads the
+intro makes through the scene loader (state 2 at its start, state 3 half-way) is enough to break them. The hook
+now returns early in engine states 2 and 3 (`lda <$18 ; lsr ; dec ; beq`); the first load in play (state 4, the
+reception) restores the block, and dialogue after an in-game cutscene (the Act 2 start, via the debug menu) decodes
+normally. To fit, the magic check is one byte: only the boot load (`$FF`) and the two act images (`$37 $C7`,
+`$4B $A2`) ever reach `$82:$1800`, never "E".
+
+Two wrong turns worth keeping. A first bisect scored "fixed" whenever a frame stopped matching the glitch, and a
+change that only shifts the intro's timing does that too -- it blamed the title routine. And the harness: **the
+libretro core keeps the first disc it was given in a process**, so comparing two images in one process compares
+one image with itself; that "verified" a byte change that did nothing on hardware. One image per process, and a
+detector that looks for the right picture, not for the absence of the wrong one.
+
+## Shared sound effects and the twin step (2026-09-26, from hardware)
+
+Metal's "Gillian, behind you!" over the Act 1 title card: clip-table entries 12-18 and 22-25 hold the same eleven
+recordings in all six tables (the game's sound-effect bank). The aligner had paired a few of them with speech, and
+since 24 Sep the twin step writes each take over every byte-identical copy of its Japanese -- so one stray pair
+reached every scene that plays the effect. `voices.py` now leaves any clip found four or more times alone (real
+speech repeats three times at most), a hand pair speaks for every identical copy (Jamie's voicemail opener is the
+same recording as table 90 entry 174, which the aligner had given "Ah! Ah! Ah!"), and `verify_build` checks that
+the bank is untouched and that no two identical clips carry different English. 15 pairs fewer: 1,091.
+
+Same evening, the price of it: the 19:06 image hung at the Junker HQ picture. The caption under the tower
+("コナミオムニビル / ＪＵＮＫＥＲ本部", sector 127, inside code the intro loads) is plain SJIS drawn by the dialogue
+renderer, and 本 is `$96 $7B` -- a lead byte our letter-pair cells took over on the grounds that the game's text
+never uses it. The scenes don't; this caption does. Before, with the block resident, it drew 本部 as two letter
+cells; with the block kept out of the intro, the glyph hook called into nothing. The caption is now
+`ＪＵＮＫＥＲ　ＨＱ` in the same 40 bytes (one padding space moved from the line above), which the game draws itself.
+The gate had not seen it because its emulator boot presses START through the intro; `verify_build --emu` now also
+plays the whole intro, unskipped, in its own process, and fails unless the game reaches engine state 4 or 5.
+

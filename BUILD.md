@@ -22,7 +22,7 @@ Engine, an evening per pass, so nothing that was found once is allowed to come b
 
 | check | the evening it cost |
 |---|---|
-| the voice step ran, ≥ 1,062 clips | a bare `build_all.py` shipped every spoken line Japanese |
+| the voice step ran, ≥ 1,091 clips | a bare `build_all.py` shipped every spoken line Japanese |
 | tracks 03-20 are dubbed files, not links to the originals | the same build reverted the intro and 15 cutscenes |
 | no scene or copy over budget, none "STAYS JAPANESE" | Outer Heaven's entrance in Japanese |
 | every copy of every scene carries English menu words | the J-Division street; the name search |
@@ -35,8 +35,11 @@ Engine, an evening per pass, so nothing that was found once is allowed to come b
 | every line whose Japanese ends in `<82F5>` carries the close-without-waiting code | Ivan's door: the shootout under a waiting text box, no cursor |
 | no paired voice clip survives in Japanese anywhere on either track | a whole scene Japanese in front of Queen's Hospital: the cart plays track 24's copies |
 | every translated credit line is gone from both tracks | the staff roll's names as letter salad |
+| the loader hook skips engine states 2/3 (intro, cutscene engine) | the intro's circuit board and street scene as garbage tiles |
+| the Junker HQ caption carries no cell-lead kanji | the intro hung at the Junker HQ picture |
+| the shared sound-effect bank is untouched; identical Japanese clips carry one English take | Metal's "Gillian, behind you!" over the Act 1 card |
 | every message decodes and terminates (`verify_text.py`) | the empty-text-box hang |
-| `--emu`: a cold boot shows the English title and reaches the English reception | — |
+| `--emu`: a cold boot shows the English title and reaches the English reception; the whole intro, unskipped, reaches play | the Junker HQ hang, which a boot that skips the intro never sees |
 
 A stage whose input is missing -- no Sega CD rip, no Demucs, or `VOICES=0` -- is skipped in yellow, written
 into the report as `SKIPPED`, and listed again by the verify step; the image is then a text-only (or
