@@ -1,0 +1,113 @@
+# The staff rolls: the ending roll (load LBA 0x82, bank $85: 45 headings then 68 names) and the opening roll's
+# headings (sector 170). One line per credit: the Japanese exactly as the disc has it (without the padding
+# full-width spaces), a tab, the English. English is written as letter-pair cells centred in the same 14-cell
+# line, so 28 letters is the limit. Names are romanised surname last, as Konami did for the Sega CD; readings
+# marked (?) are best guesses for staff without a known Western credit.
+#
+# --- headings, ending roll ---
+出演	CAST
+製作　著作	PRODUCED BY
+企画	PLANNING
+原作　脚本	STORY AND SCRIPT
+助監督	ASSISTANT DIRECTOR
+キャラクターデザイン	CHARACTER DESIGN
+メカニックデザイン	MECHANICAL DESIGN
+原画	KEY ART
+ＣＧ監督	CG DIRECTOR
+グラフィック	GRAPHICS
+音声動画シンクロ	VOICE AND ANIMATION SYNC
+シナリオコンパイラ	SCENARIO COMPILER
+シナリオ構成	SCENARIO STRUCTURE
+演出	DIRECTION
+演出助手	ASSISTANT DIRECTION
+プログラム	PROGRAMMING
+システムアドバイザー	SYSTEM ADVISOR
+パッケージ	PACKAGE
+音響	SOUND
+音楽	MUSIC
+サウンドプログラム	SOUND PROGRAMMING
+音響サポート	SOUND SUPPORT
+広報	PUBLICITY
+録音	RECORDING
+ミキサー	MIXING
+音声コーディネート	VOICE COORDINATION
+スチール	STILLS
+ポスターイラスト	POSTER ILLUSTRATION
+イラストカット	ILLUSTRATION CUTS
+コミック着色	COMIC COLOURING
+協力	SPECIAL THANKS
+プロデュース	PRODUCER
+監督	DIRECTOR
+製作	PRODUCTION
+ＣＤシステム設計	CD SYSTEM DESIGN
+コマンドインタプリタ	COMMAND INTERPRETER
+音声リニア編集	VOICE LINEAR EDITING
+射撃プログラム	SHOOTING PROGRAM
+サウンド監督	SOUND DIRECTOR
+録音演出	RECORDING DIRECTION
+マニュアル	MANUAL
+メイキングビデオ	MAKING-OF VIDEO
+レコーディング協力	RECORDING ASSISTANCE
+# --- headings that differ in the opening roll ---
+原作・脚本	STORY AND SCRIPT
+シナリオコンパイラ設計	SCENARIO COMPILER DESIGN
+画面データ入力	SCREEN DATA ENTRY
+パッケージデザイン	PACKAGE DESIGN
+音響協力	SOUND ASSISTANCE
+パブリシティ	PUBLICITY
+ポスター・イラスト	POSTER ILLUSTRATION
+# --- names, ending roll (the voice cast first) ---
+屋良有作	YUSAKU YARA
+冨永みーな	MINA TOMINAGA
+槐柳二	RYUJI SAIKACHI
+小山茉美	MAMI KOYAMA
+井上喜久子	KIKUKO INOUE
+塩沢兼人	KANETO SHIOZAWA
+納屋悟郎	GORO NAYA
+井ノ口勲	ISAO INOKUCHI (?)
+永田昭彦	AKIHIKO NAGATA
+小島秀夫	HIDEO KOJIMA
+井上慎也	SHINYA INOUE
+木下富晴	TOMIHARU KINOSHITA
+大田良彦	YOSHIHIKO OTA
+吉岡さとし	SATOSHI YOSHIOKA
+立石一博	KAZUHIRO TATEISHI
+古川敏治	TOSHIHARU FURUKAWA
+町口美紀	MIKI MACHIGUCHI
+マサール石井	MASAHIRO ISHII (?)
+足立敏哉	TOSHIYA ADACHI
+松花賢和	MASAKAZU MATSUHANA (?)
+篠原憲二	KENJI SHINOHARA
+橋本和久	KAZUHISA HASHIMOTO
+松田　宏	HIROSHI MATSUDA
+村岡一樹	KAZUKI MURAOKA
+古川もとあき	MOTOAKI FURUKAWA
+（矩形波倶楽部）	(KUKEIHA CLUB)
+ＩＫＡｃｈａｎ	IKACHAN
+ＩＺＵＭＩ	IZUMI
+プロフェット深見	PROPHET FUKAMI
+福武　茂	SHIGERU FUKUTAKE
+坂元信也	SHINYA SAKAMOTO
+斎藤幹雄	MIKIO SAITO
+山根清彦	KIYOHIKO YAMANE
+岡村憲明	NORIAKI OKAMURA
+早坂妙子	TAEKO HAYASAKA
+池田孝治	KOJI IKEDA
+田村重幸	SHIGEYUKI TAMURA
+コナミ技術研究所	KONAMI R AND D LAB
+棚橋正顕	MASAAKI TANAHASHI
+アバコクリエイティブスタジオ	AVACO CREATIVE STUDIO
+阿部幸男	YUKIO ABE
+㈱	CO. LTD.
+野崎貴美子	KIMIKO NOZAKI
+㈱サムスィング	SOMETHING CO. LTD.
+伊東敏夫	TOSHIO ITO
+㈲伊東スタジオ	ITO STUDIO
+開田祐治	YUJI KAIDA
+増田正紀	MASAKI MASUDA
+島　健二	KENJI SHIMA
+山田善朗	YOSHIRO YAMADA
+山下　章	AKIRA YAMASHITA
+コナミ株式会社	KONAMI CO. LTD.
+千崎一義	KAZUYOSHI SENZAKI
+（ミュージカルステーション）	(MUSICAL STATION)

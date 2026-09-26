@@ -1,0 +1,414 @@
+W	148c	*
+W	148f	Area
+W	1496	Neck
+W	149d	Junker I.D.
+W	14ac	Memo
+W	14b5	Use Metal Gear
+W	14c4	Investigate List
+W	14d3	Little Memory
+W	14e4	Little John
+W	14f1	About Alice
+W	14fc	Auren
+W	1505	Owen
+W	150e	Oleen
+W	1517	Oleena
+W	1520	Oleenu
+W	1529	Oleens
+W	1532	Orin
+W	1539	Oriin
+W	1542	Ohrin
+W	154b	Chart
+W	1552	Katrina's view
+W	1563	Katrina's Face
+W	1572	Katrina's Chest
+W	1581	Katrina
+W	158c	King
+W	1593	Gillian's Room
+W	15a2	Crane
+W	15ab	Other Than Queen
+W	15b8	Queen
+W	15c1	Shower Booth
+W	15d0	Don't Save
+W	15dd	Save
+W	15e8	Save 1
+W	15f1	Save 2
+W	15fa	Save 3
+W	1603	Save 4
+W	160c	Chess Piece
+W	1617	Knight
+W	161e	Bath Towel
+W	1629	Bishop
+W	1634	Open Booth
+W	1641	Apartment
+W	164c	Matches
+W	1653	Move
+W	1658	Bra
+W	165d	Video Memory
+W	166a	Exit
+W	1673	Piece
+W	1676	Look
+W	167b	Temple
+W	1680	Cash
+W	1687	Possessions
+W	168c	Listen
+W	1697	Clothes
+W	16a0	Self
+W	16a5	Room
+W	16aa	Enter Turbocycle
+W	16b3	Taken Bra
+W	16be	Take
+W	16c3	Ask Clue
+W	16d0	Floor
+W	16d3	Evidence
+W	16da	Smell
+W	16e5	Odor
+W	16ea	Red Square
+W	16f3	Footprints
+W	16f8	Go Inside
+W	1701	Investigate
+W	1708	About Videophone
+W	1713	Door
+W	1716	Age
+W	171b	Ask
+W	1720	Hospital address
+W	172b	Hospital List
+W	1736	Retina fortunes
+W	173f	Enter Bathroom
+W	174a	Talk
+M	174f	This is your apartment building.
+M	1766	Or perhaps it is just as that fortune teller said...
+M	1784	I sure hope so.
+M	1791	Gillian! Are you just going to leave?
+M	17ac	Let's capture whoever has snuck into your apartment!
+M	17ce	I'll open the door. Are you ready?
+M	17e1	Yeah! Open it!
+M	17f2	This is definitely your building. The window of your apartment is visible from this side.
+M	1824	This is the apartment that the government arranged for you.
+M	183e	Not surprisingly, there are few pedestrians at this time of night.
+M	185c	There are no suspicious vehicles in the area.
+M	1870	It's hard to tell from here, but the lights are definitely on.
+M	1894	Maybe it's Katrina?
+M	18a4	Somebody appears to be in the apartment.
+M	18b5	The security system is on. It appears to be in order.
+M	18d8	How could they get past the security system?
+M	18ef	I do not see any unusual tracks or marks.
+M	1908	There are no suspicious people in the area, and I am not picking up any movement.
+M	1926	I can't limit the movement sensor to just your apartment.
+M	1946	What about your infra-red sensor?
+M	1957	I don't read anything. Apparently nobody is near the window.
+M	197a	I can't investigate from here.
+M	1991	Metal, check the status of the door of my apartment from here.
+M	19b0	All right. Now accessing the building's security system...
+M	19d1	Gillian. It's open.
+M	19e6	It does not appear to have been forced.
+M	19fa	What?! I know I locked that before I left!
+M	1a1a	This is Gillian's living room.
+M	1a2a	Let's check this room first.
+M	1a41	Don't get too anxious, Gillian. Let's check out this room first.
+M	1a66	Whoever broke in here may have set some kind of a trap for you.
+M	1aa0	Nobody appears to be in this room.
+M	1ab6	I don't see anybody in the room, and there are no places where a person could hide.
+M	1adf	That's odd. The position of the chair and some of my stuff is different..
+M	1b00	It looks like the chair and some of my stuff has been moved...
+M	1b1f	There are some faint depressions in the carpet that would indicate footprints.
+M	1b38	They are significantly different from your footprints.
+M	1b53	Nothing seems to have been stolen.
+M	1b6b	The surface temperature of the sofa is relatively high. It would appear that someone was sitting there a few minutes ago.
+M	1b99	So at least it appears that I haven't been robbed.
+M	1bb2	I read no movement in this room.
+M	1bc7	These shoe impressions are very sharp and deep. Most of the weight of the person was focused on one point.
+M	1bed	Something sharp? A SNATCHER?
+M	1bfc	So it's not Katrina, eh?
+M	1c11	..........
+M	1c1a	That possibility exists.
+M	1c27	The footprints lead to the bathroom.
+M	1c3b	The sound seems to be coming from the bathroom.
+M	1c51	The sound is coming from the bathroom.
+M	1c68	Hmm? What's that smell?
+M	1c79	A SNATCHER?
+M	1c86	I'm not sure, but I've smelled that before somewhere...
+M	1c9d	<<sniff, sniff>> What is that smell? Something's in there!
+M	1cbc	Gillian! Aren't you going to uncover the source of this sound?
+M	1cdb	Gillian! You can't always be running away like that!
+M	1cf7	Your opponent won't be running, you know! Summon your courage!
+M	1d15	This is the bathroom.
+M	1d23	Hmm? It's really hot and humid in here...
+M	1d43	There is something in the shower!!
+M	1d57	There is no one in the room. The shower stall is the only place that someone could be hiding.
+M	1d7a	There's some underwear on the floor. I wonder whose it is?
+M	1d96	Is this your thing, Gillian?
+M	1da6	Don't be stupid! I don't know anything about it!
+M	1db8	Oh? There's something on the floor.
+M	1dce	Something has fallen on the floor.
+M	1de0	Hmm... cute underwear.
+M	1df3	...why is there underwear like this in my room?
+M	1e13	Playing dumb, are we, Gillian?
+M	1e28	The electronic blinds of the glass door prevent identification of whatever is in the stall.
+M	1e4e	The "In Use" sign is lit on the window.
+M	1e6d	I read movement! There's movement in this room.
+M	1e8e	The temperature and humidity in this room are climbing rapidly.
+M	1eaa	There's nothing here besides that underwear from before.
+M	1ec4	Is this... panties? Or... a bra?
+M	1ee1	Huh?
+M	1ee7	Shh, it's underwear! And women's, at that...
+M	1f03	Women's underwear!
+M	1f0d	There's women's underwear on the floor.
+M	1f20	My thermo sensor shows a region of concentrated heat. I would say that hot water is being used.
+M	1f56	I read movement from within the stall!
+M	1f6e	It's silk underwear. Its owner must be someone who takes real care with her clothes. Underwear is a woman's ultimate weapon, after all.
+M	1fb6	The kind of woman who wears underwear like this is usually high society or a model.
+M	1fe3	A model?... Katrina?
+M	1ff3	T-this is... hers?
+M	2004	Then... Katrina's naked?
+M	2018	Gillian, don't let your guard down.
+M	2030	What if it's a SNATCHER?
+M	2045	What are you planning, taking your clothes off?
+M	2059	I'm going to put this underwear on.
+M	206e	I'm going to take a bath.
+M	207c	You're joking, right?
+M	2086	Yeah...
+M	208e	Maybe I'll just keep it...
+M	209d	I'm telling the Chief!
+M	20ac	Metal! For the sake of the investigation, we need to examine this underwear. Go get it for me!!
+M	20da	I suppose it can't be helped... but you'd better give it back.
+M	20f8	Honestly, you're already holding it, aren't you?
+M	2113	All right! Let's have a sniff. Sniff, sniff... Mmm! Nice smell. Huh?... This smell?
+M	2142	So that's the kind of thing you're into...
+M	2158	Don't tell anyone. ...Hey! That's not it... This smell, could it be...?
+M	2188	What's wrong?
+M	2193	That's it, this smell!
+M	21a2	Is it Katrina?
+M	21ae	...I want to think so.
+M	21bd	I knew it! Metal, I've got it! This smell!
+M	21d8	Sniff, sniff... smells kind of sweaty?
+M	21ec	You've been so busy with the investigation, you haven't had a bath, have you?
+M	220d	Come to think of it, I haven't...
+M	2222	Do I smell bad?
+M	222a	It doesn't bother me, but...
+M	2238	Haven't done laundry either. Girls are going to hate me at this rate.
+M	225c	(Looking at her like this, she's pretty coquettish...)
+M	227c	(..........)
+M	2287	(Something... feels kind of strange...)
+M	229b	Is there something on my face?
+M	22ac	What?! Gillian, are you mad?
+M	22c1	(Hmm. Pretty glamorous!)
+M	22d4	(Bad for a single guy's eyes...)
+M	22ea	(..........)
+M	22f5	(So sexy...)
+M	2304	(...Women are devils.)
+M	2315	(..........)
+M	2320	I'm going to need to check out your towel...
+M	2339	Don't you ever quit!? I know what you have in mind!
+M	2362	Stop teasing me, Gillian.
+M	2376	Can I take a look at that hospital list?
+M	2388	Go ahead...take a look.
+M	239d	Well then, why don't I take a bath too?
+M	23b7	Gillian! This isn't the time for that!
+M	23ce	Ugh!! You keep saying stuff like that! You just want to see me naked, don't you!
+M	23f6	Metal Gear, I need a favor. Get me a bath towel!
+M	2416	Using my full name won't help. Why should I have to do that?
+M	2449	What are you two talking about?
+M	245e	Gillian! Knock it off already!!
+M	2471	Maybe you should get some clothes on.
+M	2482	Huh? I just took a shower, so I'm a little hot. I'd like to stay like this.
+M	24ad	Katrina, I can loan you some of my clothes...
+M	24c5	I may take you up on that...in a few minutes.
+M	24d7	(No, no. You're just fine the way you are!)
+M	24ec	Katrina, you'll catch a cold!
+M	24fd	Okay Gillian. I'll borrow some of your clothes, okay?
+M	2513	Uh, wait a second. Before that, we need to talk.
+M	2535	It's about Alice.
+M	2548	What's wrong with Alice?
+M	2555	You see, Alice is...
+M	255f	Gillian!!
+M	2568	Um, uh...
+M	2570	What's wrong?
+M	2579	Forget it. I'll tell you later.
+M	258c	You're weird.
+M	2593	Alice is a fine dog.
+M	25a3	Isn't she? She's my only family now.
+M	25cb	(Oh jeez. I can't tell her the dog's dead!)
+M	25ea	A fortune teller helped me find you.
+M	2605	A fortune teller?
+M	260b	Yes, a retinal reading woman over in Alton Plaza.
+M	2622	Oh, that con artist, eh?
+M	2634	What? You know her?
+M	2644	Yeah. That woman's famous. But after a bunch of magazines reported that she was a fraud, she lost a lot of business!
+M	2680	...what?
+M	268d	You're way behind the times, aren't you! I can't believe you paid her money!
+M	26b2	..........
+M	26ba	About that phone call... would you tell me what that was all about?
+M	26d6	That's right! When I was straightening up the living room, I found this inside that model of our house.
+M	2709	Oh yeah, there was a model of Gibson's house on the shelf, wasn't there.
+M	2737	It's a list of hospitals!
+M	2748	It appears to be a list of illicit medical facilities.
+M	2765	It lists the name of the hospital, its director's name, its address and area of specialty.
+M	2787	Well then the SNATCHER's place, the one that Gibson found, must be on this list!
+M	27c0	So that's what that "Search the house" note that Gibson left meant.
+M	27f1	He was just a little too clever this time...
+M	27fe	Will this list be of any help?
+M	2812	This list has over 3,000 places listed on it. We could never hit them all. We need some other information to narrow it down.
+M	284e	What about the image from Little John's memory? That should be the key!
+M	287a	If you type in the name of the hospital, I'll scan the list for you.
+M	28a8	...I think somebody was following me.
+M	28c2	I'm sure they were after my dad's list. But I couldn't get in touch with you!
+M	28f7	Sorry about that. I should have given you Metal Gear's number.
+M	2919	I called before I entered your apartment, but I couldn't get in touch with you.
+M	2940	Do you know anything about this list of hospitals?
+M	2955	I've never seen it before. But if my dad kept it in the house model, it must have been really important.
+M	2988	I'm sure the hospital my dad found is on it.
+M	29a6	He didn't make any marks on the list, so there must be some other key.
+M	29cf	How old are you, Katrina?
+M	29e1	I turned 18 this year.
+M	29eb	Oh really? (Jeez, I can't believe how quick kids grow up these days...)
+M	2a05	Even so, I'm pretty old for a model.
+M	2a1e	(Oh great, so what does that make Jamie?)
+M	2a3a	Gillian! You've got things more important than her age that you need to be asking her!
+M	2a60	Gillian, you better control yourself, or you'll get her angry again.
+M	2a84	Yeah, you're right.
+M	2a91	After all, you've got a bad track record.
+M	2aa4	Hey, don't talk about me like I'm a criminal or something.
+M	2ab8	All right, Gillian. Let's see if we can find the SNATCHER'S hospital on this list.
+M	2ae4	What about that hospital that was in Little John's memory.
+M	2b03	Why don't you give a name similar to the one on that sign.
+M	2b23	Give me a name along the lines of the one on the sign.
+M	2b42	The sign said "Oleen" didn't it.
+M	2b5a	Input the name of the hospital that you want to search for.
+M	2b7b	"Queens," right? Okay...
+M	2b92	You've tried almost all the different chess piece names, haven't you.
+M	2bad	All right, now searching...
+M	2bbe	It's here! Queens Hospital!
+M	2bd3	Great! You found it Gillian!
+M	2be0	Just as Katrina said, wasn't it?
+M	2bf7	I'm so happy...
+M	2c01	So the neon tube was burned out, eh? And there were more letters to the word than shown in the picture...
+M	2c1d	So "Queens" looked like "Oleen".
+M	2c3c	That's what the chess piece was trying to tell us.
+M	2c55	"Queen," right? Okay, now searching...
+M	2c6e	Hmm. It seems very close, but something is missing. Hang in there!
+M	2c8a	...Though I do like a good crane game.
+M	2ca2	Sure, well then... win one for me sometime?
+M	2cbd	...Katrina.
+M	2cc9	Oh, sorry.
+M	2cd6	"Owen," right? Now searching...
+M	2cef	"Auren," right? Now searching...
+M	2d08	"Ohrin," right? Now searching...
+M	2d21	Not surprisingly, the only one is that veterinary hospital.
+M	2d39	"Oleen," right? Okay, now searching...
+M	2d51	Let's try to think of something other than Oleen...
+M	2d6a	...Come to think of it, wasn't there a song like this once?
+M	2d85	Oleen, Oleen, Olee... Oleeeen...?
+M	2da1	Isn't that "Jolene"?
+M	2db0	Oh, was it...
+M	2dbc	Let's try to think of something other than Oleen...
+M	2dd8	All right, as Katrina suggested... "Oleena," then...
+M	2dfa	All right, as Katrina suggested... "Oleens," then...
+M	2e1c	"Oleenu"?
+M	2e28	Sounds kind of like Katrina, doesn't it?
+M	2e3b	It doesn't sound alike at all...
+M	2e47	Is that right, "Oleenu"?
+M	2e53	It's Katrina!
+M	2e5d	...'Orin'? ...'orin'?
+M	2e6f	What's wrong, Gillian?
+M	2e7e	I've heard a name like that before. I think it was... Kito...
+M	2ea2	...Isn't that from some novel?
+M	2eb5	Come on, be serious.
+M	2ec7	The king...
+M	2ed3	A bishop...
+M	2ee1	A knight...
+M	2eed	What names does "Oleen" bring to mind?
+M	2f0c	That sign is definitely for that hospital, right?
+M	2f2e	The visual image of "Oleen" is almost certainly correct.
+M	2f4e	So "Oleen" is the starting point, right? Maybe we're reading it wrong?
+M	2f75	If one of the neon tubes were burned out, the letters could change, couldn't they.
+M	2f9c	"Oleen" could be misleading, then.
+M	2fb8	If the neon were broken, it might look like different letters.
+M	2fd7	Why don't we try adding parts to the letters of "Oleen" to see if we can make something else?
+M	2ff6	And something related to that particular chess piece that we found.
+M	3012	And something related to chess.
+M	302d	It depends on how you interpret "Oleen".
+M	3047	As long as there was no corruption of the image, we can be sure that the strokes in the letters in "Oleen" actually exist, right?
+M	3075	It's a wooden chess piece. This is the one that goes next to the king.
+M	309c	...you mean the queen, right?
+M	30ad	Do you have any idea what this chess piece might mean?
+M	30c1	It must have something to do with that hospital. My dad took good care of his chess set. That's really odd for him to be carrying one of the pieces around with him.
+M	30fe	Maybe this piece's rank has some meaning.
+M	3118	Maybe this chess piece has something to do with the name of the hospital.
+M	3139	This chess piece is a "queen," right?
+M	314f	Katrina, what do you think?
+M	3162	What about "Queens?" I bet the name of the hospital is "Queens".
+M	318b	Gillian, what don't you look for a hospital named "Queens?"
+M	31ac	Gillian?! Where are you looking?!
+M	31c1	You're looking somewhere weird again!! You're thinking something naughty, aren't you!!
+M	31e6	Gillian... don't stare so much.
+M	31fd	Please input something!
+M	3211	You haven't input anything at all!
+M	3228	...it's not on the list.
+M	3235	No. It's not here.
+M	3245	No, the name must be different.
+M	3257	Think hard about the name in that picture.
+M	3276	I'll bring up Little John's memory. Think carefully...
+M	329e	Maybe additional letters appear after the N.
+M	32bf	Yeah. Oleen something. Maybe Oleens, or Oleena?
+M	32dc	Come to think of it, that "Great Meals" sign in Alton Plaza was burned out, making a different reading, wasn't it.
+M	3310	Maybe that burned out "Great Meals" neon sign in Alton Plaza is some kind of a hint.
+M	3339	Yeah! I bet part of the neon is burned out!
+M	3361	If part of the sign was burned out, the letters would appear differently.
+M	337b	I get it! The neon's burned out! Now I've got it!
+M	339c	That's right! Jean had a chess piece with him. That must have some meaning.
+M	33ce	That's right! Jean had a chess piece with him. That must have some meaning.
+M	3400	I wonder what that chess piece was?
+M	3416	Think carefully about it. There is no hospital called "Oleen"...
+M	3444	...and part of the sign may have been burned out...
+M	346d	...and that chess piece must have had some meaning.
+M	348e	Wait. Maybe...
+M	349b	What?
+M	34a3	Oh, nothing. I just had a wild idea.
+M	34bd	Why don't we check Katrina's idea as well?
+M	34d7	I see. It's the name of the chess piece.
+M	34f5	That's the only thing I can think of from the chess piece.
+M	3512	That video image sure doesn't suggest it.
+M	3534	I think that's a bit different from Gibson's chess piece.
+M	354f	Gillian, I just checked that name.
+M	3567	Just to be on the safe side.
+M	3571	Check it again for me, will you?
+M	3586	You want to check it again? I don't think it will be there...
+M	35a4	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	35d4	That's the expense money that the agency gave you.
+M	35ec	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	3615	That's the chess piece that Gibson had.
+M	362e	That's the patient record with the name of a SNATCHER on it.
+M	3648	That's the object we found in the desk at Queens Hospital.
+M	3664	Those are the matches that we found at Queens Hospital.
+M	3680	That's the memo that Harry apparently wrote.
+M	3694	That's the memo that was in engineering.
+M	36ae	That's the visual image that was recovered from Little John's memory.
+M	36cc	That's the photograph that was hidden in the Chief's office.
+M	36e7	That's the picture of a temple that was on the wall at Queens Hospital.
+M	3709	It has an IC chip built-in which contains all of your personal data.
+M	3734	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	3757	This chess piece was being used to signal the name of Queens Hospital.
+M	377c	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	37a3	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	37da	It appears to be part of a patient's record. I wonder what this writing means?
+M	3802	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	382e	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	3855	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	3883	It's a picture of the neon sign at Queens Hospital.
+M	38a6	It appears to read "Oleen Hospital". It's no doubt the neon sign to some hospital.
+M	38d0	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	38fb	This is St. Basil's Cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	3929	All right, I'll save everything that has happened up until now.
+M	3940	Which file number would you like to save it in?
+M	394f	This file contains data from a previous save.
+M	3971	Is it okay for me to overwrite it with the new data?
+M	398c	In that case, I won't write the new data there.
+M	39aa	This file contains data from a previous save.
+M	39cc	Is it okay for me to overwrite it with the new data?
+M	39e7	In that case, I won't write the new data there.
+M	3a05	This file contains data from a previous save.
+M	3a27	Is it okay for me to overwrite it with the new data?
+M	3a42	In that case, I won't write the new data there.
+M	3a60	This file contains data from a previous save.
+M	3a82	Is it okay for me to overwrite it with the new data?
+M	3a9d	In that case, I won't write the new data there.

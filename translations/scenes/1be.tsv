@@ -1,0 +1,410 @@
+W	16f0	Area
+W	16f7	Room 301
+W	1702	Junker I.D.
+W	1711	Use Metal Gear
+W	1720	Montage photo
+W	1731	About Ivan
+W	1740	Search for Ivan
+W	174b	Ivan
+W	1752	Key
+W	1757	About Gibson
+W	1768	Gibson's photo
+W	1777	Garbage
+W	177c	Airboard
+W	1789	Snatcher
+W	1796	Don't save
+W	17a3	Save
+W	17ae	Save 1
+W	17b7	Save 2
+W	17c0	Save 3
+W	17c9	Save 4
+W	17d2	Disk
+W	17db	Trophy
+W	17e6	Door
+W	17eb	Knock
+W	17f6	Videophone
+W	1803	Plastic bag
+W	180e	Freeman
+W	1819	Plate
+W	1822	Mask
+W	1829	Move
+W	182e	Exit
+W	1837	Piece
+W	183a	Building
+W	183f	Show
+W	1846	Look
+W	184b	Scrap of paper
+W	1852	Cash
+W	1859	Possessions
+W	185e	Around room
+W	1863	Photo
+W	1868	Enter turbocycle
+W	1871	Evidence
+W	1878	Smell
+W	187d	Threaten w/gun
+W	1886	Gun
+W	1889	Residue in tub
+W	188e	About background
+W	1897	Interrogate
+W	18a0	Window
+W	18a3	Quit investigate
+W	18b0	Continue search
+W	18bd	Investigate
+W	18c4	Shelf
+W	18c7	Sunscreen
+W	18d2	Meter
+W	18d9	Fire
+W	18de	Ask
+W	18e3	Bottle
+W	18e6	Drugs
+W	18eb	Bathtub
+W	18f0	Talk
+M	18f5	This is Ivan Rodriguez's neighborhood.
+M	190b	According to the data in Jordan, this should be his neighborhood.
+M	1926	Ugh! This place is a real slum...
+M	1933	No district data networks have been installed here, so the Alpha-One network holds almost nothing on this area. It is nearly cut off.
+M	19a1	Those guys are still here.
+M	19b3	All right, let's head for apartment 301.
+M	19c9	Third floor, eh? Well, he won't be able to escape out the window.
+M	19e0	I wonder if anybody is actually living in this area?
+M	19fb	No sign of any maintenance in a long time. Completely neglected.
+M	1a1f	The place is utterly filthy. There are a few freemen here.
+M	1a44	Freemen? What are they?
+M	1a58	One of the focal points of the Neo Kobe North/South problem.
+M	1a75	Their actual lifestyle is not unlike that of the homeless. See, they're gathered around a fire.
+M	1aa5	How are they different from the homeless?
+M	1aaf	These people chose to live like this, many leaving good jobs to do so. It seems a rebellion against the authorities' control of information. One of Neo Kobe's biggest problems.
+M	1ae7	Maybe they know something. Why don't we ask them?
+M	1af7	They appear to be burning something in an empty barrel.
+M	1b17	Well, it gets pretty cold at night this time of the year.
+M	1b2e	I just hope they don't inadvertently start a bigger fire.
+M	1b41	It appears safe. The construction is still sound.
+M	1b5e	There appear to be some modifications to the structure. It is in violation of building codes.
+M	1b85	An officially recognized slum, outside the municipal data administration districts.
+M	1bb7	They don't appear to have any problem with illegal parking...more like illegal abandonment...
+M	1bd5	Many people apparently still live in there, and most seem reluctant to move on.
+M	1bff	Under these conditions, it is impossible to maintain accurate data on who is living where.
+M	1c2f	What? You actually want me to investigate him?
+M	1c44	That's right.
+M	1c4b	Please, Gillian. Be reasonable.
+M	1c58	Check it out real careful, okay?
+M	1c64	Ahh! This reeks!
+M	1c71	Hey! What do you think you're doing?
+M	1c7e	There is nothing suspicious here. Just filth and grime...
+M	1ca3	...and the kind of tough grease no ordinary cleanser can touch. That's why new Melt It! with hydrochloric action handles the heavy jobs...
+M	1cb1	Gillian, your stupid attempts at humor are more irritating than funny.
+M	1cd0	Eh? Something stinks...
+M	1cdb	Yes, it sure does...
+M	1ceb	They do not appear to have anything. Ugh! My olfactory sensors are nearing overload!
+M	1d10	Be careful. Hazardous smoke is also being emitted by the fire.
+M	1d31	They probably burn anything they find around here. These abandoned cars are next.
+M	1d61	There appear to be several hypodermic needles among the ashes.
+M	1d86	What? Drugs even in neighborhoods this poor?
+M	1d95	I read traces of "liquid sky". It's an illegal stimulant.
+M	1db4	They probably keep the fire going all day long.
+M	1dcf	Where does Ivan live?
+M	1de4	He's in apartment 301 of this building. That's the kid with that weird board thing, right?
+M	1e15	You mean the guy who's into sky, don't you? I hear he's always surfing.
+M	1e2d	Oh. That guy, huh?
+M	1e3b	I'm not sure I understand what you're talking about.
+M	1e4e	He seems to have come into some money lately.
+M	1e65	I've never been able to figure him out.
+M	1e7c	Hey! Was Ivan home?
+M	1e8c	By the way, did you find Ivan the other day?
+M	1ea9	No, he wasn't in.
+M	1eb9	Oh darn. That's too bad.
+M	1ed0	Could you tell me anything you know about a man named Ivan Rodriguez?
+M	1ef1	Was there anybody named that around here?
+M	1f01	You lie to me and you'll live to regret it!
+M	1f15	Now now, calm yourself. I'm trying to remember...
+M	1f37	Well, can you recall anything?
+M	1f45	Not yet.
+M	1f51	I think I've seen this guy somewhere...
+M	1f60	They are just playing games with us, Gillian.
+M	1f73	Why don't you show them the montage we made?
+M	1f8b	Who's that?
+M	1f95	I don't know...I have trouble with my own name these days.
+M	1fb7	This guy really needs help...
+M	1fc2	Have you heard anything about SNATCHERS in this area?
+M	1fdd	SNATCHERS? Don't be stupid!
+M	1ffa	Even if there were any 'round here, you think they'd come after us?
+M	201c	There's nobody around here worth going after.
+M	2046	Nobody worries about them in these parts.
+M	2060	How long have you been living around here?
+M	2072	I used to be part of the development team that put together the Alpha-One network.
+M	20a2	So you were a programmer, huh? What happened?
+M	20b7	One day, I took a peek at some secret data in Alpha-One.
+M	20dc	That's impossible. Security on the system is...
+M	20ee	It was possible for me! I saw enough garbage and scum in that file to last me a lifetime.
+M	2129	People...they can sink pretty low, you know.
+M	2146	You may be right.
+M	2156	Why don't you become free, too? Join us here! You ever get sick of it all, just drop by.
+M	2180	I've got to get my past back before I can become free.
+M	21a3	Alpha-One has data on the development team in there. Take a look at it when you get a chance.
+M	21da	How long do you plan on staying around here.
+M	21ef	I'm not like the rest of these guys. I want to work. I just can't find any jobs.
+M	2223	No ID, right?
+M	222f	That's right. Even the unemployment office won't see me. Find me a job, will you?
+M	2250	Are you an immigrant?
+M	2257	As illegal as they come. I'd heard great stories about the place. Had a lot of dreams. Now look at me.
+M	228c	What about you?
+M	2294	Me? I just cut loose. I couldn't take any more of it. My family, my job... I was sick of it all!
+M	22c1	Here I feel like a child again. It's great! Every morning I wake up and decide what I want to do!
+M	22fb	No schedules man! Everyday's a blank slate!
+M	231f	A blank slate, eh?
+M	232b	Yeah. I really feel alive!
+M	2348	What about that old guy?
+M	2354	Him? He was abandoned by his son and daughter-in-law.
+M	2374	Abandoned?!
+M	237d	Yeah, he was in an old people's home, but they couldn't afford it. So they dumped him here.
+M	23ce	It's like a garbage heap for the elderly.
+M	23de	That's inhuman...
+M	23eb	We're taking care of him. You know, sometimes he calls out his son's name in the middle of the night.
+M	2422	Yeah, we know the videophone number of his son.
+M	243b	Why don't you give them a call for us?
+M	244d	Let's see... the number's 30-2501
+M	2461	All right, if I have some time.
+M	246f	Help us out, okay? It's for the old guy's sake.
+M	2486	Isn't that enough, Gillian? They have their own lifestyle.
+M	24ad	Hey, you called the old guy's son for us, didn't you?
+M	24ce	Did he come to pick him up?
+M	24d9	Yeah, the old guy was really happy!
+M	24ee	Thanks a lot. You're a good man.
+M	2506	I'm glad that worked out.
+M	2514	But the real problem is still Ivan.
+M	252a	Gillian, I think that's enough.
+M	2541	Are drugs available in this area?
+M	2558	Yeah, but they're way too pricey for us to buy.
+M	2576	There's a few buyers in the neighborhood.
+M	258c	Happens all the time around here.
+M	259f	Where would we even begin to look for him around here?
+M	25b9	I have no data on this area. We should try asking somebody.
+M	25e2	How about them over there? Let's try them...
+M	25f5	Let's try asking someone in the area. Isn't anybody around?
+M	2617	Something happen?
+M	2625	I bet my wife hired you to bring me back, right? No way! I won't go!
+M	265a	Hey, we haven't done anything.
+M	266d	What's that?
+M	267a	Please, give me a job!
+M	268a	You probably shouldn't be flashing cash around here, Gillian.
+M	26a0	Showing these people cash is an invitation to danger, Gillian.
+M	26c6	Well isn't this fun?
+M	26d7	Whoa! You caught me by surprise, there!
+M	26e7	What? Is today Halloween?
+M	26fa	Who's that?
+M	2704	A photograph! Wow, I haven't seen one of those in ages...
+M	271e	Has something happened?
+M	272c	Do you know this man?
+M	273b	Hmmm? That's that idiot Ivan.
+M	274e	Yeah! That's the fool himself!
+M	2762	That's definitely Ivan. No mistake there.
+M	2772	Hey! You guys!
+M	2783	What?
+M	278b	I need to talk to you!
+M	279a	Yeah?
+M	279e	What's this?
+M	27ac	Can I have it?
+M	27b5	Don't you have anything better than that?
+M	27c4	Don't you have anything to eat?
+M	27d0	We're at the door to apartment 301.
+M	27e2	No motion. He doesn't seem to be home. Let's come back another time, Gillian.
+M	2814	There's no motion at all. He's not home. Let's come back later.
+M	283d	It won't do us any good to wait. Why don't we head to your apartment and take a rest?
+M	2861	You are working too hard lately.
+M	2872	Maybe you're right. That sounds like a good idea.
+M	2881	You should call your wife once in a while, too.
+M	289d	There's nothing we can do here. Why don't we try Gibson's place...
+M	28ba	Why don't we see if we can learn anything more about Gibson.
+M	28da	Somebody is inside. We should investigate.
+M	28ef	What? Are you going to just leave?
+M	28ff	Let's come back some other time.
+M	2912	I'll knock on the door.
+M	291c	There is no answer.
+M	292a	That's funny...
+M	293d	There is no answer.
+M	294b	Why don't we try again later.
+M	295a	Perhaps we should try again some other time.
+M	2971	It says "Apt. 301 - Ivan Rodriguez".
+M	2991	It's an old-style door with a small peephole viewer installed.
+M	29aa	There's a man looking through from the other side. Perhaps it is Ivan.
+M	29c8	If someone is watching from the inside, we should be able to see his eye.
+M	29e5	There is an electric meter. It appears to be for this apartment.
+M	2a0c	There is a small window to one side of the door.
+M	2a22	Both apartments on either side appear to be abandoned.
+M	2a37	An old-style electric meter. Usage is shown by a counter and wheel.
+M	2a67	An electric meter. Outside any data district, so the company bills its users by hand.
+M	2a99	Something is covering the window from the inside. It's impossible to see in.
+M	2ab7	It's impossible to tell whether the lights are on or not.
+M	2ad3	It's the door plate for apartment 301. It's hand written, but accurate.
+M	2aff	The door is locked.
+M	2b13	Since we do not have a warrant, we can't open it unless we have a key.
+M	2b2f	Wait a minute! Electricity is being used!
+M	2b45	I read motion! Somebody is in the apartment.
+M	2b60	Just as the electric meter revealed, someone was in there, wasn't there?
+M	2b7c	There is definitely someone in there.
+M	2b89	The meter isn't moving enough for even basic appliances. It doesn't look like anyone is in there.
+M	2bb0	It's locked. It appears to have been closed for some time.
+M	2bce	It's too small for someone to get in through it.
+M	2beb	What? At a time like this? Let's do that later.
+M	2c05	This is no time to be placing calls, Gillian!
+M	2c1f	Ivan Rodriguez! I'm a Junker! Open up! I've got a few questions to ask you!
+M	2c4e	What do you want?
+M	2c5b	First, you open this door!
+M	2c6c	All right, all right. Just relax...
+M	2c86	Are you prepared Gillian? It isn't Insectors you're up against this time.
+M	2cb4	Yeah, I know. And I don't want any more of those nanomachine injections, either...
+M	2cd7	Sorry it took so long...
+M	2ce2	This is definitely Ivan Rodriguez's apartment.
+M	2d00	Gillian, why don't we try knocking?
+M	2d14	Gillian, look out!!
+M	2d25	He looks just like the montage, but he has quite a suntan.
+M	2d4e	Is it possible for a SNATCHER to get a suntan like this?
+M	2d6a	This room's really dark... I don't see anything suspicious, though.
+M	2d8c	The room is quite filthy. Wait! There are some trophies over here.
+M	2db5	No matter where you look, everything seems covered with grime.
+M	2dc9	It's a cheap ray gun purchased on the black market.
+M	2de5	It says "Runner Up: 12th Neo Kobe Air Surfing Championships".
+M	2e15	I get it, he's an air surfer.
+M	2e30	This doesn't look stolen. I believe it's his.
+M	2e4c	Without a scanning warrant I can't do a full analysis, but visually there are no cancerous lesions despite his deep tan.
+M	2ea2	No abnormal growths on his skin. To be safe I also checked the glycosphingolipids of the epidermis: no irregularities. His skin is healthy and tanned.
+M	2f12	I can detect no evidence that he is a SNATCHER from his skin.
+M	2f2f	An old suction-type cleaner, packed with waste. He isn't too concerned about cleanliness.
+M	2f62	I am unable to detect any SNOW-9. There is nothing in the room to suggest that he may be a SNATCHER.
+M	2f9b	A "Saturday Night RG-11": a toy gun modified to fire real shells. A very low-grade weapon.
+M	2fcf	It's a good thing for you it didn't have much firepower.
+M	2fea	Yeah, I took five hits back there...
+M	2ff9	That was a stroke of good luck, wasn't it Gillian?
+M	3010	I took four hits, but with a gun like this...
+M	302a	Well, with a gun like this...
+M	3039	Well, with a gun like this, I suppose 3 hits is survivable...
+M	304f	Don't worry Gillian, with a weak weapon like this...
+M	3074	Yeah, your little nanomachines will be able to fix up the two hits, right?
+M	3092	You aren't hurt too badly.
+M	30a7	Well, I took a hit, but considering the gun he used...
+M	30c1	It appears to be a real trophy.
+M	30d3	It's just plated, so there is no real gold in it.
+M	30ed	Aged organic matter and the usual secretory organisms. Nothing in his garbage says he is a SNATCHER.
+M	3125	If he was a SNATCHER, there is bound to be some evidence in his garbage.
+M	3148	Hey! What did you come out shooting for?
+M	315b	I got hit five times back there, you know!!
+M	316f	I got hit four times back there, you know!!
+M	3183	I got hit three times back there, you know!!
+M	3196	I got hit twice back there, you know!!
+M	31a9	You shot me once back there, you know!!
+M	31bb	You're a SNATCHER, aren't you?
+M	31c7	Come on! Reveal yourself, SNATCHER!!
+M	31d4	I don't know what you're talking about, man!
+M	31e3	You got the wrong guy, I swear!
+M	31f5	..........
+M	31fe	He seems to be behaving strangely. Don't let your guard down!
+M	3220	Ahh! Stop.. Stop it, man!
+M	322d	Hey! Don't shoot, okay?
+M	323a	S..Stop that, all right? Somebody save me!!
+M	324f	Come on, man. Go easy on me, will ya'?
+M	3263	He seems terrified, Gillian. The gun is probably counterproductive.
+M	327f	This is Ivan's bathroom.
+M	328d	My goodness. This place is just as disgusting as the living room.
+M	32af	An airboard is leaning against the wall.
+M	32d3	It's really a mess. It looks like he has been washing his surf gear in here.
+M	32f5	The tub is filled with dirty water.
+M	3308	I believe all efforts at personal hygiene in this bathroom would be fruitless.
+M	331f	Wait! There is a bottle here! Maybe it is sunscreen.
+M	3347	It's not sunscreen, it's suntan oil, designed to enhance the sun's effects.
+M	336c	There is no label. The bottle differs significantly from the one at Jean's house.
+M	3395	It's an airboard. It's design reflects the latest aeronautic technologies.
+M	33c7	Very expensive, high-quality equipment. Quite out of place in this room.
+M	33ee	Well, this board is probably his whole life.
+M	340a	It contains liquid sky in crystalline form.
+M	3427	There is some kind of powder in it.
+M	343e	An air surfing helmet, protector and air fins are lying about.
+M	346b	The floor is absolutely filthy. It looks more like the floor of a cattle barn than of a bathroom.
+M	3492	It appears completely unwashed. It's soiled in a striped pattern.
+M	34b8	Oh my! What's this?
+M	34c4	What? Did you find a snake scale or something?
+M	34de	This filth... I'll be having nightmares about it.
+M	34f4	Not only is it filthy, but it has become discolored.
+M	350e	Metal, analyze the contents of this for me, will you?
+M	3526	It's not sunscreen. It's suntan oil. It shows no signs of having been used recently.
+M	355f	Sunscreen and suntan oil are like day and night.
+M	3591	It's a standard commercial suntan oil product. The label on the bottle confirms this.
+M	35bd	What's so funny? Just check it out for me.
+M	35d7	Hmm. A crack in the bottom of the board. Something's jutting out... a plastic bag.
+M	360e	It appears that there is some kind of inner chamber in the board.
+M	362b	Well, the board has been very well maintained. It's quite shiny from several layers of wax.
+M	3656	This.. these are illegal drugs!
+M	3668	And it looks like "liquid sky", the stimulant that's killing a lot of its addicts.
+M	36b3	So the story we heard from the people outside was true.
+M	36cd	This is a powdered form of "liquid sky," isn't it?
+M	36e8	Plenty of organic residue and organisms in the water here. Nothing says he is a SNATCHER.
+M	3720	The water residue registers the same as the garbage examined earlier. Nothing unusual detected.
+M	3744	What a horrible smell...
+M	3753	Based on your reaction, I would say that there is no SNOW-9 here either.
+M	377e	There is no pollen in the room that would indicate the presence of a SNATCHER.
+M	37a6	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	37d6	That's the expense money that the agency gave you.
+M	37ee	That's the memo where Gibson told you where the data on the SNATCHERS' weak point is.
+M	381e	I wonder what "Search the house!" means?
+M	383c	That's the key to Gibson's desk.
+M	3854	It's an exceptionally old antique.
+M	386a	That's the chess piece that Gibson had.
+M	3883	It's the chess piece that we found in Gibson's coat.
+M	38a0	That's the floppy which contains data on the SNATCHER'S weak point.
+M	38bd	That's a floppy disk for a personal computer.
+M	38d2	That's the sunscreen that the SNATCHERS are using...if Gibson's theory is right.
+M	3906	And we've found out what we needed at Plato's Cavern.
+M	3920	It's ordinary sunscreen. There's a sticker with the logo of the store where it was purchased on it.
+M	394f	That's the mask that you bought at Plato's Cavern.
+M	3971	That's an Easter Island statue mask.
+M	397e	That's a Mummy mask.
+M	398b	That's a picture of Jean Jack Gibson.
+M	39a4	That's the montage that we built using witnesses' testimony.
+M	39c5	It has an IC chip built-in which contains all of your personal data.
+M	39f0	In principle you may charge the Agency whatever your investigation needs.
+M	3a13	That's the memo that Jean left.
+M	3a24	It's written on ordinary paper. It's definitely in Jean's handwriting.
+M	3a4a	That's the key to Gibson's desk in the Detective's Room.
+M	3a62	What could this key be? I don't believe there are still any places which use keys like that.
+M	3a95	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	3abc	That's a wooden chess piece.
+M	3ad5	That's the disk with Gibson's notes in it.
+M	3af2	That's a 5-inch floppy disk.
+M	3b07	On the bottle it says "The store with everything: Plato's Cavern".
+M	3b32	It definitely looks like it was being sold at Plato's Cavern.
+M	3b4f	We might learn something if we check out the place this was bought.
+M	3b71	It's a special, high-detail mask, hand-crafted by the popular Rick Bakery.
+M	3b98	That's a picture of Jean Jack Gibson.
+M	3bb1	That's a composite, 2-D photograph assembled from Jordan's 3-D data.
+M	3bcd	It was taken from the chess set at Jean's home. What could it mean?
+M	3bfd	Jean really liked puzzles.
+M	3c16	This must have some secret meaning.
+M	3c2a	Jeez, this really looks like Ivan.
+M	3c40	You have to be impressed by Alpha-One's search capabilities.
+M	3c61	The house? Come to think of it, I don't have a house to come home to.
+M	3c83	Do not get so depressed, Gillian. You'll be able to live with Jamie again sometime.
+M	3cad	A home and family, eh? Those may not go along too well with being a Junker.
+M	3ccf	We still have a lot left, don't we?
+M	3cde	There is considerably less since you gorged yourself.
+M	3cfd	Stop trying to make me look bad! That was necessary expense money!
+M	3d1f	Actually... (since it was cash, they'll never know how much I spent if I keep quiet!)
+M	3d4f	Did you say something?
+M	3d5c	No, no. Nothing.
+M	3d69	You probably shouldn't flash your cash around in this area.
+M	3d8f	You think somebody would come after it?
+M	3d9d	Yes. And they won't care if you're a Junker, a girl scout, or what.
+M	3db1	All right, let's return to the investigation.
+M	3dc6	All right, now ending the investigation.
+M	3ddd	All right, I'll save everything that has happened up until now.
+M	3df4	Which file number would you like to save it in?
+M	3e03	This file contains data from a previous save.
+M	3e25	Is it okay for me to overwrite it with the new data?
+M	3e40	In that case, I won't write the new data there.
+M	3e5e	This file contains data from a previous save.
+M	3e80	Is it okay for me to overwrite it with the new data?
+M	3e9b	In that case, I won't write the new data there.
+M	3eb9	This file contains data from a previous save.
+M	3edb	Is it okay for me to overwrite it with the new data?
+M	3ef6	In that case, I won't write the new data there.
+M	3f14	This file contains data from a previous save.
+M	3f36	Is it okay for me to overwrite it with the new data?
+M	3f51	In that case, I won't write the new data there.

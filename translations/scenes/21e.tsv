@@ -1,0 +1,457 @@
+W	1b1d	Show Rock
+W	1b2c	Show Scissors
+W	1b3d	Show Paper
+W	1b4c	Area
+W	1b53	Junker I.D.
+W	1b62	Memo
+W	1b6b	Use Metal Gear
+W	1b7a	Monitors
+W	1b83	Turn on light
+W	1b90	Little John
+W	1b9d	Chart
+W	1ba4	Push switch
+W	1bb1	Switches
+W	1bba	Don't save
+W	1bc7	Save
+W	1bd2	Save 1
+W	1bdb	Save 2
+W	1be4	Save 3
+W	1bed	Save 4
+W	1bf6	Neon
+W	1bfd	Videophone
+W	1c0a	Switch 1
+W	1c13	Switch 2
+W	1c1c	Switch 3
+W	1c25	Matches
+W	1c2c	Move
+W	1c31	Video memory
+W	1c3e	Desk top
+W	1c45	Descend stairs
+W	1c50	Stairs
+W	1c55	Exit
+W	1c5e	Piece
+W	1c61	Building
+W	1c66	Look
+W	1c6b	Look around
+W	1c72	Temple
+W	1c77	Cash
+W	1c7e	Possessions
+W	1c83	Around room
+W	1c88	Enter Turbocycle
+W	1c91	Operating table
+W	1c98	Reception desk
+W	1c9d	Floor
+W	1ca0	Evidence
+W	1ca7	Red Square
+W	1cb0	Go inside
+W	1cb9	Investigate
+W	1cc0	Shelf
+W	1cc3	Motion detector
+W	1ccc	Ceiling
+W	1cd1	Door 1
+W	1cd6	Door 2
+W	1cdb	Door 3
+W	1ce0	Door
+W	1ce3	Peep
+W	1ce8	Containers
+W	1ced	Talk
+M	1cf2	We're now at Queens Hospital.
+M	1d07	This is Queens Hospital.
+M	1d1d	That sign! That's the one that was in Little John's memory! No mistake!
+M	1d4d	All right Random, let's go.
+M	1d5c	I'm ready for anything.
+M	1d6a	All right. I'll open the door.
+M	1d7e	All right. I'll open the door.
+M	1d92	Before that, I have to investigate the door lock system being employed in order to be able to open it.
+M	1db7	The building dates from the 20th century. There is no sign that they are in business.
+M	1de7	The building is not typical of those constructed as hospitals. It was probably originally used as an office building, or for some other purpose.
+M	1e12	This sign looks like it says "Oleen" even from quite close.
+M	1e32	Sometimes people's preconceived notions are capable of distorting reality, aren't they.
+M	1e53	There is a rather wide road passing by the hospital. A number of cars are parked illegally on it.
+M	1e7c	A surprising number of people are in the area. Car and pedestrian traffic is quite heavy.
+M	1ea0	It's their camouflage.
+M	1eb4	It's an old-style electronic-lock door.
+M	1eca	It's a round, pillar-shaped building of the kind that were popular at the end of the last century.
+M	1eed	Although it is quite aged, it appears to have been adequately maintained.
+M	1f13	An old building like this wouldn't attract anybody's attention.
+M	1f2c	They really thought it through, didn't they. Underground operations...
+M	1f45	The only entrance appears to be at the front of the building.
+M	1f5d	Not surprisingly, part of the neon sign is, in fact, burned out.
+M	1f74	The broken neon tube is flickering occasionally.
+M	1f87	This area is directly above a section of the abandoned "Tube-Liner" subway system. It seems to have gone downhill since the trains stopped running.
+M	1fda	The subway, eh? That's rather suspicious. It looks like Jamie may have been right.
+M	1ffe	I've confirmed it on my internal geographic records. One of the old subway lines passes directly under here.
+M	201f	Most of the ground in Neo Kobe is too soft to allow underground digging...
+M	2049	It's facing a street, but things do not seem to be particularly well-developed.
+M	2074	We are quite a distance from any shopping or residential areas.
+M	2091	I've got the data from earlier visit recorded, so you can open it at any time.
+M	20b7	I've already stored this door's access number.
+M	20d6	The door is locked, but even I can open a mechanism this simple.
+M	20f9	Don't set off any burglar alarms or anything.
+M	210c	Random, what do you think?
+M	211a	I'll know when I get in there.
+M	2128	Do you sense anything?
+M	2133	Yeah, their foul breath! I don't need no sensors to tell me what I need to know!
+M	2159	Is that some special sense you bounty hunters have?
+M	216e	Won't do us any good to discuss this out here. Let's head in.
+M	2191	All right, let's approach the hospital...
+M	21a6	This is the main entrance.
+M	21b2	I'll enter Queens Hospital's security program and disable the lock.
+M	21d7	All right, now entering their security system...
+M	21f2	...lock disabled.
+M	2204	We're in the hospital's hallway.
+M	2215	We're inside the hospital.
+M	2224	It's really quiet in here.
+M	2231	There has to be an entrance to the lower level in here somewhere.
+M	224e	Awfully dark...
+M	2257	If you're cutting out, you're doing it alone. I'm going to check this place out!
+M	2279	Gillian, you chickening out on me, or what?
+M	228c	Gillian, let's investigate the hospital.
+M	22a4	...going outside?
+M	22b4	There is a reception booth in the center of the lobby, and three doors along the wall behind it.
+M	22dd	This looks like the waiting area.
+M	22f5	There is dust everywhere.
+M	2305	There are no tracks in the dust that would indicate recent passage.
+M	2319	...the only ones are those we have made.
+M	232f	So that means these tracks are yours, eh? Well I'm impressed. Now everybody in the world knows you were in here!
+M	2367	There is nobody in the booth. The monitors are switched off.
+M	2387	Pretty lonely reception area.
+M	2395	There are three switches.
+M	23a9	I'm not picking up any movement. There is nobody else in the area.
+M	23c8	It appears that it has been left like this for some time.
+M	23e7	I see... This is part of their camouflage, too.
+M	23fe	Well, if they're not in business at the moment, what's the neon sign on for?
+M	2419	If it appears abandoned, homeless and other people may move into the building.
+M	2445	What filth! There's no operational hospital in the world with floors this dirty!
+M	2472	There are no new footprints. Apparently things have been left this way for a number of months.
+M	24a0	There is dust on everything. I don't see any footprints.
+M	24bf	Nothing has changed since our last visit.
+M	24d6	So that means that nobody's in here, eh?
+M	24ef	That would appear to be the case. I cannot detect any footprints besides ours.
+M	2516	There are switches which open the doors.
+M	252b	A solid layer of dust has collected. It hasn't been operated for several months.
+M	2551	What's this? There are some kind of switches here.
+M	2568	The switches have dust on them. It looks like they haven't been operated in a long time.
+M	2596	These switches operate the doors by remote control.
+M	25b3	Gillian, look at this.
+M	25c9	It says "Door Control: 1 - 2 - 3". These switches must be for those doors over there. Apparently they are operated from here.
+M	261b	I wonder what these switches are for?
+M	2631	They do not appear to be automatic doors. There must be some kind of a control somewhere.
+M	265d	So what do you think of this hospital.
+M	2673	Well, it definitely looks like it's not being used. Still, I sense something. Probably their smell.
+M	269e	Everything has just been abandoned as it was.
+M	26b1	Let's check another room.
+M	26c3	...what about that far room?
+M	26d2	I'll push switch #1.
+M	26df	...Door #1 closed.
+M	26f5	...Door #1 opened.
+M	270a	I'll push switch #2.
+M	2717	...Door #2 closed.
+M	272d	...Door #2 opened.
+M	2742	I'll push switch #3.
+M	274f	...Door #3 closed.
+M	2765	...Door #3 opened.
+M	277a	The only footprints are those that we left.
+M	2796	So we are the only ones who have been in and out of here, eh?
+M	27aa	That door is open.
+M	27ba	That door is closed.
+M	27cb	We're in room #1.
+M	27da	Looks like an operating room.
+M	27e6	Moving out to the hallway.
+M	27f6	Let's go out to the hallway.
+M	2808	Moving out to the hallway.
+M	2818	Let's take a look out in the hallway.
+M	282a	All right, now moving out to the hallway.
+M	2840	Not much we can do...let's take a look out in the hallway.
+M	285a	There is an operating table. It would appear that this room was used for surgery or treatment of some kind.
+M	2882	It appears to be a very well-equipped operating room.
+M	28a2	X-ray equipment is installed into the walls.
+M	28bc	Camera and lighting equipment for surgery are everywhere.
+M	28dd	It's a virtual reality monitor to support the surgeon as he conducts the operation.
+M	2902	These monitors are for displaying the images from various types of internal body cameras.
+M	2918	It's an ordinary operating table.
+M	292a	There is a layer of dust on the sheet.
+M	293e	I'm not reading any motion. There is no one in the area besides us.
+M	295e	I'm not reading any traces of SNOW-9.
+M	2972	This is really bugging me!
+M	2984	There has been no maintenance of this equipment for some time. It would take some work before it could be used.
+M	29b0	The lens is clouded over.
+M	29c0	They're covered with dust. There is no sign that they've has been used recently.
+M	29e4	The monitors are shut off.
+M	29f5	It's an adjustable bed, but it's covered with dust. There is no sign that it has been used recently.
+M	2a24	Judging from the distribution and thickness of the dust, there is no sign that it has been moved recently.
+M	2a4a	We ain't here to do the year-end cleaning, you know.
+M	2a68	Now looking about the room.
+M	2a76	Everything seems to be in order.
+M	2a8d	I don't believe anything is hiding in the room.
+M	2aa0	Jeez, you're really paranoid, too.
+M	2ab0	Really? I don't know. Something about this bothers me...
+M	2ac5	What do you think this room was used for?
+M	2ad9	Surgery, right? But it's not used now. Something weird about that?
+M	2b00	So it's just another ploy of theirs, eh?
+M	2b0f	After seeing all of this, I think most guys would head home.
+M	2b2c	There's got to be a way to get to the lower level somewhere.
+M	2b44	Let's check out the other rooms.
+M	2b56	So it has to be that room, eh?
+M	2b69	We're in room #2.
+M	2b78	Some kind of a research lab?
+M	2b83	It appears to be some kind of research facility for biological experiments.
+M	2b99	A number of specialized devices and machines are located throughout the room.
+M	2bbb	It's like something out of an old science-fiction movie.
+M	2bd2	Genital-manipulators, various lasers, micro-surgery implements... the place seems well-equipped.
+M	2c0b	Once abandoned like this, even the most costly equipment is useless.
+M	2c2c	Just like a dentist.
+M	2c3e	There are jars for preserving items in formaldehyde, and a number of other containers and chemicals.
+M	2c64	There are various types of biotech equipment. They were apparently carrying out some rather involved project.
+M	2c90	All of these are -- well, used to be -- extremely high-quality monitors.
+M	2cb7	It's a very expensive monitor, with super high-resolution for medical applications.
+M	2cdb	There is nothing pleasant in any of the containers.
+M	2cf6	Some contain specimens. I'd rather not look too closely at them...
+M	2d17	Jeez... None of this stuff looks like it would be any good with beer.
+M	2d28	There is nothing alive here... This place really gives me the creeps.
+M	2d4c	Equipment and supplies for experiments have been left right where they were when they were being used.
+M	2d6a	If the SNATCHERS are going to show, I wish they'd hurry it up. This is getting pretty boring.
+M	2d88	It's got cobwebs on it. There is no sign that this room has been used at all.
+M	2db3	I would suspect that it would be difficult to artificially create the rundown condition of this equipment.
+M	2dd8	There is no sign that any of the containers or chemicals have been touched. They are all covered with an even layer of dust.
+M	2e09	There are a number of pieces of equipment, but none of them are set up for operation.
+M	2e2d	The amount of dust is the same as in other areas.
+M	2e44	This equipment would need extensive maintenance before it could be used.
+M	2e65	For some reason, a large number of the containers are empty.
+M	2e7b	Some of the containers are broken.
+M	2e90	So this was their research lab, eh?
+M	2ea5	Yep. Just a glorified closet now.
+M	2eba	No sign of any way downstairs in this room, is there?
+M	2ed5	Let's check out the room next door.
+M	2ee7	That room on the end seems a little suspicious, doesn't it!
+M	2efb	Hmm? It's totally dark in here... Can't see a thing.
+M	2f10	I have a light installed just for situations like this. Please use it if necessary.
+M	2f48	Gillian, let's try switching my light on, shall we?
+M	2f5f	Pitch black in here, ain't it...
+M	2f77	If there's a way down, it has to be here.
+M	2f98	I bet you're right, Gillian.
+M	2fa8	Gillian, let's check out that vase.
+M	2fc0	Just a little more... Let's check out this room.
+M	2fdc	I'm shutting my light off, Gillian.
+M	2ff0	It's a picture of St. Basil's cathedral.
+M	3005	What's this? Looks like a castle or something...
+M	301c	It really does look like a castle...
+M	302c	It's a photograph of St. Basil's cathedral in Moscow.
+M	304e	It's a picture of some kind of a temple. It looks somewhat Islamic...
+M	306e	I think I've seen that thing somewhere before... Damn! I just can't remember.
+M	3095	There is nothing on the desk.
+M	30a8	There's something on the desk.
+M	30b8	...it's a drawer.
+M	30c8	What's this?
+M	30d4	"Face to face". Doesn't this look like the picture that's on the wall of the Chief's office?
+M	3108	That's a famous optical illusion, isn't it? ...I get it, their eyes don't register optical illusions. We better check that out.
+M	3146	It's not something a human would notice easily. It could be a sign of some kind.
+M	316c	I see... "Face to face". This could mean something. Let's check it out.
+M	319c	...it's a vase. There are no flowers in it.
+M	31b7	There are rails on the floor.
+M	31cd	Now this is just a little suspicious. I bet this is the way downstairs.
+M	31ec	Rails? That's funny. Maybe this is the way to the lower level.
+M	320b	What's wrong with this picture, kids? These rails are out of place.
+M	3224	Maybe that vase is some kind of switch?
+M	323a	There must be a switch somewhere.
+M	3253	...It's a monitor.
+M	3260	It looks like one for a personal computer.
+M	3275	It's a whiteboard. Nothing is written on it.
+M	3292	It's a whiteboard, of the type used for messages, lectures, or other functions.
+M	32b0	It's a very old photograph. Judging from the condition of the inks and paper, I would suspect that it is at least 50 years old.
+M	32e6	What's a picture like this doing on the wall here? Metal, what is this a photo of?
+M	3310	One moment, please. I'll scan my data files...
+M	3327	I have a positive ID. It's the Cathedral of St. Basil. It's a famous cathedral that was a Moscow landmark before the Catastrophe.
+M	3363	St. Basil's cathedral? Have I heard of that? I can't seem to remember.
+M	3394	Come to think of it, there was a map of Moscow on the wall in Freddy Nielsen's apartment, wasn't there.
+M	33c5	Moscow, eh? What connection do the SNATCHERS have with Moscow?
+M	33e5	That's where the matches were.
+M	33f7	There is a box of matches on the desk.
+M	340d	Oh my! These matches are from Outer Heaven!
+M	342a	Outer Heaven seems to be quite a popular spot with our SNATCHER friends. I would suspect that they go there to select their victims.
+M	347f	I will store these matches as evidence.
+M	3490	...we've already checked out that drawer.
+M	34ac	Let's investigate this drawer.
+M	34c0	...that's too bad. There is nothing there.
+M	34db	I bet this vase is some kind of a switch.
+M	34f6	All right, I will try lifting it up.
+M	350c	Oh!
+M	3513	The desk slid to one side, revealing a stairway leading down!
+M	3536	It's a simple vase.
+M	3546	It's a completely ordinary vase.
+M	3556	They run under this desk. Perhaps this desk is designed to slide?
+M	3586	I think you're right.
+M	3595	...pushing it doesn't do any good. It won't budge.
+M	35a9	It's a monitor designed for use with a computer.
+M	35be	It's a whiteboard with a copy prevention device installed.
+M	35d9	Really? Specially designed for use by bad guys, eh?
+M	35ee	What do you think of this room?
+M	35fe	The lack of lights is weird. I can't think of any reason for that.
+M	361e	So maybe the SNATCHERS don't need lights, huh?
+M	3636	This room may have some kind of a trap or other device in it.
+M	3652	What do you think of this room?
+M	3665	The lack of lights is weird. I can't think of any reason for that.
+M	3687	So maybe the SNATCHERS don't need lights, huh?
+M	36a1	This room may have some kind of a trap or other device in it.
+M	36c0	What kind of a "device" are you talking about?
+M	36cd	...why don't we just take a good look around.
+M	36df	What kind of a "device" are you talking about?
+M	36ed	...why don't we just take a good look around.
+M	3701	Metal, is your light on?
+M	3712	It's been on for some time! Do you have night-vision trouble, Gillian?
+M	372f	Oh jeez...
+M	373a	The light is already on, Gillian.
+M	374f	All right, turn your light on.
+M	375f	Yes sir. Coming on...
+M	3776	The light is now on. I turn control of it over to you, Gillian.
+M	3799	Move it with the pad. Hold button II and the direction pad moves the light. Let go of button II to return to the commands.
+M	37f4	Make sure that objects you wish to examine are centered in the light's beam.
+M	381a	You have the honors, Gillian.
+M	3827	I'll let you handle it, Gillian.
+M	3834	All right, I'll save everything that has happened up until now.
+M	384b	Which file number would you like to save it in?
+M	385a	All right, despite utter darkness, I will now save everything that has happened up to now.
+M	387e	I can't see very well, but which file number would you like to save it in?
+M	3899	This file contains data from a previous save.
+M	38bb	Is it okay for me to overwrite it with the new data?
+M	38d6	In that case, I won't write the new data there.
+M	38f4	This file contains data from a previous save.
+M	3916	Is it okay for me to overwrite it with the new data?
+M	3931	In that case, I won't write the new data there.
+M	394f	This file contains data from a previous save.
+M	3971	Is it okay for me to overwrite it with the new data?
+M	398c	In that case, I won't write the new data there.
+M	39aa	This file contains data from a previous save.
+M	39cc	Is it okay for me to overwrite it with the new data?
+M	39e7	In that case, I won't write the new data there.
+M	3a05	Huh...? Something just moved!
+M	3a1e	...Where? There's nothing there!!
+M	3a34	That's odd. Maybe it was just my imagination...
+M	3a4d	Wait a minute! I think I saw something move!
+M	3a67	What is it? A SNATCHER?
+M	3a77	No, it's a much smaller object than that.
+M	3a8a	Ah yes, another fly is it? Or perhaps a dreaded mosquito?
+M	3aa6	Wait a minute... It's larger than that.
+M	3ac2	Larger? What is it?
+M	3ad2	I have a positive identification!
+M	3ae0	It's a cockroach!
+M	3aeb	A cockroach?!
+M	3af4	Most unsanitary for a hospital.
+M	3b08	You can say that again.
+M	3b18	But it wasn't even that big when I got it from the toy capsule machine.
+M	3b32	...Did you say something?
+M	3b44	No... life sure is tough, huh.
+M	3b5a	The cockroach has vanished. It must have crawled under something.
+M	3b78	There is nothing there.
+M	3b8c	I don't see anything there.
+M	3ba1	Just my imagination, I guess. These things happen, you know.
+M	3bbf	There is nothing there.
+M	3bd3	I don't see anything there.
+M	3be8	The object you're aiming for is not centered in the light's beam.
+M	3c07	Place the object you want in the center of the light's beam.
+M	3c1d	Please indicate clearly the object you are referring to.
+M	3c3a	You have illuminated more than one object.
+M	3c50	I see nothing unusual.
+M	3c64	There is nothing there.
+M	3c75	It's too dark to identify anything.
+M	3c88	It's too dark for my optical sensors to function.
+M	3c9d	I've stored this photo in my memory.
+M	3cb5	We've checked it before. As you can see, there's nothing there.
+M	3cd3	You might have missed something. Let's check really carefully. You have to trust your instincts.
+M	3d06	We've checked it before. As you can see, there's nothing there.
+M	3d25	You might have missed something. Let's check really carefully. You have to trust your instincts.
+M	3d5a	Gillian, be quiet!! They will hear us if you make noise like that!
+M	3d7e	Quiet down, Gillian. We'll be heard.
+M	3d97	You never know where they may be hiding. Let's keep conversation to the absolute minimum.
+M	3dc2	Gillian, please be quiet. They will find us if we make too much noise.
+M	3de5	Gillian, be quiet!! They will hear us if you make noise like that!
+M	3e0a	Quiet down, Gillian. We'll be heard.
+M	3e24	You never know where they may be hiding. Let's keep conversation to the absolute minimum.
+M	3e50	Gillian, please be quiet. They will find us if we make too much noise.
+M	3e74	It appears to go straight down.
+M	3e8a	A door is visible below.
+M	3e98	Unlike the hallway, these stairs do not have any dust on them.
+M	3ebe	In other words, our friends use this, right?
+M	3ee0	Don't worry. It's well-built.
+M	3ef5	If these stairs can handle a SNATCHER, they won't have any trouble with us.
+M	3f1c	I don't read anything at the moment.
+M	3f30	My sensors are not picking anything up.
+M	3f43	Um, am I Rock...? ...Rocky Road?
+M	3f57	Quit stalling! You lost, Gillian. Now get up there and take the lead.
+M	3f7d	All right, all right... leave it to me! Come on, let's go.
+M	3fa0	I choose Scissors.
+M	3fab	I choose Paper.
+M	3fb4	I choose Paper.
+M	3fbe	I choose Rock.
+M	3fc7	I choose Rock.
+M	3fd1	I choose Scissors.
+M	3fdb	I choose Paper.
+M	3fe5	I choose Paper too.
+M	3fee	I choose Rock.
+M	3ff8	I choose Rock too.
+M	4001	I choose Rock!
+M	4009	It's a tie! Let's go again!
+M	4017	All right, on the count of... go!
+M	402b	Um, am I Scissors...? ...Chocolate?
+M	4048	Quit stalling! You lost, Gillian. Now get up there and take the lead.
+M	406e	All right, all right... leave it to me! Come on, let's go.
+M	4091	I choose Scissors.
+M	409c	I choose Scissors too.
+M	40a6	I choose... Scissors!
+M	40af	It's a tie! Let's go again!
+M	40bd	All right, on the count of... go!
+M	40d1	I choose Paper!
+M	40d9	It's a tie! Let's go again!
+M	40e7	All right, on the count of... go!
+M	40fb	There is still something about this room that we haven't examined yet.
+M	411a	Well let's hurry up and check it out.
+M	412f	There is still something about this room that we haven't examined yet.
+M	4151	Well let's hurry up and check it out.
+M	4168	Gillian, we still haven't figured out what these rails are for.
+M	4189	Gillian, we still haven't figured out what these rails are for.
+M	41ac	Now that you mention it, there were still a few things about that third room that we haven't cleared up yet.
+M	41d6	Let's investigate the third room.
+M	41f0	Damn, there's nobody anywhere. Is this really one of the SNATCHER'S hideouts?
+M	421b	Just relax, Gillian. It may not be much, but we have uncovered some clues.
+M	424a	Don't you think it's a little odd? There's no sign of anybody anywhere.
+M	426a	Why don't we head out, and see what we can make of the evidence we've gathered so far.
+M	428b	What don't we leave the hospital for now?
+M	42a5	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	42d5	That's the expense money that the agency gave you.
+M	42ed	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	4316	That's the chess piece that Gibson had.
+M	432f	That's the patient record with the name of a SNATCHER on it.
+M	4349	That's the object we found in the desk at Queens Hospital.
+M	4365	Those are the matches that we found at Queens Hospital.
+M	4381	That's the memo that Harry apparently wrote.
+M	4395	That's the memo that was in engineering.
+M	43af	That's the visual image that was recovered from Little John's memory.
+M	43cd	That's the photograph that was hidden in the Chief's office.
+M	43e8	That's the picture of a temple that was on the wall at Queens Hospital.
+M	440a	It has an IC chip built-in which contains all of your personal data.
+M	4435	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	4458	This chess piece was being used to signal the name of Queens Hospital.
+M	447d	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	44a4	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	44db	It appears to be part of a patient's record. I wonder what this writing means?
+M	4503	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	452f	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	4556	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	4584	It's a picture of the neon sign at Queens Hospital.
+M	45a7	It appears to read "Oleen Hospital". It looks like a neon sign of some hospital.
+M	45d1	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	45fc	This is St. Basil's Cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	462a	All right, I'll save everything that has happened up until now.
+M	4641	Which file number would you like to save it in?
+M	4650	This file contains data from a previous save.
+M	4672	Is it okay for me to overwrite it with the new data?
+M	468d	In that case, I won't write the new data there.
+M	46ab	This file contains data from a previous save.
+M	46cd	Is it okay for me to overwrite it with the new data?
+M	46e8	In that case, I won't write the new data there.
+M	4706	This file contains data from a previous save.
+M	4728	Is it okay for me to overwrite it with the new data?
+M	4743	In that case, I won't write the new data there.
+M	4761	This file contains data from a previous save.
+M	4783	Is it okay for me to overwrite it with the new data?
+M	479e	In that case, I won't write the new data there.

@@ -36,12 +36,12 @@ R	W1a43	sp13:387c:1
 R	W1a4a	sp03:38ae:281
 R	W1a59	sp07:38d9:181
 T	W1a6a	Q2
-T	W1a6f	Meiyo
+T	W1a6f	HONOR
 R	W1a76	sp18:383c:411
 R	W1a87	sp03:38be:81
 R	W1a94	sp18:3996:9
-T	W1a9d	America
-T	W1aa6	Alton Plaza Sighting
+T	W1a9d	AMERICA
+T	W1aa6	Seen at Alton
 R	W1ab7	sp17:3800:41
 R	W1ac4	sp08:3a0a:41
 R	W1ad3	sp05:3951:1
@@ -51,28 +51,28 @@ R	W1aea	sp18:38a2:1
 R	W1af3	sp34:3849:41
 R	W1b00	sp03:38f2:101
 R	W1b07	sp18:3a00:1
-T	W1b10	Anniversary
+T	W1b10	MEMORIAL
 T	W1b19	Gillian's House
 R	W1b24	sp17:382f:201
 R	W1b2f	sp21:3ad7:81
 T	W1b3c	Quiz
 R	W1b43	sp18:38ce:105
-T	W1b4a	Don't Know
+T	W1b4a	NO IDEA
 R	W1b53	sp05:3983:1
-T	W1b5c	War
-T	W1b65	Zeki
-T	W1b6a	So
+T	W1b5c	WAR
+T	W1b65	RAIGN
+T	W1b6a	RANE
 R	W1b6f	sp03:3832:41
 R	W1b7a	sp18:39f3:1
 R	W1b81	sp13:385c:911
 R	W1b8e	sp18:39f9:1
 R	W1b95	sp05:3c31:1
-T	W1ba0	Netarou
+T	W1ba0	RAINE
 R	W1ba9	sp09:3af3:1
 R	W1bb0	sp18:38c0:21
-T	W1bc1	France
+T	W1bc1	FRANCE
 R	W1bca	sp03:38d4:1
-T	W1bd1	All Together
+T	W1bd1	TOGETHER
 T	W1bda	Cupid's Love
 R	W1beb	sp03:39a0:41
 R	W1bf8	sp18:3967:1
@@ -459,3 +459,6 @@ R	M424b	sp35:78f3
 R	M425e	sp35:794b
 R	M4273	sp35:797b
 R	M4282	sp35:7999
+T	W1c02	UV therapy
+T	W1c75	Answer machine
+T	W1c80	Old man's house

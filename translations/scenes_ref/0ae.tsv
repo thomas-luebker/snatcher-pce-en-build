@@ -31,17 +31,17 @@ R	W221f	sp18:3b0d
 T	W2222	*
 T	W2225	No Call
 R	W222e	sp13:387c:1
-T	W2235	J_ Division
+T	W2235	Plato's Cavern
 T	W2246	Junker ID
 R	W2255	sp07:38d9:181
-T	W2266	J Division
+T	W2266	Plato's Cavern
 T	W2275	Q2
-T	W227a	Honor
+T	W227a	HONOR
 T	W2281	Ask Metal
 T	W2292	Composite Photo
 T	W22a3	Race
-T	W22aa	Dunno
-T	W22b3	America
+T	W22aa	NO CLUE
+T	W22b3	AMERICA
 T	W22bc	Alton Sighting
 R	W22cd	sp17:3800:41
 R	W22da	sp08:3a0a:41
@@ -51,35 +51,35 @@ T	W22fb	Kinky
 R	W2302	sp18:3800:1
 R	W2309	sp18:38a2:1
 R	W2312	sp03:38ba:1
-T	W2317	Revolt
-T	W2320	Memorial
+T	W2317	REVOLUTION
+T	W2320	MEMORIAL
 T	W2329	Gillian's
 R	W2334	sp03:3889:201
 T	W2343	Gibson's
 T	W234e	Quiz
 R	W2355	sp18:3831:1
-T	W235e	Dunno
+T	W235e	DUNNO
 R	W2365	sp18:3996:9
 R	W236e	sp05:3983:1
 R	W2377	sp14:39e0:1
-T	W2384	War
-T	W238d	Seki
-T	W2392	So
+T	W2384	WAR
+T	W238d	RAIGN
+T	W2392	RANE
 R	W2397	sp18:39f3:1
 T	W239e	Ask Out
-T	W23ab	Prince
+T	W23ab	REIGNE
 R	W23b2	sp03:383e:1
 R	W23bb	sp05:3c31:1
 R	W23c6	sp18:398d:1
-T	W23d1	Netarou
-T	W23da	Miss
+T	W23d1	RAINE
+T	W23da	ハズレ
 T	W23e1	Hang Up Phone
-T	W23f2	France
+T	W23f2	FRANCE
 T	W23fb	Freddy's
 R	W2406	sp18:38c8:1
 R	W240d	sp03:38cf:1
 R	W2414	sp18:397c:1
-T	W2421	Together
+T	W2421	TOGETHER
 T	W242a	Sea
 T	W242d	Where
 T	W2434	Update
@@ -182,7 +182,7 @@ T	M2bb6	What are you muttering about?
 T	M2bc6	All right, here comes the code word!
 T	M2bd7	Revolution?
 T	M2be0	A hundred days?
-T	M2be7	Please enter using kana.
+T	M2be7	Please enter using the keyboard.
 T	M2bf7	Way off!
 T	M2c01	You haven't entered anything, have you?
 T	M2c16	Still the same, huh.

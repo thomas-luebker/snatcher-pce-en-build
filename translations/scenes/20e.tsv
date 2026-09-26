@@ -1,0 +1,211 @@
+W	0c7f	Area
+W	0c86	Junker I.D.
+W	0c95	PC68
+W	0c9e	Memo
+W	0ca7	Use Metal Gear
+W	0cb6	Monitor
+W	0cbf	Little John
+W	0ccc	Alice
+W	0cd3	Patient record
+W	0cda	Katrina
+W	0ce5	Don't save
+W	0cf2	Save
+W	0cfd	Save 1
+W	0d06	Save 2
+W	0d0f	Save 3
+W	0d18	Save 4
+W	0d21	Sofa
+W	0d28	Door
+W	0d2d	Knock
+W	0d38	Matches
+W	0d3f	The shadows
+W	0d44	Move
+W	0d49	Video memory
+W	0d56	Exit
+W	0d5f	Living room
+W	0d64	Chess piece
+W	0d67	House
+W	0d6c	Look
+W	0d71	Call
+W	0d76	Temple
+W	0d7b	Cash
+W	0d82	Possessions
+W	0d87	Around room
+W	0d8c	Enter turbocycle
+W	0d95	Collar
+W	0d9a	Return to study
+W	0da5	Study
+W	0daa	Evidence
+W	0db1	Red Square
+W	0dba	Window
+W	0dbd	Footprint
+W	0dc2	Go inside
+W	0dcb	Investigate
+W	0dd2	Shelf
+W	0dd5	Ground
+W	0dda	Model
+W	0ddf	Backyard garden
+M	0de4	We've arrived at Gibson's house. What would you like to do?
+M	0e07	We're outside of the house.
+M	0e1a	All right, let's enter the living room.
+M	0e2b	All right, I'll open the door. Are you ready?
+M	0e41	Yeah. Open it!
+M	0e50	Gillian! Time is of the essence here! Get your courage up!
+M	0e71	We have to find Katrina, Gillian! Before it's too late...
+M	0e98	Katrina could be in trouble! Let's search the house.
+M	0ebd	Katrina! Are you here?
+M	0ecb	Katrina! Katrina!
+M	0eda	There is no answer.
+M	0eeb	There is no answer. Let's go in.
+M	0f04	There is no answer. Let's check the door.
+M	0f20	The lights are on, but nobody's home. Something must have happened here!
+M	0f4e	It seems like someone is home, but something is odd...
+M	0f6c	I can hear the noise of the street light's transformers. It's almost too quiet.
+M	0f90	Even from the outside there does not appear to be anything unusual.
+M	0fa9	The lights are on. Perhaps Katrina is home.
+M	0fc5	Not surprisingly, there is nothing of note outside.
+M	0fdb	Everything appears to be in order, but still...
+M	0fff	One can see that the lights are on from out here.
+M	1011	It's very faint, but I can hear something which sounds like human voices.
+M	1032	Something is odd here. Please use caution, Gillian.
+M	1052	It appears normal. There is no sign that it was damaged.
+M	1074	The windows are securely locked.
+M	1088	What's this? There are fresh footprints near the front door.
+M	10a8	A nearby street light is broken.
+M	10bc	It's a very quiet, upper-class neighborhood. There is nobody in the area.
+M	10dc	There is no sign of anyone in the area.
+M	10f0	Huh? It's not locked!
+M	1104	Katrina is always very careful! It's not like her to leave the door unlocked!
+M	1128	It's a rather small print -- 22.5cm in length. I would estimate it to be a woman's footprint.
+M	114f	It might be Katrina's...
+M	1165	I believe it is Katrina's. The prints head away from the house. Spacing indicates that she was running.
+M	1194	We've entered Gibson's living room.
+M	11a8	This is Gibson's living room.
+M	11b7	What about Katrina? Where is she?
+M	11cc	I don't see her. This is rather troubling.
+M	11ed	We oughta check outside.
+M	11ff	Let's check out the study.
+M	120d	We are the only ones here. Where could she have gone?
+M	122f	There is no one here. Perhaps she's been hidden or captured.
+M	124a	The television and data terminals are still on.
+M	1262	The satellite receiver and various information channels have all been left on.
+M	1284	It's a perfect miniature of Gibson's house. It's made from a cast, but the detail is excellent.
+M	12b0	The lights have been left on. What could have happened to Katrina?
+M	12d4	It's as if the only things missing from the house are the people.
+M	12ed	The monitors are all still hot. They must have been left on.
+M	130f	The service charge meter for the information channels shows a very high figure.
+M	132b	What's this?
+M	1332	I thought this was a window, but there is another shelf here. Why didn't I notice this sooner?
+M	1365	It's more of a glass block shelf set in the wall than a window. Trees in the garden are visible.
+M	1398	A model of a house is on the shelf.
+M	13ad	The house model is the only thing on the shelf. Its size fits the shelf perfectly.
+M	13d5	It's a music box, but there is nothing inside it.
+M	13f8	I didn't know Gibson had made a model of his house.
+M	1416	It appears that something was kept inside it.
+M	142a	This model may have some connection with our investigation.
+M	144d	True. After all, Jean left that "Search the house!" memo.
+M	146b	This may be what he was referring to. Still, we have to find Katrina!
+M	148f	This is Gibson's study.
+M	149e	Ah! This is...
+M	14ab	My goodness, what a shambles. Somebody has turned the place upside-down.
+M	14c9	...the SNATCHERS! They must have been looking for something!
+M	14eb	<<Ah... Achoo!>>
+M	14fa	Gillian! That sneeze!
+M	150a	Maybe SNOW-9?
+M	1514	...wait a moment. Let me analyze the air in the room.
+M	153b	Analysis complete. It's a very slight amount, but there are definitely traces of SNOW-9 here.
+M	1565	It would appear that SNATCHERS have definitely been here.
+M	1585	What about communications? Can you transmit?
+M	1592	Yes. The SNOW-9 isn't dense enough to block communications.
+M	15ba	They were worried about the location of their hospital getting out!
+M	15e1	Katrina must have discovered something related to that.
+M	15fd	I bet you're right.
+M	1609	Let's take a look at the garden. Alice should be out there.
+M	1622	Let's head back to the living room.
+M	1631	The room is a shambles. Things are scattered everywhere.
+M	1647	The monitor is broken.
+M	165b	It must have shorted out. There are traces of burns on the case.
+M	167b	The hard leather has been torn to shreds.
+M	1691	The down feathers are leaking out.
+M	16aa	Everything appears to have been smashed and broken.
+M	16bd	The machine is a total loss. It's a good thing we had already read the file on the disk.
+M	16ec	It was the last working PC68 in the world. It was a very rare item.
+M	170f	It appears to have been torn by a claw-like instrument of some kind.
+M	172a	Several cuts run perfectly parallel to each other, suggesting something like an animal's claws. It was not a knife or any other cutting tool.
+M	1766	Based on the condition of this room, it looks like they were looking for something.
+M	1786	I wonder what?
+M	178f	I don't know, but it could be the same thing we're looking for.
+M	17b1	Maybe they are trying to destroy some kind of data on themselves.
+M	17c4	We can't read it off the disk anymore, but I have it stored in my memory. Don't worry.
+M	17f7	This is the garden.
+M	1800	Huh? Where's Alice?
+M	1810	So Alice is missing, too.
+M	1824	Let's go back to the study.
+M	1833	There is nobody in the area.
+M	1847	There is nothing unusual. There is nobody around.
+M	1864	It's too dark for standard optical sensors. Night-vision sensors don't read anything, though.
+M	188a	Look! There's a collar on the ground!
+M	189d	It appears that something was dragged on the ground here.
+M	18b6	It's Alice's magnetic collar. Special devices around their yard prevent the dog from going beyond their property if it is wearing this collar.
+M	18fb	There is a registration number printed on the side. It is definitely the one Alice was wearing.
+M	191b	There is nothing unusual. It seems almost too quiet out here...
+M	193f	...there is nobody else here.
+M	1952	I feel like something else is out here... Maybe it's just my imagination.
+M	1972	I'm not picking up anything on infra-red or on my motion detectors.
+M	1992	It appears to have been torn apart.
+M	19a8	This tear is unusual. There is no way Alice would have had enough strength to do this.
+M	19cd	Alice is a Doberman. Thats not exactly the kind of dog that goes down easy.
+M	19f6	That's true -- if she was facing a human.
+M	1a0e	This garden doesn't lead anywhere. It was Alice's own private space.
+M	1a38	There is no way that Alice could have gotten out without going through the study.
+M	1a6e	I'm worried about Katrina. Let's see if she's in here.
+M	1a87	Good idea.
+M	1a90	Katrina! Katrina! Answer if you can here me!
+M	1ab3	Katrina! Katrina! Are you in here? It's me, Gillian!
+M	1ad6	There is no answer. Apparently she cannot hear you.
+M	1af4	There is no answer. Something must have happened.
+M	1b14	Alice may be in earshot.
+M	1b28	Why don't you call her?
+M	1b36	Alice! Alice! Here girl!
+M	1b49	C'mon Alice! C'mere girl!
+M	1b5f	There is no sign of her. She rather likes people, so she would no doubt come out if she was here.
+M	1b94	There is no sign of her. Something must have happened here.
+M	1bb7	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	1be7	That's the expense money that the agency gave you.
+M	1bff	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	1c28	That's the chess piece that Gibson had.
+M	1c41	That's the patient record with the name of a SNATCHER on it.
+M	1c5b	That's the object we found in the desk at Queens Hospital.
+M	1c77	Those are the matches that we found at Queens Hospital.
+M	1c93	That's the memo that Harry apparently wrote.
+M	1ca7	That's the memo that was in engineering.
+M	1cc1	That's the visual image that was recovered from Little John's memory.
+M	1cdf	That's the photograph that was hidden in the Chief's office.
+M	1cfa	That's the picture of a temple that was on the wall at Queens Hospital.
+M	1d1c	It has an IC chip built-in which contains all of your personal data.
+M	1d47	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	1d6a	This chess piece was being used to signal the name of Queens Hospital.
+M	1d8f	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	1db6	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	1ded	It appears to be part of a patient's record. I wonder what this writing means?
+M	1e15	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	1e41	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	1e68	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	1e96	It's a picture of the neon sign at Queens Hospital.
+M	1eb9	It appears to read "Oleen Hospital". It's no doubt the neon sign to some hospital.
+M	1ee3	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	1f0e	This is St. Basil's Cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	1f3c	All right, I'll save everything that has happened up until now.
+M	1f53	Which file number would you like to save it in?
+M	1f62	This file contains data from a previous save.
+M	1f84	Is it okay for me to overwrite it with the new data?
+M	1f9f	In that case, I won't write the new data there.
+M	1fbd	This file contains data from a previous save.
+M	1fdf	Is it okay for me to overwrite it with the new data?
+M	1ffa	In that case, I won't write the new data there.
+M	2018	This file contains data from a previous save.
+M	203a	Is it okay for me to overwrite it with the new data?
+M	2055	In that case, I won't write the new data there.
+M	2073	This file contains data from a previous save.
+M	2095	Is it okay for me to overwrite it with the new data?
+M	20b0	In that case, I won't write the new data there.

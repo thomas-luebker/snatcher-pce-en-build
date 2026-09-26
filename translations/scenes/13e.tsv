@@ -1,0 +1,633 @@
+W	21df	Area
+W	21e6	Other
+W	21ed	Ask again
+W	21fa	Bounty Hunters?
+W	220b	Junker staff
+W	221a	Junker rights
+W	2229	Junker job
+W	2234	About Junkers
+W	2245	Junker ID
+W	2254	Engineering
+W	2261	Use Metal Gear
+W	2270	Metal Gear
+W	227b	Monitor
+W	2284	Camera
+W	228b	About Katrina
+W	229c	About Jordan
+W	22a9	Use Jordan
+W	22b6	Gillian's
+W	22c1	About Gibson
+W	22d2	On Gibson
+W	22e1	Computer room
+W	22f0	Computer
+W	22fd	Snatchers?
+W	230e	Snatcher
+W	231b	Don't save
+W	2328	Save
+W	2333	Save 1
+W	233c	Save 2
+W	2345	Save 3
+W	234e	Save 4
+W	2357	Sofa
+W	235e	Tire
+W	2365	Detective's room
+W	236e	Navigators?
+W	237f	Navigator
+W	238c	Neo Kobe
+W	239b	About Harry
+W	23aa	On Harry
+W	23b7	Harry
+W	23be	Videophone
+W	23cb	Front pod
+W	23dc	Blaster
+W	23e7	Plate
+W	23f0	Poster
+W	23f9	About Mika
+W	2406	Mika's sizes
+W	2415	Her face
+W	241e	Her bust
+W	2427	On Mika
+W	2430	Mika
+W	2435	Rear desk
+W	243c	Picture
+W	243f	Exit
+W	2448	Leave
+W	2451	Office
+W	2458	Chief
+W	245d	Show
+W	2464	Look
+W	2469	Train
+W	2472	Training?
+W	247d	Factory
+W	2484	Money
+W	248b	Possessions
+W	2490	Photo
+W	2495	Range
+W	249c	Get in
+W	24a5	Get out
+W	24b0	Body
+W	24b5	Near desk
+W	24be	Reception
+W	24c5	Usage
+W	24cc	Window
+W	24cf	Enter
+W	24d8	Investigate
+W	24df	Bought
+W	24e6	Not bought
+W	24f1	Door
+W	24f4	Ask
+W	24f9	Wall photo
+W	2502	Wall
+W	2505	Talk
+M	250a	Welcome to Junker Headquarters. May I help you?
+M	252a	I'm afraid only Junker personnel are allowed inside headquarters.
+M	254b	Only authorized personnel are allowed beyond this point.
+M	2573	I'm afraid I can't let in anyone who hasn't identified themselves.
+M	2590	Excuse me, may I have your name, sir?
+M	25a6	May I ask what your business here is, sir?
+M	25b9	She's a beautiful oriental woman.
+M	25cc	She sort of looks like that actress, uh, what's-her-name.
+M	25e3	This looks promising. They've got some real beauties on the staff.
+M	260a	A heckuva lot better than the army, that's for sure.
+M	2620	It's just a Junker recruiting ad.
+M	2636	Not exactly in the best taste, if you ask me.
+M	264c	It looks like it leads into the inside of the Headquarters.
+M	2666	This looks like the only door into the Headquarters.
+M	2681	Looks like a government ad. They must be really short on people.
+M	269e	It's a 180 holographic printing. They must be on a tight budget.
+M	26c2	It's locked. It looks like the only switch for it is in the operator's pod.
+M	26eb	It seems I've got to get her to open it for me from that pod.
+M	2710	Oh well. Let's try talking to that young woman over here.
+M	272e	What organization are you with, sir?
+M	2742	I'm sorry, may I have your name, please?
+M	2755	It looks like a security camera.
+M	2769	Maybe I should try waving 'hi'?
+M	2779	It's one of those pod-type reception units where the operator sits in a shielded capsule.
+M	27a6	It's designed to protect the operator.
+M	27c0	This seems to be Junker Headquarter's lobby. Their security looks really tight.
+M	27e5	Looks like an entrance to a vault.
+M	27f7	There's nobody around but the operator.
+M	280d	It looks like they're monitoring the offices.
+M	2822	The shield is heat- and shock-proof, built to withstand a SNATCHER attack.
+M	2847	Not even a tank could break through this.
+M	285e	It's no use. She's protected by a shield.
+M	2877	It's too bad I can't get in there. She's truly gorgeous.
+M	2890	Are you interested in Junker operations?
+M	28a9	Are you here to answer the Junker help-wanted advertisement?
+M	28c4	If I wander around too much, I'll make a bad first impression.
+M	28e3	I must look really uptight. Maybe I'd better stop wandering around.
+M	290c	The Chief always monitors the feed from that camera.
+M	2926	I know it seems a bit much, but it's supposed to protect from SNATCHERS.
+M	2943	What? SNATCHERS even attack up here?
+M	2959	Yes, it's happened several times before. They're not stupid, you know.
+M	2989	This is some pretty heavy-duty stuff they've got here. This place may be more dangerous than I thought.
+M	29b1	Well, how do you like it? I bet you'd like to see the office, right?
+M	29d5	You're really very pretty.
+M	29e4	...thank you.
+M	29f1	An honor to work with someone as beautiful as you.
+M	2a0a	Well...thanks. I'll take that at face value.
+M	2a27	Somehow I feel like we've met before.
+M	2a44	I bet you use that line on all the girls, right?
+M	2a63	The official Junker name and trademark appear on it.
+M	2a86	It's some kind of plate with the official Junker name on it.
+M	2a9f	Let's see... Judgement Uninfected Naked Kind & Execute Ranger...?
+M	2ae8	Japanese Undercover Neuro-Kinetic Elimination Ranger.
+M	2b1e	Judgement Uninfected Naked Kind & Execute Ranger...
+M	2b62	Better memorize that one.
+M	2b71	I already memorized it.
+M	2b80	I've been assigned to Junker operations effective today...
+M	2b9d	You just told me that, Gillian.
+M	2bb4	I have a pretty good memory, Mr. Seed. Especially if it's concerning an attractive man like you.
+M	2be8	Could you tell me a little about Junker operations?
+M	2c01	The Junkers are a special task force put together to combat the 'bioroid SNATCHER' menace.
+M	2c36	It's overseen by government intelligence agencies.
+M	2c4e	Could you give me a few more details?
+M	2c64	A Junker's principle duty is to identify SNATCHERS who have infiltrated society and eliminate them.
+M	2c97	That about covers it. If you have other questions, would you mind asking the Chief?
+M	2cb4	This is my first time in town...
+M	2cc8	Oh, you'll get used to it right away. Everybody's pretty welcome.
+M	2ce8	Many ethnic groups and kinds of people here. It's Japan, but not Japan, if you know what I mean.
+M	2d1b	From the air, it's hard to believe it's a man-made island.
+M	2d39	Well, it's pretty big. They practically filled in the whole Inland Sea.
+M	2d60	I'm sure you'll like it here.
+M	2d76	Even more if there were no SNATCHERS.
+M	2d88	Tell me a little bit about yourself.
+M	2d9a	About me? Isn't that a bit forward, Mr. Seed?
+M	2db9	Let me tell you about myself first. Maybe then you'll tell me.
+M	2dd3	I can tell you're very smooth with the ladies.
+M	2df4	I'd really like to know more.
+M	2e0a	How about next time? If we have the chance.
+M	2e28	I really don't care for overly-persistent types.
+M	2e3d	You're becoming rather annoying...
+M	2e4c	Where shall I show you first?
+M	2e5e	Harry's in engineering. Shall we head there?
+M	2e79	Let's hurry to engineering. We can find Harry there.
+M	2e93	Now all we need to do is find Harry.
+M	2ea4	I wonder where Harry's gone off to?
+M	2eb9	Where would you like to go next?
+M	2ecb	But Harry wasn't there, was he.
+M	2edb	I don't think we'll find Harry there even if we head back now.
+M	2eef	Let's go somewhere else.
+M	2efc	Like the Chief said, he's probably back by now.
+M	2f16	Harry's got to be back by now.
+M	2f38	I don't know... He's quite the freewheeling type.
+M	2f50	This is the Chief's office.
+M	2f5a	Seed, are you familiar with the problem of sexual harassment?
+M	2f79	Yes, of course. Why?
+M	2f8c	It's fine to take an interest in Mika, but there are limits. Control yourself.
+M	2fb7	(Was this guy watching me?)
+M	2fc5	Seed, you don't seem to understand. Your love life is your own business, but watch your behavior inside headquarters.
+M	2ffc	And don't be wasting computer time on trivial things.
+M	3017	(This guy was definitely watching!)
+M	302a	What's wrong? Is there something you don't understand?
+M	3040	Is there something you wanted to ask?
+M	3054	The Chief isn't done talking yet.
+M	306d	You're quite impatient, aren't you. The Chief's not finished yet.
+M	3089	Why don't you ask the Chief about your duties.
+M	30a1	So he's the Chief of Junker operations, eh? Just as I imagined him.
+M	30bb	Did you say something?
+M	30c6	Is there something hanging from my nose?
+M	30d9	What are you staring at Seed? Why don't you calm down.
+M	30f9	Information from all over the world is continuously pouring in.
+M	311b	It's a nice night view of Neo Kobe. Too bad there are SNATCHERS lurking out there somewhere...
+M	3148	Neo Kobe at night. Great view, don't you think?
+M	316d	It looks like you've taken a liking to this city.
+M	318b	A picture of a vase. What a weird pattern...
+M	31a0	Looks like a pretty comfortable sofa.
+M	31b3	Seed, I'm no SNATCHER.
+M	31cd	Don't you trust anybody! I'm the Chief, Seed!
+M	31e3	Well, I suppose that's what being a Junker is all about.
+M	3200	Suspecting people is part of this job, but aren't you overdoing it?
+M	3229	Stop it right now, Seed!
+M	323d	It's a general-purpose monitor using both liquid-crystal display (LCD) and plasma display (PDD) technology.
+M	3278	It's an ultra-high resolution display panel capable of playing back holograms as well.
+M	32a2	Hmmm? So this is his taste in art, huh?
+M	32b9	Don't touch that picture! It's my treasure.
+M	32d6	Stop it, Seed! That picture's precious to me. Don't touch it!
+M	32fc	Is it really valuable?
+M	3308	There are some things that money can't buy.
+M	331e	Come to think of it, when did you hang that picture?
+M	3331	I always thought this office needed a little livening up.
+M	334a	I never knew you were interested in art.
+M	3360	Well, you know.
+M	336a	It's an air-cushion type sofa.
+M	337e	It's the latest in robot sofas, employing chaos system technology.
+M	339a	Do you want me to tell you again?
+M	33ac	Whatever you do, don't forget item (2). Violation of item (2) results in suspension of all Junker privileges.
+M	33e4	In other words, there's no room for mistakes, right?
+M	33f9	That's right. Whatever the reason... hurting people is never allowed.
+M	3425	Yeah. That policy's been in force since the "witch hunts" a few years back.
+M	344d	The Junker force isn't just any ordinary police organization. There can be no mistakes.
+M	3476	Jeez... pretty strict around here.
+M	3482	Do you want me to tell you again?
+M	3494	As you know, there are very few Junkers.
+M	34b2	That's why we're getting the cooperation of civilians by putting a price on the SNATCHER's heads.
+M	34e1	Yes, there's this one particular bounty hunter named Random Hajile whose already gotten three this year!
+M	3523	Would you like to hear about your duties once more? Or... do you have another question?
+M	354d	Do you want me to go over the background of the staff again, or do you have a question about one of them?
+M	357e	He's our engineer. Top-rate, if a little stubborn...
+M	359f	Get your Junker gear from Harry.
+M	35bd	That Harry doesn't seem to be around, though?
+M	35d0	He was just here looking for you. He should be waiting down in engineering.
+M	35fa	He's our ace "runner". He's been covering the whole city himself up until now.
+M	3623	He's our senior "runner". He'll show you the ropes. Try to get along with him.
+M	3645	As you can see, she's a beautiful and intelligent woman. ...A bit strong-willed, though.
+M	3670	Oh, Chief...
+M	367e	She's the only woman in headquarters. She helps keep things peaceful around here.
+M	36a6	Watch it, Seed! Interest in the opposite sex is perfectly all right, but she's a Junker staff member, a co-worker. You got it?
+M	36e9	Do you want me to tell you again?
+M	36fb	A robot that assists Junkers with every kind of analysis. Good sensors, too.
+M	3728	Harry should have your navigator ready for you. Go pick it up from him.
+M	3747	It's the nickname of the A.I. in the computer room. It manages all the systems and information of this headquarters.
+M	3782	It's linked to Neo Kobe's Alpha-One network. You can get just about any information you need out of it.
+M	37b9	Any bit of information that's been registered with city officials is available.
+M	37d9	I just showed you the computer room, remember?
+M	37f5	That's proof that you're a Junker. Take good care of it.
+M	381b	You listening Seed? Remember, keep that with you at all times.
+M	3839	Here's some funds for expenses. Don't waste them.
+M	385b	So there's no room for bad shooting like before, Okay?
+M	387d	Exactly. Even if it's only training...
+M	3894	Daily practice always pays off out there on the street.
+M	38b4	Seed, that card is very important. Take great care not to lose it!
+M	38de	You can use Jordan anytime with that card.
+M	38f9	Quite a convenient little item.
+M	3905	Gillian, that card is really important. Take good care of it.
+M	3929	You're awfully restless, Seed. What's the problem?
+M	3944	What are you wandering around for? Do you have something to see me about?
+M	3969	Doesn't this guy ever relax? I know everything's new for you, but you've got to settle down.
+M	399c	You've been wandering around for minutes. Seed! Listen when people talk to you!
+M	39c7	Doesn't this guy ever relax? I know everything's new for you, but you've got to settle down.
+M	39f5	I've been watching you on the camera. What were you doing wandering around out there in the Lobby?
+M	3a1c	...So you were keeping an eye on me after all?
+M	3a31	Try to calm down a little.
+M	3a43	Hm. ...Snatchers suddenly appeared in this Neo Kobe City three years ago.
+M	3a73	Snatchers suddenly appeared in this Neo Kobe City three years ago.
+M	3a9d	We have no idea where they come from, or what they want.
+M	3ac1	We do know that they kill, copy the appearance of their victims, and take their place in society. And that their numbers are increasing.
+M	3b11	JUNKER was set up inside police headquarters one year ago as a special anti-Snatcher section.
+M	3b44	Junker began officially this August. We answer directly to the government's intelligence agencies.
+M	3b7c	Still... that poster is in bad taste.
+M	3b96	Oh really? That's my design, by the way.
+M	3bae	Chief, your taste is right out of the dark ages.
+M	3bc2	A Junker operates with certain rules and privileges different from regular police officers. Those are:
+M	3bf9	(1) The purpose of the Junker force is to eliminate bioroid SNATCHERS.
+M	3c28	(2) A Junker, even in the course of carrying out (1), must not harm innocent civilians.
+M	3c5b	(3) No subject may be physically investigated or restrained without irrefutable evidence that they are a SNATCHER.
+M	3c9d	(4) A Junker is required to assist and support civilian bounty hunters.
+M	3cd5	(5) In order to carry out (1), a Junker is allowed the use of a blaster, and a navigator and a turbocycle.
+M	3d1b	Those are the five rules.
+M	3d28	A Junker's job is to figure out who the SNATCHERS are, and to eliminate them.
+M	3d63	Put your military training to use and investigate what we still don't understand about SNATCHERS. We have to stop them!
+M	3dba	A Junker's job is highly specialized, and extremely dangerous. That's why there are so few of us.
+M	3dec	I'm the Chief, Harry's the engineer, then there's Mika. Gibson and you are our "runners". It's just the five of us.
+M	3e3b	If you want to know anything more, look it up using "Jordan".
+M	3e64	Use Jordan to check on anything else you want to know.
+M	3e82	Okay, I'll tell you one more time. Listen carefully.
+M	3ea0	As I've already told you several times...
+M	3eae	I'll be repeating myself, but...
+M	3ebd	From what Mika tells me, you bought the Pilot Disk?
+M	3ee2	Uh... yes, that's what I said.
+M	3ef5	For someone who did, you sure ask a lot. Well, I won't press the matter.
+M	3f1a	This is engineering. All the Junker's, that is the runner's equipment is made here.
+M	3f4e	Hmmm... It doesn't look like Harry's around at the moment...
+M	3f6b	This is engineering.
+M	3f7a	That's funny. Harry's not back yet.
+M	3f95	He's probably off drinking somewhere.
+M	3fb1	He's still not back. Sometimes he can be so difficult.
+M	3fc9	Let's head to some other room first.
+M	3fe2	There are tools and machines all over the place. It's a regular factory in here.
+M	4009	This room always looks like this. I don't know how he finds anything.
+M	4028	Hmmm, somehow I get the same impression...
+M	403f	(Have I met this guy somewhere?)
+M	4054	What's wrong? Do I have something hanging from my nose?
+M	406c	(I'm sure I've met this guy... I just can't recall...)
+M	4092	Would you mind not staring at me like that?
+M	40a4	You got bad eyesight there, boy?
+M	40b1	I can't believe the kid in the picture on the wall is Harry.
+M	40d2	There's a poster and a photograph on the wall.
+M	40eb	Various charts, formulas, documents and pictures are stuck on the wall.
+M	410e	This looks like a poster from the late 20th century.
+M	4123	What? You know who she is? You've got good taste for a youngster.
+M	4152	It's a photograph of a small boy.
+M	415f	That's a picture of me as a kid... It's my only memory of my childhood.
+M	417e	Pretty cute, eh? Even I was good-looking once.
+M	41a4	It looks like some kind of child's toy.
+M	41b8	A toy!? I'd love to see what toys you had as a kid!
+M	41ca	A her-mit-crab, eh? ...Heh, that's a good one.
+M	41ec	Yeah, but he's kinda cute!
+M	4201	Doesn't look like he'll be much help with a body like that.
+M	421f	Gillian, navigators are designed primarily for information processing support. It's not an attack unit.
+M	424e	Metal Gear, huh... Well it looks like we're stuck with eachother for a while.
+M	426f	Those are odd work clothes. Let me take a look at those...
+M	4289	Hey! What are you doing! Stop it!
+M	429b	That fellow's got no manners! People in my day would never do anything like that.
+M	42bb	Hey! Watch it there! I don't know what's gotten into young people these days...
+M	42d5	You wanna go a couple rounds? I may look old, but no young punk is gonna beat me!
+M	42fd	Gillian, Harry hates jokes like that.
+M	4319	Oh... okay.
+M	4323	Very old. This printing technology hasn't been used since last century.
+M	4345	Keep your hands off that, will ya'. It's gettin pretty fragile.
+M	4363	This appears to have been cut out of a larger photo.
+M	4383	...you can't see the faces of the kid's parents.
+M	4397	Full bipedal motion system, eh? I don't want anything that's gonna slow me down.
+M	43bb	I wasn't built for running, but in case of emergency...
+M	43e4	Yeah? In case of emergency what?
+M	43f0	Carry me while you run, please.
+M	4403	You can't be serious. Tell me your not serious!
+M	4416	Part of its body seems to be a cabinet of some kind.
+M	4431	It's for storage. You can put some of your gear in there.
+M	445d	My storage area is 40-liter capacity, to be exact.
+M	447a	Well, he's kinda small, but he looks pretty tough. I'm sure I'll manage.
+M	4498	Navigators are designed from the start as a Junker's investigative assistant.
+M	44c9	Detection, analysis, recording, communications -- packed with features. Metal Gear here is the latest model.
+M	450e	What about an attack system. Don't they carry any weapons?
+M	4529	'Fraid not. They're unarmed. After all, the main idea behind a navigator is to assist in an investigation's data management.
+M	4565	But they can SAVE. Choose "USE Metal Gear", then "SAVE", and the exact state of your investigation is recorded.
+M	45a9	Likewise, "USE LIGHT" helps when it's too dark to see. Told you they were handy, didn't I?
+M	45e7	How about communications? Does he have some kind of radio?
+M	4602	Yep. There's a videophone installed.
+M	4612	A videophone?
+M	461c	That's right. Just select "USE Metal Gear" and then "USE VIDEOPHONE" to access it.
+M	4647	In theory anywhere, but watch out for interference. Sometimes the signal can't get through.
+M	4672	You'll get use to using him in no time, once you're a full-fledged Junker.
+M	46a2	First, you have to get used to things. The rest can come later.
+M	46be	Use the "Junkers' Eye" system in the shooting range to get used to your blaster.
+M	46e0	You know, that booth we just saw in the shooting range, Gillian.
+M	46f6	I took a look at your practice results.
+M	470e	Not bad. Steady hand there, mister.
+M	471a	Doesn't he? He seems like he can handle himself.
+M	472b	This gun is designed to bring out the best in whoever's using it.
+M	4758	The more you use it, the better and more powerful you'll get.
+M	476f	To draw your blaster, press the SELECT button, you hear?
+M	4793	That's right, Gillian. You couldn't get it to work in the practice range, could you?
+M	47b4	I'll try not to forget.
+M	47c5	You're an engineer. Tell me about how the SNATCHERS are built.
+M	47ee	It's odd, but we've never been able to get a specimen. They're always stolen, or have self-destructed.
+M	4825	They have any weaknesses?
+M	482c	They're built tough, hard to destroy outright. Try to immobilize them.
+M	4854	They've got these slits on their head for some reason. A well-placed shot there will often destroy their control functions.
+M	488e	That's why it's important to practice your marksmanship.
+M	48a3	Even with everything I know, I could never build a monster like that.
+M	48cd	What happened to this picture? Why is it torn?
+M	48e6	I don't know myself... I'm told I always used to carry it around with me.
+M	490b	With only this fragment, there's no way to trace your parents.
+M	491e	Yeah, but for me, that picture is my only evidence I ever even had parents.
+M	4941	I wish I could just see their faces. Where are they now? I don't even know if they're alive!
+M	4979	In a way, you and I face the same predicament.
+M	4998	Well, it's not so bad once you get to my age.
+M	49b6	Oh, you already got your Junker I.D., huh?
+M	49d7	As long as you've got that, then you're a first-class Junker!
+M	49ee	That's your expense money, right? Why don't you put that away somewhere safe.
+M	4a09	It's the picture that was on the wall.
+M	4a1b	This is the detective's room, the office for our runners -- Junker investigators like you. That desk in the back is yours.
+M	4a5b	What about this desk near the door here?
+M	4a65	That's Jean's desk. Jean Jack Gibson. He's our ace runner.
+M	4a87	Even so, Jean's got an 18 year old daughter.
+M	4aa3	A daughter, eh?
+M	4aac	Her name's Katrina.
+M	4ab9	This is the detective's room. What would you like to do?
+M	4acd	A lot of information flows into here...
+M	4aec	All the information available to our runners is output from Jordan.
+M	4b13	This is an antique desk.
+M	4b23	Jean's really into antiques.
+M	4b32	Gibson's desk, huh? I wonder what he's like...
+M	4b4d	Looks like a nice desk, but I probably won't be using it much.
+M	4b75	This place is really different from other detective's offices.
+M	4b8d	There's nobody around except Mika.
+M	4ba2	This is Junker Headquarter's computer room.
+M	4bc2	It's linked to databases throughout the country, so you can find almost any information you might need.
+M	4bf3	This is the computer room. What would you like to do?
+M	4c0c	A standard keyboard input with an AI that recognizes incomplete file names.
+M	4c35	Antiques in the computer room? Haven't seen a keyboard in ages.
+M	4c53	It's smaller than I expected. So this is you're host computer, eh? The RM-1013 model?
+M	4c85	A number of input and output devices are linked to the host computer.
+M	4ca8	Looks like the cockpit of a shuttle in here.
+M	4cc0	Our host computer, an RM-1013. We call it "Jordan": Junker On-line Regional Data Access Network. Full-scale AI processors.
+M	4d0b	Jordan has every human learning routine and an intelligent interface: translation, problem solving, you name it. Expert-class AI built for field robots. The best there is.
+M	4d83	Jordan's a type of bio-computer. It's CPU uses components constructed from organic macromolecules as well as functional macromolecules developed with protein design techniques.
+M	4ddd	That's about all I know. You'd have to ask an expert for anything else.
+M	4e07	First, put your Junker card in this slot. Once it's confirmed you as a user, you just follow the instructions that Jordan flashes on the screen.
+M	4e4c	Just follow Jordan's on-screen instructions. It's really easy.
+M	4e66	Go ahead. Sit down here.
+M	4e7d	Once you're registered on the system, the rest is easy.
+M	4e9a	This is the shooting range. Junkers come here to improve their marksmanship.
+M	4eca	This is the shooting range.
+M	4ed4	A number of man-shaped targets appear in the practice booth.
+M	4ef3	We call it our shooting practice range, but it's a lot like a video game arcade, don't you think?
+M	4f15	How do you start practice?
+M	4f21	Just do it like you did a moment ago.
+M	4f37	You can't fire your blaster unless you press the SELECT button.
+M	4f5a	For the training, just follow the "Junker's Eye" shooting system.
+M	4f7f	Instead of asking... why don't you just give it a try?
+M	4f98	Gillian! You haven't got your blaster yet, have you! Let's hurry and go visit Harry.
+M	4fcb	...is what I'd like to say, but you got good reviews on the Pilot Disk, so...
+M	4ff8	The Pilot Disk?
+M	5005	It's a special commemorative disc released ahead of the main game. Did you buy it, Gillian?
+M	5031	You've had enough training. You already trained on the Pilot Disk, didn't you?
+M	5054	You'll be fine. You trained on the Pilot Disk, didn't you?
+M	507a	Or were you lying when you said you bought it?
+M	5095	I wasn't lying.
+M	509f	Then I'll take out the 'Train' command. It's only confusing.
+M	50c9	When you're done, let's go see Harry and get your blaster, okay?
+M	50ee	Of course I bought it.
+M	50fb	Then you've already had your shooting practice.
+M	5113	I suppose so...
+M	511d	Then you don't need any training.
+M	5134	No, I didn't buy it...
+M	5143	I see. Then you'd better get some shooting practice.
+M	5163	Just this once, Gillian. Practice and learn the controls well.
+M	518b	What about a blaster?
+M	5195	Let's use the practice one in this booth.
+M	51b1	All right, let's start the shooting practice.
+M	51c7	Press the SELECT button and you can fire.
+M	51e5	Press the SELECT button again to lower your blaster.
+M	5205	Listen. Shoot only the SNATCHERS. Be careful not to hit any civilians by mistake.
+M	5233	The red gauge on the left shows how many enemies appear. The yellow gauge on the right shows how many you hit.
+M	526d	Running the training program at introductory level.
+M	528c	Good luck.
+M	5296	To fire your blaster, you have to press the SELECT button.
+M	52be	Gillian, you have to press the SELECT button!
+M	52de	Listen, press the SELECT button.
+M	52f7	A perfect score, but you killed all the civilians too.
+M	5318	And you waste a lot of shots... Waste fewer shots and make sure of your target, okay?
+M	534c	No wasted shots, so your control looks good.
+M	5369	After that, it's about telling citizens from Snatchers, right?
+M	5385	Very few wasted shots, but you've got to avoid hitting civilians!
+M	53a8	Hitting all the SNATCHERS is great, but you hit some civilians, too.
+M	53ca	Hmmm... too many wasted shots. Improve your concentration and judgment.
+M	53ec	You're nearly there! No wasted shots... All you need to do is eliminate those hits on civilians.
+M	541b	Nice that you're not wasting ammo, but you must not shoot civilians like that.
+M	5446	Fantastic! A perfect score! You're quite a shot, aren't you Gillian?
+M	5462	Wow... A perfect score right off the bat...
+M	5479	I bet you've done this before, haven't you?
+M	5498	No, ma'am. First time out.
+M	54a7	I can't stand liars, you know.
+M	54b9	It's due to all that practice I had in the military, Mika.
+M	54ce	Another perfect score! You're really great, Gillian!
+M	54e8	Hmmm... I guess this means I'm a genius marksman!
+M	54fc	(...this guy sure gets excited easily...)
+M	5517	What? Again! You're fantastic, Gillian!
+M	5533	Great job, but honestly, too many wasted shots. Cut them down.
+M	555d	Fantastic! And no wasted shots, either! Jean will be surprised.
+M	557c	Fantastic. Cut down the wasted shots and it's perfect.
+M	559c	Well, that's not too bad, but you're creating a heavy civilian death toll.
+M	55bc	Plus, you had a lot of wasted shots. Let's work on lowering the number of misses.
+M	55f0	Well, no wasted shots, but you're shooting everything in sight!
+M	5616	You've got to calm down, okay?
+M	562b	Not many wasted shots. It looks like you've got good control.
+M	564a	Pick your targets better. A misjudgment out there could cost your life!
+M	566c	You're doing quite well. Still, you can't hurt any civilians.
+M	568f	Hmmm.. you've got a lot of wasted shots. You need to concentrate a bit more.
+M	56b8	Still, no wasted shots. Just work on focusing yourself.
+M	56d9	Few wasted shots. Work on picking targets and you'll improve fast.
+M	5701	Not too bad. Didn't hit any civilians, either.
+M	571d	Still, all those wasted shots are a problem. Your accuracy needs work.
+M	5747	You didn't waste any shots, so with practice, you should get much better. You've got good control.
+M	5776	Not many wasted shots, but your accuracy needs work. Good target selection, though.
+M	57a4	What are you doing Gillian? You're wiping out only the civilians!
+M	57c6	A lot of wasted shots. Go after the SNATCHERS only!
+M	57e1	Well, it's your first time out. I wouldn't worry about it.
+M	57fc	You should get used to it quickly. I have faith in you.
+M	5814	Don't play around! You're shooting civilians on purpose, aren't you!
+M	5836	Not again! Get serious, Gillian! Practice is very important!
+M	5857	Is this some personality disorder of yours?
+M	5869	Don't shoot civilians! Get serious about this!
+M	5886	Well, it's your first time out. I wouldn't worry about it.
+M	58a1	You should get used to it quickly. I've got faith in you.
+M	58b9	You're not hitting anything, but civilians. Gillian, pull yourself together!
+M	58d8	Terrible! No SNATCHERS and you hit civilians and wasted a lot of shots.
+M	58f5	Well, no wasted shots, but you didn't kill any SNATCHERS and you hit some civilians!
+M	5913	Your control isn't too bad, but you need to work on picking your targets better.
+M	5939	You need a lot more practice! Watch carefully, aim carefully!
+M	5960	Well, it's your first time out. I wouldn't worry about it.
+M	597b	You should get used to it quickly. I've got faith in you.
+M	5993	Oh my! No civilians hit, but you didn't get any SNATCHERS either!
+M	59ae	You're just wasting shots. I thought you were supposed to be a marksman or something...
+M	59d6	You're just spraying shots! Aim carefully and then pull the trigger!
+M	59f9	You didn't even pull the trigger! What's wrong?
+M	5a13	C'mon Junker! Pull yourself together!
+M	5a27	...your heart's not in this, I can tell.
+M	5a39	If you don't practice seriously, you'll run into big trouble later.
+M	5a55	Well, it's your first time out. I wouldn't worry about it.
+M	5a70	You should get used to it quickly. I've got faith in you.
+M	5a88	Since it's your first time, we can't grade you too rough, but shooting civilians? This is a problem!
+M	5aae	You're wasting a lot of shots. Remember, you're only aiming for SNATCHERS!
+M	5adc	Well, no wasted shots, but I'm not impressed. You shot a the civilians!
+M	5b06	You've got to boost your accuracy without hitting the civilians. If you can't do that, you'll end up a murderer!
+M	5b39	You've got a lot of work to do. Your accuracy is poor, but worse, you're hitting too many civilians.
+M	5b6d	You're wasting too many shots and hitting civilians. You'll never last long out there at this rate.
+M	5b8f	No wasted shots, but you still need more practice.
+M	5bad	Well, you're not wasting much ammo, but you just can't hit civilians. Out in the real world, it will cost you your job.
+M	5bd7	Hmmm... Not bad. You've got good eyes...you didn't hit any civilians.
+M	5bfd	Hmmm... quite a few wasted shots but your accuracy is pretty good. You need more work.
+M	5c26	Pretty good. no wasted shots, but you still need practice.
+M	5c47	You're picking your targets well, but you need to improve your reaction time. And cut down on the number of wasted shots.
+M	5c77	And by the way, you had the control pad's rapid fire feature turned on, didn't you?
+M	5c9b	What... what are you talking about?
+M	5ca7	C'mon Gillian, it's easy to tell. You were blazing away like you had a machine gun in there.
+M	5cc2	...can't keep a secret from you, can I?
+M	5ccd	Anyhow...
+M	5cda	Gillian, you had rapid fire turned on again, didn't you?
+M	5cf5	It's easier that way.
+M	5cfe	You won't be able to pull that stunt out in the real world.
+M	5d10	Okay, okay.
+M	5d1a	...Turn off your turbo button, okay?
+M	5d31	You really are beautiful...
+M	5d3f	...Thank you, Gillian. I'll take that as a compliment.
+M	5d61	Turn off the rapid fire feature, okay?
+M	5d72	You are truly beautiful, Mika.
+M	5d87	Huh? ...Did you say something?
+M	5d9d	Those files look heavy, so I thought I'd carry them for you...
+M	5dbc	Thanks Gillian. I'll take that at face value.
+M	5dcc	Mika...
+M	5dd4	Yes? What do you want?
+M	5de1	I can sense that you and I are destined to fall in love. It might sound crazy, but...
+M	5e01	Gillian, you're married aren't you?
+M	5e1c	You're definitely laying it on too thick, don't you think?
+M	5e32	This Gillian's a little weird...
+M	5e43	I wonder if he really can make it as a Junker?
+M	5e60	(More than I expected...)
+M	5e74	Where are you looking! Honestly...
+M	5e84	Harry Benson is our engineer. He's a bit of a lush, but he's a friendly and sweet old guy.
+M	5e9c	He's quite brilliant. He's won three Nobel Prizes and the Fields Prize, too.
+M	5eb1	Give it a rest...
+M	5ebf	Really... you're hopeless.
+M	5ecf	...Maybe the Chief is right about you?
+M	5ee4	Harry's an orphan. He lost his parents in the Catastrophe.
+M	5f07	Harry Benson is JUNKER's mechanic. He likes his drink a little, but he's a kind, old-fashioned man. Everybody calls him 'Pops'.
+M	5f5f	Harry is a genius who has won three Nobel Prizes and a Fields Medal.
+M	5f8a	He must have gone off to do something. He'll be back soon, I'm sure.
+M	5fae	He seems to have... stepped out. He'll be back before long.
+M	5fd1	If you're that interested, why don't you just meet him?
+M	5fea	Every Junker investigator gets an analysis robot. Quite a combination, eh? We call the robots "navigators".
+M	602b	Jean's navigator is called "Little John". I wonder what kind of navigator you'll get?
+M	6067	Would you mind asking Harry when he gets back?
+M	607c	Don't worry. You'll be able to get one from Harry.
+M	6099	His wife was killed by a SNATCHER two years ago. After that, he quit his detective job and became a Junker.
+M	60cd	Since then he's been living with his daughter, Katrina.
+M	60f0	He's apparently out on an investigation at the moment. I'll introduce you as soon as he gets back.
+M	611a	If you meet him, you'll understand why he's so good.
+M	6133	She's Jean's only child. She turned 18 this year.
+M	614e	She's a model. She's quite cute.
+M	616b	Don't be getting any funny thoughts. She's only 18.
+M	6185	...Maybe next time. If the chance comes up...
+M	61a5	I'll leave that to your imagination.
+M	61b5	Oh, Gillian! ...But no! I'm not telling. Why don't you look it up yourself?
+M	61e0	It wasn't in Jordan, though?
+M	61f2	Unbelievable... You actually looked?
+M	6206	I'm the serious type. But why?
+M	621f	Just put that Junker ID in the slot and you can use Jordan any time you want.
+M	6247	Your three sizes: an unsolved case?
+M	625b	Take good care of that. You'll need it if you want to use Jordan.
+M	6273	(I would if I could.)
+M	6285	That's your Junker ID. Be careful not to lose it!
+M	629a	...The Chief will get mad at you again, you know?
+M	62b0	It's probably not a good idea to show that to people too much.
+M	62d3	That's your expense money, so you can use it while you're on an investigation.
+M	62fb	That's your JUNKER ID. Take good care of it, okay?
+M	6318	You shouldn't go showing it around in public too much...
+M	6337	It's expense money, so you can use it when the investigation calls for it.
+M	6356	A lot of places around here won't take plastic. Cash is king in Neo Kobe.
+M	6371	We're in the turbocycle. Operation is computer-controlled. Where would you like to go?
+M	63a1	It's brand new and was just tuned-up. It's a '47 "Interceptor".
+M	63d6	It's built by the same company that builds the shuttle.
+M	63ef	On the ground, it runs on three wheels, but they're retracted during flight.
+M	6416	This is the Junker HQ parking lot. Several Turbocycles are parked in the area.
+M	6442	It's built with the latest ceramoplastics and carbon polymers. It doesn't even have a scratch on it.
+M	646a	It still has the inspector's "OK" sticker on it.
+M	6481	We don't have much time. Let's get to the scene quickly!
+M	64a1	There's no problem. The tires also have the inspector's stamp on them.
+M	64c5	We don't have much time. Let's get to the scene quickly!
+M	64e5	There's nobody in the parking lot besides us.
+M	6504	The control board shows all-green.
+M	6519	We don't have much time. Let's get to the scene quickly!
+M	6539	We've got no time for that, Gillian!
+M	654d	Don't worry about that. Let's get to the abandoned factory quickly.
+M	656a	All right, I'll save everything that has happened up until now.
+M	6581	Which file number would you like to save it in?
+M	6590	This file contains data from a previous save.
+M	65b2	Is it okay for me to overwrite it with the new data?
+M	65cd	In that case, I won't write the new data there.
+M	65eb	This file contains data from a previous save.
+M	660d	Is it okay for me to overwrite it with the new data?
+M	6628	In that case, I won't write the new data there.
+M	6646	This file contains data from a previous save.
+M	6668	Is it okay for me to overwrite it with the new data?
+M	6683	In that case, I won't write the new data there.
+M	66a1	This file contains data from a previous save.
+M	66c3	Is it okay for me to overwrite it with the new data?
+M	66de	In that case, I won't write the new data there.
+M	66fc	I can't... I'm not ready yet.
+M	6716	Why don't we stop off at my place first?
+M	6727	Jean is waiting for us! Let's go Gillian!
+M	6740	There's no time! Let's get to the scene as soon as we can!
+M	675f	This card gives me all the special rights of a Junker.
+M	6781	I'll be carrying this as my ID from here on out.
+M	679b	This is the cash they gave me for expenses.
+M	67b2	Having to carry cash around is so inconvenient.
+M	67d7	It's an ID card with a special IC chip built-in.
+M	67f0	All of my personal data is recorded on this card.
+M	6812	It's cold, hard cash.
+M	6821	This should be plenty to get the job done with.
+M	6837	Gillian, don't worry. Your salary is paid separately.
+M	6855	This will be enough to let me do a little spending...

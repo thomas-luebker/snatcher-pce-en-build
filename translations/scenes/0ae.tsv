@@ -1,0 +1,629 @@
+W	2102	0780000573
+W	2117	0990932510
+W	212c	0
+W	212f	110
+W	2136	119
+W	213d	177
+W	2144	1
+W	2147	250717
+W	2154	256128
+W	2161	2
+W	2164	301234
+W	2171	302501
+W	217e	393444
+W	218b	395644
+W	2198	396004
+W	21a5	3
+W	21a8	4
+W	21ab	548418
+W	21b8	556666
+W	21c5	582809
+W	21d2	5
+W	21d5	691170
+W	21e2	6
+W	21e5	748500
+W	21f2	775014
+W	21ff	777605
+W	220c	7
+W	220f	8
+W	2212	967715
+W	221f	9
+W	2222	*
+W	2225	No Call
+W	222e	Call
+W	2235	Plato's Cavern
+W	2246	Junker ID
+W	2255	Junker HQ
+W	2266	Plato's Cavern
+W	2275	Q2
+W	227a	HONOR
+W	2281	Ask Metal
+W	2292	Composite Photo
+W	22a3	Race
+W	22aa	NO CLUE
+W	22b3	AMERICA
+W	22bc	Alton Sighting
+W	22cd	Alton Plaza
+W	22da	Outer Heaven
+W	22e9	Ivan's
+W	22f2	Isabella
+W	22fb	Kinky
+W	2302	END
+W	2309	ENDED
+W	2312	Key
+W	2317	REVOLUTION
+W	2320	MEMORIAL
+W	2329	Gillian's
+W	2334	Gibson's Photo
+W	2343	Gibson's
+W	234e	Quiz
+W	2355	Arcade
+W	235e	DUNNO
+W	2365	NO IDEA
+W	236e	Jamie
+W	2377	Snatcher
+W	2384	WAR
+W	238d	RAIGN
+W	2392	RANE
+W	2397	REIGN
+W	239e	Ask Out
+W	23ab	REIGNE
+W	23b2	Disk
+W	23bb	Napoleon
+W	23c6	Negligee
+W	23d1	RAINE
+W	23da	ハズレ
+W	23e1	Hang Up Phone
+W	23f2	FRANCE
+W	23fb	Freddy's
+W	2406	Hotel
+W	240d	Mask
+W	2414	Musical
+W	2421	TOGETHER
+W	242a	Sea
+W	242d	Where
+W	2434	Update
+W	243d	Piece
+W	2440	Memory
+W	2445	Paper
+W	244c	Money
+W	2453	Show Items
+W	245e	My Feelings
+W	246b	My Job
+W	2476	Photo
+W	247b	Get Out
+W	2486	Job
+W	248b	Proof
+W	2492	Aquarium
+W	2499	Meal
+W	249e	Refuse
+W	24a7	Answer
+W	24ae	Zoo
+W	24b5	Sunscreen
+W	24c0	Shop
+W	24c7	Location
+W	24d0	Caller
+W	24db	Ask
+W	24e0	Dream
+W	24e3	Park
+W	24ea	Old Man
+W	24f3	Talk
+M	24f8	We're on the turbocycle. Where should we go?
+M	2518	Ivan's in the clear. We're done with him.
+M	2535	Shall we hurry to Freddy's place?
+M	2548	We've arrived at Junker HQ. What would you like to do?
+M	2564	We've arrived at Gillian's house. What would you like to do?
+M	257e	We've arrived at Jean Jack Gibson's house. What would you like to do?
+M	25a0	We've arrived at Alton Plaza. What would you like to do?
+M	25ba	We've arrived at Outer Heaven. What would you like to do?
+M	25d6	We've arrived at Plato's Cavern. What would you like to do?
+M	25f5	We've arrived at Ivan Rodriguez's house. What would you like to do?
+M	2613	We've arrived at Freddy Nielsen's house. What would you like to do?
+M	2633	All right, heading to Junker HQ.
+M	264d	All right, heading to Gillian's house.
+M	2664	All right, heading to Jean Jack Gibson's house.
+M	2684	All right, heading to Alton Plaza.
+M	269b	All right, heading to Outer Heaven.
+M	26b5	All right, heading to Plato's Cavern.
+M	26d1	All right, heading to Ivan Rodriguez's house.
+M	26ed	All right, heading to Freddy Nielsen's house.
+M	270a	All right, let's make a videophone call.
+M	271f	What number should we call?
+M	272c	She's gone out. Let's hurry over to Alton Plaza too.
+M	2753	Miss Jamie was just...
+M	2765	No, it's nothing...
+M	2773	You saw it a moment ago, didn't you? Miss Jamie went out.
+M	2795	Who on earth is Jamie talking to?
+M	27ad	Did you call Miss Jamie?
+M	27bf	That's right...
+M	27c8	You sure know Miss Jamie's videophone number well, Gillian.
+M	27ee	T-that's...
+M	27f9	You asked someone for it, didn't you?
+M	2809	Well, does it matter?
+M	2817	...Who's she talking to?
+M	2829	Don't tell me... a man?
+M	2836	Keep that up and you'll fight again, you know?
+M	284c	...Let's just call back later, okay?
+M	2865	It's best not to get too involved with them anymore.
+M	2885	What was Jamie's videophone number again?
+M	28a0	...It's 39-3444.
+M	28b0	What was Napoleon's videophone number again?
+M	28cc	...It's 39-5644.
+M	28dc	What was Plato's Cavern's videophone number again?
+M	28fd	...It's 69-1170.
+M	290d	What was Isabella's videophone number again?
+M	2928	...It's 39-6004.
+M	2938	But... she's not there.
+M	2950	But... it's no use no matter how many times we call.
+M	2967	What was that videophone number written on the tissue I got in front of Alton Plaza?
+M	299b	...It's 55-6666.
+M	29ab	What was that videophone number I got for answering the quiz right?
+M	29d6	...It's 0990-932510.
+M	29ea	What was that videophone number written on the tissue I got in front of Alton Plaza?
+M	2a1e	...It's 55-6666.
+M	2a2e	It's the videophone number of the old man from outside Ivan's place.
+M	2a51	...It's 30-2501.
+M	2a61	Oh, it's you... Here for information?
+M	2a77	That's right. I need your help...
+M	2a8b	Before that, how about the code?
+M	2a9d	Oh, it's you?
+M	2aa9	Sorry it's not a woman.
+M	2abd	Well, fine. Let's start with the code, shall we?
+M	2ad3	What, again? ...C'mon, that's enough. I'm the real deal.
+M	2af4	A videophone's easy enough to fake. Can't be too careful.
+M	2b1a	Come on, give me a break?
+M	2b29	Don't say that. It's just a little ritual greeting.
+M	2b43	...Gillian, how did you know he was Jean's informant?
+M	2b6d	Guys like this have always been informants.
+M	2b90	Is that so?
+M	2b9d	I was just fishing for a reaction.
+M	2bac	I see...
+M	2bb6	What are you muttering about?
+M	2bc6	All right, here comes the code word!
+M	2bd7	Revolution?
+M	2be0	A hundred days?
+M	2be7	Please enter using the keyboard.
+M	2bf7	Way off!
+M	2c01	You haven't entered anything, have you?
+M	2c16	Still the same, huh.
+M	2c20	You're onto something subtle, but...
+M	2c33	That's a stale slogan.
+M	2c41	Talking about England?
+M	2c4d	It's a strange answer, but...
+M	2c5c	Are you trying to get it wrong on purpose?
+M	2c6c	So close...
+M	2c76	Way off!
+M	2c80	You haven't entered anything, have you?
+M	2c95	Never heard of it.
+M	2ca5	Was there ever such a thing?
+M	2cb4	Watch out for sickness.
+M	2cc4	An annual plant in the daisy family?
+M	2cd3	That's 'three years'.
+M	2ce2	Go look it up properly in a dictionary.
+M	2cf5	Gillian, did you forget?
+M	2d07	...A hundred days, it's 'The Reign,' right?
+M	2d1b	...Your memory's pretty bad, you know?
+M	2d2f	Gillian, did you forget?
+M	2d41	...The revolution, it's 'Ended,' right?
+M	2d57	...Your memory's pretty bad, you know?
+M	2d6b	Don't you get it?
+M	2d75	All right, you pass... A videophone's no good for this. Let's meet at the usual spot!!
+M	2d9f	Don't break our deal this time! Get here now!!
+M	2db9	The call's been cut off...
+M	2dc8	I know. ...I'll wait here.
+M	2ddf	I see, you're the real thing all right... A videophone's no good for this. Come to Alton Plaza in the EXG district. We'll meet there!!
+M	2e22	But how did you know?
+M	2e36	Hm? Oh, I just know a lot of things...
+M	2e4c	Could it be... you asked somebody?
+M	2e62	Does it matter?
+M	2e71	(Maybe he played the PC version too...)
+M	2e88	Please try hard to remember the code answer you saw on Jordan.
+M	2eab	Let's check the code on Jordan one more time, shall we?
+M	2ec9	What could this code be? Why don't we look up Napoleon's data on Jordan?
+M	2ef4	...Well, see ya. Go study up and come back!
+M	2f13	So... what would you like to do?
+M	2f22	The line was busy, though?
+M	2f2e	Huh...? Oh, right, I was just on the videophone a bit.
+M	2f48	A friend? ...A guy?
+M	2f56	...Curious?
+M	2f63	N-no...
+M	2f6d	Don't worry, I... I don't really have any friends.
+M	2f8b	That's the part that worries me...
+M	2f9d	Thanks... for calling.
+M	2faf	(She dodged that nicely.)
+M	2fc3	...Oh, Gillian?
+M	2fd1	The line was busy again, though?
+M	2fe0	...Sorry. Were you trying to call me?
+M	2ff6	Well...
+M	2ffe	Gillian, thanks... for calling.
+M	3016	Oh... Jamie? You picked up...
+M	302f	Yes?
+M	3035	Ah, sorry about last time...
+M	304a	?
+M	304d	I just couldn't stop thinking about you...
+M	305b	Oh? Looks like it worked a little.
+M	3071	Hm?
+M	3075	I was just testing you, Gillian.
+M	3086	...?
+M	308e	Sorry, I was just so lonely... I couldn't stand it.
+M	30aa	I wanted someone to worry about me... I'm really sorry. I won't do it again.
+M	30d6	I see... I'm glad.
+M	30e4	...So, what is it?
+M	30f3	Gillian, sorry, but... I'm going to hang up now. I'm sorry...
+M	311d	Gillian, I'm just about to head out. I'll hang up now, sorry.
+M	3143	Jamie, I'm hanging up now. See you...
+M	315f	Gillian, well then... bye!
+M	3173	You hang up without saying a word, don't you, Gillian.
+M	318f	Actually... Jamie, I want to start over with you again.
+M	31b7	Gillian, don't... don't say that. For now, being apart is probably how we understand each other better. I'm sure of it...
+M	31f5	Jamie. It's fine if my memory never comes back. I want to start over with you again!
+M	3229	Gillian, I don't want us to hurt each other anymore! Memories matter in a married life. ...I can't bear living a lie.
+M	326d	Jamie. We can just make new memories! Together...
+M	328b	Wait! Gillian, right now...
+M	32a0	I can't do this without you.
+M	32b3	Gillian, saying things like that... aren't you lying to me?
+M	32d5	A lie? ...What do you mean?
+M	32e6	...I hear you've been sweet-talking all sorts of people.
+M	3301	W-who, me? ...That's not true.
+M	3312	......
+M	331b	M-Metal? ...You?!
+M	332d	I was just telling Miss Jamie...
+M	333e	Don't blame him. He was only worried about me.
+M	3360	.....Sniff.
+M	336c	Since becoming a Junker, I've come to realize...
+M	3384	A SNATCHER exists inside everyone.
+M	339e	That maybe it's people's suspicion that creates them.
+M	33bf	Maybe so. If everyone could trust each other, maybe we could drive them away?
+M	33e5	Well, where there's trust, suspicion is born too.
+M	3404	Gillian, a Junker isn't supposed to get that emotional, is he?
+M	342b	Yeah, you're right, Jamie.
+M	343f	Be careful... Gillian.
+M	3450	If the SNATCHERS are the way you say...
+M	3467	Being a Junker seems more dangerous than I thought.
+M	3487	....Gillian?
+M	3493	But, more than any military training...
+M	34a9	Working like this as a Junker puts my mind at ease.
+M	34cd	You're not pushing yourself, are you?
+M	34d8	Sure, there's fear. But my purpose for living has become clear.
+M	3501	When I heard you'd become a Junker, honestly... I was shocked.
+M	3527	I just... couldn't bring myself to tell you. ...I'm sorry.
+M	3547	It's all right. Besides, I'm close by... we can see each other anytime.
+M	356b	If anything happens, call me on this videophone.
+M	3587	All right.
+M	3590	Jamie, you shouldn't go out at night. SNATCHERS are out there... it's dangerous.
+M	35c1	I'll be fine. No one's going to snatch me... SNATCHERS only go after VIPs, right?
+M	35f8	I haven't heard any rumors like that around me. I've never seen one, either...
+M	361e	SNATCHERS are definitely in this city. You just don't notice them. That's exactly what they're aiming for.
+M	3653	That's scary... if it's true, you couldn't trust anyone at all. It'd be worse than the STBO scare.
+M	368a	They really do exist... like I told you, I'm a Junker.
+M	36af	Jamie?
+M	36b7	...Yes?
+M	36c1	Actually, the other day...
+M	36ce	What is it? Just say it plainly.
+M	36e1	Jamie, have you ever been to Alton Plaza?
+M	36fb	Alton Plaza? ...No, never.
+M	370f	(Why would she lie...)
+M	3720	Gillian, it really was a case of mistaken identity.
+M	3735	...I don't think so.
+M	3745	Jamie? I saw it... I really did.
+M	375a	...Huh? What are you talking about?
+M	3769	Gillian! ...Let's just drop that subject, okay?
+M	3785	What's wrong with you?
+M	378f	...No, it's nothing.
+M	379f	So? How are you doing...
+M	37ad	So-so... Gillian, what about you? Are you eating properly?
+M	37d2	I'm managing. Though I can't get your special spaghetti anymore...
+M	37fa	'Spaghetti'? Gillian, you're still saying it that way.
+M	381a	Same as always. All I do is work... it helps me forget the loneliness.
+M	3841	Working makes it easier... the days just fly by when I'm busy.
+M	3868	Jamie, how's work going? Are you still with Kobe Pharmaceuticals?
+M	3891	Yeah... maybe I'm suited for this job... somehow it feels like I did this kind of work before...
+M	38d6	It's such specialized work... you're really good at it, huh?
+M	38ed	Yeah... it's strange even to me. It seems the expert knowledge stuck with me.
+M	3916	Doing this work... I keep thinking maybe my memory will come back.
+M	3942	Does it seem like it's coming back?
+M	3951	Not at all... The happy memories with you, the days we spent living together, I can't recall a single one... What about you, Gillian?
+M	39a2	Same with me. I have no memory at all from before I woke up in that military hospital bed three years ago...
+M	39db	It still seems like it'll take a while...
+M	39ef	The key to getting my memory back... is just to keep doing this job.
+M	3a17	Has nothing happened around you?
+M	3a2c	Gillian? ....If I were a SNATCHER... could you kill me?
+M	3a55	What, all of a sudden?
+M	3a61	...Well?
+M	3a6a	....I don't know.
+M	3a76	Gillian... that's the thing about you I... ...l-i-k-e. ...But that same thing might get you killed someday.
+M	3ab9	I'm the same way, though... it's like UFOs or the Loch Ness Monster. Nobody really believes.
+M	3aeb	They say it's just something the media made up.
+M	3afd	....I see. Maybe that's for the best.
+M	3b1a	Oh, sorry... you're a Junker, aren't you.
+M	3b36	Jamie, are you headed somewhere?
+M	3b4a	Yeah... I've got plans to meet someone.
+M	3b60	A man?
+M	3b67	...Curious?
+M	3b74	...If I said I wasn't, that'd be a lie.
+M	3b91	...Jealous?
+M	3b9c	......
+M	3ba5	Oh my, could it be you're jealous?
+M	3bb8	That's mean.
+M	3bc2	Sorry. Don't worry...
+M	3bd6	It's just my usual check-up.
+M	3be6	The memory recovery treatment?
+M	3bf3	Yeah, that same doctor.
+M	3c01	Oh, I see... if it's that old man, I'm relieved.
+M	3c1f	You never know. Lately I find myself drawn to older men.
+M	3c3e	Is that right... guess I'll try again once I've aged a bit more?
+M	3c63	Jamie, what have you been dreaming about lately? Still having that same dream?
+M	3c89	Yeah, it's always the same dream.
+M	3c9c	That dream?
+M	3ca6	You know, I'm holding a child and running from a fire.
+M	3cc5	No matter how much I run, the fire never gets any farther away.
+M	3cdf	And then?
+M	3ce6	It gets so hot, and I can't take it anymore... and I leave the child behind.
+M	3d12	Leave the child behind...
+M	3d22	The fire keeps growing bigger... blazing bright red.
+M	3d46	What about the child?
+M	3d50	But that child... is cold as ice.
+M	3d6d	Next time, could you record the dream on a Dream Coder for me?
+M	3d8f	Why?
+M	3d97	I want to have the same dream you do.
+M	3da8	No way. Not a nasty dream like that...
+M	3dbc	It might have something to do with our past.
+M	3dd5	Jamie, under that negligee?
+M	3de8	What, Gillian?
+M	3df3	No, I mean underneath... are you naked?
+M	3e09	Yes, of course. I have a habit of not wearing underwear to bed.
+M	3e2d	(Huh! Really... which means?)
+M	3e45	Jamie! A cockroach!
+M	3e53	What! Where?!
+M	3e60	It just went into the sheets!!
+M	3e6f	Really?!
+M	3e78	Quick, we have to pull off the sheets!!
+M	3e8d	Where?!
+M	3e94	Jamie, hurry! You're killing me here!!
+M	3eac	Eeek! Where is it?!
+M	3ebb	Jamie, quick, get the sheets off!!
+M	3ed3	Take off the sheets, everything!!
+M	3eec	....
+M	3ef3	Jamie?!
+M	3efc	......
+M	3f05	?...J-Jamie?
+M	3f12	Gillian...?
+M	3f1d	.....
+M	3f25	So that's what this was about?
+M	3f33	......
+M	3f3c	Honestly, you're as naughty as ever.
+M	3f4e	...Sorry.
+M	3f5b	Who was that on the phone just now?
+M	3f70	Why are you asking that?
+M	3f81	What do you mean, why? Is it someone you can't tell me about?
+M	3f9d	.....
+M	3fa5	Jamie?
+M	3fad	Does it matter who it was?
+M	3fba	Is it a man?
+M	3fc2	I don't have to tell you, do I?
+M	3fd7	So it is a man?
+M	3fdf	You're always like this. You connect everything to that.
+M	4001	You think so?
+M	4009	Was it that doctor? The one for the memory recovery treatment...?
+M	4029	Someone who's none of your business....
+M	403f	.....
+M	4047	Jamie? Just tell me who you were on that long call with, okay?
+M	4065	Is it the doctor for the memory recovery treatment?
+M	407a	That's ridiculous!
+M	4084	What is?
+M	408a	We're both free. Neither you nor I... should be able to interfere with the other. Isn't that right?
+M	40be	It's not that simple a problem...
+M	40d2	Who I talk to on the phone... or who I sleep with, is none of your business.
+M	40f5	Jamie! Are you sleeping with someone?!
+M	410b	Idiot! Of course not!
+M	411d	....Don't make fun of me.
+M	412c	Gillian, I'm hanging up!
+M	413b	Wait!
+M	4144	I'm really hanging up! ...Bye.
+M	4159	Jamie... can we talk for a bit? Maybe over a meal, it's been a while...
+M	4184	I found a nice place. It's called Outer Heaven.
+M	41a2	It's a costume pub, but... what do you think?
+M	41b5	Jamie... how about catching a musical? There's an interesting robot musical playing.
+M	41ec	It's 'The Phantom of the Opera'...
+M	4203	Jamie, want to go to the Bio-Zoo? I heard a baby unicorn was born.
+M	423c	There's also a Karmeisenhaufen exhibit going on...
+M	425a	Jamie, let's go see the ocean! Where should we go? ...Ashiya Beach, Old Suma... Maiko Park? It's closed off, but I know a way in, so we'll be fine.
+M	42b6	It's fine, I've got my Junker pass.
+M	42d1	Besides, it's an all-weather beach, so it won't be cold.
+M	42ed	No way. You know I hate wearing a swimsuit.
+M	430e	It's that appendix scar, right? ...You worry too much.
+M	4327	Want to ride the Zero-Gravity Ferris Wheel at Neo Portopia Land? You can forget all about work.
+M	4367	If possible, I'd love it if you came in a skirt...
+M	4383	Let's go watch the Dragon Force. You always liked horses, didn't you, Jamie?
+M	43ae	The Arima Memorial's coming up soon, isn't it?
+M	43c2	Want to grab a drink at the Neo Portopia Hotel lounge and watch the night view?
+M	43f4	Jamie, you always liked the Moonsault, didn't you?
+M	440b	Want to go to the arcade at Harbor Land?
+M	4428	It's way bigger than 'Mind Wave'. Lots of couples go there these days, you know?
+M	4457	I'll win you that stuffed animal you like with the superconducting crane game.
+M	447a	I know a clerk there named Nissy.
+M	4498	So we can score some prizes, you know?
+M	44a9	How about the VR Aquarium? They say it really feels like you're walking underwater.
+M	44e1	This time of year, the Jaws Hunt event should be less crowded, I think.
+M	450a	With this one, you don't even need a swimsuit.
+M	451e	So that's the Junker ID...? It's surprisingly stylish.
+M	454a	Gillian, that's great. Now you've got something to prove who you are...
+M	456e	It's fine, about the money... I've got my job too, so don't worry.
+M	4597	So you're getting a proper salary... that's a relief.
+M	45b7	This was Gibson's message.
+M	45ce	Huh... a puzzle, is it.
+M	45dd	'Search the house!'... I wonder what that means.
+M	45f7	That's quite an antique key.
+M	460b	It's the key to Gibson's desk. I wish it were the key to your heart instead.
+M	4632	Gillian. I don't lock my heart. It's always open.
+M	4659	That's a chess piece, isn't it...
+M	466b	Do you have hardware that can use that disk?
+M	4680	Yeah, there was a clue about the SNATCHERS on it.
+M	469f	So the hardware for it actually still exists. I'm amazed...
+M	46bb	Using a floppy disk, how nostalgic.
+M	46d5	A floppy disk? That's rare.
+M	46ec	What about that sunscreen?
+M	46fb	Apparently SNATCHERS use it to prevent skin cancer?
+M	471e	SNATCHERS use that sunscreen? That's the first I've heard of it.
+M	4741	Unfortunately, sunscreen isn't something our lab handles.
+M	4767	Sunscreen? You don't need that this time of year.
+M	4784	Jamie, take a look at this?
+M	4795	That's a Moai mask, isn't it?
+M	47a3	That's a Dadada mask, isn't it?
+M	47b1	Gillian, are you still playing around with things like that?
+M	47cd	Is that Mr. Gibson? His daughter's still little, isn't she?
+M	47ef	...Poor thing.
+M	47fc	That's Mr. Gibson.
+M	4807	If he were alive, he probably would've understood you.
+M	4824	What a scary face. ...Is he a suspect?
+M	4839	Sorry, I wouldn't know.
+M	484b	Jamie, please.
+M	485a	I'm sorry....
+M	4867	Jamie, please!
+M	4874	Sorry...
+M	487d	No good?
+M	4885	......
+M	488e	No?
+M	4894	......
+M	489d	I'm sorry... Gillian. I just can't feel that way yet...
+M	48c0	Looks like you've made Jamie angry.
+M	48d6	Aw, geez....
+M	48e0	Well, don't let it get you down, okay?
+M	48f5	Huh? Just an audio signal?
+M	4908	Probably... because it's the black market.
+M	491d	At our Plato's Cavern, we run on the motto 'No ID needed, we've got everything, the cheapest in the world.' We're nothing like the shady old-fashioned black market.
+M	498a	We're open 24 hours, 365 days a year... please do drop by sometime. I think that'll explain it better than I can.
+M	49cd	Where is Plato's Cavern located?
+M	49e7	It's on 5th Street in Sannomiya K District. The whole area around there is it.
+M	4a0f	Aren't we on 5th Street right now?
+M	4a27	Thanks very much.
+M	4a33	We look forward to your visit.
+M	4a47	Gillian, we're already at Plato's Cavern, you know?
+M	4a67	Well then...
+M	4a71	......
+M	4a7a	You hung up without saying anything... just like a prank call.
+M	4aa1	...Seems the line's busy.
+M	4ab7	...No one's picking up.
+M	4ac6	Yes! Perfect score!!
+M	4ad7	It is a perfect score, but take a closer look. You've wiped out the civilians too.
+M	4aff	See, Metal! Perfect score!!
+M	4b13	Yes, indeed. It certainly is a perfect score. Along with every civilian.
+M	4b3a	Not exactly a straight compliment, huh?
+M	4b46	That's right... A perfect score, with all the civilians dead too.
+M	4b63	Also, you've got a lot of wasted shots... Please cut down on those and take better aim, all right?
+M	4b9c	I'm the type who goes for volume of fire.
+M	4bb3	The blaster has a limited energy supply, you know.
+M	4bcd	No wasted shots, and your gun control is good, isn't it?
+M	4bed	What matters now is learning to tell civilians from SNATCHERS.
+M	4c0f	I know, I know...
+M	4c1c	It won't go this smoothly in the field, you know.
+M	4c2f	You've got few wasted shots, but... you still mustn't hurt civilians.
+M	4c59	I just end up shooting on reflex.
+M	4c6b	That's exactly what this machine trains you for.
+M	4c80	I see.
+M	4c89	How's this? Perfect!!
+M	4c9c	A perfect score is fine, but you've hit civilians too.
+M	4cc5	Was that right?
+M	4ccf	You can't fool my eyes.
+M	4cdf	Another perfect score, with friendly fire again.
+M	4cf5	You've got a lot of wasted shots too. Work on your focus and judgment.
+M	4d1c	When I try to score hits, I can't tell them apart anymore.
+M	4d3a	That's exactly what they're counting on.
+M	4d4d	A Junker can't afford to be like that.
+M	4d65	I'm starting to lose my confidence.
+M	4d74	Really, so close. No wasted shots either... All that's left is to stop hitting civilians.
+M	4daa	Dammit, I was so close.
+M	4dbd	At this rate, you'll get the hang of it soon.
+M	4dd3	As long as I'm still alive by then.
+M	4de7	Few wasted shots is good, but hitting civilians still won't do.
+M	4e16	Easy for you to say... they just pop out looking like they're begging to be shot.
+M	4e3f	What! A perfect score! You did it, Gillian?!
+M	4e5d	Another perfect score, yet again!! (...If only he'd quit with the lame jokes, he'd make a fine runner.)
+M	4e9b	Hm? Did you say something, Metal?
+M	4ead	No, nothing at all... Well done, Gillian.
+M	4ecf	Another perfect score!! Gillian!!
+M	4ee5	Oh, another perfect score!? You're really something, Gillian?!
+M	4f02	If I had to nitpick, you've got quite a few wasted shots. Cut those down a little more and I'll rest easy.
+M	4f37	Isn't that amazing? Zero wasted shots... very reassuring.
+M	4f57	Really, it's amazing. No wasted shots... you're a natural-born runner.
+M	4f85	Truly amazing! No wasted shots... you really are cut out to be a runner.
+M	4fb5	No wonder, you did buy the Pilot Disk, after all.
+M	4fd2	I heard about your training results from Mika too, Gillian.
+M	4fef	Yeah? Bet she's thinking a little better of me now, huh?
+M	5007	Keep it up. Cut down on wasted shots and you'll be perfect!
+M	502a	Not bad, but you've killed every civilian too.
+M	504e	And you've got a lot of wasted shots besides. Cut those down, or it'll hurt you out in the field.
+M	5081	No wasted shots, it seems... but it looks like you're shooting at everything in sight.
+M	50aa	Please stay a little calmer. Your enemy is a cold-blooded machine, after all.
+M	50d3	Few wasted shots, it seems, and your control looks good too.
+M	50f3	Take a good look before you shoot. A wrong call could cost you your life.
+M	511a	You're doing quite well. But you mustn't hurt civilians too.
+M	5144	The wasted shots stand out too... a bit more concentration might help.
+M	5176	Well, you've got no wasted shots... all that's left is mental focus.
+M	519f	Few wasted shots too... sharpen your judgment and you should improve fast.
+M	51ca	That's about average. No friendly fire on civilians, either.
+M	51ea	Though the many wasted shots are a concern. Your accuracy's still pretty low.
+M	5218	Zero wasted shots, so more training should make you even better. Your control seems good.
+M	524b	Few wasted shots, but your accuracy's still got a ways to go. Your judgment is spot-on, though.
+M	5281	What are you thinking? ...Gillian, why are you shooting so many civilians?
+M	52ad	You've got a lot of wasted shots too, and the enemy is the SNATCHERS, remember.
+M	52cc	Are you fooling around? You aimed only at civilians on purpose, didn't you?
+M	52f0	Again? Please don't fool around. If you don't take training seriously, you'll regret it!!
+M	5322	Please stop doing that on purpose!!
+M	5337	Come to think of it, Mika said something.
+M	534c	That maybe you have a desire to kill, Gillian...?
+M	536c	You're not aiming for civilians, are you? Please take this seriously!
+M	538f	Your accuracy is terrible. ...Gillian, please pull yourself together.
+M	53b3	Plenty of wasted shots too. Please calm down a bit...
+M	53d4	No wasted shots, but shooting civilians is a problem, isn't it?
+M	53f8	Your control doesn't look bad, so what's left is building your judgment.
+M	5422	Looks like you need more training. Watch carefully... and aim carefully, please.
+M	544e	What! ...No friendly fire, but the rest is a total loss.
+M	546f	In any case, you've got way too many wasted shots. At this rate, I can't feel at ease.
+M	549a	Shooting blindly won't do. Please aim carefully before pulling the trigger.
+M	54ca	You haven't pulled the trigger even once, have you?
+M	54e5	Please pull yourself together, Gillian?
+M	54f9	...Are you not even trying?
+M	550b	If you slack off during training, you'll really be in trouble later.
+M	5529	Your score's quite average, but hitting civilians is unacceptable.
+M	554d	Plenty of wasted shots too. Please keep this in mind: you're only supposed to target SNATCHERS.
+M	5585	No wasted shots, but... I can't commend you. Way too much friendly fire on civilians.
+M	55b4	Gillian, remember, you're a Junker.
+M	55cd	What matters is raising your accuracy without hurting civilians. Otherwise you're nothing but a murderer.
+M	5608	You still need a lot more training. Your accuracy's low, but worse, hitting civilians is unforgivable.
+M	5648	You've got a lot of wasted shots too, don't you? At this rate, you won't live long. Me included.
+M	5673	No wasted shots, but you need a lot more practice still.
+M	5694	The wasted shots aren't obvious, but you do hit civilians. That won't fly out in the field.
+M	56c2	I see, your dynamic vision seems good. No friendly fire on civilians at all.
+M	56ed	Still, you've got a lot of wasted shots and low accuracy, so you still need practice.
+M	571e	I give you credit for no wasted shots. Still, you need a lot more training.
+M	5747	Keep that judgment and just raise your reaction speed. You should also cut down a bit more on wasted shots.
+M	5780	By the way... Gillian? Haven't you got the controller's rapid-fire button switched on?
+M	57ad	Metal! W-what are you talking about?
+M	57bd	No wonder your fire rate seemed so fast.
+M	57da	(Damn... busted.)
+M	57ea	By the way...
+M	57f6	Gillian, you had the rapid-fire button on again, didn't you?
+M	5812	Don't say that. ...It's just easier.
+M	5827	That won't work out in the field, you know.
+M	583a	Yeah, yeah... (What a nag.)
+M	5850	...Please turn off the rapid-fire button?
+M	586c	That habit of yours... didn't Mika scold you for it too?
+M	5886	At this rate, it's another game over for you.
+M	58a0	Don't blame me like that. I'm just not good at shooting.
+M	58bb	You're a runner. You're the one who has to take down the SNATCHERS, remember?
+M	58e2	See, there you go again! Out in the field, that'd be the end of you.
+M	58fb	You really have to go on about one mistake like that?
+M	5911	This isn't just your problem alone. Please set your pride aside.
+M	593a	The future of all humanity rests on you.
+M	5954	So... does that make me a hero?
+M	5967	Well, something like that.
+M	5975	Something like that... huh?
+M	5982	At this rate, next time it won't end with just a minor injury.
+M	59a0	Quit nagging. I'm just no good at shooting.
+M	59bb	You're a runner. Poor marksmanship could cost you your life.
+M	59e1	See... you haven't learned a thing from last time.
+M	59fe	Gillian, can you only put up good scores in front of women?
+M	5a25	What's that supposed to mean?
+M	5a30	You got a perfect score in front of Mika, though?
+M	5a47	That's just... how guys are.

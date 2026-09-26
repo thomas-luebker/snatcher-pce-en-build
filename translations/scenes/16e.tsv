@@ -1,0 +1,323 @@
+W	11e6	Area
+W	11ed	Junker I.D.
+W	11fc	Memo
+W	1205	Use Metal Gear
+W	1214	Montage photo
+W	1225	Little John
+W	1232	Patient record
+W	1239	Key
+W	123e	Gibson's photo
+W	124d	Don't save
+W	125a	Save
+W	1265	Save 1
+W	126e	Save 2
+W	1277	Save 3
+W	1280	Save 4
+W	1289	Disk
+W	1292	Use toilet
+W	129d	Toilet
+W	12a4	Videophone
+W	12b1	Apartment
+W	12bc	Mask
+W	12c3	Match
+W	12ca	Move
+W	12cf	Do something
+W	12d8	Video memory
+W	12e5	Exit
+W	12ee	Chess piece
+W	12f1	Look
+W	12f6	Perfume
+W	12fb	Scrap of paper
+W	1302	Temple
+W	1307	Cash
+W	130e	Possessions
+W	1313	Around room
+W	1318	Photo
+W	131d	Enter turbocycle
+W	1326	Evidence
+W	132d	Smell
+W	1338	Red square
+W	1341	Sink
+W	1348	Go inside
+W	1351	Investigate
+W	1358	Shelf
+W	135b	Sunscreen
+W	1366	Razor
+W	136d	Shave
+W	1374	Enter bathroom
+M	137f	This is your apartment building, Gillian.
+M	1396	This is your building, Gillian.
+M	13ac	I suppose Katrina's gone home by now.
+M	13c1	I'm sure she has.
+M	13ca	So nobody's in my apartment.
+M	13d6	I would be quite surprised if there was.
+M	13e1	...you can be really cold-hearted, you know.
+M	13f1	Poor, lonesome Gillian...
+M	1406	If only Jamie was here...
+M	1416	Wow! You mean I have a place to live, too?
+M	142e	Please tone it down, Gillian. I know you have lost your memory, but isn't that carrying the act a bit too far?
+M	1459	(...just trying to make things a little more fun for the folks playing the game..)
+M	1477	We have rested long enough. We should continue with the investigation immediately.
+M	1499	But you just took a break! We need to continue with the investigation!
+M	14ba	Let's try not to spend too much time lounging around like before, okay?
+M	14db	All right, all right...
+M	14e6	...the Chief will get all over my case again.
+M	14fe	This is the apartment that the government made available for you.
+M	151b	The neighborhood's not much, but what a great-looking building, eh?
+M	1539	We're right on the border between the north and south regions of the city. It is not exactly what you would call the best neighborhood.
+M	1566	Can't complain too much. Rent is really high even around here.
+M	1583	It's a 20th century construction, but the building has been completely renovated.
+M	15a1	Yeah, but I can still hear my next-door neighbors all the time...
+M	15be	Being right at the dividing line between the north and south regions, the population here is not particularly high.
+M	15e9	No convenience stores or delis in the area, either. Shopping is really a pain.
+M	160c	This is your living room.
+M	161b	We are in the living room.
+M	1628	Nobody home, eh? It figures...
+M	163a	Please do not get too disappointed.
+M	164b	For a "widower" the room seems rather tidy. I'm quite impressed...
+M	1679	Don't you ever shut up? Are you programmed to evaluate my personal life, too?
+M	169b	My duty is to support you and observe that you are properly carrying out your responsibilities as a Junker.
+M	16d2	Some observer...you mean informer, right?
+M	16e7	Well, one could put it that way...
+M	16f4	Gillian, you should call your wife on the videophone once in a while.
+M	1719	You are not the type of person who can tolerate extended periods of living alone.
+M	173a	Jamie, huh..
+M	1745	The Chief cautioned you about the same thing, I believe.
+M	175d	Oh, that's right.
+M	176a	There is nothing unusual. Everything is in its place.
+M	1785	How can you know that?
+M	1796	I was provided with complete data files on your apartment...
+M	17b7	I see nothing noteworthy here.
+M	17cb	Well jeez, I'm sorry I lead such an ordinary life...
+M	17e1	Please do not get upset! You know that is not what I meant!
+M	1804	Gillian, there is a photograph on the shelf.
+M	181c	Yes. That's a very special picture for me.
+M	1833	There is nothing else on the shelf.
+M	1849	There is a single sofa bed... Overall, a rather spartan and bland room.
+M	1871	Hey, I haven't had time to go shopping yet, all right?
+M	1888	...just the right amount of space for someone living alone.
+M	18a7	It's a picture of Jamie.
+M	18b9	Ah yes, the wife you are separated from. She is very attractive.
+M	18d8	It seems to be a picture of her when she was rather young, but I can't remember where it was taken...
+M	1910	She's very young in this picture, perhaps in her teens.
+M	192c	She still looks like such a little girl...
+M	1941	It's a picture of Jamie.
+M	1951	She always appears rather pretty...
+M	1969	What's with you? Do you want this picture or something?
+M	1984	That will not be necessary. I recorded your videophone call to her...
+M	19b1	Watch it, buddy! That's my wife, you know!
+M	19c5	Well, it is my duty to record all the details of the investigation.
+M	19dd	You're really a disgusting little creep, you know...
+M	19ed	(come to think of it, I wrote Jamie's videophone number on the back of the picture...)
+M	1a20	No interest in women... That is most unfortunate...
+M	1a42	You shut up! I can't believe I'm hearing this from a robot...
+M	1a6c	Ah yes... I sense the sorrow of the lonely man... Still, there must be some reason why this fellow is living alone even though he is over 30...
+M	1aa7	This will work out just fine...you're going to be doing the housework from here on out!
+M	1ac2	What? Did you say something?... What a wonderful apartment you have here.
+M	1adf	I read no motion. There is nothing here besides us.
+M	1b04	There is nothing unusual here. In fact, it is downright dull.
+M	1b24	Of course it is! It's my apartment. I lead a very dreary life.
+M	1b47	Jamie's videophone number is written on the back. It's 39-3444.
+M	1b74	There are some numbers written on the back -- 39-3444. It seems to be a videophone number.
+M	1ba3	Yes, that's the number for Jamie's apartment.
+M	1bbf	Why don't you try giving her a call.
+M	1bd1	Would you let me handle my own personal life?
+M	1be1	It's an instant photograph of the kind seen in the latter part of the last century.
+M	1bf7	Based on an analysis of the inks and chemical structure of the developers, I would say that it is at least 30 years old.
+M	1c32	Let's see now, Jamie's number was 39-3444, I think...
+M	1c56	Gillian, what sort of an act is this?
+M	1c6c	Why are you pretending. I know you have already called her.
+M	1c79	Gillian, why don't you give your wife a call once in a while.
+M	1c9a	This appears to be the logo of the Moscow Olympics.
+M	1cb9	Wait a minute! The last time the Olympics were in Moscow was way back in...
+M	1cef	...well, before the Catastrophe, at the end of the last century, wasn't it?
+M	1d07	This photograph appears to be a composite.
+M	1d20	Composite? You mean somebody made it?
+M	1d34	It seems unnatural somehow.
+M	1d3f	...30 years ago...composite...?
+M	1d58	And at the Moscow Olympics on top of that...
+M	1d6b	Perhaps this has something to do with her past.
+M	1d84	Why would anybody want to make a composite photo...I don't understand.
+M	1d9f	Please take good care of that picture.
+M	1dbd	This is your bathroom.
+M	1dcc	We are in the bathroom.
+M	1dde	Wasn't there a pair of Katrina's panties lying around here?
+M	1dfa	I already gave them back to Katrina, though...
+M	1e15	(What a shame.)
+M	1e27	It appears to be a very standard bathroom. A low-cost, energy conserving, unit-type sink and shower has been installed.
+M	1e5b	Low-cost... well excuse me...
+M	1e75	Well, after seeing that gorgeous bathroom in Freddy's apartment...
+M	1e95	Gimme a break, Metal. It's a lot better than Ivan's.
+M	1eaa	That's another way of looking at it.
+M	1ebf	There is a bottle of perfume and a razor.
+M	1ed3	There's a small sterilizing unit, and a hand dryer.
+M	1ef1	There, you see? I'm doing my part for the conservation movement!
+M	1f16	...that's a truly impressive commitment to global conservationism.
+M	1f2e	This toilet has the latest HealthPot (tm) physical fitness analyzer installed.
+M	1f4f	Wow, I didn't even realize I had some of this stuff. I haven't lived here very long, you know.
+M	1f7a	...It's Jamie's favorite perfume.
+M	1f92	It's almost as if her scent still lingers in the air...
+M	1fac	She'll be back...someday. I promise you.
+M	1fc6	If I could live with Jamie, I suppose I could put up with being your navigator for a while longer.
+M	1ff9	Metal, you've got good taste in women.
+M	2016	Yes. It's the first time we've agreed on anything.
+M	202c	Perhaps...
+M	2035	Of course, my taste in women was programmed from your personal data.
+M	2058	If that's true, then you should understand what I'm going through right now.
+M	2076	..........?
+M	207d	What's wrong, Metal?
+M	2085	I just couldn't help but be overcome by how miserable your life is...
+M	20a1	Jeez...you and I are definitely not on the same wavelength.
+M	20b8	It's the latest micro-laser feather-type.
+M	20cf	The floor and walls are all tile-covered.
+M	20eb	There is a separate shower next to the bathtub.
+M	2102	I see nothing out of the ordinary. The pipes aren't even clogged.
+M	2127	The sink is completely normal. Use it with confidence.
+M	2147	Metal, would you stop being so bloody analytical all the time?
+M	2160	I can't help it. After all, I am an analysis robot.
+M	217d	The HealthPot (tm) physical fitness analyzer is the latest in health technology...
+M	2193	When using the toilet, the system will measure and analyze your temperature, blood pressure, pulse, urine and stool to create an instant profile of your current physical fitness level.
+M	21d6	What do you think, Gillian? Why don't you give HealthPot (tm) a try?
+M	21f6	Ah, this is that famous "Le Smell de l'Amour".
+M	220c	...that's right. It's Jamie's favorite.
+M	2226	This will give you the closest, most comfortable shave a man can experience.
+M	223d	No matter how hard I try now... nothing's coming out...
+M	2257	That's right! I've had to go for some time now... uh Metal, would you excuse me?
+M	227c	Metal, would you excuse me for a second?
+M	228d	You probably had too much ramen back there.
+M	22a4	Well, looks like I had too much to eat back there. I was really full.
+M	22c4	Ahhh. That's much better.
+M	22d4	Gillian, according to the HealthPot (tm) system, you're exceptionally healthy.
+M	2300	Good, I've still got a lot I want to do...
+M	230f	Oh my! Gillian! According to the HealthPot (tm) system...
+M	2333	What? What's it say?!
+M	233c	...you are a healthy guy.
+M	234f	...you are exceptionally healthy.
+M	2361	I ate my fill at Outer Heaven, so it's really moving, huh?
+M	2383	...you are a happy person.
+M	2394	Guess ramen's good for digestion. Really moving along, huh?
+M	23af	...well, it's because you had two portions back there.
+M	23c5	...waaaah!
+M	23d2	What's wrong?!
+M	23db	The Nanomachines I injected in you...!!
+M	23f2	What happened...they go sailing right on through?
+M	2403	What a waste. Those things are very expensive you know...
+M	241e	Hey, what can you do? What goes in must come out.
+M	243b	Ah.. ignorance truly is bliss...
+M	244b	<<sniff, sniff>> Ooh...! Jamie!
+M	2460	...does the scent remind you of her?
+M	2472	Uh, no. Nothing. (whoops! Got caught in a sentimental moment, there.)
+M	2499	<<sniff, sniff>> Nice scent.
+M	24ad	Yeow! A little too much shaving I guess... where's the toilet paper...
+M	24cd	Now that's a real tragedy. Or should I say... a 'beard-gedy'?
+M	24e1	I better quit. Any more of this and my face will be a moonscape.
+M	2503	Hey, I think I'll shave...
+M	2515	I think I'll try shaving again...
+M	252a	Look at how much it took off! And you just shaved with your regular razor this morning, didn't you?
+M	2547	That's funny, I've always been happy with that brand...
+M	2563	Perhaps we should lay off the old jokes for now.
+M	257d	You're right.
+M	2585	Ooh. That's better.
+M	2595	Feel better now, Gillian?
+M	25a5	Yeah, and more handsome, too.
+M	25b9	Now there's no way Jamie will be able to resist me...
+M	25d5	Of course, the punch line here comes when she does turn you down...
+M	25eb	Wait a minute. Maybe I should let my beard grow a bit, look a little scraggly, and try to appeal to her motherly instincts...
+M	2622	You will just get yourself into trouble.
+M	2634	...Gillian, why don't you try shaving?
+M	264d	We've certainly been taking our time, haven't we.
+M	2663	Wow! Is it this late already? We should get going again on our investigation.
+M	2685	That was quite a long break, wasn't it?
+M	2693	Oops. Let myself relax a little too much, I guess.
+M	26ab	We should hurry and get back to our investigation.
+M	26be	After a break like that, you should feel refreshed, too, right?
+M	26dd	Yeah. Let's get going.
+M	26f6	We should end our break and get back to the investigation.
+M	2713	All right. I'm ready for another round.
+M	2720	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	2750	That's the expense money that the agency gave you.
+M	2768	That's the memo in which Gibson told you the whereabouts of the computer data explaining about the SNATCHER'S weak point.
+M	2798	I wonder what "Search the house!" means?
+M	27b6	That's the key to Gibson's desk.
+M	27ce	It's an exceptionally old antique.
+M	27e4	That's the chess piece that Gibson had.
+M	27fd	It's the chess piece that we found in Gibson's coat.
+M	281a	That's the floppy which contains data on the SNATCHER'S weak point.
+M	2837	That's a floppy disk for a personal computer.
+M	284c	That's the sunscreen that the SNATCHERS are using...if Gibson's theory is right.
+M	2880	And we've found out what we needed at Plato's Cavern.
+M	289a	It's ordinary sunscreen. There's a sticker with the logo of the store where it was purchased on it.
+M	28c9	That's the mask that you bought at Plato's Cavern.
+M	28eb	That's an Easter Island statue mask.
+M	28f8	That's a Mummy mask.
+M	2905	That's a picture of Jean Jack Gibson.
+M	291e	That's the montage that we built using witnesses' testimony.
+M	293f	It has an IC chip built-in which contains all of your personal data.
+M	296a	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	298d	That's the memo that Jean left.
+M	299e	It's written on ordinary paper. It's definitely in Jean's handwriting.
+M	29c4	That's the key to Gibson's desk in the Detective's Room.
+M	29dc	What could this key be? I don't believe there are still any places which use keys like that.
+M	2a0f	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	2a36	That's a wooden chess piece.
+M	2a4f	That's the disk with Gibson's notes in it.
+M	2a6c	That's a 5-inch floppy disk.
+M	2a81	On the bottle it says "The store with everything: Plato's Cavern".
+M	2aac	It definitely looks like it was being sold at Plato's Cavern.
+M	2ac9	We might learn something if we check out the place this was bought.
+M	2aeb	It's a special, high-detail mask, constructed by the popular Rick Bakery.
+M	2b12	That's a picture of Jean Jack Gibson.
+M	2b2b	That's a composite, 2-D photograph assembled from Jordan's 3-D data.
+M	2b47	It was taken from the chess set at Jean's home. What could it mean?
+M	2b77	Jean really liked puzzles.
+M	2b90	This must have some secret meaning.
+M	2ba4	Jeez, this really looks like Ivan.
+M	2bba	You have to be impressed by Alpha-One's search capabilities.
+M	2bdb	The house? Come to think of it, I don't have a house to come home to.
+M	2bfc	Do not get so depressed, Gillian. You'll be able to live with Jamie again sometime.
+M	2c27	A home and family, eh? Those may not go along too well with being a Junker.
+M	2c48	There is still a lot left, right?
+M	2c57	There is considerably less since you gorged yourself, however.
+M	2c76	Don't bad-mouth me like that. It was necessary for the investigation, right?
+M	2c98	Actually... (since it was cash, they'll never know how much I spent if I keep quiet!)
+M	2cc8	Did you say something?
+M	2cd5	No, no. Nothing.
+M	2ce2	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	2d12	That's the expense money that the agency gave you.
+M	2d2a	That's the chess queen that Gibson used as a clue to the name of Queens Hospital.
+M	2d57	That's the chess piece that Gibson had.
+M	2d70	That's the patient record which has the name of a SNATCHER on it.
+M	2d8a	That's the thing we found in the desk at Queens Hospital.
+M	2da6	Those are the matches which we found at Queens Hospital.
+M	2dc2	That's the memo which it appears Harry wrote.
+M	2dd6	That's the memo which we found in Engineering.
+M	2df0	This is the image that was left in Little John's memory.
+M	2e0e	This is the photograph which was hidden in the Chief's office.
+M	2e2a	This is the picture of a temple-like building we saw at Queens Hospital.
+M	2e4c	It has an IC chip built-in which contains all of your personal data.
+M	2e77	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	2e9a	It seems that this queen was meant to give us the name of Queens Hospital.
+M	2ebf	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	2ee6	It's a code written in ancient Chinese characters. Deciphered, it reads "Benson".
+M	2f1d	It appears to be part of a patient's records. I wonder what is written on it?
+M	2f45	These are matches from Outer Heaven. They probably give them away to their regular customers.
+M	2f72	It says "Face to face". It's the memo which reveals the secret of the picture of the vase.
+M	2f99	It says "Face to face". It's in Harry's handwriting. I wonder what it means.
+M	2fc9	This is a video image of the neon sign at Queens Hospital.
+M	2fec	It reads "Hospital Oleen". It appears to be a hospital's neon sign.
+M	3016	It's a photograph of Red Square in Moscow, taken before the Catastrophe.
+M	3041	This is St. Basil's Cathedral. It's a famous cathedral which existed in Moscow before the Catastrophe.
+M	306f	All right, I'll save everything that has happened up until now.
+M	3086	Which file number would you like to save it in?
+M	3095	This file contains data from a previous save.
+M	30b7	Is it okay for me to overwrite it with the new data?
+M	30d2	In that case, I won't write the new data there.
+M	30f0	This file contains data from a previous save.
+M	3112	Is it okay for me to overwrite it with the new data?
+M	312d	In that case, I won't write the new data there.
+M	314b	This file contains data from a previous save.
+M	316d	Is it okay for me to overwrite it with the new data?
+M	3188	In that case, I won't write the new data there.
+M	31a6	This file contains data from a previous save.
+M	31c8	Is it okay for me to overwrite it with the new data?
+M	31e3	In that case, I won't write the new data there.

@@ -23,7 +23,7 @@ R	W16cc	sp03:38ca:1
 R	W16d1	sp30:38cd:21
 R	W16d8	sp30:3826:241
 R	W16dd	sp30:3938:1
-T	W16e2	Estimated Time Of Death
+T	W16e2	Time of death
 T	W16ef	Room
 R	W16f4	sp26:3915:401
 R	W16fb	sp24:3910:401
@@ -276,3 +276,6 @@ R	M3376	sp03:7362
 R	M3394	sp03:72fd
 R	M33b6	sp03:732b
 R	M33d1	sp03:7362
+T	W1608	1 and 2 together
+T	W16aa	Rebuild corpse
+T	W1720	Continue search

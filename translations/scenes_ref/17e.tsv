@@ -173,7 +173,7 @@ R	M2cde	sp09:46c9
 R	M2cf0	sp09:46f4
 R	M2d10	sp09:4727
 R	M2d2f	sp09:4751
-R	M2d41	sp09:476a
+T	M2d41	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
 R	M2d7a	sp09:47cc
 R	M2d87	sp09:47de
 R	M2d9c	sp09:47ff
@@ -185,18 +185,18 @@ R	M2e2f	sp09:48f3
 R	M2e51	sp09:493b
 T	M2e65	First... it's my bust size, right?
 T	M2e78	Once again... starting with the bust size?
-R	M2e8e	sp09:49c6
+T	M2e8e	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
 T	M2ec7	You don't need a leading zero, you know.
 T	M2ed6	That's three digits! Get rid of the leading zero.
 T	M2eee	There's no way it's a single digit!!
 T	M2eff	Hmph, I'm good at this kind of thing. Straight up... 81!!
 T	M2f1d	Um... 81, that's it!!
 T	M2f2d	...Correct. Now... what about my waist size?
-R	M2f48	sp09:49c6
+T	M2f48	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
 T	M2f81	...58!!
 T	M2f8d	This one, of course... ...58!!
 T	M2fa2	...That's right too. ...One more to go. What about my hips?
-R	M2fc3	sp09:49c6
+T	M2fc3	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
 T	M2ffc	I know this one for sure! ...83!!
 T	M3018	All correct! I guess you really are the real thing. Wait, I'll open the door.
 T	M3045	What?! ...How rude!

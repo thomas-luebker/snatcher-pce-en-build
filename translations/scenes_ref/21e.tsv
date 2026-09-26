@@ -304,7 +304,7 @@ R	M373a	sp26:6e99
 R	M374f	sp26:6ebb
 R	M375f	sp26:6eda
 R	M3776	sp26:6ef1
-R	M3799	sp26:6f6d
+T	M3799	Move it with the pad. Hold button II and the direction pad moves the light. Let go of button II to return to the commands.
 R	M37f4	sp26:6fea
 R	M381a	sp26:7037
 R	M3827	sp26:7055

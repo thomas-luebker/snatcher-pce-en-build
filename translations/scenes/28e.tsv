@@ -1,0 +1,195 @@
+W	0dda	Area
+W	0de1	Junker HQ
+W	0df2	Use Metal Gear
+W	0e01	Container
+W	0e0a	Cylinder
+W	0e15	Snatcher
+W	0e22	Snatch process
+W	0e2f	Don't save
+W	0e3c	Save
+W	0e47	Save 1
+W	0e50	Save 2
+W	0e59	Save 3
+W	0e62	Save 4
+W	0e6b	Videophone
+W	0e78	Chairs
+W	0e7d	Continue back
+W	0e86	Church
+W	0e8b	Building
+W	0e90	Look
+W	0e95	Enter turbocycle
+W	0e9e	Exit turbocycle
+W	0ea9	Body
+W	0eae	Portrait
+W	0eb5	Snow
+W	0eb8	Go inside
+W	0ec1	Listen
+W	0ec6	Investigate
+W	0ecd	Terminal
+W	0ed2	Motion detector
+W	0edb	Ceiling
+W	0ee0	Door
+M	0ee3	This is the last Turbocycle.
+M	0ef8	All right, now boarding the Turbocycle.
+M	0f0e	We've boarded the Turbocycle. Where would you like to go?
+M	0f2d	...of course, I know the answer to that question.
+M	0f50	This spare turbocycle has not been painted, but that does not effect its locomotive functions.
+M	0f81	Take a careful look, please. This vehicle can only be used for another three hours.
+M	0fac	The parking lot has become rather lonely.
+M	0fc5	We and this Turbocycle are the only things here.
+M	0fd7	It appears quite safe. It has not been tampered with.
+M	0ff3	There's nothing to worry about. I detect nothing unusual.
+M	100a	I do not read any motion. You and I are the only ones here.
+M	102d	There is no one here. It is very quiet.
+M	1041	Well Gillian, we are heading into the bottom of the ninth...
+M	1053	All right, I'll save everything that has happened up until now.
+M	106a	Which file number would you like to save it in?
+M	1079	Let's hurry to the church!
+M	1089	Gillian! This is no time to be dawdling!
+M	109e	Gillian! Let's go!
+M	10aa	I don't know... After all, there's only the two of us against who knows how many SNATCHERS...
+M	10ca	We've arrived at the church.
+M	10d8	Wow! Now I know why they call it their Kremlin.
+M	10e8	It's a very old church. It bears quite a resemblance to St. Basil's cathedral.
+M	110a	No doubt they thought the same thing.
+M	1125	The building may be patterned after a traditional Russian church. It's quite old.
+M	114f	It appears to be snow, but it's actually SNOW-9. Try to avoid inhaling any of it directly.
+M	117f	It's pollen, and therefore much finer than snow.
+M	1199	It's surrounded by a large grove of tall cedar trees.
+M	11af	This is likely to keep just about anybody away.
+M	11c6	Given the season, a few Christmas lights would really liven up the scene.
+M	11e7	The surroundings conceal the church from all but aerial surveillance.
+M	1208	The building is about 50 years old, but appears very well maintained.
+M	122e	So where's the entrance?
+M	1237	On the front side of the building.
+M	1240	Acid rain has seriously damaged many of the building's sculptures.
+M	125e	This is definitely SNOW-9.
+M	1278	It's hard to believe that this much of it is present right here in the city.
+M	1296	A sensor scan reveals that a Tube-Liner tunnel passes directly underneath this area.
+M	12c7	Well that's no surprise. Looks like we've got the right place.
+M	12dc	There is nothing in the area besides this church.
+M	12f4	The only sound is that of the wind.
+M	1306	Yes, that is a good idea.
+M	1318	All right, I'll save everything that has happened up until now.
+M	132f	Which file number would you like to save it in?
+M	133e	Gillian, are you trying to run away?
+M	1350	What's wrong? Show some courage!
+M	136a	Where do you think you're going, Gillian?
+M	1380	Too much interference to use the videophone here.
+M	1399	I'm not reading anything at all.
+M	13a9	I'm not showing anything out of the ordinary.
+M	13bd	I'm not picking up any large movement signals.
+M	13d3	It's perfectly quiet.
+M	13e3	Just us and the wind, that's all I can hear.
+M	13fa	The whole area is exceptionally quiet.
+M	140e	What's this...?
+M	1418	It would appear to be some kind of a chapel for the SNATCHERS.
+M	1430	Are you telling me those things pray? To whom?
+M	144a	No doubt to their creator. That portrait on the wall is probably a representation of him.
+M	1480	Now moving into the back room...
+M	1492	This person is no doubt the one the SNATCHERS worship as their creator.
+M	14b5	This guy... isn't that Random?
+M	14cd	One moment... I'll compare the picture with my data on Random.
+M	14ee	While the facial bone structure of the individual in the portrait is nearly identical to that of Random, a positive identification is impossible, as the picture is not a photograph.
+M	152b	That just looks too much like him to be a coincidence...
+M	1540	Now that you mention it, the person in the portrait does look like Random Hajile.
+M	155e	These are the chairs for worshippers in the chapel, no doubt.
+M	1572	There is no covering of dust. They appear to be used regularly.
+M	1594	Everything is nice and orderly...
+M	15a2	It's as if the pre-collapse Soviet Union has been recreated here.
+M	15bf	The decorations do not appear to be those of a church.
+M	15d2	Something is written on the painting. "The Creator: Modnar".
+M	15f2	So this is Professor Modnar?
+M	1602	The one the SNATCHER was talking about, eh?
+M	1616	It appears to be a portrait of that person.
+M	162e	Based on the condition of the paints and canvas, I would say that this portrait was painted over 50 years ago.
+M	1666	There are a number of scratches on the surface. They were almost certainly caused by the SNATCHERS.
+M	1695	A very heavy object appears to have been placed here. It is structurally damaged.
+M	16b9	It's all very organized, almost inhumanly so. Hmm? There is another room farther back.
+M	16e5	There is no litter or garbage anywhere. It's almost too clean.
+M	1702	All right, I'll save everything that has happened up until now.
+M	1719	Which file number would you like to save it in?
+M	1728	So have they already left for the summit?
+M	173e	SN.. SNATCHERS!
+M	174d	Look at 'em all!
+M	1759	I'm not picking up any energy readings. They are all deactivated, in some kind of suspension-mode.
+M	1789	So this is their warehouse, eh?
+M	179b	There must be a few hundred of them here. They continue all the way back.
+M	17bb	Still, this doesn't look like a factory to me.
+M	17d7	Are you ready, Gillian? Now heading for the room farther back...
+M	17f2	These are endo-structures which have yet to have the artificial skin installed. The bone-sizing devices and skull slits are all still set to the smallest sizes.
+M	1836	So their victims haven't been chosen yet. They're all just waiting their turn...
+M	186d	They almost look as if they could spring to life any moment. If this many SNATCHERS were to all start moving at the same time, there is little we could do.
+M	18a3	There seem to be a number of containers stacked up in the back of the room.
+M	18c3	There is nothing of interest besides the containers.
+M	18db	Something is written on the floor.
+M	18ed	It appears to be Russian characters from about 50 years ago.
+M	1904	What about the size of these containers?
+M	190e	The volume of these containers would be just perfect for shipping one of these SNATCHERS. This is no doubt how they got here.
+M	1941	These endo-structures were all shipped here in these containers.
+M	1969	None of these SNATCHERS appear damaged. All they need is their energy packs. The gender units have yet to be installed, however.
+M	19ac	They are preserved in excellent condition. It appears that they undergo regular maintenance.
+M	19d3	I do not see any tools or equipment for maintaining anything in the area. This room would appear to be just a storage area.
+M	1a08	Unlike the chapel, there are some scraps and dust on the floor here.
+M	1a25	There is some kind of a label here...
+M	1a3a	..."23rd Siberian Investigative Force".
+M	1a55	Siberian Investigative Force?!
+M	1a68	It would appear that these SNATCHERS were brought to Neo Kobe from the Siberian Neutral Zone.
+M	1a84	It seems that the Investigative Forces have been responsible for shipping the SNATCHERS.
+M	1a9f	In other words, the Investigative Forces have been snatched, just like when they found us!
+M	1acd	These containers were definitely brought out of Siberia. I can detect traces of contaminants unique to the region on the containers.
+M	1b0b	All right, I'll save everything that has happened up until now.
+M	1b22	Which file number would you like to save it in?
+M	1b31	I see. So the Siberian Investigative Forces bring the SNATCHERS out of Siberia and into storage here.
+M	1b61	I think you're right, Metal. And then the SNATCHERS just wait here in storage to be reactivated and adjusted after their victims are selected.
+M	1b94	A rather efficient system. I wonder where the actual snatching takes place.
+M	1bb3	The back part of this room may hold the answer to that question.
+M	1bca	The SNATCHER'S culturing room...
+M	1be0	The mechanism is operating.
+M	1bf2	Gillian, there are SNATCHERS with their artificial skin already installed here.
+M	1c20	These units are nearly ready to perform a complete snatch.
+M	1c3c	A computer terminal is installed on each preservation cylinder.
+M	1c66	There are tubes and wires running all over the place. Please watch your step.
+M	1c95	It's a small, metal door with a doorknob attached.
+M	1cb0	There must be another room beyond here.
+M	1cc5	These terminals must all be connected to a host computer which monitors conditions inside each of the cylinders.
+M	1d00	The monitors are all displaying various data and charts.
+M	1d25	These cylinders are used to culture the SNATCHER'S artificial skin. Endo-structures are submerged within them.
+M	1d58	They are constructed with a special reinforced glass. It would require quite a bit of effort to break.
+M	1d82	It appears that weak ultraviolet rays are being projected from above.
+M	1d9e	This is really advanced... way beyond anything we saw at Queens Hospital.
+M	1dbc	The whole area is protected as a "clean room". There is a door at the far end of the room.
+M	1de6	This is very sophisticated equipment. I'm surprised at the advanced level of the facility they have constructed.
+M	1e0f	I wonder where they're getting their funding from?
+M	1e24	They are probably supplying their financial backers with SNATCHERS as well.
+M	1e49	It's locked, but I should be able to open it from this side.
+M	1e67	It's set so that it cannot be opened from the inside.
+M	1e83	The power is on. Look at this, Gillian. The data of people to be snatched is all being neatly processed.
+M	1eb8	This is the data which they use to generate the artificial skin with.
+M	1eda	There is no sound except for the soft bubbling of the liquid in the cylinders.
+M	1ef7	I'm not registering any sounds except those regular noises coming from the equipment here.
+M	1f1e	We'd have to leave the area first...
+M	1f33	All right, I'll save everything that has happened up until now.
+M	1f4a	This may turn out to be the last time we ever save anything,
+M	1f60	Which file number would you like to save it in?
+M	1f6f	I cannot get a clear channel in this area. No transmission is possible.
+M	1f92	SNOW-9 causing the trouble?
+M	1f9f	SNOW-9 levels are very high here.
+M	1fb8	So there's no way to call in any reinforcements, eh?
+M	1fcb	I'm afraid that's about the size of it.
+M	1fd8	But what about the videophone call from Jamie?
+M	1ff2	No doubt the call used a very high-powered transmitter of some kind.
+M	2017	No transmissions can be made from this area at all.
+M	2032	The high level of SNOW-9 in the area is preventing use of the videophone.
+M	2055	This file contains data from a previous save.
+M	2077	Is it okay for me to overwrite it with the new data?
+M	2092	In that case, I won't write the new data there.
+M	20b0	This file contains data from a previous save.
+M	20d2	Is it okay for me to overwrite it with the new data?
+M	20ed	In that case, I won't write the new data there.
+M	210b	This file contains data from a previous save.
+M	212d	Is it okay for me to overwrite it with the new data?
+M	2148	In that case, I won't write the new data there.
+M	2166	This file contains data from a previous save.
+M	2188	Is it okay for me to overwrite it with the new data?
+M	21a3	In that case, I won't write the new data there.

@@ -1,15 +1,15 @@
 T	W0525	With Ivan
 T	W0530	Freddy Chokehold
-T	W0543	Act 1 Latter Half
+T	W0543	Act 1 Part 2
 T	W0550	Act 1 First Half
 T	W055d	Act 2 Start
-T	W056a	Act 2 Latter Half
+T	W056a	Act 2 Part 2
 T	W0577	Act 2 First Half
 T	W0584	Act 3 Start
 T	W0591	Act 3
-T	W059a	To Plato's Cavern
+T	W059a	Plato's Cavern
 T	W05a5	To Outer Heaven
-T	W05b0	Napoleon At Outer Heaven
+T	W05b0	Napoleon at OH
 R	W05bf	sp21:3ad7:81
 T	W05ce	VRAM Animation
 T	W05dd	Random Revived
@@ -19,31 +19,31 @@ T	W05fc	Investigate Ivan
 R	W0607	sp34:3849:41
 T	W0614	Find Katrina
 R	W0625	sp01:3931:10049
-T	W0636	Go To Gibson's House
-T	W0647	Queens Hospital 1
-T	W0656	Queens Hospital Basement
+T	W0636	To Gibson's
+T	W0647	Queens Hosp. 1
+T	W0656	Queens Hosp. B1
 R	W0667	sp00:3800:201
 R	W0676	sp01:3c55:1
-T	W0685	Reunite With Jamie
+T	W0685	Meet Jamie again
 R	W0694	sp32:3963:1
 R	W069d	sp01:3a9f:21
-T	W06ae	Go To Harry's Mecha Room
+T	W06ae	To Harry's Mecha
 R	W06c7	sp01:39fa:1001
 T	W06d4	Body Restoration
 T	W06dd	Head To Church
 T	W06ea	Chief Part 1
 T	W06f5	Chief Part 2
 T	W0700	From The Start
-T	W0709	Return From Factory Ruins
-T	W071a	Go To Factory Ruins
+T	W0709	Back from ruins
+T	W071a	To Factory Ruins
 T	W0727	Katrina At Home
 T	W0736	End Game
-T	W073f	Underground Corridor
-T	W074a	Underground Morgue
-T	W0755	Underpass And Taxi
+T	W073f	Basement hall
+T	W074a	Basement morgue
+T	W0755	Underpass, taxi
 R	W0766	sp36:3891:1
 T	W076d	Puzzle Solved
-T	W0778	Hospital With Random
+T	W0778	Hospital: Random
 T	W0789	Rampage Scene
 T	M0794	Insufficient memory. I was unable to create a new file. Please use the game data that has already been saved.
 T	M07d6	Format error occurred! An abnormality has occurred in the memory section of your PC Engine.
@@ -64,3 +64,5 @@ T	M0971	It's hell!!
 T	M097a	Chin Shu Oh!!
 R	M0984	sp01:40ae
 R	M0996	sp01:40c7
+T	W0625	To Gillian's
+T	W06c7	Freddy's case

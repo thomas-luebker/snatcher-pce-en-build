@@ -1,0 +1,282 @@
+W	1073	Area
+W	107a	Use Metal Gear
+W	1089	Turn on light
+W	1096	Don't save
+W	10a3	Save
+W	10ae	Save 1
+W	10b7	Save 2
+W	10c0	Save 3
+W	10c9	Save 4
+W	10d2	Ride in taxi
+W	10e1	Taxi
+W	10ea	Move
+W	10ef	Pollen
+W	10f4	Driver
+W	10fb	Exit
+W	1104	To living room
+W	110f	Mirror
+W	1112	Building
+W	1117	Look
+W	111c	Behind
+W	1121	Sand
+W	1124	Tell destination
+W	112f	Listen
+W	113a	Around room
+W	113f	Get in car
+W	1148	Inside car
+W	114d	Scratches
+W	1150	Advance
+W	1159	Front
+W	115e	Quit the search
+W	116b	Continue search
+W	1178	Go inside
+W	1181	Hear
+W	1186	Investigate
+W	118d	Down to basement
+W	119a	Map
+W	119f	Ground
+W	11a4	Motion detector
+W	11ad	Ceiling
+W	11b2	Wall
+W	11b5	Enter bathroom
+W	11c0	Bathtub
+W	11c5	Talk
+M	11ca	Shall I turn the light on?
+M	11db	Why don't I turn on my light...
+M	11f4	Can you see anything?
+M	1203	...this is no good. I can't tell anything just groping around like this.
+M	1229	Are you all right...?
+M	123a	Something feels broken... My body won't move.
+M	125d	Metal, turn your light on, will you?
+M	126e	I was waiting for you to ask. Let there be light!
+M	128b	All right, I'll save everything that has happened up until now.
+M	12a2	Which file number would you like to save it in?
+M	12b1	Well, it's a bit dark in here, but I'll try to save everything that has happened up until this point.
+M	12d9	Which file number would you like to save it in?
+M	12ea	This file contains data from a previous save.
+M	130c	Is it okay for me to overwrite it with the new data?
+M	1327	In that case, I won't write the new data there.
+M	1345	This file contains data from a previous save.
+M	1367	Is it okay for me to overwrite it with the new data?
+M	1382	In that case, I won't write the new data there.
+M	13a0	This file contains data from a previous save.
+M	13c2	Is it okay for me to overwrite it with the new data?
+M	13dd	In that case, I won't write the new data there.
+M	13fb	This file contains data from a previous save.
+M	141d	Is it okay for me to overwrite it with the new data?
+M	1438	In that case, I won't write the new data there.
+M	1456	It's completely dark in here. My optical sensors cannot function.
+M	147c	It's too dark to see anything.
+M	148f	Damn! I can't see a thing. It's pitch black...
+M	14aa	I can't identify anything in this darkness.
+M	14c5	Gillian! What's with that outfit...?
+M	14de	Oh? I kind of like it, actually.
+M	14f7	There's no time for joking around! We need to hurry back to Junker Headquarters!
+M	1526	Just wait a bit. I probably won't get to dress like this again.
+M	154d	Well, let's try moving forward...
+M	1563	There could be SNATCHERS waiting for us. Please use extreme caution.
+M	1589	How far does this thing go?
+M	1599	Gillian, are you sure that this thing has an exit?
+M	15b5	This does not seem to be just an ordinary air duct.
+M	15cc	It looks like the SNATCHERS have been using it to move around.
+M	15e5	With these scratches and the presence of SNOW-9, I'd say it's definite.
+M	1607	I sure don't want to meet up with any of them in a tight space like this.
+M	1627	All right, continuing forward...
+M	1636	We can't go back. The way is blocked by debris.
+M	1657	We can probably keep moving forward, but it's likely to be a dead-end.
+M	1681	Buried alive, eh? Great... Check real careful; there's got to be a way out somewhere.
+M	16a5	There's some kind of scratches here.
+M	16ba	Scratches? Check 'em out.
+M	16d1	Both the right and left side walls of the duct have scratches on them, as if something hard had bumped into them.
+M	16e6	It's from the SNATCHERS when they move through this duct, I bet.
+M	1701	My light isn't powerful enough. It appears to continue on.
+M	1726	It looks like it continues for some distance.
+M	1739	I can hear water. It can't be a dead-end.
+M	175a	It's constructed quite well. There are signs that construction to reinforce it has been carried out.
+M	1783	Reinforcing bars formed of level-4 hardness steel alloy have been installed. It's quite strong.
+M	17ad	And that's what saved us... I guess we should thank them, eh?
+M	17d2	It seems that this is not just a simple air duct.
+M	17e9	What's this? There's some sand spilled here... How did this get here?
+M	180e	For an air duct, the quantity of dust is quite low.
+M	182a	So that means that this thing is used regularly, right?
+M	184e	Yes. There is certainly no reason why anyone would ever deliberately clean a duct like this.
+M	186f	<<Ah.. Ahh. Achoo!!>>
+M	1881	Gillian! Is it SNOW-9?
+M	1896	The lower surface is constructed of reinforced concrete.
+M	18b1	All right, now analyzing this sand.
+M	18c7	Iron particles, high quantities of phosphorus. This type of sand is particular to the M district in Neo Kobe.
+M	18f6	The M district, eh? Around the old factory, right? What's that mean?
+M	191b	It is quite unusual that that particular sand would be present here. It was no doubt brought here by someone.
+M	194a	This scratch was caused by the scraping of a very hard, claw like object of some kind.
+M	196a	A SNATCHER? Maybe they were using this as some kind of short-cut, or back route.
+M	199a	It appears that a SNATCHER was dragged through here. A human body would not cause such marks.
+M	19cb	Maybe that naked SNATCHER we saw in the operating room?
+M	19e6	That's probably correct. An endostructure before the artificial skin was installed seems most likely.
+M	1a0c	All right, I will gather and analyze a sample of the air here.
+M	1a2e	Gillian, the results are as I would have expected. Though the concentration is thin, there is definitely SNOW-9 present.
+M	1a5f	SNOW-9, huh? Is it okay to breathe it?
+M	1a78	You will be safe at these concentrations.
+M	1a8c	The farther we go, the higher the concentration. It must be coming from that direction.
+M	1abc	Metal, are you picking up any movement?
+M	1acc	I'm afraid the shock of that explosion has damaged my motion detector...
+M	1aea	So is it working or not ?
+M	1af3	I'm getting partial readings, but they are not as sensitive as they should be.
+M	1b13	If we get attacked in a narrow area like this, we've had it.
+M	1b31	Please pray for us Gillian. We've got to make it out of here.
+M	1b53	Damn. So I have to depend on my own eyes and ears, do I...
+M	1b6c	I'm not reading anything at the moment.
+M	1b80	The sensors are not showing anything.
+M	1b95	If we listen carefully, we may be able to hear something.
+M	1bb0	I can hear the sound of water flowing.
+M	1bc1	Then we must be close to a way out of this thing.
+M	1bcd	There is probably a sewer or something nearby.
+M	1be5	Jeez, this thing just keeps going...
+M	1bf1	It's an Insector! Please fight back with your blaster!
+M	1c12	No way! Not in a tight spot like this?!
+M	1c29	This time we'll be fine, right?
+M	1c3c	Leave it to me!
+M	1c45	This time for sure, we'll be fine, right?
+M	1c5c	Shut up!
+M	1c66	I'm no longer reading any motion.
+M	1c7b	Whew... They really build a lot of those things, don't they.
+M	1c95	That was really close.
+M	1cac	Yeah... I took five hits. Only one more and it would have been curtains.
+M	1cc5	That was a close one, wasn't it, Gillian.
+M	1cd8	Yeah, four hits. Much worse and I'd would have been saying walking through those Pearly Gates by now.
+M	1cf9	That was close, Gillian.
+M	1d0c	Yeah, I took three hits back there.
+M	1d1d	Gillian, are you all right?
+M	1d2f	Yeah, I'll live. Took two hits, though.
+M	1d42	Gillian, are you injured?
+M	1d54	Barely. They only hit me once.
+M	1d62	Those insectors must be the security for this area.
+M	1d7e	Which means that at the end of this duct...
+M	1d96	I'm not reading any more motion. Let's move on.
+M	1db4	Don't want to meet up with any more of those spiders...
+M	1dc2	Look! A way out!
+M	1dd5	We're saved, Gillian!
+M	1de7	Metal, don't let your guard down.
+M	1df6	...how far does this bloody thing go?
+M	1e09	We're probably lost.
+M	1e1a	I wonder where we are.
+M	1e2a	Metal, can you see what's up ahead?
+M	1e47	It appears that the tunnel continues for as far as I can see.
+M	1e64	The tunnel seems to go on for some distance.
+M	1e78	I cannot see anything else.
+M	1e89	Thats the area we just passed through. I see nothing out of the ordinary.
+M	1ea9	We were just there, Gillian! There is nothing unusual about it.
+M	1ed4	You're acting quite paranoid, aren't you Gillian? Nothing is going to jump out at you. Don't worry.
+M	1ef1	Just kidding.
+M	1f17	Cut the crap you little twerp!
+M	1f24	The only sound is that of our own footsteps.
+M	1f3b	Metal, can you hear any trains approaching?
+M	1f57	What are you saying, Gillian? The Tube-Liner system has been abandoned for years!
+M	1f91	There is no sound besides what we are making.
+M	1fa7	I'm not picking up any unusual sounds.
+M	1fbd	Metal, how much farther do we have to go to reach the next station?
+M	1fda	Since I don't know what our exact present location is, I cannot give you an accurate figure.
+M	2000	This part of the system didn't have very many stations. We will probably have to walk quite a bit further.
+M	202d	What part of the city is this?
+M	203d	I believe we are probably underneath the MR district.
+M	205d	Hey, Metal.
+M	2067	Yes, Gillian.
+M	2074	Nothing. Just wanted to make sure you were awake.
+M	2085	..........
+M	208e	...!
+M	2095	Gillian, what's wrong?
+M	20a5	It looks like the Junk Team has already taken care of Freddy's remains.
+M	20ca	The bathroom has been neatly cleaned up; the area has been sealed off by police tape.
+M	20f6	There is a ladder leading underground.
+M	2108	That's the ladder that we climbed up.
+M	211e	You can see your reflection in the mirror.
+M	2132	Nothing has changed since we were last here. The apartment has been sealed off by the Junker Agency and Kobe City Police.
+M	2171	After a full inspection by the Identification Section, the place was apparently sealed off.
+M	2190	It appears that the faucet was a double-construction, functioning as a switch as well.
+M	21b4	It's a very simple construction. We should have noticed the trick ourselves.
+M	21dc	Don't worry. There's nobody else in the reflection.
+M	21f8	I'd prefer not to be strangled like that again, thank you.
+M	2211	I'm not reading any movement. We are the only ones here.
+M	2236	We are the only ones in the room.
+M	2249	Tape? You mean this laser beam, right?
+M	2260	Don't break the beam, Gillian! You'll have people from Headquarters all over the place! It's a security sensor, you know.
+M	2298	I see. Gotta make sure nobody messes with the evidence, after all.
+M	22b5	This is Freddy's living room.
+M	22c4	Be careful that you don't touch the tape lines.
+M	22e4	Yeah, yeah... Jeez, I feel like I'm breaking into the place or something.
+M	22fc	...before that, don't you want to take a look at that map?
+M	2319	That map must mean something. Don't you think so, Gillian?
+M	2340	Before we leave, why don't we check out that map one more time.
+M	2362	Lisa's remains have been cleaned up.
+M	2377	This room is also protected by police line sensors.
+M	2391	Its a large-scale map of Moscow.
+M	23a3	A holographic marker indicates the location that Lisa's remains were found.
+M	23c8	The apartment has been preserved just as it was the last time we were here. There is no sign that anybody else has been here since.
+M	23f9	It's a late 20th century map.
+M	240b	Chin Shu Oh over at Queens Hospital had a picture of St. Basil's Cathedral. The Chief keeps a picture of Red Square hidden. How come everybody is such a big Moscow fan these days? What's going on here?
+M	2471	Moscow seems to hold some clue to this whole thing, doesn't it.
+M	248c	Moscow... did that guy say something about it?
+M	24a4	Before the explosion, didn't Chin Shu Oh say something about "achieving what was meant to be 55 years ago" and the depths of the Kremlin?
+M	24ca	Now that you mention it, this map is from exactly that era, isn't it.
+M	24e9	Moscow, 55 years ago. The key to understanding the SNATCHERS no doubt lies there.
+M	2514	This has to have some meaning. I don't think they'd paste a 50 year-old map up here just as a decoration.
+M	2544	We don't have time for that now! Harry and Mika are in danger!
+M	2567	Unless we can take out that SNATCHER posing as the Chief before tomorrow's Kyoto Summit -- er, it's past midnight so it's actually today's summit -- then we'll be in serious trouble. We must hurry back to headquarters.
+M	25ba	All we can do is go forward. Gillian?
+M	25cc	We're outside of Nielsen's apartment.
+M	25e0	Thank God. Now let's get back to Headquarters.
+M	25fa	How do you plan to get back. We have no turbocycle. Are we going to walk it?
+M	2625	Walking back would take far too long. We have to find some other way.
+M	2646	Aren't there any taxis or anything around here?
+M	2657	Why don't we search the area.
+M	2669	All right, let's board the taxi.
+M	267f	This is the building that the Nielsen's were living in. Since the incident the other day, the other occupants have all moved out.
+M	26b6	The government owns and operates the building now.
+M	26d8	There is nobody around besides us.
+M	26f2	Look! There's a taxi over there.
+M	270e	It's a manned taxi. The driver is behind the wheel.
+M	272b	He's parked illegally in front of a house. Perhaps he's waiting for a customer.
+M	274b	It's sealed off to prevent SNATCHERS from spreading. The building is no longer inhabited.
+M	277c	The area is sealed off by police tape lines. There's no sign that anyone has been here other than us.
+M	27b3	We're quite a ways from Queens Hospital. It's very quiet here.
+M	27d7	There are not as many pedestrians in the area today as usual.
+M	27f4	The cab is for hire. Shall we board it?
+M	2808	It's a "black taxi," but we have little choice in the matter. Let's board, Gillian.
+M	282d	...we've boarded the taxi.
+M	2840	Where to, sir? This is a manned cab. I can take you anywhere you want to go.
+M	286a	We're on urgent business. Get us to Junker Headquarters as quickly as you can.
+M	288d	Hmm... Junker Headquarters, eh? What would you want to go there for? Something going down?
+M	28ba	We're in a hurry!
+M	28c5	Is that some kind of a joke, sir? You can't be serious. This is a manned taxi, you know. I can't go to a place like that...
+M	2907	Metal, I think we picked a weird taxi...
+M	2924	Listen! I'm a Junker! Take me to Junker Headquarters, and do it quickly!
+M	2944	I'm afraid not. You're going somewhere else. You want to know where that is?
+M	2963	Where?
+M	296a	Hell!!
+M	2974	Chin Shu Oh!!
+M	297e	The car has been modified to operate on manual only.
+M	299b	It's been specially modified for use as a black taxi.
+M	29b2	His face is concealed. Polarizing film has been placed on the rearview mirror.
+M	29dc	From here, we can only see the back of his head.
+M	29f3	The driver's identification is not posted on the dashboard.
+M	2a0d	And this taxi is lacking a synchronizer to link it to the Alpha-One automatic traffic control system.
+M	2a3c	The driver is of medium height and medium build.
+M	2a4b	As he is seated, I am unable to make a precise measurement of his height.
+M	2a6a	Hey, this is a black taxi, you know. Don't be so nosy, okay?
+M	2a8f	C'mon, you know the unspoken rule... drivers and passengers of black taxis aren't supposed to interfere with each other's business, you know?
+M	2ac2	C'mon, stop that, please? Now, where would you like to go?
+M	2aed	All right, now continuing the investigation.
+M	2b02	All right, now ending the investigation.
+M	2b19	All right, I'll save everything that has happened up until now.
+M	2b30	Which file number would you like to save it in?
+M	2b3f	This file contains data from a previous save.
+M	2b61	Is it okay for me to overwrite it with the new data?
+M	2b7c	In that case, I won't write the new data there.
+M	2b9a	This file contains data from a previous save.
+M	2bbc	Is it okay for me to overwrite it with the new data?
+M	2bd7	In that case, I won't write the new data there.
+M	2bf5	This file contains data from a previous save.
+M	2c17	Is it okay for me to overwrite it with the new data?
+M	2c32	In that case, I won't write the new data there.
+M	2c50	This file contains data from a previous save.
+M	2c72	Is it okay for me to overwrite it with the new data?
+M	2c8d	In that case, I won't write the new data there.

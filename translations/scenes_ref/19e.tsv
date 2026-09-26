@@ -195,7 +195,7 @@ T	M3e9b	Jeez...in this day and age? If there's no buyers, there's no sellers, eh
 R	M3ec5	sp11:5db2
 R	M3edc	sp11:5dd3
 T	M3ef2	Full-face masks, right? Which one do you want? They're all excellent -- all hand-made by Rick Bakery.
-T	M3f2e	Thanks again, one 'Dadada' mask. You know, the Dadada that took over that space research institute up in the Okutama mountains.
+T	M3f2e	Thanks again, one 'Dadada' mask. The Dadada that took over the Okutama space institute.
 R	M3f64	sp11:5e8c
 T	M3f80	Thanks again, one 'Moai' mask.
 R	M3f90	sp11:5eef
@@ -376,7 +376,7 @@ R	M52ee	sp12:43bc
 R	M5303	sp12:43d8
 R	M5331	sp12:4433
 T	M5350	Well I'll be...you can see 'em! Look at the size of those peaks!
-T	M5371	It says, 'During Masquerade Hour, our patrons are requested to conceal themselves with masks or makeup. Your cooperation is appreciated'.
+T	M5371	It says, 'During Masquerade Hour, patrons must wear masks or makeup. Thank you'.
 T	M53aa	'Please consult our staff for any questions you may have...'
 R	M53c7	sp12:4585
 R	M53e4	sp12:45c3
@@ -564,3 +564,82 @@ R	M6883	sp03:72fd
 R	M68a5	sp03:732b
 R	M68c0	sp03:7362
 R	M68de	sp09:8a59
+T	W255e	Customers
+T	W2569	Nearby people
+T	W2576	Area
+T	W257d	Kindness
+T	W2586	Plato's Cavern
+T	W2595	Junker ID
+T	W25a4	Plato's Cavern
+T	W25b3	PC68
+T	W25bc	VTR
+T	W25c3	Use Metal Gear
+T	W25d2	Montage Photo
+T	W25e3	Moai
+T	W25ea	Outer Heaven
+T	W25f9	Isabella
+T	W2602	Key
+T	W2607	Play gachapon
+T	W2616	Gachapon
+T	W2621	About Gibson
+T	W262e	Gibson's Photo
+T	W263d	Eat Kobe-yaki
+T	W264e	Cosplay
+T	W2657	Don't save
+T	W2664	Save
+T	W266f	Save 1
+T	W2678	Save 2
+T	W2681	Save 3
+T	W268a	Save 4
+T	W2693	Dadada
+T	W269a	Disk
+T	W26a3	Videophone
+T	W26b0	Plate
+T	W26b9	Poster
+T	W26c2	Mark
+T	W26c9	Mask
+T	W26d0	Move
+T	W26d5	Food stall
+T	W26da	Go out
+T	W26e3	Piece
+T	W26e6	Show
+T	W26ed	Look
+T	W26f2	Barker
+T	W26fb	Buffalo place
+T	W2706	Paper
+T	W270d	Money
+T	W2714	Things
+T	W2719	Photo
+T	W271e	Apologize
+T	W2723	Get in
+T	W272c	Use
+T	W2731	Woman
+T	W2734	Goods
+T	W2739	Evidence
+T	W2740	Smell
+T	W2745	Enter
+T	W274e	Chinese doctor
+T	W275b	Examine
+T	W2762	Keep it on
+T	W276b	Take it off
+T	W2770	Sunscreen
+T	W277b	Location
+T	W2784	About the shop
+T	W278d	Shop clerk
+T	W2792	Enter the shop
+T	W279d	Inside club
+T	W27a2	Go shopping
+T	W27ab	Ask
+T	W27b0	Wall
+T	M4551	A video tape recorder's medium: images on magnetic tape, read by heads. The technology before compact lasers.
+T	M3b1e	Buffalo? Nah, we don't handle it. Get caught sellin' that and nobody sees ya' for a while. Nobody here sells it.
+T	M33f0	Most customers keep their faces hidden. They don't want to be seen here.
+T	M47f0	In principle you may charge the Agency whatever your investigation needs.
+T	M4b20	Only buy what the investigation absolutely needs, all right?
+T	M37c1	Even luxury goods, at half the price of legitimate shops.
+T	M2ad2	Performance art: they recreate famous paintings on the street with their bodies.
+T	M53e4	Packed so tight it's hard to tell the places apart.
+T	M42b0	Putting that on again? You must really want to be someone else.
+T	M43e7	The world gets weirder. This sells really well in midwinter...
+T	M3a74	This is the place! So's next door, and the one after. All under one management.
+T	M27b3	...We're outside the shop.

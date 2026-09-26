@@ -60,7 +60,7 @@ R	M1d53	sp07:3ad5
 R	M1d79	sp07:3b1e
 R	M1da4	sp07:3b6f
 R	M1dc0	sp07:3b95
-R	M1deb	sp07:3bca
+T	M1deb	Press the SELECT button to draw your blaster.
 R	M1e12	sp07:3c28
 R	M1e46	sp07:3c8a
 R	M1e57	sp07:3cc1
@@ -133,7 +133,7 @@ R	M2522	sp07:49a9
 R	M2533	sp07:49d4
 T	M2553	It's an Insector! Fight back with your blaster!
 R	M2574	sp07:4a36
-R	M2585	sp07:3bca
+T	M2585	Press the SELECT button to draw your blaster.
 T	M25ad	This isn't a training exercise this time, you know.
 T	M25c3	I know. I already trained in the firing range.
 R	M25df	sp07:4b08
@@ -387,3 +387,7 @@ R	M3f2e	sp03:7362
 R	M3f4c	sp03:72fd
 R	M3f6e	sp03:732b
 R	M3f89	sp03:7362
+T	W1c6d	Organic traces
+T	W1c96	Quit the search
+T	W1ca3	Continue search
+T	W1ce6	Analysis results

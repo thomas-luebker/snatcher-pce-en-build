@@ -1,0 +1,389 @@
+W	1b37	Area
+W	1b3e	Junker I.D.
+W	1b4d	Junker HQ
+W	1b5e	Memory chip
+W	1b67	Use Metal Gear
+W	1b76	Little John
+W	1b85	Little's memory
+W	1b96	Key
+W	1b9b	Gillian's home
+W	1ba6	Gibson
+W	1baf	Don't save
+W	1bbc	Save
+W	1bc7	Save 1
+W	1bd0	Save 2
+W	1bd9	Save 3
+W	1be2	Save 4
+W	1beb	Pipe
+W	1bf2	Videophone
+W	1bff	Blaster
+W	1c0a	Move
+W	1c0f	Clothing
+W	1c14	Corpse
+W	1c19	Right hand
+W	1c1e	Exit
+W	1c27	Sky
+W	1c2a	Building
+W	1c2f	Look
+W	1c34	Retreat
+W	1c3d	Scrap of paper
+W	1c44	Cash
+W	1c4b	Possessions
+W	1c50	Time bomb
+W	1c59	Get in
+W	1c62	Get out
+W	1c6d	Organic traces
+W	1c74	Evidence
+W	1c7b	Exit
+W	1c80	Person
+W	1c83	Feet
+W	1c88	Advance
+W	1c91	Front
+W	1c96	Quit the search
+W	1ca3	Continue search
+W	1cb0	Enter
+W	1cb9	Listen
+W	1cbe	Investigate
+W	1cc5	Ground
+W	1cca	Motion detector
+W	1cd3	Ceiling
+W	1cd8	Dirt and sand
+W	1cdd	Skin structure
+W	1ce6	Analysis results
+W	1cf3	Wall
+W	1cf6	Hair
+M	1cfb	We've arrived at the abandoned factory. What would you like to do?
+M	1d10	Maybe we should head back to Headquarters...
+M	1d22	Jean's waiting for us! Let's go, Gillian!
+M	1d3c	Gillian, we should hurry to the scene!
+M	1d53	We've arrived at the abandoned factory. This is where Jean called from.
+M	1d79	Gillian, we should check out that scream we heard. Let's head into the factory.
+M	1da4	I'm worried about Jean. Let's hurry!
+M	1dc0	All right, we're going in. Keep your blaster ready!
+M	1deb	Press the SELECT button to draw your blaster.
+M	1e12	Anything could happen in here. You might want to SAVE frequently just in case disaster strikes!
+M	1e46	This place looks pretty dangerous. Let's head home...
+M	1e57	Gillian! Jean needs our backup! We have to find him quickly!
+M	1e7d	Jeez... looks pretty scary in there. Why don't we head home...
+M	1e93	Gillian! You're a full-fledged Junker now! Pull yourself together!
+M	1eb8	...you really going in there?
+M	1ec9	Gillian, please attempt to show a modicum of backbone!
+M	1ed9	It's a battered, old factory. Judging from its design, I'd say it dates from the period when manned production techniques were still used. It appears abandoned.
+M	1f19	It has an eerie atmosphere about it.
+M	1f2a	The sky is getting quite dark. It looks like a storm may be coming in.
+M	1f43	Staring at the sky like that isn't going to bring rain, you know.
+M	1f63	This place is quite run-down. It looks deserted, too.
+M	1f80	The building is heavily damaged. It's probably been abandoned since the last century.
+M	1fa8	There's nothing unusual here.
+M	1fb8	There's no sign that anybody's around.
+M	1fcf	I'm sure Jean is in the building.
+M	1fe2	Jean doesn't appear to be out here. He's probably in the building.
+M	2002	Metal, are you reading anything?
+M	2017	I show multiple moving objects within the building.
+M	2035	I can't get any more detailed information than that without moving inside the building.
+M	204e	I can't tell from here. We'll have to move inside.
+M	2070	I can't get any more data without going into the building.
+M	2086	All right, I'll save everything that has happened up until now.
+M	209d	Which file number would you like to save it in?
+M	20ac	This file contains data from a previous save.
+M	20ce	Is it okay for me to overwrite it with the new data?
+M	20e9	In that case, I won't write the new data there.
+M	2107	This file contains data from a previous save.
+M	2129	Is it okay for me to overwrite it with the new data?
+M	2144	In that case, I won't write the new data there.
+M	2162	This file contains data from a previous save.
+M	2184	Is it okay for me to overwrite it with the new data?
+M	219f	In that case, I won't write the new data there.
+M	21bd	This file contains data from a previous save.
+M	21df	Is it okay for me to overwrite it with the new data?
+M	21fa	In that case, I won't write the new data there.
+M	2218	We've entered the factory.
+M	222c	This is the spot where he placed that videophone call.
+M	224a	We still haven't completed our investigation...
+M	2261	Let's keep checking the area, Gillian.
+M	2276	Going home already? We don't have the evidence that we need yet!
+M	2293	There's debris everywhere. Please watch your step.
+M	22b9	There are pipes running everywhere.
+M	22d1	The ceiling looks quite weak.
+M	22e6	The building is severely damaged. It should be demolished.
+M	2301	It's been weakened by rust in several places.
+M	2316	I scanned the area with my sensors, but I can't pick up anything special.
+M	2333	I see nothing important here.
+M	2347	It looks like the concrete here is quite corroded.
+M	2360	This place looks as if it could collapse at any moment. We must be careful.
+M	237e	There's nothing special here.
+M	238e	So where's this SNATCHER?
+M	23a1	Where is Jean Jack, anyway?
+M	23b2	Yeow! That's really hot! I'm going to have a blister there...
+M	23c7	Be careful! The surface is hot due to steam within.
+M	23ec	Steam is still leaking out. Don't touch it!
+M	240a	Metal! Aren't you picking anything up?
+M	241f	I'm afraid not. There is nothing moving but the two of us.
+M	243f	Nothing's moving. That's odd. What happened to Jean?
+M	2460	Nothing at the moment.
+M	2471	...?
+M	2485	Wait! I'm picking something up! It's headed this way!
+M	24b3	Really? What direction is it coming from?
+M	24c0	Dead ahead! 10 meters! 9... 8...
+M	24d9	... 7... 6...
+M	24e6	That's impossible! I don't see anything!
+M	24fb	... 5... 4... 3...
+M	250d	Target identified! It's just a fly.
+M	2522	I'm not picking anything up at the moment.
+M	2533	No reading at all. We're the only thing moving in here.
+M	2553	It's an Insector! Fight back with your blaster!
+M	2574	The motion reading has vanished.
+M	2585	Press the SELECT button to draw your blaster.
+M	25ad	This isn't a training exercise this time, you know.
+M	25c3	I know. I already trained in the firing range.
+M	25df	That was close, wasn't it Gillian?
+M	25f2	Uggh... They hit me five times.
+M	2608	That was close, wasn't it Gillian?
+M	261b	Damn! I got hit four times!
+M	262e	That was close, wasn't it Gillian?
+M	2641	I got hit three times! Damn!
+M	2654	Gillian, are you all right?
+M	2666	Damn! I got hit twice.
+M	2678	Gillian, are you all right?
+M	268a	They hit me once, but I'll survive.
+M	269c	Now activating first-aid systems! I'll stop the bleeding!
+M	26b5	Thanks, Metal.
+M	26c4	Disinfection completed. Now injecting "Junker's Blood" fluid supplement and pain killers. Finally, some nanomachines, healing agents.
+M	270b	Youch!
+M	2716	Oooh!
+M	2720	That should be sufficient for the time being.
+M	2734	That was close. Gotta be more careful.
+M	2749	Gillian! I have to stop the bleeding again!
+M	275e	Aaaah!
+M	2769	The nanomachine I injected appears to be doing its work.
+M	2788	Your condition has stabilized.
+M	279a	We're not out of trouble yet.
+M	27ac	It's an Insector! Fight back with your blaster!
+M	27cd	I've lost the motion reading.
+M	27de	Hmmm. I'm picking something up from the direction of Little John!
+M	2805	I thought Little John's functions were totally dead!
+M	2821	I'm worried about Gibson! Let's move on!
+M	283c	We don't know what's ahead. Please use extreme caution!
+M	2869	The ceiling's been damaged. Some of the wiring is sticking out.
+M	288d	There's a time bomb attached to Little John!
+M	28a7	Little John's parts are spread everywhere. This is awful...
+M	28cb	There's nothing unusual here except for Little John.
+M	28ed	It looks like the time bomb is the only trap.
+M	2909	There's wreckage everywhere. I don't detect anything special.
+M	292f	Just to be on the safe side, you should SAVE frequently from here on.
+M	2957	Anything could happen! You should probably SAVE frequently just to be safe.
+M	2986	Now that you mention it, I haven't saved even once since arriving at the factory.
+M	29ae	It's a time bomb!! Let's get out of here!
+M	29c3	Oh my. Little John's been demolished. There's no way to repair damage this bad.
+M	29ef	Little John...
+M	29fc	Boy, they really wasted him...
+M	2a09	Water is dripping from the sprinkler.
+M	2a23	Those drops really echo in here.
+M	2a39	I don't see anything that would help our investigation.
+M	2a52	I can only find Little John's memory chip.
+M	2a70	There is nobody here but us.
+M	2a88	I don't see anything that would help our investigation.
+M	2aa1	I hope we can recover Little John's memory.
+M	2ac0	This charring indicates he was hit by fire from a laser cannon. Nearly all his circuits are burned completely through.
+M	2aee	His functions have been completely terminated.
+M	2b03	Nevertheless, his memory may be all or partially intact.
+M	2b2c	Without Gibson, that memory may be our only clue.
+M	2b4c	Where is Gibson?
+M	2b5d	A navigator never leaves his runner's side unless there is a very serious reason.
+M	2b84	We have to hurry! Gibson's in trouble!
+M	2b96	Oh my... what's that shadow over there?
+M	2ba9	Let's go take a look.
+M	2bb7	It's no good. I can't disarm it! This kind of work requires experts!
+M	2be2	Let's get out of here quickly!
+M	2bf1	There's no sound except the timer on the bomb.
+M	2c0e	The sound is coming from Little John's direction.
+M	2c2a	Let's take a look a Little John.
+M	2c3f	I hear a sound like that of a timer.
+M	2c57	I can't confirm any sound except for the water drops, and Little John's shorting out.
+M	2c7c	It's very quiet. The water drops are the only sound.
+M	2c9c	Things are scattered all over the floor. Please watch your step.
+M	2cc2	I don't see anything unusual.
+M	2cd6	Besides the large pillar across the floor, there is nothing unusual.
+M	2cfb	The graffiti on the walls appears quite old.
+M	2d12	There is nothing special here.
+M	2d26	We're the only ones in the area.
+M	2d3f	Wait! There's a figure on the floor!
+M	2d51	It's a dead end.
+M	2d5d	A dead end? Then where did the SNATCHERS go?
+M	2d7d	We can't get out from here!
+M	2d8f	So we have to go back, eh?
+M	2d9b	Let's head back to the entrance.
+M	2dab	There's little time! Let's get out of here!
+M	2dc9	Gillian, it's going to explode! We must evacuate!
+M	2de7	If we waste any more time, Little John won't be the only one whose parts are scattered all over the place! Let's get out of here, Gillian!
+M	2e0a	I hear something like a timer... Turn up the volume on your TV in order to hear it better.
+M	2e3e	Turn up the volume on your TV. Can you hear that? It sounds like a clock.
+M	2e6c	Wait! I can hear something...
+M	2e7e	I can't hear a thing!
+M	2e8e	Try turning up the volume on the TV!
+M	2eac	Wait! I can hear something...
+M	2ebe	I can't hear a thing!
+M	2ece	Quiet! There! Can you hear it?
+M	2ee0	Something just ran across that doorway!
+M	2efa	What in the world happened here?
+M	2f0e	Let's check Little John. He should have recorded something.
+M	2f36	What... Oh, that navigator we saw back there, huh?
+M	2f4c	We should search Jean's personal belongings. Something may turn up.
+M	2f6b	You're right. We might find some kind of a clue.
+M	2f87	Gillian! Hurry! We should go after those figures we saw!
+M	2fa5	Where are you going? The suspects were headed the other way!
+M	2fd0	Are you chickening out, Gillian?
+M	2fe1	When somebody as tough as Gibson goes down this easy...
+M	2ffa	The killers could still be hiding anywhere around here.
+M	3017	Jeez... I wish I didn't have to meet him like this.
+M	302e	I can't believe they killed Jean!
+M	3041	...Jean!
+M	304b	Gibson! It's Gibson! My god, his head's been twisted completely off.
+M	306f	He dropped his blaster here.
+M	3086	I don't see anything else special.
+M	309c	There is evidence of a struggle on the ground here, but I can't interpret it.
+M	30bb	It's been crushed flat! This would take incredible strength.
+M	30da	Jean's blaster has been bent like a twig.
+M	30f6	This item is quite an antique.
+M	310c	"Search the house!" What is that supposed to mean?
+M	312d	We've completely searched the body. I've recorded all the images.
+M	3150	Look! Jean's holding something in his right hand.
+M	316f	He's still warm.
+M	317b	That scream we heard was no doubt his. What killed him?
+M	3197	His head has been twisted off. He died instantly. It would take incredible strength to do this...
+M	31bf	I don't think we'll find any more evidence in his belongings.
+M	31df	Wait! There's a scrap of paper in one of his pockets!
+M	31fc	There was a key in one of his pockets.
+M	3211	It's hair! He's holding several stands of hair.
+M	3230	In addition, there is skin tissue under his nails. Probably from him scratching his attacker.
+M	325c	I've already analyzed the hair sample.
+M	3273	I've already analyzed the tissue sample.
+M	328d	It's an old-type blaster. It's definitely Jean's.
+M	32b1	It's still warm. He probably fired several shots.
+M	32d4	I've already analyzed that organic matter.
+M	32ec	What is this key for? I don't know of anywhere where old keys like this are still used.
+M	331d	It's written on ordinary paper.
+M	3330	I'm not picking anything up.
+M	3343	What was that a moment ago?
+M	334f	I was definitely picking something up, but...
+M	3363	The reading has quieted down.
+M	3378	We should confirm it.
+M	3385	Maybe there's more than one SNATCHER involved. Gibson said, "I've cornered a probable male SNATCHER..."
+M	33bd	Bending a blaster like this is well beyond the strength of any human.
+M	33e4	No doubt it was a SNATCHER.
+M	33f5	Metal, hang on to this key as evidence, okay?
+M	3414	All right, I'll store it.
+M	3428	Who knows? These could be Jean's last words. Metal, keep this as evidence, will you?
+M	345f	All right, now storing paper scrap in my internal chamber.
+M	3476	It's blocked by a cave-in. We can't go any farther.
+M	3494	There must be several tons of earth here.
+M	34a4	It appears to have been like this for some time.
+M	34c0	I don't see any way out from here.
+M	34d5	There's no place big enough for a person to get through.
+M	34f1	There's no way we could possibly move this out of the way.
+M	3505	That's weird... Then where did those SNATCHERS go?
+M	351a	They definitely headed in this direction, didn't they?
+M	3530	There's no other way out of here. Unless they liquefied themselves, they must have gotten out some other way.
+M	3559	I can't get a meaningful sensor reading with so much debris piled up.
+M	357a	Are you okay, Gillian?
+M	358f	Are you okay?
+M	359a	Bless you...
+M	35a5	That's weird. I was fine until a moment ago...
+M	35c6	Hmmm... maybe it's colder in here than I thought.
+M	35de	...maybe I'm getting a cold.
+M	35f0	Please stay quiet.
+M	35fd	What's wrong, Metal?
+M	360b	Can you hear it, Gillian?
+M	364a	That's odd. Seems like my ears are going out on me.
+M	3667	Maybe it's due to a change in air pressure.
+M	367b	All right, now moving ahead.
+M	368a	All right, now moving back.
+M	3699	Hey, Metal. Aren't you picking anything up?
+M	36ae	Metal, anything on your sensors?
+M	36c0	No, nothing. We're the only thing moving.
+M	36e0	No. I'm not getting any reading.
+M	36f3	The only sound is that of the bomb's timer.
+M	3710	I hear something which sounds like a timer.
+M	3728	Listen! You can hear a sound like that of a timer.
+M	3742	It's uncomfortably quiet here.
+M	375a	I'm not picking up any sounds.
+M	376c	Sorry, Gillian. I can't get a clear frequency at this location.
+M	3789	Why not, Metal?
+M	3796	It's probably due to the presence of SNOW-9.
+M	37b3	SNOW-9?
+M	37bd	It's a bioengineered form of pollen which interferes with radio transmissions.
+M	37d9	I can't transmit from this area.
+M	37ef	I'm afraid SNOW-9 is blocking any videophone transmissions.
+M	380f	Well then how come Gibson was able to call in?
+M	3826	No doubt the level of SNOW-9 in the area has increased since then.
+M	3848	The SNATCHERS may be using SNOW-9 as a screen.
+M	386e	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	389f	That's the expense money they gave you.
+M	38b7	So what is "Search the house" supposed to mean?
+M	38d4	This item is quite an antique.
+M	38ea	It's got an IC chip built-in with all your personal data stored on it.
+M	3915	You can get any amount of cash necessary to carry out your investigation.
+M	3938	It's written on normal paper, and it's definitely Jean's handwriting.
+M	395e	What is this key for? I don't know of anywhere old keys like this are still used.
+M	3991	I don't think there's any way to use it here.
+M	39af	What's that supposed to mean?
+M	39bf	Jean always liked puzzles. There's probably some hidden meaning in this.
+M	39ec	A message, huh?
+M	39f9	I wonder where this is from?
+M	3a0a	There are no public facilities which still use keys like this.
+M	3a2f	If that's true, then it must be to some personal item of Jean's.
+M	3a48	If we check his things, we may be able to discover something.
+M	3a68	I'm afraid I cannot analyze another navigator's memory.
+M	3a83	We'll have to go back to Headquarters to process it. Let's just hope there's something left.
+M	3ac2	The results of the analysis on the hair that Jean was holding are:...
+M	3ae6	European subject, male. Blood type A, Rh minus. In all probability a SNATCHER.
+M	3b1f	The results of the analysis on the skin tissue that was under Jean's nails are:...
+M	3b47	European subject, female. Blood type O, Rh minus. In all probability a SNATCHER.
+M	3b80	The results of the analysis on the organic matter that was in Jean's stomach are:...
+M	3ba6	A portion of a buffalo that was ingested approximately three hours earlier.
+M	3bc9	In other words, Jean ate buffalo meat somewhere about three hours before he was killed.
+M	3bfc	Metal!
+M	3c04	Answer me!
+M	3c11	Metal! Where are you?
+M	3c20	I'm right here.
+M	3c2b	What does this mean?
+M	3c3b	I'm afraid you've died in the line of duty.
+M	3c4d	No! You're kidding!
+M	3c58	Am I really dead?
+M	3c67	Yes, I'm afraid so...
+M	3c76	Didn't I come back to life before, with the Pilot Disk?
+M	3c93	Yes, but this is the main story, so...
+M	3ca9	No way! I can't die now!
+M	3cc6	..........
+M	3ccf	Metal, can't you do something?
+M	3cd6	..........
+M	3ce2	Metal!!
+M	3cea	All right. Looks like you bought the Pilot Disk, too.
+M	3d0c	So, I'm gonna be okay, right?
+M	3d1b	Just this once.
+M	3d27	I owe you one, buddy!
+M	3d34	You should have listened to me and saved the game.
+M	3d47	Well I did, up until the factory part...
+M	3d5b	That's not good enough! You never know what's going to happen out there!
+M	3d76	You have to be more careful than that.
+M	3d83	Well, you know. I get so involved in the investigation.
+M	3d98	Don't let this happen again. Remember... USE THE SAVE FEATURE!
+M	3dba	Okay, okay.
+M	3dc2	So this means I've had a "near-death" experience. Its not at all what I expected.
+M	3dd7	We're going back now.
+M	3de9	Now continuing the investigation...
+M	3dfe	Investigation now being temporarily suspended...
+M	3e15	All right, I'll save everything that has happened up until now.
+M	3e2c	Which file number would you like to save it in?
+M	3e3b	This file contains data from a previous save.
+M	3e5d	Is it okay for me to overwrite it with the new data?
+M	3e78	In that case, I won't write the new data there.
+M	3e96	This file contains data from a previous save.
+M	3eb8	Is it okay for me to overwrite it with the new data?
+M	3ed3	In that case, I won't write the new data there.
+M	3ef1	This file contains data from a previous save.
+M	3f13	Is it okay for me to overwrite it with the new data?
+M	3f2e	In that case, I won't write the new data there.
+M	3f4c	This file contains data from a previous save.
+M	3f6e	Is it okay for me to overwrite it with the new data?
+M	3f89	In that case, I won't write the new data there.

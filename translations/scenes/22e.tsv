@@ -1,0 +1,262 @@
+W	0e68	*
+W	0e6b	Area
+W	0e72	Junker I.D.
+W	0e81	Memo
+W	0e8a	Use Metal Gear
+W	0e99	Little John
+W	0ea6	Accent
+W	0eb1	Chart
+W	0eb8	Gibson
+W	0ec1	Sneeze
+W	0eca	Don't save
+W	0ed7	Save
+W	0ee2	Save 1
+W	0eeb	Save 2
+W	0ef4	Save 3
+W	0efd	Save 4
+W	0f06	Table
+W	0f0f	Napoleon's race
+W	0f20	Napoleon
+W	0f2b	Banson
+W	0f34	Binson
+W	0f3d	Bunsen
+W	0f46	Bunson
+W	0f4f	Bennnn
+W	0f58	Bennso
+W	0f61	Benzen
+W	0f6a	Besides Benson
+W	0f77	Benson
+W	0f80	Bensoso
+W	0f89	Benso
+W	0f90	Beson
+W	0f97	Betson
+W	0fa0	Bonson
+W	0fa9	Mask
+W	0fb0	Matches
+W	0fb7	Meaning of code
+W	0fc2	Video memory
+W	0fcf	Image
+W	0fd4	Piece
+W	0fd7	Show
+W	0fde	Look
+W	0fe3	Elemental symbol
+W	0fec	Barker
+W	0ff5	Temple picture
+W	1000	Temple
+W	1005	Cash
+W	100c	Possessions
+W	1011	Evidence
+W	1018	Give proof
+W	1021	Smell
+W	1026	Infer
+W	102f	Personality
+W	1034	Vocal pattern
+W	1039	Red square
+W	1042	Investigate
+W	1049	Body type
+W	1050	Ask
+W	1055	Interrogate
+W	1060	Talk
+M	1065	This is Outer Heaven.
+M	1076	<<Ah... Achoo!>> Excuse me.
+M	1090	It's that doorman with the wolf makeup again.
+M	10ae	It's the same makeup, but I cannot determine if the same person is wearing it.
+M	10d5	Makeup that elaborate requires taking a cast of the face of the person who'll wear it. It's the same guy.
+M	1107	With that mask on, there's no way to tell if it's Napoleon or not.
+M	112a	Apparently it is not masquerade time right now.
+M	114b	The neighborhood is quite festive, as usual.
+M	1163	That's you, isn't it, Napoleon!
+M	1172	Stop pretending, Napoleon! I know that's you in there!
+M	1189	Stop it! What do you think you're doing?
+M	119a	Stop that! Show me some kind of proof!
+M	11ae	Would you lay off the stupid accusations!
+M	11bf	We should do as he says, Gillian. Why don't we establish his identity in a more intellectual fashion?
+M	11e0	Just a little more! Think hard...
+M	11f9	Hey, are you who I think you are?
+M	1208	Hey! What are you doing? Lay off!
+M	1219	Are you crazy or something mister?
+M	122a	If you don't lay off, I'll have to call someone out here.
+M	1241	All the places around here are fully booked with Christmas and New Year's parties.
+M	1260	A few drunks can be seen in the area, just sitting by the road side.
+M	1280	All the drinking and parties in the world won't get rid of them. They're for real.
+M	12ac	...Gillian, humans are a rather weak species, aren't they.
+M	12ca	That's right. And it's just that weakness that those SNATCHERS are trying to exploit.
+M	12e7	This is really a pain. Let's just take this mask off...
+M	12fb	Ouch! What do you think you're doing?
+M	130d	It won't come off. It seems to be cemented firmly into place.
+M	132b	Eeyouch!
+M	1333	A special type of cement is being employed to hold it in place. Without using the proper thinner, skin damage could result if we continue pulling.
+M	1364	That's right! Use your head, fool! Don't be so damn direct all the time!
+M	1382	You really remind me of somebody I know. I bet that's you, right Napoleon?
+M	13af	I don't know what you're talking about. I don't know anybody named Napoleon.
+M	13d9	I know it's you, Napoleon. Now cut this stupid act!
+M	13f5	I'm afraid you've got the wrong man, sir.
+M	1411	C'mon Napoleon! What's the problem? Stop this nonsense!
+M	142a	Hey, I'm just the doorman.
+M	1441	Napoleon, that's you, right?
+M	1453	Everything'll be fine; I guarantee your safety. Don't worry. Now take that mask off!
+M	148f	What a bother... Do you have any proof that this Napoleon and I are the same person?
+M	14c6	You're going to have to show me some proof, sir.
+M	14df	Proof? You want proof?
+M	14ef	What? You've been going on like this and you don't even have any proof?
+M	1507	You still don't know how to use your head, do you.
+M	151f	Why don't you think about it a little harder.
+M	1536	That's it! You and he are the same height!
+M	154e	Your height is the same. Almost nobody is as short as you are!
+M	156f	Yeah... you have the same voice. That's it.
+M	1592	Your voice sounds just like his.
+M	15a1	That's it, Metal! Analyze his voiceprint against that of Napoleon!
+M	15bd	I'm sorry Gillian. I haven't stored any of Napoleon's voice data. I won't let it happen again...
+M	15f1	Well, that's really too bad!
+M	15ff	I know... the two of you talk the same way.
+M	1614	Your accent and word choice is just like his!
+M	1629	Yeah... that wormy, untrustworthy attitude of yours is just like him.
+M	1647	No two people could have that same personality.
+M	165d	I've got it! You smell just like him!
+M	1674	Huh? Gillian, what did Napoleon smell like?
+M	1692	You shut up!
+M	16a1	I'd know that B.O. anywhere... You're Napoleon!
+M	16b4	Now I've got it! It's that sneeze. I remember! You sneeze just like him. He has hay fever!
+M	16ea	> All right, you win. I've had enough fun for now. I just wanted to play with you for a bit. Nice work, Gillian. You're a first-rate Junker. Go on in!
+M	1741	That's no proof!
+M	1754	So what? What's that supposed to mean?
+M	1764	Is that the best reason you've got?
+M	1778	If thats proof, then I'm a policeman.
+M	1796	'Normal?' Just what's that supposed to mean, huh?
+M	17ac	That doorman look suits you, Napoleon. A heckuva lot better than that Santa getup, anyway.
+M	17df	Mind your own business!
+M	17ec	It's not masquerade time at the moment, but don't be staring at the customers, okay? Makes 'em nervous, you know.
+M	181a	What do you think? We do pretty good even when it's not masquerade time, don't we?
+M	1839	Too bad Isabella's not here...
+M	184b	This is not plywood. In fact, it appears to be a very high-quality stock.
+M	186d	Don't worry. We'll be safe at this table. It's the most isolated in the place.
+M	1895	Hey, aren't you ever going to trust me? I'm the real thing, all right!
+M	18bf	Hey, unless you start trusting people, you're going to lose all your friends.
+M	18db	Don't worry. There are no suspicious-looking types here at the moment.
+M	18fc	With this many people here, we won't stand out. You can talk safely about anything you like.
+M	192a	I've scanned for listening devices, and there are none. Feel free to discuss anything you like.
+M	194e	C'mon! You've gotta learn to trust people!
+M	1960	There are no security cameras here.
+M	1974	You're Chinese, right?
+M	1985	That's right. Purebred, I might add. I came to Neo Kobe just after I turned 20.
+M	19b6	My only memories of the place are from after they lost the war. It wasn't a pretty picture.
+M	19dd	I'll tell you, the Catastrophe really changed my life -- everything about it. That was a crazy time...
+M	1a0d	So how would you read 'BENSON' in Japanese?
+M	1a2a	'BENSON'... well, you'd read that as 'Benson,' right?
+M	1a4a	What's this about Chinese chemical element characters? What do you mean?
+M	1a63	The character on the far left is Beryllium. The next one, and the very last one are Nitrogen. The third one stands for Sulfur. The fourth one is Oxygen.
+M	1aa2	Beryllium, nitrogen, sulfur, oxygen... I've got it!
+M	1ac4	Gillian, let's go over the names of these elements, shall we?
+M	1ae3	I'll tell you again, these are Chinese characters for elements.
+M	1b08	The character on the left is Beryllium. The next one, and the last one are Nitrogen. The third one is Sulfur. The fourth one is Oxygen.
+M	1b45	In the order they're written: Beryllium, Nitrogen, Sulfur, Oxygen, Nitrogen.
+M	1b6a	It's a simple code using Chinese characters for chemical elements.
+M	1b96	Jeez... that's pathetic. oh well, I guess I gotta help you.
+M	1bb5	That spells 'BENSON'.
+M	1bc5	In other words, when you line up the symbols, you get 'BENSON'...
+M	1be9	The point isn't their names, but their chemical symbols. Nitrogen is N. Beryllium is Be. Oxygen is O. Sulfur is S. Get it?
+M	1c12	In their original order, Be for beryllium, N for nitrogen, S for sulfur, O for oxygen and N for nitrogen.
+M	1c47	So if you line them up in this order... Beryllium's 'Be', Nitrogen's 'N', Sulfur's 'S', Oxygen's 'O', Nitrogen's 'N'.
+M	1c9a	...get it yet?
+M	1ca7	C'mon, you should at least know that the symbols for the elements are usually written using letters, right?.
+M	1cd5	...but this patient chart is special.
+M	1cee	This chart has the Chinese written right on it. Now what do you get if you re-write it using roman letters?
+M	1d1e	Who's name is on this file? Please input your guess.
+M	1d50	Whose name is written here? Try inputting your guess another time.
+M	1d89	Why don't you try typing in 'Benson,' just like Napoleon said?
+M	1db0	Based on what we've figured out so far, why don't you try entering the word 'BENSON'?
+M	1dde	I've got it! It's 'BNSON'!
+M	1dec	What are you saying?! Not at a time like this!
+M	1e04	...well, well. I'm not surprised that you had trouble with this.
+M	1e25	Huh...?
+M	1e2f	Would you take a good look at this for me? What's it mean? You're Chinese, right?
+M	1e55	...Hmph. I see. No wonder this is difficult.
+M	1e70	...what's that mean?
+M	1e7b	These are Chinese characters for chemical elements, hardly in standard use. If I wasn't a science major, I probably wouldn't know them myself. It's a simple code using the characters.
+M	1ec7	This is part of a patient's file that we found. Would you take a look at it?
+M	1ede	What are you showing this to me for? I don't know the first thing about medicine.
+M	1f10	What's with the patient's record. I don't get what you mean.
+M	1f2b	Yeah... these are our matches. How's that for the nostalgic approach, eh? We only give 'em out to our regulars.
+M	1f52	So that means that somebody from Queens Hospital comes here.
+M	1f72	Those are definitely our matches.
+M	1f80	Maybe LukasLand? I heard that they closed down about three years ago, but I guess that wasn't the case.
+M	1fa9	Never seen that building before.
+M	1fbb	What is that supposed to mean? It's not based on anything! ...think about it very carefully.
+M	1fe8	Wrong, Gillian. The symbols for the elements have meanings, you know.
+M	2015	That's wrong. Think it through, Gillian. The symbols have meanings.
+M	203f	There's no meaning in that. Oh, I think I get it!...
+M	2057	Chemical element symbols are written using the alphabet, right?
+M	2075	That's still not correct. You haven't understood the meaning yet, have you?
+M	2095	That's wrong, too. The answer no doubt lies in rewriting the Chinese characters for the elements as regular letters, Gillian. Try that.
+M	20e1	That's wrong. Think carefully about the original meaning in the symbols.
+M	2103	Just one more step. Are you ready?
+M	2117	This code was made using Chinese element symbols.
+M	2136	If you replace those Chinese symbols with the standard ones... you get 'BENSON'.
+M	216d	...So then, how would you read the letters 'BENSON'?
+M	2198	And if you pronounce these letters...?
+M	21ad	No, no. Gillian, just investigate the symbols for the elements and type them in! That's all there is to it!
+M	21db	If you rearrange them into the standard symbols... it becomes 'BENSON'.
+M	2203	Gillian! You have to input something!
+M	221e	Gillian, you haven't input anything at all!
+M	2235	I feel like something's missing.
+M	2247	That's wrong...
+M	2252	That's not the element symbol for Beryllium.
+M	226e	Let's ask Napoleon.
+M	2282	That's wrong, Gillian.
+M	2291	Let's have Napoleon tell us.
+M	22a7	Hmm, that's close.
+M	22b5	You? Do you know it?
+M	22c6	No, no... I just have a feeling.
+M	22dd	Gillian, you're getting close... just a little more.
+M	22ff	Be careful, it's easy to mix up the katakana for 'so' and 'n'.
+M	2320	Please pay close attention when typing the katakana for 'so' and 'n' - they look alike.
+M	2345	Hmm, that's really close.
+M	2357	Oh right, Besson was one of my favorite movie directors, wasn't he?
+M	2377	Let's go see his new film sometime.
+M	238d	Well, that aside...
+M	239d	You're very close... just one more twist.
+M	23b6	You've pretty much got the right idea. Just a bit more, okay?
+M	23d7	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	2408	That's the expense money that the agency gave you.
+M	2420	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	244b	That's the chess piece that Gibson had.
+M	2464	That's the patient record with the name of a SNATCHER on it.
+M	2480	That's the object we found in the desk at Queens Hospital.
+M	249c	Those are the matches that we found at Queens Hospital.
+M	24b8	That's the memo that Harry apparently wrote.
+M	24cc	That's the memo that was in engineering.
+M	24e6	That's the visual image that was recovered from Little John's memory.
+M	2504	That's the photograph that was hidden in the Chief's office.
+M	2521	That's the picture of a temple that was on the wall at Queens Hospital.
+M	2543	It has an IC chip built-in which contains all of your personal data.
+M	256e	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	2591	This chess piece was being used to signal the name of Queens Hospital.
+M	25b7	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	25de	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	2615	It appears to be part of a patient's record. I wonder what this writing means?
+M	263d	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	266a	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	2691	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	26c1	It's a picture of the neon sign at Queens Hospital.
+M	26e4	It appears to read "Oleen Hospital". It's no doubt the neon sign to some hospital.
+M	270e	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	2739	This is St. Basil's Cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	2767	Well, at least we've figured out that the characters stand for chemical symbols.
+M	2784	That definitely came from this place.
+M	279d	Do we still have any money left?
+M	27ac	Don't worry, we have plenty.
+M	27bc	Don't worry. The cover charge is on me, today.
+M	27dd	All right, I'll save everything that has happened up until now.
+M	27f4	Which file number would you like to save it in?
+M	2803	This file contains data from a previous save.
+M	2825	Is it okay for me to overwrite it with the new data?
+M	2840	In that case, I won't write the new data there.
+M	285e	This file contains data from a previous save.
+M	2880	Is it okay for me to overwrite it with the new data?
+M	289b	In that case, I won't write the new data there.
+M	28b9	This file contains data from a previous save.
+M	28db	Is it okay for me to overwrite it with the new data?
+M	28f6	In that case, I won't write the new data there.
+M	2914	This file contains data from a previous save.
+M	2936	Is it okay for me to overwrite it with the new data?
+M	2951	In that case, I won't write the new data there.

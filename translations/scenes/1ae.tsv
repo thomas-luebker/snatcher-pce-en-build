@@ -1,0 +1,551 @@
+W	2539	Area
+W	2540	Contra
+W	254b	Sparkster
+W	2558	About that man
+W	2567	His description
+W	2574	Remove
+W	257b	H2O
+W	2582	Junker I.D.
+W	2591	Use Metal Gear
+W	25a0	Montage photo
+W	25b1	Her chest
+W	25be	About Isabella
+W	25cb	Isabella
+W	25d4	Mr. Ueda
+W	25df	Key
+W	25e4	Gulliver
+W	25ed	About Gibson
+W	25fa	Gibson's photo
+W	2609	Goemon
+W	261a	Ask autograph
+W	2627	Don't save
+W	2634	Save
+W	263f	Save 1
+W	2648	Save 2
+W	2651	Save 3
+W	265a	Save 4
+W	2663	Dancer
+W	266c	Ask out on date
+W	2679	Disk
+W	2682	Videophone
+W	268f	Mask
+W	2696	Manager
+W	269f	Do something
+W	26a8	Facial shape
+W	26b1	Exit
+W	26ba	Piece
+W	26bd	Guest
+W	26c0	Show
+W	26c7	Look
+W	26cc	Call
+W	26d1	Type of mouth
+W	26da	About buffalo
+W	26e9	Buffalo cuisine
+W	26f0	Future projects
+W	26fb	Scrap of paper
+W	2702	Cash
+W	2709	Possessions
+W	270e	My mask
+W	271b	Stop asking
+W	2726	Photo
+W	272b	Drink
+W	272e	Evidence
+W	2735	Order
+W	273e	Investigate
+W	2745	Man's activities
+W	274e	Man's features
+W	2757	Man's age
+W	2760	Taste in men
+W	276b	Sunscreen
+W	2776	Inside club
+W	277b	Phone number
+W	2784	Type of hair
+W	278f	Ask
+W	2794	Type of nose
+W	279d	Type of eyes
+W	27a6	Change subject
+M	27b3	We're inside Outer Heaven.
+M	27c6	We should use this information to build a montage of the suspect, and then run it through Jordan to see if there are any matches.
+M	27fb	You mean like building a composite photograph?
+M	2811	It would be nice if Isabella would come back to headquarters with us.
+M	2837	Well, I guess we'll just have to have her take a look at it later.
+M	2855	Thank you very much.
+M	2864	Let's see, um... that will be 10,000 credits.
+M	287f	What!! 10,000 credits!? Metal!
+M	2899	What is that funny smirk supposed to mean?
+M	28ad	Uh, I forgot my wallet.
+M	28c4	Really? I thought I just saw you with it.
+M	28d9	Expenses. This is all just expenses for the investigation, right Metal?
+M	28f8	I not so sure about that.
+M	2909	Okay, that's 10,000 exactly. Thank you.
+M	2920	Let's see, um... that will be 5,000 credits.
+M	2938	Yeah, Metal... you wanna get that please.
+M	2949	What? You're not actually planning on writing this off a business expenses are you?
+M	2961	Of course I am! You gotta problem with that?!
+M	2979	No... but if the Chief finds out about this...
+M	2996	Okay, that's 5,000 exactly. Thank you.
+M	29ab	Let's see, um... that will be 2,000 credits.
+M	29c5	Here you go... 2,000.
+M	29e2	Okay, that's 2,000 exactly. Thank you.
+M	29f7	Let's see, just the cover charge. That will be 500 credits.
+M	2a1a	500? Here you go... 500 credits.
+M	2a2d	Okay, that's 500 exactly. Thank you.
+M	2a41	But we just arrived!
+M	2a52	But we have not learned anything yet!
+M	2a6a	The other customers are all dressed up in various costumes. It appears to be show time now.
+M	2a93	Who's the guy over behind the counter?
+M	2aa6	That's the manager from before.
+M	2ab5	That's the manager. You just met him, remember?
+M	2ac6	There don't seem to be any tables open. The place appears to be quite popular.
+M	2af0	That's him! The monk hero who fought the secret group Shakkuri!
+M	2b22	Oh yeah, that one. Mask Rider Black (Revenge of Kunta Kinte) - the TV show about a monk fighting racism.
+M	2b6c	That customer is dressed as Mask Rider, the mysterious monk hero.
+M	2b8b	Oh! This one's a character from The Stuffed Monkey, a movie that played at the British Museum.
+M	2bc3	Ah, I see. That's one of the three wise monkeys, isn't it... See no evil, hear no evil, speak no evil.
+M	2bf8	They stuffed the talking monkey to shut him up, and that's how the saying was born?
+M	2c29	That customer is dressed as Kounerya, the space ape man.
+M	2c49	This is the lonely Eiriyan. He's friendly, tries to stick his tongue in everyone's mouth, ages incredibly fast, and everybody hates him for being such a pervert.
+M	2caa	Oh, that one! The movie about the interstellar marriage scam where he preyed on old maids, even though he had parents and siblings back in The Eiriyans... that gossip horror flick?
+M	2d20	That's right. The song Eiriyan, I hear you finally got married, sigh... was a huge hit.
+M	2d5d	The tagline You won't find a spouse out in space was popular too.
+M	2d8e	It really predicted men's marriage troubles perfectly.
+M	2db0	These days he's supposedly reformed and shaved his head bald.
+M	2dcc	That customer is dressed as Eiriyan.
+M	2de2	This one is... that's right! The character Okane san, the arcade kid.
+M	2e0f	I know that one! The moving story of a boy who worked day and night making change just to play video games.
+M	2e43	In the end he had so much spare change that he ended up becoming a coin changer at the arcade, what a twist...
+M	2e7c	In that movie he tried to switch the games over to a token system like they use in America, showing us a whole new direction for game centers.
+M	2eca	That customer is dressed as Okane san.
+M	2ee0	Oh, this one! It's H2O, the translator robot from that All Star Wars series.
+M	2f16	Of course I know it! A robot who dreams of stardom auditions for a musical.
+M	2f46	But his joints were too stiff, so he got cut - he couldn't breakdance.
+M	2f7b	Next he tried using his talent for translation to become an interpreter on the music show Midnight Hot Plate.
+M	2fb0	But he got cut again, because he could never pass the Grade 2 English proficiency test.
+M	2fe4	That customer is dressed as H2O.
+M	2ff9	That's... Gulliver, the Anorexia Syndrome isn't it.
+M	3017	I saw that! That's the Hollywood movie directed by Steve Two and Carpet George, right?
+M	3046	It's a kung fu flick about a fight in a beauty salon over an anorexia suit that lets anyone lose weight without effort.
+M	3089	That customer is dressed as Gulliver.
+M	309e	It's just like a space bar in here. Mask Rider, Kounerya, Eiriyan, Okane san, H2O, and Gulliver too... everyone's really gotten into character.
+M	30ef	The owner of this place has some old fashioned taste.
+M	3107	..........
+M	3110	Gillian! What you staring at?
+M	3129	Wow. She really knows how to move her body!
+M	313c	I'd really like to talk to her again.
+M	314c	Savor the moment, Gillian! Her dancing is really something special!
+M	3175	I see. You weren't kidding, were you?
+M	318a	I'll call the manager over.
+M	319b	Hello, can I help you with something?
+M	31b5	Oh, it's you.
+M	31c4	Oh... do you need something else?
+M	31d2	I'll call Isabella.
+M	31e3	Hey! Isabella! Over here!
+M	31f2	Oh, you two again? What can I do for you?
+M	320b	Hi there, boys! I'm Isabella Velvet. Is there something I can do for you?
+M	322b	A Junker and.... a robot?
+M	3244	An Easter Island statue and.... a robot?
+M	3257	A mummy and.....a robot?
+M	326c	I'll call Sparkster.
+M	3280	Yeah? What do you want?
+M	328a	I'll call Goemon.
+M	329f	Hey! Don't bother me! Whatcha want anyway...?
+M	32ae	I'll call the Ueda character from Lethal Enforcers.
+M	32c0	What's the matter?
+M	32c9	I'll call the Contra guy.
+M	32db	You need something?
+M	32e5	I'll call the Castlevania pair.
+M	32f5	What? We haven't done nothing.
+M	32fd	I'll call Gulliver.
+M	330e	Huh? Me?
+M	3318	Be reasonable, Gillian, or the Chief will get upset again.
+M	3334	But you just ate!
+M	334a	How about bringing us some of that buffalo?
+M	335e	Here you are.
+M	336e	Mmmm. Buffalo-ey. This.. This is great!
+M	3381	You are probably still suffering from the effects of your drink...
+M	339f	That's it! I've had it! No more drinking for me!
+M	33b7	Bartender! Give me a Moonsalt, will ya'?
+M	33d3	Bartender! How about another one of those Moonsalts?
+M	33e9	Gillian! You're on duty!
+M	33fb	Bartender! Another Moonsalt!
+M	3411	Whoa! I think all those drinks are starting to get to me...
+M	3428	Would you please stop this...
+M	343a	Maybe I'll take this mask off...
+M	344e	Excuse me, sir, but during Masquerade Hour you have to keep your mask on. If not, we'll have to ask you to leave.
+M	349a	All right, I'll leave it on.
+M	34aa	Maybe I'll take this mask off...
+M	34bf	I'm sorry, but it's the rules. You'll have to leave!
+M	34e3	They haven't come to take our order...
+M	34f5	Maybe you should tell that guy over there... He looks like the manager.
+M	3511	During Masquerade Hour, everybody has a mask or makeup on. It's impossible to tell who is who.
+M	3537	Other than us, the clientele here looks a little rough...
+M	3553	Hey! What are you doing?
+M	3561	Watch it! What's your problem?
+M	3571	Cut that out! What do you think you're doing?
+M	3583	The customer wasn't carrying anything suspicious.
+M	359f	Unfortunately, we couldn't learn anything.
+M	35b5	Waiter! Seconds!
+M	35c2	Waiter! Give me another order of this!
+M	35d0	Here you are.
+M	35e0	Mmmm. This is really good...
+M	35f1	Please stop this Gillian.
+M	3602	Here you are.
+M	3612	<<gulp, gulp>> Ahhh! That really hits the spot!
+M	362c	Ah, Isabella! Sorry! I don't really have anything to say...
+M	364c	How rude...
+M	365a	You've been a tremendous help. Thank you very much.
+M	3671	I glad I could be. Now, if you'll excuse me...
+M	3682	Thank you very much. You've been quite helpful.
+M	3699	Really, well then if you'll excuse me...
+M	36a9	Thanks, I think what you've told us may help a bit...
+M	36c7	Okay, see you...
+M	36d2	I'll be waiting for your call!
+M	36e5	Oh my god...what a knockout! And that leather outfit...
+M	3708	What's wrong? Do you find me attractive?
+M	371c	Please don't stare at me like that. I'm shy and you're embarassing me.
+M	373c	You're a pretty good-looking guy.
+M	374a	Long face, nice tan...
+M	375d	(Uh, I'm wearing a mask...)
+M	376e	Passionate lips, fair-skinned...
+M	3783	(Uh, I'm wearing a mask...)
+M	3794	I wouldn't mind letting you take me out for dinner or something.
+M	37b0	What about after dinner?
+M	37c0	Well, that all depends on you...
+M	37d5	Metal! Did you hear that?
+M	37e9	Don't forget that we are in the middle of an investigation.
+M	37f9	Just relax Metal... I'll buy you a cute little robot to play with later. So, Isabella, when would you like to go out?
+M	3829	What? Did you think I was serious? I was just kidding.
+M	3845	What? J..just kidding?
+M	385a	Come on...With that Easter Island mask, I can't even tell what you look like.
+M	3870	Come on...With that mummy mask, I can't even tell what you look like.
+M	388a	Well, it would appear that she really took you for a ride... <<SMASH>> Ouch!
+M	38a4	That's about enough, right? Consider yourself lucky for being able to get such a close look at me...
+M	38ce	Jeez... look at the size of those...eyes on her. Its amazing what 21st Century technology is capable of.
+M	38f7	What's wrong, Gillian?
+M	390b	(Gotta love these actresses. Jamie looks like a little boy compared to this woman!)
+M	3936	Gillian, what are you mumbling about?
+M	3952	With a beauty like me right in front of you, you shouldn't be looking anywhere else, right?
+M	3971	Oh...sorry.
+M	397d	Hey! Just where do you think you're looking?
+M	398f	I'll investigate her!
+M	3999	No, I think it's best if I handle it...
+M	39a3	I can manage by myself...
+M	39ab	What's wrong? Aren't you going to investigate me?
+M	39be	No, that's all right.
+M	39cb	It would probably take too long to check these, er, you out.
+M	39e8	Such bad jokes...
+M	39fa	Give it a rest, will you?
+M	3a0d	You're so persistent!
+M	3a18	Isabella, would you mind giving me your phone number?
+M	3a35	No way...
+M	3a3e	I'm afraid I can't tell you.
+M	3a4a	No, I really shouldn't.
+M	3a58	Give it up.
+M	3a63	Oh, okay. You win. All right, listen carefully. I'm only going to tell you once. It's 39-6004. When you call, make it in the afternoon, okay?
+M	3aba	Yes! Excellent! Heh, heh, heh...
+M	3ace	What is that snicker supposed to mean?
+M	3ae1	Well, it was just the other day. It wasn't Masquerade Hour, so I remember his face pretty clearly.
+M	3b12	He seemed to be waiting around for one of our regular customers.
+M	3b34	A regular?
+M	3b3a	He was going out of his way to eat buffalo...then he spat up blood. I was really grossed out!
+M	3b63	You say he was waiting for someone?
+M	3b6d	Well, I suppose it was more like he was following him. He left as soon as the other guy did.
+M	3b9b	I haven't seen him since then.
+M	3baf	Can I look at the photo again?
+M	3bc5	I don't know who you're talking about. Do you have a picture or something?
+M	3bdc	A picture?
+M	3be2	Yes, a picture. You have a photo of Jean, right?
+M	3bfb	There is a photo of Jean at his home.
+M	3c19	At Gibson's place, eh..?
+M	3c29	He was in here at all different times, so he probably doesn't have a job, or work regular hours.
+M	3c51	I've only been here for a month, so I don't know anything about what happened before that.
+M	3c88	Could you try to remember his distinguishing characteristics?
+M	3ca4	Gillian, keep the description in mind. Afterwards, we can use it to put together a montage.
+M	3cdc	It figures that Mr. Ueda didn't know what he was talking about.
+M	3cf9	What was the overall shape of his face?
+M	3d09	He had kind of a bony look.
+M	3d18	What about his eyes?
+M	3d24	He had this really piercing gaze... a rather threatening look.
+M	3d3d	What kind of nose did he have.
+M	3d49	It was pointy, like mine.
+M	3d60	How about his mouth?
+M	3d6c	He had thin lips, I think.
+M	3d7d	How was he wearing his hair?
+M	3d8a	It was sort of naturally flowing, towards the back of this head.
+M	3da2	And he had a big widow's peak.
+M	3db8	About how old would you say he was?
+M	3dc5	He looked like he was in his thirties.
+M	3dd4	Thanks very much. You've been quite helpful.
+M	3de9	I hope you can use this information.
+M	3dfc	Would you mind telling me a little about him?
+M	3e12	The manager said you would know a lot about him.
+M	3e32	Well, I don't know a lot, but maybe I can help...
+M	3e48	I don't know his name, but he was in here all the time. Especially when we weren't running Masquerade Hour.
+M	3e7e	Outside of Masquerade Hour? So that means you've seen his face, then. Do you remember it?
+M	3e9d	...I think so.
+M	3ea7	All right, Metal. Let's have her come down to headquarters with us. We need to use Jordan and put together a montage.
+M	3eda	We can't take her to headquarters.
+M	3ef6	Why not?
+M	3f03	Well, it's like the manager said. She's a star actress.
+M	3f31	If the media were to find out about this, we'd never get any cooperation ever again.
+M	3f5a	Since she is a famous star, if the media gets hold of the story and starts a fuss, it will impede our investigation.
+M	3f92	If the SNATCHERS were to learn what we're up to...
+M	3fb6	What are you mumbling about?
+M	3fc6	This is really a delicate issue...
+M	3fd5	Although inconvenient, we should take down her description, and then go back to headquarters to build the montage on our own.
+M	400f	That's right. You know, I have a new holographic movie that starts shooting next month, and I have to start studying my lines, so...
+M	4049	And I've got a virtual reality job coming up, too...
+M	406b	And a couple of offers for some TV soaps...
+M	408a	You're quite busy, aren't you?
+M	4095	I won't be able to dance again here for some time.
+M	40b0	What kind of men do you like?
+M	40c1	Let's see... somebody really masculine who you can depend on. You know, the kind of guy who grabs you and says "Come on baby, follow me".
+M	40ed	Somebody with well-formed opinions. But I hate guys who aren't flexible.
+M	411b	Well, that about rules you out, Gillian!
+M	4135	You shut up!
+M	4145	What about career preferences?
+M	4151	Well, investigators are really strong and masculine types.
+M	416e	I was always a big fan of crime dramas when I was little.
+M	4189	Still, it really doesn't matter as long as you like the guy.
+M	41a8	Um, uh... could I have your autograph?
+M	41bd	My autograph? Well let's see... I don't have anything to write with.. Oh, how about this... <<smooch!>>
+M	41ef	Whoa!
+M	41fc	Ah! I saw that! I'm telling Jamie!
+M	4215	Isabella... look into my eyes. Open your heart...
+M	4234	Oh god... what kind of a line is that supposed to be?
+M	424a	Um... Isabella, you know I've always cared deeply for you...
+M	4265	Spare me your tacky come-ons, okay?
+M	4280	I'm into much younger guys than you, anyway.
+M	42a0	You know, I have to be careful when I say this, but I'm a Junker. How about a date?
+M	42cf	I hate Junkers.
+M	42e0	You guys never trust anybody, right?
+M	42f4	I don't want anything to do with men who can't trust people.
+M	4312	If that's true, than I have nothing else to say to you.
+M	432e	I wouldn't want you to start questioning me while we were in the middle of a date.
+M	4348	Come on baby, follow me!
+M	435a	Oh you are a simple one... That was just an example!
+M	4374	Where are you going to take me? It has to be really exciting place, or I'll leave.
+M	43a1	Exciting? Hmmm. What kind of place would that be?
+M	43b3	Oh dear. I can see I'd be wasting my time...
+M	43c2	What time do you get off work today?
+M	43db	Are you trying to invite me somewhere? You have to come on stronger than that.
+M	4400	Would you like to go out with me, Isabella?
+M	440f	I'm just not excited by those run-of-the-mill come-ons...
+M	4427	So a kiss just isn't good enough for you, huh?
+M	443e	Well, that makes two women who have dumped you.
+M	4459	Was there some problem with my approach?
+M	4470	No. The problem is you.
+M	448c	Well, you know they say that many women are uncomfortable around particularly handsome men...
+M	44ac	Whatever you say, Gillian.
+M	44b6	What?!
+M	44bf	I don't use that stuff. I have an anti-ultraviolet coating applied directly to my skin.
+M	44ea	Don't you just hate the strong ultraviolet in the summer?
+M	4500	Oh yes, I remember him. This is the guy who got sick after eating buffalo.
+M	452e	This guy? I might have met him somewhere... No, I can't remember.
+M	4556	She seems like she might be able to remember.
+M	4569	Take a careful look, okay?
+M	4577	Hmmm. Oh! That's right!
+M	4585	This was the guy who got sick after eating buffalo. I remember him.
+M	45b6	Hmmm. I think that's what he looked like...
+M	45ca	Oh yes. That's him. No mistake...
+M	45e2	This is why I really hate government employees...
+M	45f9	We don't really need to conduct an investigation do we, Metal?
+M	4616	Well, I guess you're right.
+M	4629	(...liar...)
+M	463a	Metal. Stop that vulgar nonsense. You have to learn to be more mature.
+M	465e	What? Have I done something wrong?
+M	466a	So you do like this!
+M	4680	What are you talking about! Look at yourself!
+M	4693	Be careful or you'll have the Chief angry at you again.
+M	46ab	Is that a threat?
+M	46b7	Call it a promise.
+M	46c3	You are such an annoying little yutz.
+M	46d3	I think that's enough...that was a special exception, you know.
+M	46ec	Oh, come on!
+M	46f8	Men are never satisfied...they always want more.
+M	471c	That's it. No second time. You understand me? No second time.
+M	4738	You're going to hurt yourself if you try much harder.
+M	4750	Sorry. No idea.
+M	4760	What? I really don't know?
+M	476f	(Jeez... One minute it's "Don't stare like that," the next it's "Don't let your eyes wander". Make up your mind, woman!)
+M	47a4	Thank you very much. You've been quite helpful.
+M	47bb	Thanks. Sorry to bother you.
+M	47ce	This isn't working. It doesn't appear that we'll be able to get anything worthwhile.
+M	47ee	What's the deal with this guy?
+M	47fa	Yukkk! This guy has got a pretty ugly mug!
+M	4806	What're you talkin' about?
+M	4811	What's with this?
+M	481f	You want a great tip?
+M	4831	This guy.. he gets into a fight with another guy... gets hit hard with this steel pipe, you know. Doesn't even flinch, man.
+M	4866	No way he's human, man.
+M	4877	You be careful, man.
+M	4888	Can you recall what he looked like for me?
+M	48a4	What was the general shape of his face?
+M	48b4	A big circle, man. Really round.
+M	48c2	How about his eyes?
+M	48ce	He had two.
+M	48d7	What kind of nose did he have.
+M	48e3	Two nostrils.
+M	48ef	What was his mouth like?
+M	48fb	Square, man.
+M	4904	How was he wearing his hair?
+M	4910	Bald as a cue ball, man.
+M	491b	About how old would you say he was?
+M	4928	Definitely older or younger than you, man.
+M	4935	Thanks a lot. You've been helpful.
+M	494e	That couldn't be the same man that Isabella described, could it?
+M	496b	He was spouting garbage. Don't even worry about it.
+M	4983	Do you think his testimony was accurate?
+M	4999	Get real, Metal. He was just trying to yank our chain.
+M	49ba	Should we ask about the man that Isabella was talking about?
+M	49db	Should we ask about the man that Isabella described?
+M	49f9	I don't want anything pushed on me, man.
+M	4a11	I don't understand that hard stuff.
+M	4a22	Hey, who knows, man?
+M	4a2f	Huh?
+M	4a37	I know that guy! I talked to him. I hate guys like that...always asking a lot of questions about people...
+M	4a73	I haven't seen him around lately.
+M	4a88	I don't really remember what he looked like.
+M	4a99	I don't remember what he looked like at all.
+M	4aa8	I've seen this guy before.
+M	4aba	Nah. Never seen him.
+M	4aca	I don't know...
+M	4ad4	..........
+M	4add	I no unnerstan whuh you talk bout.
+M	4af8	Leave me alone!
+M	4b03	Just leave me be...
+M	4b11	Oh! A movie actor?
+M	4b23	Scary-lookin' feller. Who is he?
+M	4b34	Nope. I dunno him.
+M	4b3e	Nope. Ain't never seen 'em.
+M	4b4a	Hey, I'm really sorry about that. Don't worry about it.
+M	4b66	Oh really...
+M	4b72	Thanks for your help, sir. You've been very cooperative.
+M	4b8f	Oh really? Well, take your time...enjoy yourself.
+M	4ba2	Well thanks. You've helped a bit.
+M	4bbf	...enjoy yourself!
+M	4bcf	That's one of the characters from "Cosmik Debris"!
+M	4bf4	Well, you really know your stuff, don't you?
+M	4c11	Well, I guess...
+M	4c21	....yeah.
+M	4c2b	What's wrong, Gillian?
+M	4c3c	No, it's nothing.
+M	4c4a	...Ah, I got it!
+M	4c57	What's wrong, Gillian?
+M	4c68	I've been trying to figure out what this reminds me of, and I just got it.
+M	4c92	What does it remind you of?
+M	4ca0	Yeah, it's like a little... no, I can't really say.
+M	4cbe	It's really made well.
+M	4ccb	Would you mind if I check this out?
+M	4ce4	What? Are you one of those types?
+M	4d03	Do you mind? That's really disturbing.
+M	4d19	He seems to be built quite well.
+M	4d2d	There is nothing out of the ordinary.
+M	4d3e	Oh, this guy? He's the one who got sick.
+M	4d5b	He seemed real old-fashioned. I think that was the first time he was here.
+M	4d81	Sorry. My memory's not that good at details.
+M	4da2	Sorry, I really don't know. In this business you meet so many people, I can't remember all of 'em you know.
+M	4dde	Sorry. I really don't know.
+M	4df5	You never can tell, but Isabella might know something.
+M	4e14	I'm afraid I don't know who that is...do you have a photograph?
+M	4e3a	She'll be dancing here through the end of the month. Look, she's at it right now. She's between pictures at the moment, so we had her come dance for us.
+M	4e8c	She's one of the top in the business right now. We're the only club that she'll dance at, you know.
+M	4eba	She danced for a while here long before she got famous, you know. That's why she comes back every now and then.
+M	4f12	I've known her since she was a lot younger, but she's hardly changed. She's a good kid.
+M	4f3b	Yeah, I just talked to her. My pulse rate still hasn't returned to normal.
+M	4f6e	I hear you were a little pushy with Isabella...
+M	4f87	Huh?
+M	4f8d	We can't have any of that, you know. This isn't some hostess bar.
+M	4fac	Heh, heh, heh!
+M	4fbb	Thank you very much. You enjoyed the buffalo, didn't you? It's really good stuff...
+M	4fe2	But, keep it to yourself, okay. They're pretty strict on the enforcement of those buffalo hunting regulations.
+M	500d	I'm impressed. Not many of our customers put away that much food.
+M	5029	Well, he had a little too much to eat.
+M	5041	Would you care to try some? It's really a unique flavor.
+M	505d	This gentlemen? Let's see, yes... He's been coming regularly for about three months now.
+M	5098	He would always just sit there drinking Moonsalts, never ordering anything to eat and staring at the other customers. We're little more than a typical nightclub, but we get quite a few politicians, doctors, authors, and the like in here. Customers like that fellow are quite a nuisance you know...
+M	511a	So masquerade time is a big hit with customers like that, right?
+M	513e	That's right. And that particular gentleman only came outside of Masquerade Hour. And you know, there was even this strange rumor going around that he was a SNATCHER.
+M	5198	Come to think of it, I haven't seen him in a while. I wonder what happened to him?
+M	51b4	I think Isabella probably knows more about him than I do.
+M	51d7	Since I always have this on...
+M	51ec	I really couldn't see too clearly the details of his appearance, you know.
+M	5202	Huh?!
+M	520a	Why yes, I believe that's what he looked like.
+M	5224	Yes, this is the man. No mistake.
+M	5239	Who is this? I'm afraid I don't know him. You see, nearly half of our operating hours is Masquerade Hour, so I wouldn't know if he was here or not.
+M	5284	Isabella may know. She's the closest to the customers, you see.
+M	52b1	Who is that? A criminal or something?
+M	52c6	What's that?
+M	52d3	I'm sorry I can't help you more.
+M	52ea	This place is using a transmitter to emit a signal which jams searches from government surveillance satellites.
+M	5319	Boy, they're really take precautions, don't they.
+M	5326	Well, these days it's hard to get customers in a place which doesn't block the scans.
+M	534e	The public's resistance to the government's attempts to completely control and manage information, eh?
+M	5363	The videophone cannot be used here.
+M	537c	Videophone signals are blocked by interference at this location.
+M	5396	We'll be thrown out again, Why don't you give it up?
+M	53b1	You never learn do you? You're practically asking to be thrown out.
+M	53cb	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	53fb	That's the expense money that the agency gave you.
+M	5413	That's the memo in which Gibson told you the whereabouts of the computer data explaining about the SNATCHER'S weak point.
+M	5443	I wonder what "Search the house!" means?
+M	5460	That's the key to Gibson's desk.
+M	5478	It's an exceptionally old antique.
+M	548e	That's the chess piece that Gibson had.
+M	54a7	It's the chess piece that we found in Gibson's coat.
+M	54c4	That's the floppy which contains data on the SNATCHER'S weak point.
+M	54e1	That's a floppy disk for a personal computer.
+M	54f6	That's the sunscreen that the SNATCHERS are using...if Gibson's theory is right.
+M	552a	And we've found out what we needed at Plato's Cavern.
+M	5544	It's ordinary sunscreen. There's a sticker with the logo of the store where it was purchased on it.
+M	5573	That's the mask that you bought at Plato's Cavern.
+M	5595	That's an Easter Island statue mask.
+M	55a2	That's a mummy mask.
+M	55af	That's a picture of Jean Jack Gibson.
+M	55c8	That's the montage that we built using witnesses' testimony.
+M	55e9	It has an IC chip built-in which contains all of your personal data.
+M	5614	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	5637	That's the memo that Jean left.
+M	5648	It's written on ordinary paper. It's definitely in Jean's handwriting.
+M	566e	That's the key to Gibson's desk in the Detective's Room.
+M	5686	What could this key be? I don't believe there are still any places which use keys like that.
+M	56b9	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	56e0	That's a wooden chess piece.
+M	56f9	That's the disk with Gibson's notes in it.
+M	5716	That's a 5-inch floppy disk.
+M	572b	On the bottle it says "The store with everything: Plato's Cavern".
+M	5756	It definitely looks like it was being sold at Plato's Cavern.
+M	5773	We might learn something if we check out the place this was bought.
+M	5795	It's a special, high-detail mask, hand-crafted by the popular Rick Bakery.
+M	57bc	That's a picture of Jean Jack Gibson.
+M	57d5	That's a composite, 2-D photograph assembled from Jordan's 3-D data.
+M	57f1	It was taken from the chess set at Jean's home. What could it mean?
+M	5821	Jean really liked puzzles.
+M	583a	This must have some secret meaning.
+M	584e	Jeez, this really looks like Ivan.
+M	5864	You have to be impressed by Alpha-One's search capabilities.
+M	5885	The house? Come to think of it, I don't have a house to come home to.
+M	58a6	Do not get so depressed, Gillian. You'll be able to live with Jamie again sometime.
+M	58d1	A home and family, eh? Those may not go along too well with being a Junker.
+M	58f2	There's still some left, right?
+M	5905	There is considerably less since you gorged yourself.
+M	5925	Did I have that much? Wasn't it you?
+M	593f	What are you saying! I do not eat to excess!
+M	5956	C'mon, you've got to learn how to cover for you partner.
+M	5974	You've got to learn that my job is reporting on my partner.
+M	5994	Wait a minute? Are you transmitting this conversation to the Chief?
+M	59bb	Hmmm. Maybe I am, maybe I'm not...
+M	59c8	(Why this little piece of...)
+M	59d5	You can't keep repeating the same mistakes, Gillian.
+M	59ed	Well, you know human nature...
+M	5a00	Gillian, don't ever show that thing around here, all right?
+M	5a1e	I know, I know... It's an undercover investigation.
+M	5a35	No matter what, do you understand? You can't be so reckless.
+M	5a57	All right, I'll save everything that has happened up until now.
+M	5a6e	Which file number would you like to save it in?
+M	5a7d	This file contains data from a previous save.
+M	5a9f	Is it okay for me to overwrite it with the new data?
+M	5aba	In that case, I won't write the new data there.
+M	5ad8	You're already wearing it.
+M	5aea	Oops! You're right!

@@ -358,7 +358,7 @@ R	M470e	sp06:7c48
 R	M471a	sp06:7c81
 R	M472b	sp06:7cb2
 R	M4758	sp06:7cf4
-R	M476f	sp06:7d32
+T	M476f	To draw your blaster, press the SELECT button, you hear?
 R	M4793	sp06:7db6
 R	M47b4	sp06:7e0c
 R	M47c5	sp06:7e24
@@ -416,41 +416,41 @@ R	M4ed4	sp06:8ca4
 R	M4ef3	sp06:8ce1
 R	M4f15	sp06:8d43
 R	M4f21	sp06:8d5e
-R	M4f37	sp06:8d84
-R	M4f5a	sp06:8de5
-R	M4f7f	sp06:8e0b
+T	M4f37	You can't fire your blaster unless you press the SELECT button.
+T	M4f5a	For the training, just follow the "Junker's Eye" shooting system.
+T	M4f7f	Instead of asking... why don't you just give it a try?
 R	M4f98	sp06:8e3d
 T	M4fcb	...is what I'd like to say, but you got good reviews on the Pilot Disk, so...
-R	M4ff8	sp06:8c87
+T	M4ff8	The Pilot Disk?
 T	M5005	It's a special commemorative disc released ahead of the main game. Did you buy it, Gillian?
 T	M5031	You've had enough training. You already trained on the Pilot Disk, didn't you?
 T	M5054	You'll be fine. You trained on the Pilot Disk, didn't you?
-R	M507a	sp06:8eaf
-R	M5095	sp06:8ee0
-R	M509f	sp06:8eec
-R	M50c9	sp06:8f0f
-R	M50ee	sp06:8f88
-R	M50fb	sp06:8f9d
-T	M5113	I guess so...
-R	M511d	sp06:8fc2
-R	M5134	sp06:8ff7
-R	M5143	sp06:9060
-R	M5163	sp06:9088
-R	M518b	sp06:9142
-R	M5195	sp06:917a
-R	M51b1	sp06:9060
-R	M51c7	sp06:9088
-R	M51e5	sp01:3cfe
-R	M5205	sp06:928d
-R	M5233	sp06:92ce
-R	M526d	sp06:9303
-R	M528c	sp06:9354
-R	M5296	sp06:7dad
-R	M52be	sp06:93cd
-R	M52de	sp06:941b
-R	M52f7	sp06:9490
+T	M507a	Or were you lying when you said you bought it?
+T	M5095	I wasn't lying.
+T	M509f	Then I'll take out the 'Train' command. It's only confusing.
+T	M50c9	When you're done, let's go see Harry and get your blaster, okay?
+T	M50ee	Of course I bought it.
+T	M50fb	Then you've already had your shooting practice.
+T	M5113	I suppose so...
+T	M511d	Then you don't need any training.
+T	M5134	No, I didn't buy it...
+T	M5143	I see. Then you'd better get some shooting practice.
+T	M5163	Just this once, Gillian. Practice and learn the controls well.
+T	M518b	What about a blaster?
+T	M5195	Let's use the practice one in this booth.
+T	M51b1	All right, let's start the shooting practice.
+T	M51c7	Press the SELECT button and you can fire.
+T	M51e5	Press the SELECT button again to lower your blaster.
+T	M5205	Listen. Shoot only the SNATCHERS. Be careful not to hit any civilians by mistake.
+T	M5233	The red gauge on the left shows how many enemies appear. The yellow gauge on the right shows how many you hit.
+T	M526d	Running the training program at introductory level.
+T	M528c	Good luck.
+T	M5296	To fire your blaster, you have to press the SELECT button.
+T	M52be	Gillian, you have to press the SELECT button!
+T	M52de	Listen, press the SELECT button.
+T	M52f7	A perfect score, but you killed all the civilians too.
 T	M5318	And you waste a lot of shots... Waste fewer shots and make sure of your target, okay?
-R	M534c	sp06:94c9
+T	M534c	No wasted shots, so your control looks good.
 T	M5369	After that, it's about telling citizens from Snatchers, right?
 R	M5385	sp06:9504
 R	M53a8	sp06:9546
@@ -631,3 +631,37 @@ R	M6812	sp06:b9b6
 R	M6821	sp06:b9cc
 R	M6837	sp06:b9fc
 R	M6855	sp06:ba33
+T	M4d0b	Jordan has every human learning routine and an intelligent interface: translation, problem solving, you name it. Expert-class AI built for field robots. The best there is.
+T	M4647	In theory anywhere, but watch out for interference. Sometimes the signal can't get through.
+T	M4565	But they can SAVE. Choose "USE Metal Gear", then "SAVE", and the exact state of your investigation is recorded.
+T	M4a1b	This is the detective's room, the office for our runners -- Junker investigators like you. That desk in the back is yours.
+T	M36fb	A robot that assists Junkers with every kind of analysis. Good sensors, too.
+T	M3b44	Junker began officially this August. We answer directly to the government's intelligence agencies.
+T	M399c	You've been wandering around for minutes. Seed! Listen when people talk to you!
+T	M564a	Pick your targets better. A misjudgment out there could cost your life!
+T	M46be	Use the "Junkers' Eye" system in the shooting range to get used to your blaster.
+T	M56d9	Few wasted shots. Work on picking targets and you'll improve fast.
+T	M5776	Not many wasted shots, but your accuracy needs work. Good target selection, though.
+T	M44c9	Detection, analysis, recording, communications -- packed with features. Metal Gear here is the latest model.
+T	M45a9	Likewise, "USE LIGHT" helps when it's too dark to see. Told you they were handy, didn't I?
+T	M3c5b	(3) No subject may be physically investigated or restrained without irrefutable evidence that they are a SNATCHER.
+T	M4cc0	Our host computer, an RM-1013. We call it "Jordan": Junker On-line Regional Data Access Network. Full-scale AI processors.
+T	M541b	Nice that you're not wasting ammo, but you must not shoot civilians like that.
+T	M557c	Fantastic. Cut down the wasted shots and it's perfect.
+T	M2822	The shield is heat- and shock-proof, built to withstand a SNATCHER attack.
+T	M2ce8	Many ethnic groups and kinds of people here. It's Japan, but not Japan, if you know what I mean.
+T	M3d63	Put your military training to use and investigate what we still don't understand about SNATCHERS. We have to stop them!
+T	M4c0c	A standard keyboard input with an AI that recognizes incomplete file names.
+T	M5533	Great job, but honestly, too many wasted shots. Cut them down.
+T	M4323	Very old. This printing technology hasn't been used since last century.
+T	M482c	They're built tough, hard to destroy outright. Try to immobilize them.
+T	M3425	Yeah. That policy's been in force since the "witch hunts" a few years back.
+T	M490b	With only this fragment, there's no way to trace your parents.
+T	M41b8	A toy!? I'd love to see what toys you had as a kid!
+T	M53ca	Hmmm... too many wasted shots. Improve your concentration and judgment.
+T	M56b8	Still, no wasted shots. Just work on focusing yourself.
+T	M29f1	An honor to work with someone as beautiful as you.
+T	M470e	Not bad. Steady hand there, mister.
+T	M331e	Come to think of it, when did you hang that picture?
+T	M4c35	Antiques in the computer room? Haven't seen a keyboard in ages.
+T	M57c6	A lot of wasted shots. Go after the SNATCHERS only!

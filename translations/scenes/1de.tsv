@@ -1,0 +1,783 @@
+W	2a0a	Area
+W	2a11	Junker I.D.
+W	2a20	Oleen
+W	2a2b	Memo
+W	2a34	Engineering room
+W	2a41	Use Metal Gear
+W	2a50	On the monitor
+W	2a5d	Monitor
+W	2a66	Random Hajile
+W	2a75	Little John
+W	2a82	Locker
+W	2a8b	Jamie at Alton
+W	2a9c	Patient record
+W	2aa9	Patient record
+W	2ab0	About Katrina
+W	2abf	Look for Katrina
+W	2ace	Katrina
+W	2ad9	About Jordan
+W	2aea	Use Jordan
+W	2af7	Kyoto Summit
+W	2b08	About Gillian
+W	2b15	Queens Hospital
+W	2b22	Computer room
+W	2b31	Computer
+W	2b3e	Don't save
+W	2b4b	Save
+W	2b56	Save 1
+W	2b5f	Save 2
+W	2b68	Save 3
+W	2b71	Save 4
+W	2b7a	Chess piece
+W	2b85	Detective's room
+W	2b8e	About Harry
+W	2b9d	Harry's past
+W	2baa	Where's Harry?
+W	2bb7	How's Harry?
+W	2bc4	Harry
+W	2bcb	Videophone
+W	2bd8	Front pod
+W	2be7	Front
+W	2bf0	Under booth
+W	2bfb	Booth's shadows
+W	2c06	Inside booth
+W	2c11	Brandy
+W	2c1c	Poster
+W	2c25	Matches
+W	2c2c	Under mat
+W	2c37	Mika's opinion
+W	2c42	Mika
+W	2c47	Chair
+W	2c4c	Move
+W	2c51	Under far desk
+W	2c5c	About past
+W	2c69	Video memory
+W	2c76	Under desk
+W	2c7d	Near desk
+W	2c84	Picture
+W	2c87	About Chief
+W	2c94	Where's Chief?
+W	2c9f	How's the Chief?
+W	2caa	Chief's office
+W	2cb1	Chief
+W	2cb6	Piece
+W	2cb9	Show
+W	2cc0	Look
+W	2cc5	Practice
+W	2cce	Practice booth
+W	2cd9	Temple
+W	2cde	Cash
+W	2ce5	Possessions
+W	2cea	Own past
+W	2cf5	Your feelings
+W	2d02	Photo
+W	2d07	Shooting range
+W	2d0e	Enter Turbocycle
+W	2d17	Under near desk
+W	2d24	Front desk
+W	2d2d	How to use
+W	2d34	Evidence
+W	2d3b	Red Square
+W	2d44	Window
+W	2d47	What to do next
+W	2d54	Investigate
+W	2d5b	Under terminal
+W	2d64	Behind terminal
+W	2d6d	Katrina called
+W	2d7c	Her wherabouts
+W	2d87	Why assigned?
+W	2d92	Back of room
+W	2d9b	Ask
+W	2da0	Talk
+M	2da5	This is the Chief's office.
+M	2daf	What? Katrina's missing?
+M	2dc3	Have you found Katrina?
+M	2dd5	How's is your investigation going?
+M	2de2	Have you found any new leads?
+M	2df9	Seed, no matter what, you've got to find Katrina!
+M	2e19	I'm depending on you to find Katrina!
+M	2e2c	Seed, you're looking more and more like a first-rate Junker every day.
+M	2e54	What are you staring at Gillian. Get back to work.
+M	2e6a	Do I have something on my face?
+M	2e7f	From up here, Neo Kobe is really beautiful at night.
+M	2ea2	I wouldn't want to lose this great view, don't you agree?
+M	2ec0	I can't help feeling the weight of a runner's responsibility...
+M	2edd	What is this a picture of?
+M	2eec	I'm sure it's quite boring for someone like you who doesn't care about art.
+M	2f05	There's something about that picture...
+M	2f17	Watch it, Seed! Don't just search people recklessly like that!
+M	2f36	If I was a SNATCHER, I would have killed you long ago!
+M	2f55	That's not possible, is it?
+M	2f65	That's how they work, by breaking down people's trust in each other. Be careful, Seed.
+M	2f8f	You've got other things to investigate, don't you?
+M	2faf	It's auto-tinting glass.
+M	2fbe	By applying a slight current to the electro-chromic tungsten coating of the glass, its tint can be adjusted from perfectly transparent to almost opaque.
+M	3001	Well, Katrina is not outside the window.
+M	3015	Idiot! What floor do you think this is?
+M	3037	Don't touch that picture! That's really special to me!
+M	3050	Stop it! That picture is really special to me! Don't touch it!!
+M	306e	He seems unusually upset about that. Maybe there is some special reason?
+M	3092	You're probably right. There must be some reason.
+M	30a9	Seed, you're a first-rate Junker now. There's nothing more I can teach you.
+M	30e3	Just follow your instincts, Seed. I leave the investigation up to you.
+M	3101	I have nothing to say. Just do as you please, Seed.
+M	3126	Seed, you've got to have confidence in yourself...you understand me?
+M	3142	But I don't...
+M	314d	I'm removing this command from the menus!
+M	3163	Chief!?...
+M	316e	Well Gillian, it looks like the training wheels are off the bike now.
+M	3192	Training wheels, eh? I don't like that metaphor.
+M	31a7	Have you searched all the areas that you can go to?
+M	31bd	Everything that I could think of...
+M	31cb	Aren't there some places you haven't been yet?
+M	31e4	I don't think so, but...
+M	31ee	Like your apartment for example...
+M	3200	There's no way she'd be at my apartment.
+M	3219	Well, I'm sure you're right.
+M	3228	I can't find Katrina.
+M	323d	I see. Well, why don't you head home and think about it?
+M	3258	You've got to look for Katrina. Check the places she seems likely to go.
+M	327e	Places she's likely to go?
+M	3294	Yes, Seed. She's a teenager, right? Don't teenagers like to see the city, go shopping?
+M	32bf	Have you searched everywhere that you can go?
+M	32d4	You've been to Alton Plaza, right?
+M	32e5	Yes, I checked Alton Plaza.
+M	32f7	Maybe you need to search a little harder.
+M	330a	For example, what about Alton Plaza? Young girls really like that area.
+M	3331	Alton Plaza, eh?
+M	333d	Now that you mention it, Katrina said that she often went to Alton Plaza.
+M	3361	Well, it looks like the investigation's right back where it started.
+M	337a	Doesn't your wife work at "Kobe Pharmaceuticals?" Why don't you give here a call and ask a few questions?
+M	33bd	I already have Jamie checking on something for me.
+M	33d6	Why don't you wait for word from your wife?
+M	33f2	Well, it looks like the investigation's right back where it started.
+M	340b	Doesn't your wife work at "Kobe Pharmaceuticals?" Why don't you give here a call and ask a few questions?
+M	344e	You won't be getting her involved or anything. Why don't you ask her?
+M	3475	What don't you ask your wife?
+M	3489	She should know a lot about hospitals.
+M	349d	At any rate, you need to check out this "Oleen" Hospital.
+M	34c3	The first thing you should do is visit this Oleen Hospital.
+M	34e0	You've got to look for the hospital that was in Little John's memory. Why don't you ask that informant?
+M	3515	The first thing you need to do is locate the hospital that was in Little John's memory.
+M	353e	Why don't you ask that Napoleon fellow?
+M	3559	The first thing you should do is get Harry to recover Little John's memory for you.
+M	3581	Little John's memory should offer some clues.
+M	359a	Go see Harry!
+M	35ab	He's a very shady character, but he doesn't seem to be working against us.
+M	35ce	He's definitely not a Neo Kobe citizen. He's probably some kind of drifter.
+M	35fd	A drifter?
+M	3606	You know, an illegal immigrant! Shape up, Seed!
+M	361f	Do you have any ideas about this Oleen?
+M	3633	It could be somebody's name.
+M	3645	It may not be an English word. I really don't know.
+M	3666	Sorry. I don't think I can help you on this one.
+M	367d	I'd say something is up there. You should check it out some more.
+M	36a2	Well, I can't prove it, but it probably is, or was, their hospital.
+M	36d1	It's probably safe to assume that this doctor Chin Shu Oh has already been snatched.
+M	36fd	Katrina probably has some clue to the hospital that Gibson found.
+M	3729	You've got to find Katrina. Check places she's likely to visit.
+M	374f	At any rate, you've got to get out there and look for Katrina!
+M	3772	She may hold the key to finding that hospital!
+M	3793	If she calls, we'll put her through to you right away. She may not be able to contact anyone right now.
+M	37ce	All we can do is pray that she's still safe.
+M	37f1	Chief, do you know why I was assigned to the Junker Agency?
+M	381c	I knew you'd ask that sooner or later, but I'm afraid it's top secret information. I can't tell you.
+M	3851	Have you heard anything about why I was assigned here?
+M	386f	They didn't tell me anything about that. Sorry.
+M	389c	Still, the top boys were really hush-hush about you. It seemed a little odd to me.
+M	38c6	Why isn't there any data on me or Jamie in Jordan?
+M	38e4	It seems that your existence is a big military secret. They haven't told me anything about it.
+M	391a	In other words. You and Jamie don't exist...can't be allowed to exist.
+M	3945	Do you know anything about my past?
+M	395f	The boys upstairs are really good about keeping things secret, you know. But...
+M	3984	But what?
+M	398a	Even they don't seem to fully know what the story about you and your wife is. But they do have a theory.
+M	39c3	What's the theory?
+M	39cf	That the two of you were found in the Siberian Neutral Zone.
+M	39f4	The Siberian Neutral Zone?
+M	3a02	They have linked you with the SNATCHERS through that fact.
+M	3a20	The two of you are living evidence.
+M	3a38	And they've fixed it so that no information is available about you or your wife.
+M	3a63	Why? What could we have possibly...?
+M	3a76	Check out the information on yourself in Jordan. Then you'll understand what I'm talking about.
+M	3aae	I'd like to ask you about a personal matter.
+M	3ac1	What? Go ahead.
+M	3ad2	I saw you walking with Jamie the other day...
+M	3af5	..........
+M	3aff	Are you and Jamie seeing each other?
+M	3b0f	What did Jamie have to say about that?
+M	3b22	...nothing.
+M	3b2c	Ha ha ha ha!
+M	3b3b	What's so funny, Chief?
+M	3b43	You think I'm having an affair with Jamie?
+M	3b5d	..........
+M	3b66	Fool!
+M	3b70	Huh?
+M	3b76	She was asking me a few things. About you.
+M	3b8f	What kind of things?
+M	3b95	She was really worried about you and came to talk to me. Apparently Gibson's death had gotten her spooked.
+M	3bc8	I see.
+M	3bd0	You've got a wonderful wife.
+M	3be1	So that's what that was all about...
+M	3bec	Even without memories, she seems to really care about you.
+M	3bfb	...Jamie.
+M	3c06	Seed, you should apologize to her.
+M	3c1a	But, it's your own private problem. I shouldn't say too much.
+M	3c3b	Jamie...
+M	3c45	Is Katrina here?
+M	3c5a	C'mon Seed! Get serious! Of course she's not here.
+M	3c6b	No, Katrina is not here.
+M	3c86	Seed, I'm really proud of you.
+M	3ca0	I don't have to worry about you any more. You're a great runner.
+M	3cc6	I'm sure you're used to carrying that Junker ID around by now.
+M	3ce4	What are you doing? Junker is an undercover organization, you know. Don't go flashing that thing around or you'll have SNATCHERS after you in a second.
+M	3d1d	That's really nice, Seed, but don't be bragging to me, okay?
+M	3d42	What are you doing? Are you going to give me that or something?
+M	3d58	Well, you're really a big shot, aren't you.
+M	3d6c	What's the problem? I don't recall loaning you any money.
+M	3d8b	That should be enough to keep you for now. If you get low or run out, just apply for more.
+M	3dbd	But you better not waste any more.
+M	3dd5	Yes, sir.
+M	3de0	You'll need that for your investigation. Use it at your discretion.
+M	3e01	So Gibson was trying to tell us the name of the hospital by using this chess queen, eh?
+M	3e30	Now this chess piece is just a memento of a great Junker.
+M	3e56	Hmm. Still haven't figured out what this chess piece is supposed to mean, have we?
+M	3e7b	Apparently it had nothing to do with that incident with Freddy.
+M	3e98	It may have something to do with the hospital that Gibson found.
+M	3ebb	A chess piece, eh? I don't know too much about chess.
+M	3edf	Wait a minute! Harry may know something about that.
+M	3ef9	Hmm. I've definitely never seen these characters before. Maybe it's some kind of a code?
+M	3f1e	Maybe it's Sanskrit or something.
+M	3f32	It seems to be some really unique type of writing.
+M	3f4d	It was definitely something that was used at the hospital.
+M	3f62	Why don't you ask your wife?
+M	3f7c	Matches from "Outer Heaven", eh? So it looks like Chin Shu Oh was a regular there.
+M	3fad	Matches eh? Not even 10% of the population smokes anymore. Why don't those places give away something else?
+M	3fe5	Still, this gives us a connection between Queens Hospital and Outer Heaven.
+M	400c	Queens, eh? So that was it. You just can't let preconceived notions about things affect your judgment.
+M	4037	If this image is from Queens Hospital, then Gibson must have found something there.
+M	406d	Maybe it's "OLEIN," you know, that oily yellow liquid which occurs naturally in most fats and oils and is used as a textile lubricant.
+M	408b	Sorry, I don't think I can help you on this one.
+M	40a2	What? This was in the neutral zone before the Catastrophe! What's it doing here?
+M	40d3	That's a really old photo. Does it have some special meaning?
+M	40f3	Now that you mention it, there was a map of the neutral zone in Freddy Nielsen's apartment, wasn't there.
+M	411f	As a matter of fact, I had a retina reading fortune teller predict where she would be.
+M	4146	I heard about that.
+M	4157	It surprising, but that fortune teller sometimes has some really good information.
+M	4177	Seed! Get down to engineering and see Harry!
+M	4190	Go to engineering and have Harry play back Little John's memory for you.
+M	41b8	This is the reception area.
+M	41c2	Welcome back, Gillian. How is the investigation coming?
+M	41e5	Hi, Gillian. How was your day?
+M	4201	Welcome back, Gillian. Glad to see that you're safe and sound.
+M	4228	Mika, the Chief and Harry...they're...
+M	4242	The Chief and Harry are out right now, I think.
+M	425f	...oh really.
+M	4269	How's it going? Have you found Katrina?
+M	4280	Have you found Katrina yet?
+M	4295	Have you been able to contact Katrina yet?
+M	42ac	We're at the reception area.
+M	42bb	Gillian, please help Katrina!
+M	42d2	Please look for Katrina.
+M	42e6	Gillian, what happened to Katrina?
+M	42f8	Have you found Katrina?
+M	4309	Where shall we go?
+M	4317	Please be careful, Gillian.
+M	4326	Why don't we search headquarters while Harry and the Chief are out?
+M	434b	Why don't we see if we can find any clues here at headquarters while Harry and the Chief are out?
+M	4372	This is a great opportunity, Gillian! Let's search headquarters while the two of them are out!
+M	43a3	Please be careful, Gillian.
+M	43b2	Take care out there, Gillian.
+M	43c3	Gillian! The Chief told you, didn't he? Little John's memory has no doubt been reconstructed by now.
+M	43f6	That's right. Let's go see Harry.
+M	4413	Gillian! Pull yourself together! Harry's waiting for you.
+M	4431	Let's go down to engineering.
+M	4445	Gillian, I know how you feel. But I'm just not ready yet. Give me a little more time, okay?
+M	4483	That's all right, Gillian. You can look at me all you want.
+M	44ae	I have to apologize to you, Gillian. I was mistaken about you. You're a really wonderful person.
+M	44e1	Could we have dinner together...sometime?
+M	44ff	What's wrong, Gillian? You look depressed. Is your investigation not going well?
+M	4524	Gillian! Pull yourself together! The fate of the city depends on you!
+M	454f	Sometimes I get really worried, you know. After all, it is a dangerous job. Maybe I won't be able to see you here like this tomorrow.
+M	4584	Oh, don't be silly. Everything will be fine.
+M	4599	Gillian, what's wrong? Do you suspect even me?
+M	45ac	Not just Harry and the Chief, but me too? Oh, I feel like crying...
+M	45ce	Fine! Check me out all you want!
+M	45e3	Whatever you'd like. Even a nude body search if it will reassure you.
+M	4605	You want to search me? Is this work, or...play?
+M	461f	Gillian! I can't believe you'd suspect me! That's really too bad.
+M	4641	I'm shocked that you'd suspect your friends, Gillian. That's really sad.
+M	4667	I'm sorry, Mika. Forgive me, please.
+M	4684	Sorry about that. I said some things I shouldn't have.
+M	4699	What are you doing? This is only built for one, you know.
+M	46b7	What's wrong, Gillian?
+M	46c8	What...who are you looking for?
+M	46db	Mika, I think I'm finally getting used to being a Junker.
+M	4704	Yes. I think you're cut out for this work, Gillian.
+M	4728	I've always wondered about this, but how did someone like you end up as a Junker?
+M	475f	That's a tough question. I'm sure it's for the same reasons as you and Harry.
+M	4785	So Mika, what do you think of guys who have lost their memories?
+M	479e	Hmm. Sort of mysterious and romantic. But I'm sure it's really hard to live without any memories.
+M	47d4	Neo Kobe is a surprising town. Everybody's going about their lives so frantically.
+M	4800	I know what you mean. Some people call this city a dump, but it seems so much more alive to me than other places.
+M	4844	It seems I may have done something terrible in my past.
+M	4869	Don't say things like that! Everybody makes mistakes, you know.
+M	488e	You never know, I may be some horrible criminal.
+M	48a9	You'd still be good ol' Gillian to me, no matter what happened in your past.
+M	48d1	I'm starting to become afraid of my memory coming back.
+M	48ee	Memories are important, but feelings are the most important, right Gillian?
+M	491e	So that's the situation. You be careful, too, Mika!
+M	4938	I can't believe it...
+M	4945	That's terrible... We're all friends.
+M	495a	I know you don't want to believe it, but we're dealing with SNATCHERS.
+M	497b	That's the way they operate.
+M	498f	I've broken the code that was on that patient record. It was the patient's name.
+M	49c3	In other words, I've uncovered a possible SNATCHER.
+M	49db	What? Who? Oh my god, it's not someone I know, is it?
+M	49fc	I don't know their full name. But the name Benson was written on the file.
+M	4a33	In other words, Benson Cunningham, the Chief, or...
+M	4a57	Our friendly engineer, Harry Benson.
+M	4a7a	Alice was killed, and Katrina is missing. Mika, what should I do?
+M	4aaa	Judging from the condition of the apartment, I'd say they were looking for something.
+M	4ad6	A bounty hunter, eh? Can you trust people like that?
+M	4af4	He sounds really fake, like someone out of a novel, you know?
+M	4b19	Well, he sounds sort of cool, but a little scary, too. I wonder what kind of a person he is?
+M	4b3e	Oleen, huh? I've never heard of any hospital like that.
+M	4b5e	You're sure it's on the island, right?
+M	4b7b	I wonder if that's the hospital Jean found.
+M	4b93	Jean was always a very precise and careful person. If he found it, there must be something going on there.
+M	4bc4	I wonder where she is. She doesn't have many friends, you know.
+M	4be8	There aren't many places that she's likely to go.
+M	4c04	There's been no word from her since earlier today.
+M	4c1e	She's really mature for her age. If something happened, I'm sure she'd call.
+M	4c46	Did you give her any numbers besides the one for headquarters?
+M	4c6a	She shouldn't know any of the numbers of anyone in the Agency. What about yours?
+M	4c85	Gillian, didn't you give her your address?
+M	4ca2	That's right! I gave her mine!
+M	4cb5	Harry's out right now. He seemed to be going after the Chief when he left. Said he had to check on something.
+M	4cef	Now that you mention it, he's been gone for several hours.
+M	4d10	That's odd. I wonder where he went.
+M	4d27	He's been a little restless lately. He seemed to be investigating something.
+M	4d4e	That's right! He gave up smoking all of sudden the other day, too.
+M	4d72	He was always such a heavy smoker, too. That's funny, isn't it?
+M	4d95	A heavy smoker? So those matches were Harry's...
+M	4db4	What's up with Harry?
+M	4dc1	What? You have something for Harry?
+M	4dd2	The Chief is out right now. I don't know when he'll be back.
+M	4df6	It's really unusual for the Chief to leave Headquarters.
+M	4e14	Its probably some meeting to prepare for the upcoming Kyoto Summit.
+M	4e4a	The Chief has been really busy lately.
+M	4e5b	He'll be attending the Kyoto Summit next month and he's had a lot of meetings and stuff related to that.
+M	4e92	Hmm. I'm not really sure. He's the kind who keeps things bottled-up, you know.
+M	4eb6	He's been the same as usual, I think.
+M	4ece	I wonder what that hidden photograph is all about.
+M	4ee6	The Chief? What, did you make some dreadful mistake again?
+M	4f02	Do you need to see the Chief for something?
+M	4f0e	Mika, what do you think?
+M	4f2c	I want to believe in them, but...
+M	4f3a	I don't want to distrust anybody.
+M	4f51	You, Harry, the Chief... I really love and trust all of you!
+M	4f79	It must be some kind of a mistake.
+M	4f8e	The Kyoto Summit? What's that?
+M	4f9d	It's the annual summit of the leaders of the world's advanced countries. It will be taking place in old Kyoto this year.
+M	4fd4	One of the topics on this year's agenda is the SNATCHER menace. Other countries are starting to worry that SNATCHERS are not just a Neo Kobe problem anymore.
+M	500e	So, you're all settled in here by now I suppose.
+M	5020	You've really become a fine Junker, Gillian.
+M	5040	What's with that?
+M	504c	Are you trying to tell me something?
+M	5058	Money can't buy happiness, you know.
+M	5074	...not as long as there are SNATCHERS.
+M	5087	You haven't used very much, have you. You're a pretty serious person, aren't you.
+M	50b5	Be careful. I love the good life. You go out with me and it's going to cost you!
+M	50da	Is that some kind of joke? I'm going to get really upset if it's not!
+M	50ee	What's this? Is this a present for me?
+M	5103	Keep showing me that piece and I'll get all confused.
+M	511d	Looks like Mika's starting to pick up your habits, Gillian.
+M	513c	...No way. Really?
+M	514a	So it was Chinese. I thought that's what it was.
+M	5160	But I don't want to distrust anyone...
+M	517b	What's this, Chinese? I've never seen characters like this before.
+M	519a	Why don't you ask somebody who knows Chinese. They should be able to explain it.
+M	51b9	Hmm. Why don't you ask that Chinese guy you know.
+M	51d7	What is this, some kind of hospital records? Looks really technical...
+M	51f2	That's right, why don't you ask Jamie?
+M	520c	Jamie knows a lot about medical things. Why don't you ask her?
+M	5236	Sorry. I don't have any idea.
+M	5246	Mika, as a matter of fact...
+M	524e	Gillian?
+M	5256	Ah, that's right...(maybe she's better off not knowing).
+M	527b	I wonder if this is really Harry's handwriting?
+M	528f	Face to face? I wonder if it means a kiss?
+M	52a3	Sorry. I'm sure that's not it.
+M	52b4	Face to face? There was picture like that here in headquarters, wasn't there?
+M	52d4	What? Matches? I don't smoke. Harry is the only person at the Agency who smokes.
+M	5307	...I can't believe anybody still smokes these days.
+M	5325	So that neon was for a hospital called "Queens," eh?
+M	5347	That's really pretty neon. I wonder where that hospital is.
+M	5361	That's what I'm trying to find out.
+M	5371	Mika, do you have any idea what this is?
+M	5382	I saw this is in a book once. Isn't it Moscow before the Catastrophe.
+M	53a1	I found it in the Chief's office.
+M	53b2	Why would he have something like this?
+M	53c0	I've never seen this before. You say the Chief had it?
+M	53d7	How exotic! I wonder where this temple is?
+M	53ee	It look's like the princess's castle over at LukasLand.
+M	5406	Katrina's safe somewhere, right Gillian? Isn't she?
+M	5429	Gillian, please! You've got to help Katrina.
+M	5444	Gillian. Please find Katrina!
+M	5458	This is engineering.
+M	5467	So did you find Katrina?
+M	5479	So how about Katrina?
+M	5488	How ya' doin' Gillian? You look like your hangin' in there.
+M	54a1	How ya' doin' Gillian?
+M	54ae	I'm depending on you to find Katrina, okay Gillian?
+M	54c6	Gillian, you just gotta find Katrina!
+M	54dd	Would you mind not staring at me like that? You look like you suspect me of something.
+M	5502	I've always admired that look in your eyes, Gillian. It's like... justice, you know?
+M	552b	What's the problem? You got something to say? Say it!
+M	554e	It's a picture of Harry as a child.
+M	5562	The picture's torn, and you can't see the faces of the parents.
+M	557e	It's the bottle with Napoleon's videophone number on it.
+M	559f	You want to search me? Over my dead body!!
+M	55d5	You get your kicks doing body searches on senior citizens, do you?
+M	55ed	You're still young. You should be spending your time with young women, you know.
+M	5616	A Junker's first job is to collect evidence, you know. Examination of the evidence comes later.
+M	564b	It appears to have been torn from a larger photograph.
+M	5668	There's no way to tell who the parents were.
+M	567f	This picture is the only memory I have of my childhood.
+M	56a1	Are you sure it's you?
+M	56ae	Yeah, we've analyzed the bone structure of the kid in the picture, and it's definitely me.
+M	56cc	39-5644... Napoleon's videophone number is written on it.
+M	56f9	Harry, I'm afraid I just can't fill Gibson's shoes.
+M	571d	I don't talk to guys who say wimpy things like that.
+M	573a	Harry...
+M	5745	Harry, I get really worried sometimes. I think I may shoot a real person by mistake...
+M	577e	You could never kill a real person.
+M	5797	You're too gentle, you know. On the other hand, if I were you, I'd worry about that gentleness costing you your life someday...
+M	57c0	Harry, do you think I can really make it as a Junker?
+M	57df	The Chief and I know a good kid when we see one. You'll do just fine.
+M	5805	Harry, you know deep down inside, I might really be evil.
+M	581d	Gillian, the only thing a man has to worry about is the future, not what's done and gone.
+M	5850	Was there something in my past? I think there was, and I don't think it was good.
+M	5871	I'd worry more about being as good as you can right now than about your past self, if I were you.
+M	589b	I'd never trust those bounty hunters! This isn't the kind of job you do for profit!!
+M	58c6	I've heard he's really good, already put down at least three of 'em, but I still don't get along with those types.
+M	58f0	But I thought that these blasters were the only things that could take out a SNATCHER?
+M	5914	In theory, that's right. A standard ray gun just isn't strong enough.
+M	5936	Still, if you modified a standard ray gun to focus its energy much better than usual, you never know...
+M	596a	But that would make it that much harder to hit your target, right?
+M	5987	That's right. In other words, this Random is one heckuva shot!
+M	59ac	...normally, that just doesn't work.
+M	59be	Hey! I may be old, but I'm in good shape! I don't know too much about hospitals. Never heard of this one, either.
+M	59f5	There's definitely no mistake about Little John's memory.
+M	5a0f	This hospital exists. You can bet your life on that.
+M	5a2a	That's the hospital that Jean found, right? It's the SNATCHER'S place, you can bet on it.
+M	5a54	There must be some secret hidden there...
+M	5a6d	Katrina will be all right. She may look a little fragile but remember, she's Jean's daughter. She's quite tough.
+M	5a9b	I know you'll find Katrina. I'm sure of it.
+M	5abf	Katrina knows the emergency number for the Agency. If something happens, you can bet she'll call.
+M	5af2	Katrina doesn't get out too often. She probably doesn't have too many friends.
+M	5b1e	Harry, you really don't know what your own parents look like?
+M	5b3a	That's right. My folks died in the Catastrophe.
+M	5b59	Some scientist named Petrovich picked me up and took me to the army, and they took care of me.
+M	5b80	...and that's where I grew up. Learning nothing but how important it is to beat other countries in the race to new technologies.
+M	5bac	(The Catastrophe? So Harry also came out of Siberia, eh?)
+M	5bd0	I remember that my parents were really loving, but that's the only memory I have of my family life.
+M	5bfe	You can't understand how hard this is unless you've lost your memory...
+M	5c1e	(I know what you mean, Harry).
+M	5c2d	Even at this age, I still want my own family.
+M	5c4d	Katrina isn't here, is she?
+M	5c62	Don't be stupid! If she was here, we all wouldn't be so worried now, would we?
+M	5c82	Gillian, just calm down. Of course she's not here.
+M	5ca3	You've really grown into a great Junker, Gillian.
+M	5cbc	I can say this now, but at first, I was really worried about you.
+M	5ce0	You'll be fine. You're even starting to look like a Junker.
+M	5d03	We can't quit this job until we've taken care of the last SNATCHER.
+M	5d2d	Hey Gillian, I trust you. Don't disappoint me, okay. Now put that thing away, will you?
+M	5d6b	Gillian, just relax. You can't rush the investigation. One step at a time...
+M	5d9a	I'm afraid I can't help you with money matters, but don't worry. You can always apply for more if you run out of cash.
+M	5dce	Doesn't look like you're going to need as much as you thought, eh?
+M	5de4	Hey. I'm not in this for the money, you know.
+M	5df6	I don't know what you're up to, but I can tell you, I have no interest in women or money.
+M	5e1a	That's a chess piece. It's a queen, isn't it?
+M	5e39	What's this? Chinese? I was never any good at Chinese. Why don't you ask somebody Chinese?
+M	5e64	It looks like Chinese or something. It's definitely not Japanese, that's for sure.
+M	5e93	If it's Chinese, then perhaps we should ask Napoleon.
+M	5eb4	Why don't we give Napoleon a call?
+M	5ece	...what's this?
+M	5edb	Oh that's right. Your wife is in medicine, isn't she.
+M	5f00	That's right. So?
+M	5f08	Maybe she knows something about hospitals. Why don't you ask her?
+M	5f2b	Us regular folks can never understand all those big doctor words anyway, you know.
+M	5f49	That's true.
+M	5f54	A patient record? I'm afraid I can't help you with that.
+M	5f6d	Why don't you ask your wife?
+M	5f86	Hey! Matches! Haven't seen any in quite a while!
+M	5f9a	You smoke, don't you Harry?
+M	5faf	People are always complaining when you try to light up these days. It was always such a pleasure before.
+M	5fe8	It was all Jean's persistence and determination...
+M	5ff8	So these navigators can come in pretty handy, don't you think?
+M	601e	Just don't jump to any funny conclusions. Keep your mind open to every possibility.
+M	6050	You might think I'm old-fashioned, but you've got to trust your instincts. It's one of the most important weapons a Junker has.
+M	607f	Hmm. I don't know... I don't think I've ever seen it before.
+M	60a5	Even you Harry?
+M	60b0	I don't know, maybe on TV or something.
+M	60c5	That's a funny looking temple. What country is that in?
+M	60e3	Katrina is a really special kid, Gillian. You've got to help her!
+M	6102	Gillian, you've got to find Katrina!
+M	6118	We owe it to Jean to make sure that Katrina is safe. We're depending on you, Gillian!
+M	613c	This is the detective's room.
+M	6148	This was Gibson's room. Maybe Katrina's here.
+M	616b	Why don't we take a look around?
+M	6177	This is the desk that Jean was using. It's been straightened up quite neatly.
+M	619c	This would all be so much easier if Gibson was still alive.
+M	61b8	This is the locker used by the runners.
+M	61cb	I've got it all to myself now.
+M	61e4	She's not an insect, you know. There is no way she could be hiding around here.
+M	6207	The personal items that were in the desk have all been removed.
+M	6222	When they were giving his stuff away, I got his fountain pen...
+M	6245	Now your personal items are the only things there.
+M	6261	One of these days, somebody may have to take care of my personal items...
+M	6285	Gillian! This isn't some omen!
+M	6296	There is heavy interference from a number of sources here. We cannot use the videophone.
+M	62c3	Under these conditions, we cannot transmit from here.
+M	62dc	This is the computer room.
+M	62ec	Katrina said she was interested in computers. Maybe she's in here.
+M	6313	Well, I really doubt it, but let's take a look anyway.
+M	6332	This terminal can access the Alpha-One network. Operation is via this old-style keyboard.
+M	6361	There is no one here besides us.
+M	637c	There is no way that Katrina is going to be here! What are you thinking, Gillian?
+M	63a1	It's working properly. There is nothing unusual about its operation.
+M	63c4	All aspects of the system have been thoroughly tested.
+M	63e0	Jordan is linked directly to Neo Kobe's largest computer system, Alpha-One.
+M	641a	You can access almost any information at all about the city.
+M	6432	Jordan is particularly useful for investigating information on people, places and events.
+M	6464	Your name has already been registered in the system; you can use it any time you please.
+M	6494	This is the shooting range.
+M	64a0	You should practice frequently to avoid any more game overs.
+M	64c2	Keep you voice down, will ya'?
+M	64d6	After all, you lost to those Insectors.
+M	64ec	Forget about that. It'll never happen again.
+M	6505	Well, I don't have any problem with Insectors, but...
+M	651b	SNATCHERS are a completely different story than Insectors.
+M	6538	Nobody is using the system. It's on stand-by.
+M	6550	The Junker's Eye system is on stand-by.
+M	656b	A line of shooting booths are aligned against the wall.
+M	6582	There is nobody here besides us.
+M	659b	There is no way that Katrina is going to be here! What are you thinking, Gillian?
+M	65c1	There is no one in the room besides us.
+M	65d4	No one is practicing besides us.
+M	65ea	Let's try setting the Junker's Eye system to the most difficult level.
+M	6615	The highest level?!
+M	661f	That's right. Super-runner class.
+M	6635	...so what happens?
+M	6640	Let's try setting the Junker's Eye system back up to the highest level.
+M	6672	SNATCHERS which look like civilians appear as well.
+M	668d	However, their eyes glow green.
+M	66a8	...no problem.
+M	66b3	Be very careful that you don't shoot the regular civilians.
+M	66d3	You should be quite used to that blaster by now.
+M	66f0	Let's try raising the Junkers Eye system's level a bit.
+M	6713	...even though you've never even practiced once.
+M	6739	Hey, I've been busy!
+M	6744	You need to practice regularly from now on.
+M	6762	You'll be using intermediate level even though you've never practiced before. Do you think you can handle it?
+M	6785	How much are you going to raise it?
+M	6795	Why don't you just try it?
+M	67a3	All right, let's give it a shot!
+M	67b1	The red gauge on the left is the number of targets which will appear. The yellow gauge on the right is the number of hits.
+M	67ec	Interference from the shooting booths prevents use of the videophone here.
+M	681d	Noise from the shooting booths could corrupt the data if you save in this room.
+M	6842	You should "save" game data in some other area.
+M	685e	We'll run the system on the highest level.
+M	687e	All right, let's begin the practice.
+M	6894	We'll try the system on intermediate level.
+M	68b3	All right, let's begin the practice.
+M	68c9	Where would you like to go?
+M	68d7	Gillian?
+M	68df	What?
+M	68e6	Harry suggested that we check the hospital using the Jordan system, but...
+M	6907	The Jordan system doesn't offer a hospital search function.
+M	6925	Really...
+M	692e	Why don't we ask Napoleon?
+M	6947	Katrina! I know you're in there! Come on out!
+M	6964	Katrina! Are you in here?
+M	6977	Katrina! Where are you?
+M	6986	Unfortunately, Katrina does not seem to be here.
+M	699c	Oh, Katrina, there you are! Oops. Bad joke. Sorry.
+M	69c0	Katrina cannot be found in this area.
+M	69d3	Katrina! Answer me if you can hear my voice!
+M	69ed	Katrina! Can you hear me?
+M	6a07	...there is no answer. She does not seem to be here.
+M	6a28	Katrina is not here. Let's look somewhere else.
+M	6a46	...yes?
+M	6a50	Hey you runt! That's not funny!
+M	6a68	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	6a98	That's the expense money that the agency gave you.
+M	6ab0	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	6add	That's the chess piece that Gibson had.
+M	6af6	That's the patient record with the name of a SNATCHER on it.
+M	6b10	That's the object we found in the desk at Queens Hospital.
+M	6b2c	Those are the matches that we found at Queens Hospital.
+M	6b48	That's the memo that Harry apparently wrote.
+M	6b5c	That's the memo that was in engineering.
+M	6b76	That's the visual image that was recovered from Little John's memory.
+M	6b94	That's the photograph that was hidden in the Chief's office.
+M	6bb0	That's the picture of a temple that was on the wall at Queens Hospital.
+M	6bd2	It has an IC chip built-in which contains all of your personal data.
+M	6bfd	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	6c20	This chess piece was being used to signal the name of Queens Hospital.
+M	6c45	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	6c6c	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	6ca3	It appears to be part of a patient's record. I wonder what this writing means?
+M	6ccb	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	6cf8	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	6d1f	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	6d4e	It's a picture of the neon sign at Queens Hospital.
+M	6d71	It appears to read "Oleen Hospital". It's no doubt the neon sign to some hospital.
+M	6d9b	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	6dc6	This is St. Basil's cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	6df4	I wonder who really wrote this?
+M	6e0d	...with a little practice, just about anybody could forge Harry's handwriting.
+M	6e31	These are the same matches that were in engineering.
+M	6e4d	That's right.
+M	6e5c	All right, I'll save everything that has happened up until now.
+M	6e73	Which file number would you like to save it in?
+M	6e82	This file contains data from a previous save.
+M	6ea4	Is it okay for me to overwrite it with the new data?
+M	6ebf	In that case, I won't write the new data there.
+M	6edd	This is the Chief's office. He seems to be out.
+M	6ef7	Let's search for clues while the Chief's away... to find out if he's a SNATCHER.
+M	6f2e	Let's look for more clues.
+M	6f47	First, let's put the Red Square photo back where it was.
+M	6f69	Right, we can't let on that we've figured out this picture's secret...
+M	6f96	I'll put the Red Square photo back now.
+M	6fad	This is the Chief's chair. The Chief isn't here.
+M	6fc6	The Chief seems to have stepped away.
+M	6fdb	The monitor is turned off.
+M	6fec	That's odd. Why would the monitor be off?
+M	7009	Wait a second! Isn't there something odd about this picture of a vase?
+M	702e	Look! ...Doesn't it look like a face?
+M	7045	A face? ...I don't really see it.
+M	7055	Look, doesn't it look like a face?
+M	7068	I'm not sure, but it just looks like a picture of a vase.
+M	7085	It looks familiar somehow... but I can't remember.
+M	70a0	Why... would a photo like this be here?
+M	70b7	The surface of the chair has gone cold.
+M	70cf	It seems like quite a while since he left his seat.
+M	70e9	Most of the monitors have gone cold too.
+M	7102	It looks like it's been a while since the monitor was turned off.
+M	711f	Look at this. I thought it was just a picture of a vase, but...
+M	7144	If you swap the figure and the background... it's "Face to Face"!
+M	7166	Could this be the "Face to Face" from Harry's memo?
+M	7191	It's a picture designed to trick the human eye.
+M	71a6	...You mean it wouldn't look like anything to someone who wasn't human?
+M	71c7	Let's take a closer look.
+M	71da	Check the "face to face" part for me.
+M	71f1	Oh! There's a switch between the two faces. I'll try pressing it.
+M	7217	The picture flipped over and turned into a photograph.
+M	7230	All right... I'll press the switch.
+M	7246	The picture flipped over and turned into a photograph.
+M	725f	I've been wondering about this for a while, but don't you think this vase picture doesn't quite match the room?
+M	729d	I've been wondering about that too.
+M	72b1	Metal, don't you think something's off?
+M	72c4	What do you mean?
+M	72cc	If... I were a SNATCHER,
+M	72e4	would I really hide evidence like this photo somewhere so easy to spot...
+M	730e	That's a good point.
+M	731a	There has to be a reason worth the risk of keeping this photo here.
+M	7340	Red Square...? Why would a picture like this be in the Chief's office...
+M	7363	Judging by the print quality and other factors, this photo is about half a century old.
+M	7391	Either the Chief or Harry is a SNATCHER?
+M	73ab	...Let's look for evidence. If we're not careful how we proceed, things could get serious.
+M	73de	Let's start by searching this room.
+M	73f6	...It seems both of them are out.
+M	740e	Let's check the remaining room.
+M	7421	Metal, where is this photo from?
+M	7436	All right, I'll search the Alpha-One database for the location of this photo...
+M	7466	...I've got it.
+M	7473	This photo is of Moscow before the Catastrophe, specifically Red Square.
+M	7499	Red Square...? Why would a picture like this be in the Chief's office...
+M	74bc	Keep that image saved in memory for me.
+M	74cf	I've recorded the photo's image in memory.
+M	74e9	The Chief had this photo?
+M	74f8	Or perhaps... someone put it here to frame the Chief?
+M	7515	First Harry's matches, and now this... which one is it?
+M	752d	Which one is it...?
+M	7539	We're missing the deciding clue. They're both suspicious.
+M	7555	Or... could it be someone else entirely?
+M	7569	In that case, that patient record with the name "Benson" looks suspicious too, doesn't it?
+M	758e	Was it left for us on purpose...?
+M	759f	To begin with, it's strange for a SNATCHER to leave a patient record behind at all.
+M	75c4	Is it a trap?
+M	75cd	Based on the circumstantial evidence so far, we can't really say.
+M	75eb	The Chief being away from his desk...
+M	75fd	Like Mika said, maybe he's just busy preparing for the Summit?
+M	761f	Something doesn't sit right...
+M	762c	Looks like the Chief's been out for a while now.
+M	7644	...Looks that way.
+M	7651	This is engineering. ...It seems Harry is out.
+M	7674	Let's look for clues while Harry's away.
+M	7697	Let's search for clues while he's out.
+M	76b0	It's a sexy movie actress from the last century.
+M	76c7	It's a photo of Harry as a young boy.
+M	76dd	There are matches on the desk.
+M	76ee	There's something on the desk.
+M	76fe	...It's matches, and... a memo.
+M	7715	There are matches and a memo on the desk.
+M	7729	The box has the "Outer Heaven" logo printed on it.
+M	774f	It says "Face to Face" on it.
+M	776d	Face to face, huh...?
+M	7779	It's quite worn, but the four corners have been reinforced.
+M	7798	Looks like Harry really treasures this.
+M	77b3	If we could see the original photo, we might learn who Harry's parents were...
+M	77d3	These are definitely matches given out to regulars at "Outer Heaven".
+M	77fb	These are matches given out at "Outer Heaven".
+M	781b	This is Harry's handwriting. Could it be a message?
+M	7834	"Face to face" must be the key. ...In any case, all we can do is search wherever this phrase brings to mind.
+M	786a	Maybe it means "look for face to face"! ...Or perhaps "watch out for face to face"?
+M	78a8	Hang on to this memo for me.
+M	78be	All right, I'll hang on to this memo.
+M	78d8	From "Outer Heaven"? Harry had those!
+M	78f7	Harry's the only one at Junker HQ who smokes.
+M	791c	You don't mean... Harry?
+M	7927	If he's carrying matches from Outer Heaven, then...
+M	7945	Harry, a SNATCHER? No way...
+M	795a	Let's hang on to these matches.
+M	796c	There's no need. These are the same matches we already have.
+M	7997	I've already recorded the situation. ...Carrying more would just weigh down the investigation.
+M	79bb	Let's just leave it here.
+M	79cd	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	79fd	That's the expense money that the agency gave you.
+M	7a15	That's the chess piece that Gibson had which he used to identify the name of Queens Hospital.
+M	7a3e	That's the chess piece that Gibson had.
+M	7a57	That's the patient record with the name of a SNATCHER on it.
+M	7a71	That's the object we found in the desk at Queens Hospital.
+M	7a8d	Those are the matches that we found at Queens Hospital.
+M	7aa9	That's the memo that Harry apparently wrote.
+M	7abd	That's the memo that was in engineering.
+M	7ad7	That's the visual image that was recovered from Little John's memory.
+M	7af5	That's the photograph that was hidden in the Chief's office.
+M	7b11	That's the picture of a temple that was on the wall at Queens Hospital.
+M	7b33	It has an IC chip built-in which contains all of your personal data.
+M	7b5e	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	7b81	This chess piece was being used to signal the name of Queens Hospital.
+M	7ba6	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	7bcd	This was written in a code using Chinese characters for chemical elements. It deciphers to read "Benson".
+M	7c04	It appears to be part of a patient's record. I wonder what this writing means?
+M	7c2c	These are matches from "Outer Heaven". This is probably something they give away to their regular customers.
+M	7c58	"Face to face". This memo reveals the secret of the picture in the Chief's office.
+M	7c7f	"Face to face". This is definitely Harry's handwriting. What could it mean?
+M	7cad	It's a picture of the neon sign at Queens Hospital.
+M	7cd0	It appears to read "Oleen Hospital". It's no doubt the neon sign to some hospital.
+M	7cfa	This is a photograph of Red Square in Moscow before the Catastrophe.
+M	7d25	This is St. Basil's cathedral. It's a famous cathedral that was in Moscow before the Catastrophe.
+M	7d53	I wonder who really wrote this?
+M	7d6c	...with a little practice, just about anybody could forge Harry's handwriting.
+M	7d90	These are the same matches that were in engineering.
+M	7dac	That's right.
+M	7dbb	All right, I'll save everything that has happened up until now.
+M	7dd2	Which file number would you like to save it in?
+M	7de1	This file contains data from a previous save.
+M	7e03	Is it okay for me to overwrite it with the new data?
+M	7e1e	In that case, I won't write the new data there.

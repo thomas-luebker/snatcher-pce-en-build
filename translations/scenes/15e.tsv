@@ -1,0 +1,709 @@
+W	27f6	Area
+W	27fd	Plato's Cavern
+W	280e	Junker I.D.
+W	281d	Engineering room
+W	282a	Use Metal Gear
+W	2839	Montage photo
+W	284a	Monitor
+W	2853	Locker
+W	285c	About Alice
+W	2867	Outer Heaven
+W	2878	Camera
+W	287f	Key
+W	2884	About Katrina
+W	2893	Capsule
+W	289c	Use Jordan
+W	28a9	About Gibson
+W	28b6	Gibson's photo
+W	28c5	Coat
+W	28cc	Computer room
+W	28db	Computer
+W	28e8	Don't save
+W	28f5	Save
+W	2900	Save 1
+W	2909	Save 2
+W	2912	Save 3
+W	291b	Save 4
+W	2924	Sofa
+W	292b	Disk
+W	2934	Detective's room
+W	293d	Nanomachines
+W	294c	About Napoleon
+W	295b	Harry
+W	2962	Videophone
+W	296f	Front pod
+W	2980	Front
+W	2989	Brandy bottle
+W	2998	Plate
+W	29a1	Poster
+W	29aa	Mask
+W	29b1	Mika
+W	29b6	Console
+W	29bd	Move
+W	29c2	Do something
+W	29cb	Desk drawer
+W	29d6	Desk top
+W	29dd	Picture
+W	29e0	Chief's office
+W	29e7	Chief
+W	29ec	Chess piece
+W	29ef	Show
+W	29f6	Look
+W	29fb	Persuade
+W	2a02	Practice
+W	2a0b	How to practice
+W	2a16	Practice booth
+W	2a21	Buffalo place?
+W	2a30	Buffalo place
+W	2a3b	Scrap of paper
+W	2a42	Cash
+W	2a49	Possessions
+W	2a4e	Photo
+W	2a53	Shooting range
+W	2a5a	Enter Turbocycle
+W	2a63	Near desk
+W	2a6c	How to use
+W	2a73	Use
+W	2a78	Evidence
+W	2a7f	Relocate
+W	2a88	Smell
+W	2a93	Window
+W	2a96	What to do next
+W	2aa3	Investigate
+W	2aaa	Sunscreen
+W	2ab5	Ask
+M	2aba	The Chief's office.
+M	2ac4	How's the investigation? Any leads?
+M	2add	How's it going, Seed?
+M	2af3	Going well?
+M	2b05	Getting nowhere! Start with Gibson's things in the Detective's room!
+M	2b39	Well, Seed? How's it going?
+M	2b54	Oh.. Seed?
+M	2b60	Yes?
+M	2b66	I hate to be hard on you now, but..
+M	2b7f	.........?
+M	2b86	Put in some time at the shooting range.
+M	2b9a	Sir?
+M	2ba0	No "game overs" here, understand? None.
+M	2bc3	..........
+M	2bcc	Hang in there.
+M	2be0	...thank you, Chief.
+M	2bf5	Oh...Seed?
+M	2c01	Yes?
+M	2c07	How's the wound?
+M	2c18	.........?
+M	2c1f	He's had nanomachines. Full strength in no time.
+M	2c4c	I see.
+M	2c55	Hang in there.
+M	2c69	...thank you, Chief.
+M	2c7e	What? Something hanging from my nose?
+M	2c99	What are you staring at, Seed? Calm down.
+M	2cb9	Study reality as hard as you study my face.
+M	2cdf	The latest data from networks worldwide comes here.
+M	2d06	Metal Gear's data is linked in real time too.
+M	2d29	So I'm being watched, eh?
+M	2d3a	Neo Kobe by night.
+M	2d4f	I never tire of it. Neo Kobe at night. Gorgeous.
+M	2d6f	But there's a thorn in all this beauty: the SNATCHERS.
+M	2da1	A picture of a vase. My data has no record of it.
+M	2dcf	By some unknown, eh? Strange picture...
+M	2ded	A sofa. Tired?
+M	2e00	A sofa, for the Chief's visitors.
+M	2e13	What are you doing, Seed! Get going!
+M	2e2a	What do you gain by investigating the Chief?
+M	2e3f	No time for fooling around, Seed!
+M	2e58	Seed, no time for your jokes.
+M	2e7c	A general-purpose monitor.
+M	2e92	Auto-tint glass.
+M	2ea1	A current through the coating tints the glass from clear to opaque.
+M	2ece	Clear or opaque, depending on the voltage.
+M	2eec	Nothing unusual. A regular painting.
+M	2f0c	Hey! That painting's precious! Don't touch it!
+M	2f2c	Stressful job. Pictures like this soothe my nerves.
+M	2f5b	A "chaos sofa": it adjusts to whoever sits on it.
+M	2f7b	One of the latest sofas, with air-cushions.
+M	2f93	Check out the other suspect, Nielsen.
+M	2fae	If Ivan checks out clean, that leaves one suspect.
+M	2fcd	You haven't searched Gibson's place enough yet.
+M	2fee	Why don't you try checking out Gibson's place a little better.
+M	300f	And on top of that...
+M	3018	Figure out what this "Search the house!" puzzle is supposed to mean.
+M	3030	Seeing what's happened, you probably should check out Gibson's place.
+M	304f	Or perhaps...
+M	3059	You should take a closer look at Gibson's personal things.
+M	3072	You might find some clues in his desk in the Detective's room.
+M	3092	There might be a clue in Gibson's desk.
+M	30ab	You need to figure out what that key you found on his body is for.
+M	30c3	That's a very unusual, antique key. It probably goes to some personal item of his.
+M	30ec	You need to find out what Gibson was up to. Check out everything you can about him.
+M	3113	You have to check what he was checking, see what he was seeing.
+M	3134	That should let you figure out what it was that he was after.
+M	315b	Why don't you try searching the Detective's room?
+M	3171	Based on the analysis of the hair strands he was grasping, and the skin tissue found under his nails...
+M	319f	We're reasonably certain that at least one male and one female SNATCHER were involved in killing him.
+M	31ce	You've got to learn what he was up to. What was he after? What was he investigating when he was killed?
+M	320f	To find that out, you should start by checking out the Detective's room, and then his home.
+M	3243	From here on is uncharted territory, not covered by the Pilot Disk.
+M	326a	If there's anything you don't understand, feel free to ask.
+M	3285	Seed, I don't mind giving you a little help with this, but...
+M	32a6	Yes sir?
+M	32b3	You've got to carry out the investigation yourself!
+M	32c7	Yes sir. I understand.
+M	32d4	And don't be taking too many breaks, either.
+M	32e5	....ah, yes sir.
+M	32ee	And don't make me keep telling you this...
+M	3302	What's that sir?
+M	3309	Stop skipping your responsibilities by loafing around at home.
+M	331b	..........
+M	3324	So Gibson was trying to identify the SNATCHER'S weak point eh?
+M	3345	That makes it likely that they had him silenced.
+M	336e	Seed! Don't let Gibson's death be for nothing!
+M	3384	He must have learned something important about them, but he didn't tell me a thing.
+M	33ad	He never said anything unless he was absolutely sure of himself.
+M	33cf	What could he have learned about SNATCHERS?
+M	33e2	I don't know either, but it could be a weak point of theirs, or some way to tell SNATCHERS apart from humans.
+M	340d	And that's why he was killed...
+M	3420	What did he learn...?
+M	342c	That's what you have to find out.
+M	3443	You need to head to his place and check things out there.
+M	345d	Seed! I hear you were making some kind advances on Katrina! You should be ashamed of yourself!
+M	349c	You understand me Seed? You better have some pride in being a Junker, or you're out of here!
+M	34c1	What do you think? Pretty cute daughter, eh?
+M	34dd	I want you to help her out as best as you can from here on out, Seed.
+M	34fb	Katrina's the real victim in this. I let her know what happened, but it had to be a great shock to her.
+M	353a	Katrina? You mean that girl who's doing the modeling job...
+M	3554	I'm worried about her. I want you to check up on her later.
+M	3572	It'll be a good chance for you to check out what Gibson was up to, as well. His house is out in the northern suburbs.
+M	35a6	You should go and check up on her.
+M	35bd	A place which serves buffalo? Sorry, I can't help you on that one.
+M	35d9	But the analysis showed it had been about 3 hours since he ate it, so we know the place must be within a 3-hour travel radius of where he was, right?
+M	3619	I've never heard of any registered place with that name. But it could be some underground joint.
+M	364b	That's the informant that Gibson was using. Only he knew anything about him.
+M	3676	Well, yes, I have heard of a place that serves buffalo...
+M	3691	I don't know... With so much information available anywhere these days, I wouldn't trust those informants...
+M	36b9	How was your meeting with him?
+M	36cc	Can't really say much about it at this point.
+M	36e3	Oh, that's right. You might find something in Jordan.
+M	3706	Alice? Who's that? Never heard of her?
+M	371d	Hmmm. First time I've heard that name.
+M	3733	It's the name of the Doberman that Gibson had.
+M	3756	Oh really. He had a dog, eh?
+M	3766	Dogs hate SNATCHERS. Keep that in mind, Seed.
+M	3787	After the bioroid panic, many people started buying large dogs as protection against SNATCHERS.
+M	37bc	I see. So that's the real reason behind the boom in pet sales these days, eh?
+M	37d9	Plato's Cavern? Never heard of it?
+M	37f6	Hmmm. That sounds vaguely familiar, but I can't seen to recall where I've heard it.
+M	381b	It's practically a symbol of this entire city.
+M	3834	Its apparently a much more open place than I thought.
+M	3851	"Outer Heaven," eh?
+M	3870	Do they have an "Inner Heaven," too?
+M	3889	You have to figure there are stores like that in this city.
+M	38a4	If the place is unregistered, it will be hard to find it.
+M	38c6	What's the trouble, Seed? You thinking about quitting?
+M	38df	What are you doing? Junker is a highly secret assignment. You shouldn't just go around showing off who you are like that. You'll have SNATCHERS all over you.
+M	391a	I know you're really proud of that, Seed, but you shouldn't boast too much about it.
+M	393d	What are you doing? Put that away!
+M	3955	Don't be wasting our expense money on stupid things.
+M	3967	You're only allowed to use that for expenses related to your investigation, you know.
+M	3987	(sniff)
+M	3995	So the "house" he referred to was his own house, eh?
+M	39b6	"House?" For a Junker, this Headquarters is just like home.
+M	39d8	So what was Gibson trying to tell us?
+M	39f4	So that was the key to Gibson's desk, huh?
+M	3a09	What's that junk?
+M	3a1b	We don't use those around here. At least not standard issue, anyway.
+M	3a45	A chess piece, eh? I've never played the game.
+M	3a69	That's right! Harry may know something.
+M	3a83	That's the disk with the information about SNATCHER'S weak point, right?
+M	3aa0	Gibson may have stored something about his investigation on this.
+M	3adc	If you can read that disk, it might provide you with some valuable information.
+M	3afa	If Gibson's theory was right, they may be using that sunscreen.
+M	3b30	Sunscreen? In the middle of the winter? Maybe it has something to do with the case.
+M	3b5b	Seed! Stop playing with things like that and get on with your investigation.
+M	3b81	A photo of Gibson, huh? Why don't you use this and start asking questions. You need to find out what he was up to.
+M	3bb1	That's the montage picture you built with Isabella's testimony.
+M	3bd6	Well, if Ivan's not our man, then you need to check out the other suspect.
+M	3bfa	All right. Let's check out Gibson's room.
+M	3c12	And don't forget to ask questions at the places he hung out. That buffalo meat he ate may offer some clue.
+M	3c5a	Check out places that serve buffalo. You may find a witness.
+M	3c84	Don't forget to use Jordan's "ID File" and other data. You can learn a lot from there.
+M	3cba	If you run into any other problems with the investigation, come see me. I'm not here just for the fun of it, you know.
+M	3ce4	About that montage...
+M	3cf6	The odds are that one of those two is a SNATCHER.
+M	3d1a	You have to check those two out.
+M	3d30	But watch yourself while you're out there, okay?
+M	3d4c	And you ought to take a breather every now and then.
+M	3d6f	You'll need your rest to carry out a thorough investigation.
+M	3d81	These investigation can be tough. Don't let yourself get tired and weak now, Seed.
+M	3da4	That's right, why don't you call your wife on the videophone every now and then. It'll be a good way to relax.
+M	3dd2	Give your wife a call every now and then. Runners tend to suffer from too much stress. It'll relax you.
+M	3e01	About this Outer Heaven...
+M	3e15	Gibson is known to have visited there frequently. You should ask around, see if anybody there knows anything.
+M	3e41	You should be able to learn something about the guy that Gibson was trying to track down.
+M	3e66	You've got to find out where this Outer Heaven is.
+M	3e7e	Why don't you ask that informant where it is. Maybe he knows.
+M	3ea2	You need to find out where they serve buffalo around here.
+M	3eba	Even though he had an ulcer going, he was eating buffalo.
+M	3ee4	Buffalo isn't exactly something you eat everyday. It could provide you with a big lead in your investigation.
+M	3f19	Why don't you check out Gibson's personal items a little more.
+M	3f3b	This is the reception area.
+M	3f45	Welcome back, Gillian.
+M	3f55	How was your day, Gillian?
+M	3f66	Are you making any progress on your investigation?
+M	3f7b	How's your investigation going? Learn anything new?
+M	3f96	Hi Gillian! How's the investigation going?
+M	3fac	I'm all right now, Gillian. You can't stay depressed over these things forever.
+M	3fd0	Gillian, I heard you were hurt! Are you all right? Is it getting better?
+M	3ffa	Yeah. Those nanomachines are really doing the trick.
+M	401b	Oh, I'm so glad to hear that.
+M	4030	Physically I'm fine, but my heart is still in great pain...
+M	4054	...I know what you mean, Gillian.
+M	4064	I'm sorry Gillian. Would you mind leaving me alone?
+M	407e	...Mika.
+M	4087	We should give her some time to herself, Gillian.
+M	409e	I'm sorry, but I think I need a little more time alone.
+M	40ba	Mika...
+M	40c2	We should give her some time to calm down, Gillian.
+M	40e4	I suggest that we use this time to examine Jean's personal belongings.
+M	4104	She appears to have been crying vigorously.
+M	4117	Please! I don't want you to see me like this.
+M	412e	Gillian, it is rude to stare at a woman who has been crying.
+M	4148	Gillian, I think you are upsetting Mika.
+M	415d	Mika...
+M	4166	I'm really sorry.... about Gibson, you know...
+M	4178	I really don't know what to say...
+M	418b	Please Gillian, leave me alone for now, will you?
+M	41a7	Gillian, please just let me be for now, okay?
+M	41bf	Please, Gillian, not now. I still don't know what's going on, I just...
+M	41db	Gillian! Leave me alone!
+M	41f0	Please understand! Just leave me alone for now.
+M	4200	She's really pretty! Is that your wife?
+M	4219	What? You were watching me, eh?
+M	422b	I could hardly help it. You called from right in front of my desk.
+M	4240	Are you jealous?
+M	424f	Oh my! You really have an over-confidence problem, don't you.
+M	4262	Mika, looking at you makes me feel so peaceful and relaxed.
+M	427a	Mika, you look as beautiful as ever today.
+M	428b	What? What's the matter Gillian?
+M	4298	Is something wrong? You're acting odd, Gillian.
+M	42ad	You like me don't you! Go ahead! Confess!
+M	42c9	Hmmm. He was out of the office almost constantly.
+M	42e8	He kept mumbling something about "I've got those SNATCHERS now" or something like that.
+M	4301	I don't know anything else. He never told me what he was doing.
+M	432f	You found something useful in Jean's desk, right?
+M	434f	Maybe you should take a look in Jean's desk.
+M	436a	Gillian! You creep!
+M	438f	Hmmm? What's that?
+M	439b	The Chief's angry too. I can't believe you... at a time like this...
+M	43bb	Don't do that again, okay Gillian?
+M	43cb	I feel so sorry for his daughter. She's all alone now...
+M	43ee	Gillian, please help her out as much as you can, okay?
+M	4406	Buffalo? I've never even heard of any places that serve that.
+M	4434	Oh, that's right.
+M	443f	That informant that Jean was using might know something.
+M	4465	Who? Napoleon?
+M	446f	That Napoleon guy... that informant might know something.
+M	4496	Yeah, you're right. He may know.
+M	44a6	Napoleon might know something.
+M	44c1	He's known him ever since he was a science cop.
+M	4505	Well, I've heard about him, but I've never met him.
+M	4524	Why don't you arrange to meet him? He may know something.
+M	4536	Why don't you track him down? After all, it is about Jean.
+M	4550	He must have left some kind of clue. A videophone number or something?
+M	457c	Alice? Is that your wife's name?
+M	4591	Sorry, I've never heard that name before.
+M	45a3	I've heard of that -- it's that "anything store," right? The one based under the elevated bridge?
+M	45de	I've never been there. I here it's really dangerous.
+M	4601	It was pretty amazing.
+M	4611	You've been there?
+M	461b	Yeah. You'd never think you were in Japan.
+M	4633	I read that magazine "CityLife Today" every month, but I've never seen anything about it.
+M	4665	Is it famous or something? I've never heard of it.
+M	4681	Mika, I promise you... I'll finish what Gibson started.
+M	46a1	You're really a sweet guy, aren't you Gillian.
+M	46b7	Thanks, Gillian. But don't push yourself too hard.
+M	46d1	Don't worry. I'm going to destroy the SNATCHERS!
+M	46f0	Yes. I believe you, Gillian.
+M	4701	(sniff, sniff) That is a really great scent.
+M	4719	If you keep this up, she will probably dislike you immensely.
+M	4735	I may be leaning in that direction already...
+M	4747	So, how about a date tonight?
+M	4758	I don't think we know each other well enough yet.
+M	4777	Oh come on. That doesn't matter.
+M	478c	Gillian, you may not know this, but there's a certain order in which things are supposed to happen...
+M	47a5	You've really got a short temper, haven't you.
+M	47b8	Listen, Gillian. You want me to go out with you, right?
+M	47c8	Well, yeah...
+M	47d2	I really go for men who work hard, you know what I mean? How about I think about it after you've finished this investigation.
+M	4801	Ooh! You got me there.
+M	4810	I like to keep my private life out of the office.
+M	482c	I can't believe you keep this up, even after the Chief yelled at you the other day.
+M	4842	She is right, you know, Gillian.
+M	4850	So? What's that mean?
+M	485c	What are you trying to say?
+M	4868	I'm a very high-class woman, you know. If you want to spend time with me you better have a fat wallet.
+M	488e	Will this be enough?
+M	4898	Would you stop these jokes!! I'm going to get really mad!
+M	48ad	That was Jean's message, right?
+M	48c5	What's this? Are you going to buy a house?
+M	48d9	Pretty mysterious, isn't it?
+M	48ed	I found this key at the factory ruins.
+M	48fe	Oh yes. That was Jean's, wasn't it?
+M	490e	A key? That must have been Jean's. He was always into antiques.
+M	4939	What's this? A present for me?
+M	494f	All these chess pieces you keep showing me are starting to confuse me.
+M	4969	...very interesting.
+M	4975	Gibson stored the notes to his investigation on this.
+M	4994	That's the one with the information on the SNATCHER'S weak point, right?
+M	49b3	What is that? Some computer game disk?
+M	49c2	I can't believe those SNATCHERS actually use sunscreen, can you?
+M	49de	Sunscreen this time of year? What would you use it for?
+M	49fd	Aaaaah! What are you doing? Stop it! I hate men who pull that kind of thing.
+M	4a24	...So you're interested in that kind of thing, huh?
+M	4a3e	That's a picture of Jean.
+M	4a4d	I'm sorry. I have no idea...
+M	4a5f	I smell synthehol! Have you been drinking, Gillian?
+M	4a7d	Whoops! (Gotta be careful! She's gotta good nose!)
+M	4a9c	How disgusting! Drinking at this time of day...
+M	4ab5	The full name of the Junker Agency is written on it.
+M	4acf	You've memorized the full name by now, haven't you Gillian?
+M	4aeb	It's a pod-type reception unit. It's designed to withstand a SNATCHER attack.
+M	4b17	And it keeps me away from Mika, too.
+M	4b2b	Did you say something, Gillian?
+M	4b3c	No, nothing special...
+M	4b4d	It's a security camera. The interior of headquarters is monitored 24-hours a day.
+M	4b79	Boy, they really get into peeping around here...
+M	4b87	Just what do you think you're doing, investigating her?
+M	4b9b	Oh shut up Metal. It was just a joke.
+M	4bb2	The shield is in place. It's impossible.
+M	4bc7	Judgement.
+M	4bd3	Japanese Undercover Neuro-Kinetic Elimination Ranger.
+M	4c0c	It's a shock and heat-resistant shield designed to protect against SNATCHERS.
+M	4c2e	Headquarters is fully monitored. I strongly advise against your doing anything stupid.
+M	4c52	Mika, I'm heading out to check on a few things. I've got a couple of leads.
+M	4c78	Really. Don't worry yourself over Jean, okay?
+M	4c97	Thanks, Mika.
+M	4ca3	Gillian?
+M	4cab	Yes, Mika?
+M	4cb5	How are you and your wife doing?
+M	4cc8	I haven't talked to her in a while.
+M	4cdb	Not even on the videophone?
+M	4ce6	I guess so...
+M	4cf0	You shouldn't leave her alone like that.
+M	4d08	That's right... (come to think of it, I have her number written down at home).
+M	4d36	I bet she's pretty lonely.
+M	4d46	I'm sure you're right. Thanks.
+M	4d58	Be careful, Gillian.
+M	4d67	Be careful, Gillian.
+M	4d76	See you later, Gillian.
+M	4d87	This is engineering.
+M	4d96	Oh! Gillian! I hear you're doing a pretty good job!
+M	4db3	Hey Gillian! How's it going these days?
+M	4dc9	I put the bottle away. I'll just pretend you're Jean and do the best I can.
+M	4ded	I hear you got hit by those Insectors' needle guns.
+M	4e0f	Metal took care of the treatment for me.
+M	4e24	I've injected several nanomachines to help heal the wounds.
+M	4e3d	Really? Well they ought to take care of it. And you're still young -- you'll get over it quick!
+M	4e5f	This is engineering.
+M	4e6e	Zzzz... zzzz.....
+M	4e81	This is engineering.
+M	4e90	So was that you wife?
+M	4ea1	...yes.
+M	4eac	Got yourself a real pretty one, don't you!
+M	4eba	Yeah, I guess so.
+M	4ec7	It almost seems as if I've met her somewhere...
+M	4ee2	Is that the line you use on all the pretty women?
+M	4eff	Don't be stupid!
+M	4f09	(I'm sure I've met him somewhere... I just can't remember...)
+M	4f2e	(Have I met this guy somewhere?)
+M	4f43	What's the problem? I leave my antennas sticking up?
+M	4f5c	It kinda bugs me when you stare like that, you know.
+M	4f72	Would you mind not staring at me like that?
+M	4f84	He appears to have fallen asleep with the brandy bottle in his hand.
+M	4fa5	He seems to be resting peacefully. Perhaps we should leave him this way.
+M	4fc6	He has been drinking heavily. I register large concentrations of synthehol in the air here.
+M	4fe9	He has been drinking quite heavily. He still has the brandy bottle in his hand.
+M	5014	Who is this? Some late 20th century pop star?
+M	5029	It's a photograph of a small boy -- Harry as a child.
+M	5048	There is a bottle of brandy on the desk. It is the one that Harry was drinking.
+M	5070	It's the bottle that has Napoleon's videophone number on it.
+M	508f	It's a 20th century brandy. It's "Napoleon".
+M	50b2	Hey! Watch it! Just who do you think you're investigating?
+M	50cd	Would you stop that! Hey! That tickles!
+M	50df	You must really be getting desperate with your investigation.
+M	50fd	Jean's death must have been a great shock. Normally he doesn't drink that much.
+M	5136	Hey! Don't touch me!
+M	5144	Stop that, you wet-behind-the-ears know-nothing...
+M	5159	I am reading significant synthehol on his breath...
+M	5168	He seems to have been drinking heavily...
+M	5176	Judging from the chemical structure of the inks used in the printing process, I would estimate this poster dates from at least one-half century ago.
+M	51a0	It must be really special to him. He's repaired it in several spots.
+M	51c4	This appears to have been cut out of a larger photo.
+M	51e4	You can't see his parents faces.
+M	51f4	Napoleon's videophone number is written on the label.
+M	5217	It's 39-5644.
+M	5228	This is odd. I thought that Harry only drank Japanese sake.
+M	524d	What's this...brandy, huh?
+M	525a	What's this?
+M	5261	There are numbers written on the label.
+M	5276	It says "39-5644". It does not appear to be a date of any kind.
+M	529a	Really. So it looks like Jean was on the verge of a really big breakthrough.
+M	52ba	Just a little farther...he was almost there. The poor guy...
+M	52da	He was a little hard-headed like me, but he was a good guy. We were the same age, you know.
+M	5313	So that means you're still pretty young.
+M	532f	Yeah. When I was young, I was given some brain activity stimulants.
+M	5354	One of their side effects is that it speeds the aging process. So I look a little older than I really am.
+M	5376	Hmmm. That's right.
+M	5385	He was saying things like "We may be able to completely wipe them out soon".
+M	53b7	He also said "Take care of Katrina if anything happens to me".
+M	53df	He always worked rather secretively. Why don't you check his desk.
+M	540e	...Take a good look. There's bound to be something there.
+M	5433	Gillian! You listen up! You do anything funny to Katrina again and you'll have to answer to me!!
+M	5460	Jean asked me to take care of her and I plan on doing so! You understand me?
+M	547c	Uh.. um.. loud and clear, Harry.
+M	548c	You clear on what I said, boy? Don't you forget it!
+M	54a6	Katrina... the poor, poor girl.
+M	54c1	After Jean lost his wife, he put everything into his work.
+M	54e4	Katrina must have been really lonely... That's why she took that model job. She had to have something to help her over it.
+M	5518	She's a lot like Jean. She's got it all together. She should be okay, I hope.
+M	553e	But now her only friend is "Alice".
+M	5557	Buffalo? I don't eat any of that weird stuff.
+M	556f	An informant? What do you know? Jean was using one of those, was he?
+M	5593	Napoleon? I'll take Japanese sake over that any time.
+M	55b4	Don't you know either, Harry?
+M	55c4	Jean was the kinda guy who kept all his secrets really well.
+M	55df	Napoleon? I'm drinking it right now!
+M	55f9	Jean really liked Napoleon, too. We spend a lot of time drinking it together.
+M	5620	This is the last bottle. I found it in Jean's desk.
+M	5646	It's Jean's dog's name. It was also his wife's name...
+M	566d	"Plato's Cavern," eh? I've heard of that somewhere...
+M	5692	It's the name of the post-war black market.
+M	56a3	Oh really? I'll have to go take a look one of these days.
+M	56ba	I'm sure you'll like it, Harry.
+M	56d0	What're you saying, boy?! I'm not headed to heaven any time soon!!
+M	56ec	They're ultra-small, nano-sized robots. They treat the bodies wounds from the inside.
+M	571f	So I've got this miniature medical staff running around inside of me, eh?
+M	5741	It's perfect for someone like you who dislikes doctors.
+M	575e	Don't worry. They're specially coated, so there's no reaction with the body of the host.
+M	5781	Don't worry about 'em! I built the little critters myself.
+M	579c	If you've got nanomachines, you don't ever have to worry about colds or anything.
+M	57c2	Yes, but you see...
+M	57cd	Metal!!
+M	57d5	What's wrong? Something happen to the nanomachines?
+M	57ea	Everything's fine Harry.
+M	57fc	After all, you can't say that you flushed them down the toilet.
+M	5817	Perhaps we should move on to a different subject.
+M	5831	Forget about work, Gillian. I just can't get in the mood for that kind of thing right now.
+M	585d	Wouldya leave me alone for now? I'm having a little farewell party for Jean...
+M	5881	Gillian! Just relax. There's no time limit. Just take your investigation step by step.
+M	58b0	The time to quit is when the last of the SNATCHERS has been wiped off the planet, not before!
+M	58d7	Gillian, I'm behind you every step of the way. Don't let me down!
+M	5912	I don't work for money, boy.
+M	5924	I don't know what you've got in mind, but I'm not interested in women or money.
+M	5948	Harry's financial values seem to be somewhat lacking.
+M	5966	What are you saying? Money changes people! I don't want any part of that.
+M	5982	So this was Jean's message.
+M	5997	I don't have the slightest what that means.
+M	59ac	But that's definitely Jean's handwriting.
+M	59c1	That's the key to Jean's desk, right?
+M	59d5	People say there's a key to everybody's heart, but I don't think that's the one.
+M	5a00	Like I said, that's the key to Jean's desk, right?
+M	5a1a	That's a chess piece. Looks like a queen to me.
+M	5a38	So that was Jean's disk, wasn't it.
+M	5a4d	Take a look at this, will you.
+M	5a5a	We sure don't use any 5-inch disks here at JUNKER HQ.
+M	5a7a	Wait a minute! I'm pretty sure I heard Jean talk about having a PC68 at home.
+M	5aa6	That's right! He's definitely got one at home. I've seen it.
+M	5acd	Yeah, now that you mention it, I think there was one...
+M	5ade	It appears that we should try to read this disk with that computer.
+M	5afd	I can't believe those SNATCHERS actually use sunscreen.
+M	5b19	I woulda never thought of that.
+M	5b2d	What? Something to drink? Huh? Sunscreen? No interest in that stuff.
+M	5b57	Nobody my age worries about their skin, trust me.
+M	5b75	You're still just a kid, aren't you.
+M	5b88	Oh!... Jean!...
+M	5b96	He was really a great guy...
+M	5ba2	What? A montage, eh? You should check it out with Jordan.
+M	5bc2	Oooh. He looks like a real mean one.
+M	5bd7	Would you leave me alone. I'm not in the mood for that right now!
+M	5bf8	Would you please leave me alone?
+M	5c0b	I think I'm going to take a vacation from work for a while.
+M	5c1d	Napoleon? Maybe it has some connection with the informer that Jean was using?
+M	5c4a	It works too well to be a coincidence.
+M	5c5a	I'm sure you are right. This bottle no doubt has something to do with the informant.
+M	5c7e	Perhaps it is a videophone number, as Mika suggested.
+M	5ca3	...(hiccup!)
+M	5cad	...(sniff!)
+M	5cb7	Young kids say I'm just stuck in the past, but your memories of childhood tend to stay with you.
+M	5cee	Yes, but she was a pop star from well before you were born, right?
+M	5d12	Yeah, but there was this boom in the popularity of old stars when I was a kid.
+M	5d3a	What's wrong with it? There'll never be another star like her.
+M	5d5c	It's a photograph of a small boy.
+M	5d69	It's my only memory. A picture of me when I was a kid.
+M	5d8b	Pretty cute, eh? Even a crusty old guy like me was cute once.
+M	5db1	I'm afraid we will make little progress here. He is severely intoxicated.
+M	5dc7	He has had too much to drink, and has passed out. I'm afraid we will not be able to talk to him for a while.
+M	5de5	As a matter of fact, I don't know either.
+M	5df9	To tell you the truth, I don't have the slightest.
+M	5e13	This is the Detective's Room.
+M	5e1f	We should investigate Jean's personal items. We must learn what he was doing before he was killed.
+M	5e5a	I see. Basic detective work...
+M	5e70	Where shall we go?
+M	5e7e	It's an antique, steel desk. This is the one that Jean was using.
+M	5ea7	We probably should take a look inside, eh?
+M	5ec0	There's a keyhole on the front.
+M	5ece	It's a floppy disk for a personal computer.
+M	5ee3	It's the stomach medication that Jean was taking.
+M	5efa	It's some kind of capsule medication.
+M	5f16	This is the locker that Jean was using.
+M	5f2b	So his personal things should be in there, right?
+M	5f50	It's Jean's Junker coat. This was probably a spare.
+M	5f7b	It's just like the coat I got, but a little bigger. It's really worn out, though.
+M	5faf	It's a chess piece.
+M	5fbc	It's an old-style working desk. It has drawers installed.
+M	5fdb	There is only one drawer.
+M	5fec	We already investigated the drawer.
+M	5fff	It's locked. We should open it with Jean's key that we found.
+M	6022	I'm afraid it's locked. I cannot open it.
+M	603b	It's a 5-inch floppy disk.
+M	6050	A 5-inch disk? Nobody uses those things anymore.
+M	607c	We've already analyzed that.
+M	608f	All right, let's investigate the locker.
+M	60a2	There is a coat hanging inside the locker.
+M	60bd	Now investigating the locker.
+M	60cc	There is nothing in the locker besides the coat.
+M	60e1	There is nothing else in the coat.
+M	60fc	Check the pockets of the coat for me, will you?
+M	6112	All right...
+M	611e	A chess piece was in the coat.
+M	6139	It's a chess piece made of wood.
+M	6146	The drawer is already open...
+M	615c	All right, I will try the key...
+M	616d	There are some kind of capsules in the drawer.
+M	6182	There is something in the drawer.
+M	619a	.....capsules....
+M	61ad	.....and a disk.
+M	61c1	There are capsules and a disk in the drawer.
+M	61e4	A key? Nobody uses keys anymore!
+M	61f4	As I recall, Jean had a key.
+M	620f	This could mean something, Metal. Let's hang on to it as evidence.
+M	623c	All right, I will store this chess piece as evidence.
+M	6257	I'm sure it must mean something.
+M	626f	This disk must have something to do with Jean's investigation.
+M	628a	All right, I will store this disk as evidence.
+M	62a6	These capsules may have something to do with all this. Let's keep them.
+M	62cd	That will not be necessary. I have recorded the results of the analysis of their chemical composition.
+M	62f4	I will close the drawer to the desk.
+M	6313	...better shut the locker.
+M	6327	We're at the shooting range.
+M	6333	You never know when you may have another shoot-out with SNATCHERS. You should make practicing here part of your daily routine.
+M	637b	Hey, I'm already a pretty good shot...
+M	638d	With that attitude, there will be another "game over" before you know it.
+M	63ad	(gulp!)
+M	63b9	With an attitude like that, you are bound to get hurt again.
+M	63d4	(Doesn't this machine ever shut up?)
+M	63e5	That fight the other day was with Insectors. Their abilities do not even begin to compare with that of SNATCHERS.
+M	6420	Where shall we go?
+M	642e	The Junkers Eye is available for use. Would you like to practice?
+M	644e	All the booths are open.
+M	6463	The Junkers Eye marksmanship training system is installed.
+M	6481	Soundproofing panels are installed on the walls.
+M	6499	We are the only ones in the shooting range.
+M	64b2	The power is always turned on so you can practice at any time.
+M	64d4	The targets will appear automatically. All you need to do is aim and fire.
+M	6514	Only shoot the SNATCHERS.
+M	652b	What about the skill level?
+M	6537	It adjusts automatically. When your score improves, it will move up to the next level.
+M	6573	Interference from the practice equipment prevents use of the videophone in this room.
+M	65a4	If you save in this room, you are likely to get interference from the practice equipment.
+M	65c9	You probably shouldn't save in this room.
+M	65e5	By the way, this is your first practice, isn't it?
+M	6602	I know how to use my blaster.
+M	6618	Practice itself is quite simple. Just shoot the targets that appear.
+M	6640	However, only shoot the SNATCHERS.
+M	665a	Try to avoid shooting the civilians.
+M	6677	The purpose of this practice is not just to improve your marksmanship...
+M	6698	...but to hone your judgment as well.
+M	66aa	The red gauge on the left shows the number of enemies which have appeared. The yellow gauge on the right indicates the number of hits.
+M	66e5	The machine is set for introductory level.
+M	6704	All right, let's begin practice with the Junker's Eye system.
+M	671d	This is the Computer Room.
+M	672d	If there is any information you wish to study, you can look it up using the "Jordan" system.
+M	6752	Where shall we go?
+M	6760	Input is via the archaic but effective keyboard and cursor systems.
+M	678a	How come it's not voice recognition?
+M	679f	It's to prevent unauthorized use. The keyboard measures and records your pulse, fingerprints, body temperature and other data while you are using it.
+M	67d7	The equipment in this room represents just a fraction of the total Jordan system, however.
+M	6800	Jordan is operating normally.
+M	6818	There is no one else in this room besides us.
+M	6836	This host computer system, a model RM-1013 artificial intelligence-based processor, is called Jordan, for short. Jordan stands for Junker On-line Regional Data Access Network.
+M	686f	Jordan is linked to the neural computer system, known as Alpha-One, which manages almost everything here in Neo Kobe.
+M	68a1	As such, you can get information on almost anything at all related to Neo Kobe.
+M	68b9	In particular, I believe you will find Jordan's "ID File" database of information on people, and its library of information on historical facts quite useful.
+M	68e6	You have already been registered in the system as a Junker user, Gillian. You can sign on anytime you want to.
+M	6916	You are already a registered user, Gillian. You can get access at any time.
+M	693c	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	696c	That's the expense money that the agency gave you.
+M	6984	That's the memo in which Gibson told you the whereabouts of the computer data explaining about the SNATCHER'S weak point.
+M	69b4	I wonder what "Search the house!" means?
+M	69d1	That's the key to Gibson's desk.
+M	69e9	It's an exceptionally old antique.
+M	69ff	That's the chess piece that Gibson had.
+M	6a18	It's the chess piece that we found in Gibson's coat.
+M	6a35	That's the floppy which contains data on the SNATCHER'S weak point.
+M	6a52	That's a floppy disk for a personal computer.
+M	6a67	That's the sunscreen that the SNATCHERS are using...if Gibson's theory is right.
+M	6a9b	And we've found out what we needed at Plato's Cavern.
+M	6ab5	It's ordinary sunscreen. There's a sticker with the logo of the store where it was purchased on it.
+M	6ae4	That's the mask that you bought at Plato's Cavern.
+M	6b06	That's an Easter Island statue mask.
+M	6b13	That's a Mummy mask.
+M	6b20	That's a picture of Jean Jack Gibson.
+M	6b39	That's the montage that we built using witnesses' testimony.
+M	6b5a	It has an IC chip built-in which contains all of your personal data.
+M	6b85	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	6ba8	That's the memo that Jean left.
+M	6bb9	It's written on ordinary paper. It's definitely in Jean's handwriting.
+M	6bdf	That's the key to Gibson's desk in the Detective's Room.
+M	6bf7	What could this key be? I don't believe there are still any places which use keys like that.
+M	6c2a	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	6c51	That's a wooden chess piece.
+M	6c6a	That's the disk with Gibson's notes in it.
+M	6c87	That's a 5-inch floppy disk.
+M	6c9c	On the bottle it says "The store with everything: Plato's Cavern".
+M	6cc7	It definitely looks like it was being sold at Plato's Cavern.
+M	6ce4	We might learn something if we check out the place this was bought.
+M	6d08	It's a special, high-detail mask, constructed by the popular Rick Bakery.
+M	6d2f	That's a picture of Jean Jack Gibson.
+M	6d48	That's a composite, 2-D photograph assembled from Jordan's 3-D data.
+M	6d64	It fits the key to Jean's drawer perfectly.
+M	6d82	Let's try the key.
+M	6d93	It was taken from the chess set at Jean's home. What could it mean?
+M	6dc3	Jean really liked puzzles.
+M	6ddc	This must have some secret meaning.
+M	6df0	Jeez, this really looks like Ivan.
+M	6e06	You have to be impressed by Alpha-One's search capabilities.
+M	6e27	The house? Come to think of it, I don't have a house to come home to.
+M	6e48	Do not get so depressed, Gillian. You'll be able to live with Jamie again sometime.
+M	6e73	A home and family, eh? Those may not go along too well with being a Junker.
+M	6e94	There's still a lot left, right?
+M	6ea3	There is considerably less given how you spend it so carelessly, though.
+M	6ec2	Don't bad-mouth me like that. It was necessary for the investigation, right?
+M	6ee5	Actually... (since it was cash, they'll never know how much I spent if I keep quiet!)
+M	6f17	Did you say something?
+M	6f24	No, no. Nothing.
+M	6f31	There is no one to show it to.
+M	6f41	All right, I'll save everything that has happened up until now.
+M	6f58	Which file number would you like to save it in?
+M	6f67	This file contains data from a previous save.
+M	6f89	Is it okay for me to overwrite it with the new data?
+M	6fa4	In that case, I won't write the new data there.
+M	6fc2	This file contains data from a previous save.
+M	6fe4	Is it okay for me to overwrite it with the new data?
+M	6fff	In that case, I won't write the new data there.
+M	701d	This file contains data from a previous save.
+M	703f	Is it okay for me to overwrite it with the new data?
+M	705a	In that case, I won't write the new data there.
+M	7078	This file contains data from a previous save.
+M	709a	Is it okay for me to overwrite it with the new data?
+M	70b5	In that case, I won't write the new data there.

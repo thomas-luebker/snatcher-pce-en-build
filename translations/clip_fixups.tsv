@@ -1,0 +1,127 @@
+# Clips the pairing left Japanese because the English runs longer than the slot, even though the line
+# is plainly the same one: a lone Japanese voice in the middle of an English scene, which is what you
+# hear. tools/voices.py speeds these up to fit rather than cutting them off.
+#
+# table  idx  Sega CD clip   the line
+86	62	112	Uh, thank you.
+90	91	241	How about having your fortune told?
+90	219	344	So, you figured it out, huh?
+94	147	482	I see. And you avoided the sensors as well.
+98	142	645	It's the Chief!
+98	150	653	Gillian, I'd say that this Harry has put himself in danger.
+98	227	730	Don't worry, I'll watch myself in there.
+102	56	799	Well, uh, you see...
+102	153	895	Alright. One... Two... Three!
+102	210	960	Jamie, I'm afraid that Harry's...
+106	167	1135	You insignificant mass of metal!
+106	180	1148	Stop this foolish...
+106	204	1172	You stupid machine! What is that idiotic noise?
+90	86	215	Let me give you my address and video phone number.
+90	87	216	Thanks again, Mr. Seed. Take care.
+98	34	503	Here it is.
+94	101	765	About 30 minutes or so ago.
+94	221	541	Beryllium is B-E.
+94	97	761	Gillian, I'm glad I got you. I got a call from Katrina. She said
+98	51	518	That's obvious. The guy with the light.
+98	35	504	What? What is this? It looks like Chinese or something. Metal, t
+98	46	514	It looks like Jamie was right. Queen's Hospital does have a base
+98	32	501	There seems to be a scrap of paper caught between these two draw
+94	218	1194	I'm at work right now. If you need to reach me, please call Neo 
+98	31	500	Gillian, let's get going.
+98	39	508	Hmm, rare Chinese characters. Or maybe some kind of code? At any
+90	246	1189	Hi, Jamie speaking. O'Gillian, how are you?
+98	40	509	What do you suppose happened to the other records?
+98	36	505	Okay, let's see. Patient record, first examination. I'm not fami
+94	41	417	What are you talking about? Ah-pheh! Ugh. I'm quitting this job.
+94	45	423	Oh, by the way, here, a little Christmas present for you.
+94	43	421	Wait a minute, Napoleon. I'll keep any snatchers off your back.
+94	225	545	And another N makes Benson. The name Benson was encoded on this 
+94	115	398	I bet you're right, Metal. We've got to find her before they do.
+94	222	542	Nitrogen is N.
+94	110	393	We can leave the cleanup here to the junk crews. We should look 
+94	114	397	Perhaps Katrina took whatever they were looking for and fled.
+90	248	1191	The number you have reached is not in service at this time. Plea
+94	219	1196	Neo-Kobi Pharmaceutical Labs, can I help you? Huh? Oh, it's you,
+98	50	517	Okay, who's going to take the point?
+86	134	1181	Whatever you do, just come home safe, okay?
+94	90	382	Snatchers cannot tolerate dogs. It is improbable that this is th
+94	132	112	Uh, thank you.
+# The videophone's recorded voices (22 Sep, Thomas rang Plato's Cavern): kept twenty-odd clips away in
+# the Sega CD, so the in-order aligner could not reach them, same as Katrina's goodbye.
+90	249	1190	Thank you for calling Plato's Cavern the store with everything. May I help you?
+90	245	1188	Oh, is that you, Gillian? I was just getting to sleep.
+94	220	1195	Good afternoon. Neokobe Pharmaceutical Labs. May I help you? Oh, Gillian, what's up?
+#
+# 23 Sep, from hardware (Thomas: Oleen Hospital, "Metal's line was the last one in English"): the aligner had
+# drifted across table 94 -- Napoleon's Santa scene (A038-A051) was playing Oleen Hospital's takes, and the
+# Oleen scene from A091 on, the HQ emergency call and the dead dog at Katrina's had no English at all.
+# Re-paired by transcript, in story order. A hand pair replaces the aligner's and may reuse a take.
+94	38	414	Wait a minute. You're no Santa.
+94	39	415	Hmm, how'd you guess?
+94	40	416	What are you doing in that outfit?
+94	42	420	Alright, I've had it. Don't call me anymore, okay?
+94	44	422	They're after both of us. You better worry about watching your own back.
+94	45	423	Oh, by the way, here, a little Christmas present for you.
+94	46	424	What? Tissues?
+94	47	425	See ya. Merry Christmas.
+94	48	426	Well, now he's gone.
+94	49	427	No surprise there. He's got plenty of reason to be scared. Besides, I got the information.
+94	50	428	There's an advertisement on the back of that pack of tissues.
+94	51	429	This is an ad for Outer Heaven. Just how many different jobs does that guy have?
+94	91	383	Looks like we barked up the wrong tree here. So, uh, now we're back to square one, huh?
+94	92	384	Don't become too discouraged. We still have many leads. Let's head back to the turbocycle.
+94	93	385	Hmm. Olean Hospital.
+94	94	386	Unfortunately, this wasn't the place.
+94	95	387	You're right, Metal. Okay, let's go.
+94	96	760	Gillian, it's the emergency line from HQ. I'll connect you.
+94	98	762	Something to give me? What in the world?
+94	99	763	She seemed really scared, kept saying that Alice was barking.
+94	100	764	When did she call?
+94	102	766	Damn.
+94	103	767	Gillian, we should hurry.
+94	104	768	Yeah, Katrina's in trouble.
+94	105	388	Gillian, I read motion. Use extreme caution. The signal is coming from outside the window.
+94	106	389	It's Alice!
+94	107	390	The dog is dead. Body temperature suggests it was killed about ten minutes ago.
+94	108	391	No doubt the work of snatchers.
+94	109	392	Scum! No reason to kill the poor animal! Katrina! Where's Katrina?
+94	110	393	We can leave the cleanup here to the junk crews. We should look for Katrina.
+94	111	394	Judging from the mess they made here, it looks like they were looking for something.
+94	112	395	Perhaps that means that Katrina is still safe.
+94	113	396	That's true. If they had her, there'd be no need to turn the place upside down like this.
+94	114	397	Perhaps Katrina took whatever they were looking for and fled.
+94	115	398	I bet you're right, Metal. We've got to find her before they do. Let's get back to the turbocycle.
+# 23 Sep (Thomas, Act 2): Jamie's voicemail opened in Japanese. Clip 217 plays first in the voicemail
+# branch (scene 0x1EE +0803: 217, 218, 219, 220); Whisper hears only the phone tone in it, and the next
+# clip ends "sorry for startling you" -- so 217 is the recording answering as if live.
+94	217	1189	Hi, Jamie speaking. Oh, Gillian, how are you?
+94	215	1193	Bet I surprised you, huh? Don't worry, this is just a tape.
+# 23 Sep (Thomas, Act 2): the end of the shower scene at Gillian's -- Metal's "serves you right" was never
+# paired, and the shutters joke / "Oh, shut up" were shifted by one clip.
+94	133	466	I hope you learned your lesson, Gillian.
+94	135	470	That is because my optical sensors are not equipped with retractable shutters.
+94	136	471	Oh, shut up. You know exactly what I mean.
+# 23 Sep (Thomas, Act 2): Queen's Hospital -- the arrival, the office drawers and the way down were never paired.
+# By story order against SCD 495-519. The rock-paper-scissors on the stairs (98/53-64) has no English: the
+# Sega CD cut that scene, so it stays Japanese.
+98	26	495	We've arrived at Queen's Hospital.
+98	27	496	So, this is the place, huh?
+98	28	497	Random, are you sure you know what you're doing? This isn't going to be a field trip, you know.
+98	29	498	And the bounty for this one will more than make up for it.
+98	30	499	If you're around to spend it, that is.
+98	33	502	Let me see that paper.
+98	37	506	I thought you were supposed to be really good at Chinese.
+98	38	507	My strongest areas are in Chop Suey, Egg Foo Young, and Wontons.
+98	41	510	Looks like someone cleaned them out of here. Maybe they knew we were coming.
+98	42	511	Somehow I get the feeling that the snatchers know what we're up to.
+98	44	512	I'll store the fragment of the file.
+98	45	513	This apparently leads down to a lower level.
+98	47	515:0-2.9	And that basement is the snatcher's main lair.
+98	48	515:2.9-8.8	Out of the frying pan and into the fire, as they say. Well, what do we do now, Gillian?
+98	49	516	It's a very narrow stairway. We'll have to go down single file.
+98	52	519	Hey, that's not fair!
+# 24 Sep (Thomas, Act 2): the Benson riddle -- S and O were never paired (B, N and the second N were).
+94	223	543	Sulfur is S.
+94	224	544	And oxygen is O.
+# 24 Sep (Thomas, Act 3 opening): Metal hedging before Gillian snaps "Metal!"
+102	56	799	Well, uh, you see...

@@ -1,0 +1,600 @@
+W	2310	Dummy B
+W	2313	Dummy C
+W	231a	Dummy D
+W	231f	Dummy E
+W	2322	Dummy F
+W	2329	Dummy G
+W	232e	00
+W	2333	50
+W	2338	51
+W	233d	52
+W	2342	53
+W	2347	54
+W	234c	55
+W	2351	56
+W	2356	57
+W	235b	58
+W	2360	59
+W	2365	60
+W	236a	61
+W	236f	64
+W	2374	75
+W	2379	77
+W	237e	8*
+W	2383	80
+W	2388	81
+W	238d	82
+W	2392	83
+W	2397	84
+W	239c	86
+W	23a1	88
+W	23a6	89
+W	23ab	9*
+W	23b0	Area
+W	23b7	Grope
+W	23c2	3 Sizes
+W	23cb	Plato's Cavern
+W	23dc	Junker I.D.
+W	23eb	About PC68
+W	23fc	Use Metal Gear
+W	240b	Montage Photo
+W	241c	Calm Alice
+W	242b	About Alice
+W	2436	Alice
+W	243d	Outer Heaven
+W	244e	Key
+W	2453	About Katrina
+W	2462	Katrina
+W	246d	About Gibson
+W	247a	Gibson's Photo
+W	2489	Gibson's Age
+W	2498	Don't Save
+W	24a5	Save
+W	24b0	Save 1
+W	24b9	Save 2
+W	24c2	Save 3
+W	24cb	Save 4
+W	24d4	Chess
+W	24dd	Disk
+W	24e6	About Napoleon
+W	24f5	Knock
+W	2500	Computer
+W	2509	Videophone
+W	2516	Mask
+W	251d	Dark
+W	2522	Soothe
+W	2529	Take Advantage
+W	2538	Move
+W	253d	Push Down
+W	2546	Do It
+W	254f	Furniture
+W	2554	Desk
+W	2557	Exit
+W	2560	Room
+W	2565	Piece
+W	2568	House
+W	256d	Show
+W	2574	Look
+W	2579	Flirt
+W	2580	About Buffalo
+W	258f	Paper
+W	2596	Cash
+W	259d	Possessions
+W	25a2	Inside
+W	25a7	Answer
+W	25b4	Photo
+W	25b9	Get In
+W	25c2	Use
+W	25c7	Return
+W	25d2	Study
+W	25d7	Proof
+W	25de	Touch
+W	25e3	Window
+W	25e6	Bush
+W	25ed	Check
+W	25f4	Prove It
+W	25fd	Sunscreen
+W	2608	Ask
+W	260d	Bottle
+W	2610	Yard
+W	2615	Wipe
+W	261c	Talk
+M	2621	...This is Gibson's house.
+M	2633	I wonder if Katrina is still angry?
+M	264c	She got upset and threw us out, Gillian. What shall we do?
+M	266a	We've been thrown out again. Please get a grip, Gillian!
+M	268c	We're at the Gibson residence.
+M	269e	This is Gibson's house.
+M	26ac	Maybe we should try again later...
+M	26b6	Why don't we come back later...
+M	26c4	You again? What do you want? Go away!
+M	26da	You again? What do you want? Go away!
+M	26f0	Get away from here and stop coming back!
+M	2700	No way! You said that the last time before you started getting fresh.
+M	2721	I don't believe you, you liar!
+M	2732	Get out of here! I hate you!
+M	2743	You promise you'll be good?
+M	2756	I promise. No more of that.
+M	276a	Okay, if you promise. All right. Come in.
+M	2781	You won't try any more of those sly come-ons, right?
+M	278f	No. I promise.
+M	27a0	Okay, you can come in.
+M	27b6	Katrina! It's me, Gillian! Open up!
+M	27d3	Oh, Gillian? Come on in.
+M	27e5	Well, hello Gillian. Please come in.
+M	27f8	It's you, eh? If you're a real Junker, then answer a few questions for me.
+M	2824	Before that, why don't you show me your Junker ID?
+M	2843	It's you, huh? If you're a real Junker, then you'll have to show me some proof or I won't let you in.
+M	2876	People can say anything they want! I need to see some kind of identification!
+M	28a3	Who is it?
+M	28b2	Who is it? Who's there?
+M	28c0	...give me your name.
+M	28d0	Stop messing around! What do you want?
+M	28e6	I can't stand this! Who are you?
+M	28f5	It is a rather nice looking, early-American type home.
+M	2911	This is the home that Jean was so proud of.
+M	2920	There is light coming from the windows.
+M	2932	It does not appear to be auto-tint glass. The interior is clearly visible.
+M	2954	This is the northern part of the suburbs. There is quite a contrast between this and the southern district.
+M	2972	The lots are zoned rather large out here. The next-door neighbors are a good distance away.
+M	2998	The door on the front is the main entrance. There does not appear to be a door bell.
+M	29bb	How about if we try knocking?
+M	29c8	It's built as a replica of a classic wood-constructed house.
+M	29d9	The windows are securely sealed. The glass appears to be of a reinforced type.
+M	2a02	I read motion. Someone is inside.
+M	2a19	Of course you do. Katrina is home.
+M	2a33	It is a quiet, high-class neighborhood. There does not seem to be anyone around.
+M	2a53	The roads and sidewalks are well maintained.
+M	2a6f	You're Katrina, right? I'm a Junker.
+M	2a87	I just started down at Junker Headquarters. My name's Gillian Seed.
+M	2aae	I'm pretty sure the Chief would have let her know...
+M	2ac8	Really? Are you really a Junker? If you are, then show me some proof!
+M	2af5	Proof...?
+M	2aff	Your Junker ID, of course.
+M	2b13	I won't believe you unless I can see some proof that you're who you say you are.
+M	2b33	I won't believe you unless I can see some proof that you're who you say you are.
+M	2b56	No way! You pervert!!
+M	2b65	Seems you've taken the joke too far.
+M	2b76	I won't believe you unless I can see some proof that you're who you say you are.
+M	2b96	Katrina is under a lot of stress right now. She does not seem to want to believe anyone.
+M	2bc4	You're the only Junker left, right?
+M	2bde	Well, it looks genuine to me.
+M	2bf5	I can't trust you with just that. Tell me how old my father is! If you're a real Junker, you'd know that!
+M	2c2f	...I see. You really do seem genuine.
+M	2c43	That's not enough! Answer the question!
+M	2c5b	Kyaaah!
+M	2c63	What are you doing showing her that?! Honestly...
+M	2c78	Sorry, sorry. I just got a little carried away...
+M	2c92	Kyaaah! You pervert!!
+M	2ca0	Please stop!! You're only going to lose her trust!
+M	2cbb	Katrina! Are you in there?
+M	2cc9	Katrina! Would you please let us in!
+M	2cde	Come on, Katrina! Open the door, will you?
+M	2cf0	I won't believe you unless I can see some proof...
+M	2d10	If you're a Junker, let's see some proof!
+M	2d2f	...How old is my father?
+M	2d41	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
+M	2d7a	Uh, 55 years old!
+M	2d87	I'll say it again! 55 years old!
+M	2d9c	That's right.
+M	2da3	That's still not enough to trust you! Now I'm going to ask you something about myself.
+M	2dd7	What is it with all these questions?
+M	2deb	She knows that, as a Junker, you should have access to Alpha-One.
+M	2e18	You saw her data on Jordan, didn't you?
+M	2e2f	So that means that there should be information on her in Jordan, right?
+M	2e51	She's a very smart girl.
+M	2e65	First... it's my bust size, right?
+M	2e78	Once again... starting with the bust size?
+M	2e8e	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
+M	2ec7	You don't need a leading zero, you know.
+M	2ed6	That's three digits! Get rid of the leading zero.
+M	2eee	There's no way it's a single digit!!
+M	2eff	Hmph, I'm good at this kind of thing. Straight up... 81!!
+M	2f1d	Um... 81, that's it!!
+M	2f2d	...Correct. Now... what about my waist size?
+M	2f48	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
+M	2f81	...58!!
+M	2f8d	This one, of course... ...58!!
+M	2fa2	...That's right too. ...One more to go. What about my hips?
+M	2fc3	Choose the numbers with the direction pad. When you give your answer, press the RUN button.
+M	2ffc	I know this one for sure! ...83!!
+M	3018	All correct! I guess you really are the real thing. Wait, I'll open the door.
+M	3045	What?! ...How rude!
+M	3059	Three digits?! You're joking, right?
+M	3070	You haven't input anything.
+M	3085	Gillian... you have to input something!
+M	30a1	Please input something, Gillian!?
+M	30ba	How's this! This has got to be it!
+M	30ce	This should be about right...
+M	30dd	It should be something like this...
+M	30f1	You just made a wild guess, didn't you?
+M	30ff	You don't have any idea, do you?
+M	310f	Sorry. Wrong answer.
+M	3122	If you are a real Junker, try again.
+M	313a	But you were close.
+M	3149	Wrong, but you're on the right track.
+M	315f	So you were just guessing about dad's age too, huh!
+M	3175	That's totally wrong! I knew it! You're no Junker, are you?
+M	3194	So, Gillian, you like big breasts, huh?
+M	31ac	Yeah... I suppose you could say that.
+M	31c3	Then what about Jamie...?
+M	31d5	Sh-shut up!
+M	31df	Am I really that fat?
+M	31ee	It's not that big!
+M	31fe	That can't be right!
+M	320b	It's not that small!
+M	321b	You saw Katrina's 3 sizes on Jordan, didn't you?
+M	3239	Come on, try to remember.
+M	324a	If you check Jordan's data, you should be able to find out Katrina's 3 sizes.
+M	3272	What? It even has information on stuff like that?
+M	3282	How about data on other women, then? Does it have that, too?
+M	3299	Oh boy...there he goes again.
+M	32ac	We should go back to check the data on Jordan.
+M	32c6	If we check the data files, we should be able to learn the answers.
+M	32e0	You saw Gibson's age in his file on Jordan, right?
+M	32fa	Try to remember it.
+M	330b	If we check Jordan, we will be able to find out how old Gibson is.
+M	3330	Don't you know, Metal?
+M	3340	I'm afraid that those are about the only files that are not stored in my memory. Sorry.
+M	3367	We should go back to check the data on Jordan.
+M	3381	If we check Jordan, we should be able to find the answer.
+M	339a	Fine, but don't show me anything like that again...
+M	33ba	That's right, Gillian.
+M	33c8	This is Gibson's living room.
+M	33d7	So you came back to apologize, did you?
+M	33ed	Is there something you still need here, Gillian?
+M	33fe	Well, I'm a little hesitant to welcome you, but come in.
+M	3416	Oh, Gillian. What do you need today?
+M	342a	Oh, Gillian. Did you forget something?
+M	343b	Is something the matter, Gillian? Anyway, I'm glad to see you.
+M	3456	Come on in. It's good to see you again.
+M	346b	Please come in Gillian. I'm so glad to see you.
+M	3487	Oh... do you have to leave already? Will you please come back again sometime? I'll be waiting for you.
+M	34b4	Do you mind if I take a look in your study?
+M	34d0	Go ahead...
+M	34d9	I'd like to take another look in your study.
+M	34f6	Feel free...
+M	34fe	There are antiques everywhere.
+M	3512	It seems that Jean had quite a taste for old furniture.
+M	3529	All of these are quite impressive pieces.
+M	353b	Our house is full of this stuff. Dad kept buying things long after we were out of places to put them.
+M	356d	He has paid a lot of attention to the decor and layout of the place.
+M	358d	Pretty stupid since there were only the two of us here, huh?
+M	35a5	None of these items are replicas. They're all genuine antiques.
+M	35bb	None of this stuff is really valuable. He said it was all used.
+M	35da	This is Gibson's study.
+M	35e9	Don't worry. It was just a raven.
+M	35fc	Oh really...
+M	3605	This is my dad's study. I haven't touched a thing. It's just the way he left it before he died.
+M	363a	May I take a look at the garden?
+M	364f	It's really small. There's nothing in it.
+M	3662	Watch out for Alice, okay?
+M	3672	Alice?
+M	3679	She's my dog.
+M	368c	Oh, okay.
+M	3694	Everything's neat and tidy...just like Jean. Wait! There's a personal computer here.
+M	36b4	There is a bottle, a photograph and a chess board on the shelf.
+M	36d8	You can see the garden from here.
+M	36ea	A garden? Wow, his own house with a garden and everything...
+M	3702	Yeah, but it faces north and it's really quite small...
+M	372a	This is the model PC68 Genesis. These have not been manufactured for nearly 50 years.
+M	375b	My father was always using it. Some junk shop gave it to him, and he fixed it up.
+M	3782	It's still full. It appears to be new.
+M	37a0	It's a photograph of Jean Jack Gibson.
+M	37bb	It's a chess set. The pieces are very neatly arranged.
+M	37d6	My dad really liked chess, but he always seemed disappointed because I couldn't play.
+M	3809	It's a wooden window with an aluminum sash.
+M	3821	It has a double locking mechanism.
+M	3836	My dad was always really careful.
+M	3848	It has a 5-inch disk drive installed.
+M	3861	5-inch, huh? Well then that disk must be for this machine.
+M	3884	Let's try to see if we can read it.
+M	389f	Now analyzing...
+M	38ae	It is a sunscreen. It's the standard type, designed to block ultraviolet rays.
+M	38e3	There is a sticker on the bottle. This is probably from the place where it was bought.
+M	390e	Hmmm. It says "The store with everything -- Plato's Cavern".
+M	3934	Plato's Cavern, eh? Now we know the connection.
+M	3953	It's sunscreen, designed to block ultraviolet rays.
+M	396f	This picture seems to be a few years old. Jean looks rather young.
+M	3998	The black queen is missing.
+M	39ad	I see. The queen is missing, eh?
+M	39c1	The design of this set matches that of the piece we found in Jean's coat.
+M	39e7	That piece I've got definitely goes to this set.
+M	3a06	All right, let's turn this PC68 on and see if we can read the disk.
+M	3a2b	All right, let's try reading the disk again.
+M	3a49	So the house in that "Search the house!" was referring to Gibson's house...
+M	3a6d	And that exclamation point was not an exclamation point at all...
+M	3a93	It was a symbol for the 5-inch floppy disk.
+M	3ab3	Look closely, the pattern matches the read/write holes on the disk. He even drew a little dot to represent the index hole.
+M	3aea	In other words, it meant to put the disk in the PC68 at his house.
+M	3b0e	No doubt Jean was worried that something might happen to him, and he prepared the disk for just such an emergency.
+M	3b50	Katrina, do you mind if I borrow this picture for a few days?
+M	3b70	No, go right ahead...
+M	3b79	We should show Isabella this picture.
+M	3b91	I have stored Jean's picture.
+M	3ba8	So this is the sunscreen that Gibson was talking about, eh?
+M	3bc5	However...
+M	3bce	How did he figure on sunscreen. There must be some meaning here...
+M	3bf1	Is it okay if we take this?
+M	3c02	Go right ahead.
+M	3c10	I have stored the sunscreen.
+M	3c27	The machine is reading the disk...
+M	3c3d	Here it is!
+M	3c47	So that's it, eh? He found their weak point.
+M	3c5e	And no doubt Jean was killed because they learned that he had found their hospital.
+M	3cf9	This is the garden.
+M	3d02	I read motion! Something is approaching!
+M	3d1c	What?! Where? From the front?
+M	3d2b	Yes! 7 meters....6....5....
+M	3d42	I don't see anything! What is this, another fly?
+M	3d53	No! It's a...mosquito.
+M	3d68	..........
+M	3d71	Ah! Alice got it!
+M	3d86	...A mosquito-catching dog, huh...
+M	3d97	Huh? What is it, Gillian?
+M	3da7	No, it's nothing...
+M	3db6	She seems frightened of something.
+M	3dc7	The dog is a pure-bred Doberman Pinscher.
+M	3dda	It's the most popular breed in Neo Kobe, after Golden Retrievers.
+M	3dff	Guard dogs have become more popular since the SNATCHER problem started, right?
+M	3e1e	Yes. Until then, more cuddly breeds were popular.
+M	3e3b	It's an expensive breed, with blood lines and genetic purity guaranteed.
+M	3e5c	The thicket over there is moving.
+M	3e6c	It's not the wind. Something appears to be in the thicket.
+M	3e8c	Somebody has really been taking care of this place.
+M	3ea4	I'm not picking anything up from the other side of that ditch.
+M	3ebb	I'm getting some interference from the street lights. My sensors are not at full capacity...
+M	3eda	There aren't many street lights here. I can't really see much...
+M	3ef5	I really am not very good with dogs, you know.
+M	3f0c	Dogs hate navigators. Please understand...
+M	3f2e	Something is hiding in the thicket!
+M	3f44	I cannot determine what it is from here.
+M	3f5a	Ouch! There's thorns in here!
+M	3f6b	Those plants have been genetically altered to have razor-sharp thorns for use in security areas.
+M	3f8a	They are frequently used in upper-class residential neighborhoods.
+M	3fa4	Preventing crime with plants, eh?
+M	3fb0	There's nothing else in there, right?
+M	3fc4	I read motion! Something is moving!
+M	3fde	It's so dark, I can barely see anything...
+M	3ff8	Good dog, good girl, Alice. What's the matter?
+M	4010	What's the matter, Alice? Is there something out here?
+M	4025	There's nothing here.
+M	4034	I show nothing on my sensors.
+M	4047	I do not see anything unusual.
+M	405a	I am not reading any motion.
+M	4069	I do not see anything unusual.
+M	407c	Hmmm. Abundant natural resources. No wonder she's working as a model...
+M	40a3	Gillian, please restrain yourself.
+M	40b2	Please don't stare at me... my make-up is a mess...
+M	40d1	Please... I'm used to being looked at, but it's always through a camera...
+M	40fa	All right, how about you get undressed, then?
+M	4113	Not now! You can't do that!
+M	4123	Thank you... for trying to make me laugh...
+M	413f	(But I'm quite serious about this.)
+M	4151	Well then, how about you take your clothes off?
+M	4168	This is no joking matter!
+M	4177	.......
+M	4180	Come on, take it off?!
+M	418d	If you can't get undressed, I'll help?
+M	419f	My dad was a great Junker, right Gillian?
+M	41c1	Yes, he was, Katrina.
+M	41d2	I'm really proud of my dad.
+M	41ec	I didn't really talk much with my dad lately. He was always so busy investigating stuff...cooped up in that study.
+M	4229	Oh dad... <<sob>>
+M	423a	I'm sorry. I'm sure you didn't want to think about it...
+M	4254	If I had known this was going to happen... I should have been nicer to him...
+M	4272	Gillian, you are the same way. You never know what might happen to yourself.
+M	4292	You really should tell your wife how you feel.
+M	42b6	You have not seen her, have you. Why don't you at least give her a videophone call.
+M	42d6	All right, all right...
+M	42e6	I really don't know anything about my dad's job.
+M	42fb	How are you doing? Are you getting used to living alone?
+M	430f	Yeah, I guess. I'm trying...
+M	431e	I really want to go shopping. Say Gillian, will you go into town with me sometime? Please?
+M	4356	Oh, yeah. Of course.
+M	4360	How about Alton Plaza? The Christmas decorations are so pretty...
+M	4380	Alton Plaza, huh? You go there often?
+M	4397	Why yes! It's like Ginza in Tokyo, or 5th Avenue in New York!
+M	43b4	Really. All right, let's go sometime.
+M	43c5	Oh great!
+M	43ce	I haven't gone out in a while. I've really been wanting to go somewhere.
+M	43ef	Aren't you lonely by yourself? If you are, well I could...
+M	440f	That's okay. I'm better off being alone for now.
+M	4424	How are you doing lately?
+M	4431	I've been staying home. Just listening to music, or reading...
+M	4457	School's out for Christmas, and I've canceled my modeling jobs for now.
+M	4488	That's why I can be alone right now.
+M	44a1	I think I can relax better now if I'm alone.
+M	44bb	Me? I'm just a spoiled brat who never cared about her parents...
+M	44d6	I'd prefer it if nobody bothered me right now...
+M	44f3	Buffalo? We never had that here.
+M	450a	Gross! Buffalo? I'd never eat that...
+M	451d	Oh no! The poor buffalo! Aren't they almost extinct?
+M	4534	What is she joking about?
+M	4544	Hey, Metal! She's just trying to make us laugh...
+M	4565	Ohh?! ...I see, you're right.
+M	4576	...No, I'm sorry.
+M	4586	It's cruel, isn't it... eating whale.
+M	459e	That's the first I've ever heard of my dad going to a place like that.
+M	45c0	He must have had some good reason.
+M	45d2	I can't believe there are places that would serve something like buffalo.
+M	45ef	They ought to close down places like that.
+M	460f	Gillian was the only one who ate any. Just Gillian.
+M	462c	Gillian! You ate buffalo?!
+M	4643	You barbarian! You're so cruel!
+M	4654	Katrina! Settle down! It was a joke...just a joke.
+M	466c	Really... thank goodness.
+M	4679	I can't believe my dad used informers.
+M	4691	He never said anything to me about anybody named Napoleon...
+M	46b1	You mean like Napoleon-style? That's really popular now. I modeled some clothes like that a few weeks ago.
+M	46d7	I've heard of Napoleon Bonaparte. Is that who you mean?
+M	46fa	Alice is our dog. Dad named her after Mom...after she died.
+M	471e	At first we had two. There was another dog named Teles, too. But she died...
+M	474a	Back then, we used to call them both 'Aristoteles' together. ...Funny, right?
+M	4778	...? Funny, funny... Laugh, Metal.
+M	4797	Ha ha ha ha... ha?
+M	47a3	You saw her, too, right Gillian? Isn't she cute!
+M	47c0	Isn't that the black market. My dad used to go there a lot. He said he could usually find some rare antiques there.
+M	47fa	I've never been there, but I hear it's really dangerous.
+M	481b	This is my dad's personal computer. He sort of used it like a diary.
+M	4834	He said it's over 50 years old, and that it's the only one like it left in the world. He always took good care of it.
+M	486f	Wow... I can't believe my dad left a message like that.
+M	488a	It should be on the shelf. Why don't you take a look.
+M	48a2	A computer? There's one in my dad's study.
+M	48b8	Have you ever heard of a place called Outer Heaven?
+M	48d2	Its that place that serves buffalo that I was telling you about the other day.
+M	48f2	Apparently it's the only place in the city that serves buffalo.
+M	4915	We found buffalo in your dad's stomach...
+M	4937	Do you know of any places that serve buffalo?
+M	4950	We found buffalo in your dad's stomach...
+M	4972	Katrina, I'm sure all of this is quite a shock for you. Don't worry, I'm here for you anytime. You can lean on me.
+M	499c	How contrived.
+M	49a6	Thank you. You're really a nice man, Gillian.
+M	49c1	Come on, Katrina. You've got to pull through.
+M	49d8	Okay, Gillian. If I need any advice, I'll be sure to ask you.
+M	49f6	(Heh heh heh...)
+M	4a02	Gillian, your ulterior motives are showing on your face.
+M	4a19	Cheer up, Katrina.
+M	4a2c	Don't worry. I'll be okay.
+M	4a3a	...There's no way you could do that! Not at a time like this?
+M	4a5a	(I can't, but... I'd sure like to try.)
+M	4a6e	Did I mishear you? Didn't you mean 'comfort her'?
+M	4a8f	Yeah, all right, don't lecture me... my bad.
+M	4aa7	Here, let me wipe your tears...
+M	4abe	Gillian, I saw you blow your nose into that handkerchief...
+M	4af1	Shut up! (Damn! I hope she doesn't notice!)
+M	4b14	The reason I don't have a handkerchief is because I've got an air towel at my place.
+M	4b3a	True... that was the case at your place, Gillian.
+M	4b55	But... that much is just common courtesy...
+M	4b70	Thanks, Gillian.
+M	4b80	I'll be okay. Thanks.
+M	4b92	Are you busy tonight, Katrina? Why don't we go out?
+M	4bad	What do you think? How about cheering up over dinner and breakfast at my place?
+M	4bca	Katrina, I must have you!!!
+M	4bdc	What are you saying?! And with such intensity, too.
+M	4bf9	Katrina, is that a mosquito right there?
+M	4c0d	Katrina, is that a piece of lint right there?
+M	4c23	Katrina, is that a raindrop right there?
+M	4c3a	Aaahn!
+M	4c42	Where are you touching?!
+M	4c52	Gillian, what are you doing?!
+M	4c64	Katrina, look out! Get down!
+M	4c7a	Get down!! Katrina!
+M	4c8b	Kyaah!! ...Ow!
+M	4c9b	Aaahn!... come on!
+M	4caa	What are you doing? What's supposed to be dangerous?!
+M	4cc4	Telling such a see-through lie... just to push Katrina down like that!
+M	4ce6	Katrina, you little...! Want me to grope you?!
+M	4d00	'Grope'? ...What does that mean?
+M	4d19	...I got a little excited there.
+M	4d2c	Honestly now... please show a little more self-awareness.
+M	4d4a	Isn't that the truth...
+M	4d55	...You're joking, right?
+M	4d64	...Are you serious?
+M	4d71	...I've decided I'm not dealing with you anymore.
+M	4d8a	That's probably for the best.
+M	4d95	A pervert like you won't be cured until you die!
+M	4dae	Waaaait!!
+M	4dcf	Sorry about that... Katrina?
+M	4de0	Learned your lesson, haven't you?
+M	4dea	...Don't do that again, okay?
+M	4df9	You're the only Junker, now.
+M	4e13	You have to take my dad's place and protect the city, okay?
+M	4e2f	I don't need any money. I've got my dad's savings.
+M	4e51	I'm fine. Besides, if I get into a pinch, I can make plenty doing some extra modeling.
+M	4e70	So that was my dad's message, huh?
+M	4e86	I'm so glad you figured out his message. I'm sure that he's really happy, wherever he may be...
+M	4ead	That's my dad's handwriting. He was always leaving memos all over the place.
+M	4ed7	That's my dad's handwriting, but I have no idea what this means...
+M	4ef4	I wonder if that's my dad's...
+M	4f05	I think so. It was the key to your father's desk.
+M	4f22	Oh my, nobody uses keys like that anymore.
+M	4f3e	Wow! This is my dad's! Where did you find it?
+M	4f57	This is definitely my dad's.
+M	4f6d	I had been looking for that chess piece. It was the only one missing from the board...
+M	4f8a	So this disk is for the PC68, isn't it.
+M	4fa3	A disk? It looks like the ones my dad always used on the PC68.
+M	4fc7	I can't believe the SNATCHERS were using something like this.
+M	4fec	What was my dad doing with this in the middle of the winter?
+M	500d	Oh! That's cute! One of those Easter Island faces, right?
+M	501d	Oh! That's cute! A Mummy mask.
+M	502d	Katrina must be quite a science fiction fan.
+M	5045	It would appear so.
+M	5051	I've always liked those monster and special effects movies.
+M	5069	Oh dad...
+M	5073	I'm sorry. I didn't mean to remind you...
+M	508d	Sometimes you can be really thoughtless, Gillian.
+M	509b	I hope my dad's picture helps you in your investigation.
+M	50bb	Ooh. Scary-looking guy.
+M	50c9	Uggh! Who's this? He gives me the creeps...
+M	50e0	Have you ever met him? Did your father know him?
+M	50fc	No. I don't know him. Who is he?
+M	5114	This is the guy who, um, killed, um, your...
+M	512e	Gillian!
+M	5136	Well, you know.
+M	5147	Oh...I'm sorry I can't help you any better.
+M	5160	That's your Junker ID. It gives you all your special privileges. Take good care of it.
+M	5190	That's the expense money that the agency gave you.
+M	51a8	That's the memo in which Gibson told you the whereabouts of the computer data explaining about the SNATCHER'S weak point.
+M	51d8	I wonder what "Search the house!" means?
+M	51f5	That's the key to Gibson's desk.
+M	520d	It's an exceptionally old antique.
+M	5223	That's the chess piece that Gibson had.
+M	523c	It's the chess piece that we found in Gibson's coat.
+M	5259	That's the floppy which contains data on the SNATCHER'S weak point.
+M	5276	That's a floppy disk for a personal computer.
+M	528b	That's the sunscreen that the SNATCHERS are using...if Gibson's theory is right.
+M	52bf	And we've found out what we needed at Plato's Cavern.
+M	52d9	It's ordinary sunscreen. There's a sticker with the logo of the store where it was purchased on it.
+M	5308	That's the mask that you bought at Plato's Cavern.
+M	532a	That's an Easter Island statue mask.
+M	5337	That's a Mummy mask.
+M	5344	That's a picture of Jean Jack Gibson.
+M	535d	That's the montage that we built using witnesses' testimony.
+M	537e	It has an IC chip built-in which contains all of your personal data.
+M	53a9	In principle, you are allowed to charge the Agency for as much money as is necessary for your investigation.
+M	53cc	That's the memo that Jean left.
+M	53dd	It's written on ordinary paper. It's definitely in Jean's handwriting.
+M	5403	That's the key to Gibson's desk in the Detective's Room.
+M	541b	What could this key be? I don't believe there are still any places which use keys like that.
+M	544e	That's a wooden chess piece. I believe it's the one which goes next to the King.
+M	5475	That's a wooden chess piece.
+M	548e	That's the disk with Gibson's notes in it.
+M	54ab	That's a 5-inch floppy disk.
+M	54c0	On the bottle it says "The store with everything: Plato's Cavern".
+M	54ec	It definitely looks like it was being sold at Plato's Cavern.
+M	5509	We might learn something if we check out the place this was bought.
+M	552b	It's a special, high-detail mask, constructed by the popular Rick Bakery.
+M	5552	That's a picture of Jean Jack Gibson.
+M	556b	That's a composite, 2-D photograph assembled from Jordan's 3-D data.
+M	5587	It was taken from the chess set at Jean's home. What could it mean?
+M	55b7	Jean really liked puzzles.
+M	55d0	This must have some secret meaning.
+M	55e4	Jeez, this really looks like Ivan.
+M	55fa	You have to be impressed by Alpha-One's search capabilities.
+M	561b	The house? Come to think of it, I don't have a house to come home to.
+M	563c	Do not get so depressed, Gillian. You'll be able to live with Jamie again sometime.
+M	5667	A home and family, eh? Those may not go along too well with being a Junker.
+M	5688	There are still a lot left, right?
+M	5697	There is considerably less since you gorged yourself, however.
+M	56b6	Don't bad-mouth me like that. It was necessary for the investigation, right?
+M	56d8	Actually... (since it was cash, they'll never know how much I spent if I keep quiet!)
+M	5708	Did you say something?
+M	5715	No, no. Nothing.
+M	5722	There is nobody to show it to.
+M	5732	Please take good care of that.
+M	5742	Katrina...
+M	574d	All right, I'll save everything that has happened up until now.
+M	5764	Which file number would you like to save it in?
+M	5773	This file contains data from a previous save.
+M	5795	Is it okay for me to overwrite it with the new data?
+M	57b0	In that case, I won't write the new data there.
+M	57ce	This file contains data from a previous save.
+M	57f0	Is it okay for me to overwrite it with the new data?
+M	580b	In that case, I won't write the new data there.
+M	5829	This file contains data from a previous save.
+M	584b	Is it okay for me to overwrite it with the new data?
+M	5866	In that case, I won't write the new data there.
+M	5884	This file contains data from a previous save.
+M	58a6	Is it okay for me to overwrite it with the new data?
+M	58c1	In that case, I won't write the new data there.

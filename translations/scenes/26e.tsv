@@ -1,0 +1,224 @@
+W	143c	Area
+W	1443	Engineering room
+W	1450	Use Metal Gear
+W	145f	Inside locker
+W	146c	Use Jordan
+W	1479	Computer room
+W	1488	Open shutter
+W	1499	Shutter
+W	14a4	Don't save
+W	14b1	Save
+W	14bc	Overwrite save 1
+W	14cd	Save 1
+W	14d6	Overwrite save 2
+W	14e7	Save 2
+W	14f0	Overwrite save 3
+W	1501	Save 3
+W	150a	Overwrite save 4
+W	151b	Save 4
+W	1524	Under sofa
+W	152f	Detective's room
+W	1538	Front
+W	1541	Booth's shadows
+W	154c	Above booth
+W	1557	Inside booth
+W	1562	Booth
+W	1569	Move
+W	156e	Under far desk
+W	1579	Under desk
+W	1580	Stain on desk
+W	158b	Desk
+W	158e	Chief's office
+W	1595	Blood stain
+W	159a	Look
+W	159f	Practice
+W	15a8	Under worktable
+W	15b3	Behind worktable
+W	15c0	Shooting range
+W	15c7	Under front desk
+W	15d4	Outside window
+W	15db	Quit the search
+W	15e8	Continue search
+W	15f5	Go inside
+W	15fe	Investigate
+W	1605	Search
+W	160a	Behind terminal
+W	1613	Motion detector
+W	161c	Ceiling
+W	1621	Door
+W	1624	Hallway
+M	1629	We've arrived at Junker Headquarters. I certainly hope Mika and Harry are safe.
+M	1652	All right Metal, this is it...the final showdown. Are you ready? Let's go!
+M	1670	Now entering Headquarters.
+M	1688	This is the lobby.
+M	1692	What! The shutter on the reception booth is closed!
+M	16b1	We have to open the booth in order to open the main door.
+M	16cc	Gillian, we have to open the reception booth first.
+M	16e5	We have to open the shutter on the booth in order to enter Headquarters.
+M	1704	The only switch to release the lock on the main door is inside the reception booth.
+M	1721	Gillian, we have to investigate the booth.
+M	1738	It appears that something attacked this place. The shutter on the reception booth is closed.
+M	1765	The booth appears to have been struck a number of times by some kind of energy weapon.
+M	177a	Is Mika still in the booth?
+M	1789	So where did Mika go?
+M	1798	This is the protective shutter for the reception booth. It is automatically lowered in times of danger.
+M	17d4	It functions as a protective shield, so there is no way to see inside the booth with it like this.
+M	17fe	The emergency light is flashing on the door check panel!
+M	1817	So headquarters has been put on emergency status?
+M	1828	Can't this be opened from the outside?
+M	1839	If it has an "emergency external connection port" then it can be opened from the outside.
+M	1866	We have to look for an "emergency external connection port".
+M	1886	There are a few holes in the shield. No doubt caused by blaster or cannon fire.
+M	18ad	Cannon? Then it's SNATCHERS who did this!
+M	18c6	The surface of the shutter shows evidence of having been struck by fire from an energy weapon.
+M	18ec	I read motion! Something is in the booth!
+M	1906	Gillian, we have to open this somehow!
+M	191d	Yeah, but how?
+M	1933	Let's continue investigating.
+M	1945	It's been locked from the inside. The only way to open it is from inside the booth.
+M	196a	We have to get the booth open before we will be able to get the door open.
+M	1987	Metal, find this external connection jack!
+M	19a4	Here we are...
+M	19ac	I have located an "emergency external connection port" on the side of the booth. With this, I will be able to open the shutter.
+M	19e5	I have located an "emergency external connection port" on the side of the booth. Let's open the shutter.
+M	1a10	Now plugging into with emergency external connection port...
+M	1a31	Releasing lock mechanism...
+M	1a41	...now opening the shutter.
+M	1a54	We're in the main hallway.
+M	1a63	What's this? Someone is down!
+M	1a76	That hat...? Harry?!
+M	1a89	Where should we go?
+M	1a97	We're in the main hallway.
+M	1aa4	Damn! Where is it hiding?
+M	1ab5	There's no way for it to get out of Headquarters.
+M	1acd	There are still some rooms we haven't checked...
+M	1ae6	Where? Where is it?
+M	1af6	Aren't there some rooms that you haven't searched yet?
+M	1b11	There's no way for it to get out of Junker Headquarters.
+M	1b29	I've checked all the rooms! Where could it be?
+M	1b4f	Let's go through all of the rooms one more time.
+M	1b69	Where did that monster get off to?
+M	1b78	It has to be here in headquarters...that's for sure.
+M	1b90	...let's check the lobby.
+M	1ba5	The lobby?
+M	1bb0	You never know...
+M	1bbe	But the main door was sealed off when we came in...
+M	1bd9	We've checked and double-checked everywhere else. Let's go take a look.
+M	1bfe	...Harry is lying on the floor.
+M	1c11	Harry's body is the only thing around.
+M	1c24	Just wait here a little longer, Harry. I'll get the bastard for you...
+M	1c4f	Harry's body is as we left it. There is no sign that it has been disturbed.
+M	1c7e	The area is just as we left it earlier.
+M	1c93	Damn that SNATCHER! Where could it have gone?
+M	1ca7	This is really weird. It has to be somewhere in Headquarters!
+M	1cc0	Any movement in this hallway?
+M	1cd2	The SNATCHER does not seem to be in this room. Let's search elsewhere.
+M	1d04	It's not in this room, Gillian. Let's check some other room.
+M	1d28	That damn machine knows this building like the back of its hand...it'll be tough to find.
+M	1d4c	This is engineering.
+M	1d5b	About the only place one could hide in this room is here, right?
+M	1d7a	Pick up any motion in engineering, Metal?
+M	1d90	This is the computer room.
+M	1da0	Register any motion here in the computer room, Metal?
+M	1db7	...Gillian, I'm taking the command for using Jordan off the menu.
+M	1ddd	This is the detective's room.
+M	1de9	All right, now checking the locker.
+M	1dfc	Again?
+M	1e09	Just to make sure.
+M	1e16	Sorry. Nobody there.
+M	1e2b	No SNATCHERS in here.
+M	1e40	Any motion readings in the detective's room?
+M	1e52	This is the shooting range.
+M	1e5e	There's a good chance it's hiding in here somewhere.
+M	1e78	How about motion in the shooting range? Reading anything?
+M	1e8b	How about a little target practice?
+M	1e99	...Gillian, I'm taking the target practice command off the menu.
+M	1ebd	This is the Chief's office.
+M	1ec7	We've entered the Chief's office.
+M	1ed6	What's this? There's something on the desk.
+M	1ef4	Hmm?
+M	1efc	This is the Chief's office. There is blood on the desk.
+M	1f15	This is the Chief's office. There is something on the desk.
+M	1f31	Aren't you going to check the ceiling?
+M	1f42	We should figure out where that blood came from.
+M	1f57	Gillian, there's something funny about this room. Let's investigate.
+M	1f7e	Gillian, don't you think there's something unusual about this room?
+M	1f96	There is some kind of stain on the desktop.
+M	1fab	The stain is growing in size.
+M	1fbf	It's... It's blood.
+M	1fcf	There is a pool of blood on the desktop.
+M	1fe5	There was no stain like this a few moments ago!
+M	1ffd	This stain was not there before.
+M	2015	It appears that blood is dripping from the ceiling.
+M	202e	Yes... blood is dripping from the ceiling.
+M	204c	What? In a place like this?
+M	205a	Why don't we investigate the ceiling?
+M	2070	Cunningham!!
+M	207b	The SNATCHER's blood trail continues out the door.
+M	2095	I am unable to locate any new blood traces.
+M	20aa	All right, now investigating...
+M	20bf	All right, I'll check it now. Please be careful...
+M	20da	I will check it out now. Are you ready?
+M	20f0	Sorry. Nothing there.
+M	2105	No SNATCHERS here.
+M	2114	What?! Oh, sorry. Nothing there.
+M	212c	Nothing unusual there.
+M	213b	We just checked there.
+M	214f	There was nothing there when we checked.
+M	215f	All right, I'll check again just to make sure.
+M	2176	I'll take another look, but...
+M	2188	I don't see the SNATCHER.
+M	219f	I can't find any sign of the SNATCHER.
+M	21bb	...the SNATCHER does not seem to be around.
+M	21d5	I cannot locate any signs of blood.
+M	21ea	I don't see any evidence of blood anywhere.
+M	21ff	There are no traces of the SNATCHER's blood in this area.
+M	2219	That SNATCHER's wounded. There must be blood somewhere.
+M	223b	That's funny. I was pretty sure that I at least winged him...
+M	2257	...the SNATCHER is no longer here.
+M	2268	...it is not in this room.
+M	227b	The SNATCHER must be in a different room.
+M	228f	Searching the same place over and over will not do any good.
+M	22a3	The result is the same, Gillian...
+M	22b2	I don't read any movement. We are the only ones in the area.
+M	22d7	We are the only ones registering on my motion detector.
+M	22ee	There is no reading. My movement sensor is functioning properly.
+M	230f	The ceiling fan is the only thing moving.
+M	2336	Gillian! At a time like this? We have to find the Chief, er, that SNATCHER!
+M	235d	We have no time for that. We have to find the SNATCHER as quickly as possible!
+M	2385	Finding the SNATCHER is much more important than that right now.
+M	23a3	Would you like to save what has happened up to this point?
+M	23bc	All right, I'll save everything that has happened up until now.
+M	23d5	Which file number would you like to save it in?
+M	23e4	Oh no! There's not enough memory to save any additional game data!
+M	240b	Please use a save file you've already created.
+M	2429	I'm sorry, but we'll continue the investigation without saving.
+M	2441	Format error! There's a problem with your PC Engine's backup memory.
+M	2476	I'm sorry, but you'll need to stop the investigation and reformat the memory. When you do, I recommend copying any important data to a "Voice of Heaven Bank" first.
+M	24db	Sorry about that, but we'll have to continue with the investigation...
+M	250d	All right, continuing with the investigation.
+M	2524	This file contains data from a previous save.
+M	2546	Is it okay for me to overwrite it with the new data?
+M	2561	In that case, I won't write the new data there.
+M	257f	Save completed!
+M	258f	All right, continuing with the investigation.
+M	25a6	Now ending the investigation. Don't forget to turn the power off!
+M	25c6	Gillian, I hope we can continue the investigation together soon!
+M	25e8	Gillian, I look forward to working with you again.
+M	25ff	All right, that's enough for now!
+M	2616	All right, now returning to the investigation...
+M	262b	All right, that's enough for now!
+M	2642	All right, I'll save everything that has happened up until now.
+M	2659	Which file number would you like to save it in?
+M	2668	This file contains data from a previous save.
+M	268a	Is it okay for me to overwrite it with the new data?
+M	26a5	In that case, I won't write the new data there.
+M	26c3	This file contains data from a previous save.
+M	26e5	Is it okay for me to overwrite it with the new data?
+M	2700	In that case, I won't write the new data there.
+M	271e	This file contains data from a previous save.
+M	2740	Is it okay for me to overwrite it with the new data?
+M	275b	In that case, I won't write the new data there.
+M	2779	This file contains data from a previous save.
+M	279b	Is it okay for me to overwrite it with the new data?
+M	27b6	In that case, I won't write the new data there.

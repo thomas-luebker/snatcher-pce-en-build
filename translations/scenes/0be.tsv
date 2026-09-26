@@ -1,0 +1,461 @@
+W	18fd	0780000573
+W	1912	0990932510
+W	1927	0
+W	192a	110
+W	1931	119
+W	1938	177
+W	193f	1
+W	1942	250717
+W	194f	256128
+W	195c	2
+W	195f	301234
+W	196c	302501
+W	1979	390910
+W	1986	391009
+W	1993	393444
+W	19a0	395644
+W	19ad	396004
+W	19ba	3
+W	19bd	4
+W	19c0	548418
+W	19cd	556666
+W	19da	582809
+W	19e7	5
+W	19ea	691170
+W	19f7	6
+W	19fa	748500
+W	1a07	775014
+W	1a14	777605
+W	1a21	7
+W	1a24	8
+W	1a27	967715
+W	1a34	9
+W	1a37	Star
+W	1a3a	Don't Call
+W	1a43	Call
+W	1a4a	Junker I.D.
+W	1a59	Junker HQ
+W	1a6a	Q2
+W	1a6f	HONOR
+W	1a76	Ask Metal Number
+W	1a87	Little John
+W	1a94	NO CLUE
+W	1a9d	AMERICA
+W	1aa6	Seen at Alton
+W	1ab7	Alton Plaza
+W	1ac4	Outer Heaven
+W	1ad3	Isabella
+W	1adc	Orgy
+W	1ae3	END
+W	1aea	ENDED
+W	1af3	Oleen Hospital
+W	1b00	Patient Record
+W	1b07	REVOLUTION
+W	1b10	MEMORIAL
+W	1b19	Gillian's House
+W	1b24	Gibson's House
+W	1b2f	Queens Hospital
+W	1b3c	Quiz
+W	1b43	DUNNO
+W	1b4a	NO IDEA
+W	1b53	Jamie
+W	1b5c	WAR
+W	1b65	RAIGN
+W	1b6a	RANE
+W	1b6f	Chess Piece
+W	1b7a	REIGN
+W	1b81	Ask Out On Date
+W	1b8e	REIGNE
+W	1b95	Napoleon
+W	1ba0	RAINE
+W	1ba9	ハズレ
+W	1bb0	Hang Up
+W	1bc1	FRANCE
+W	1bca	Match
+W	1bd1	TOGETHER
+W	1bda	Cupid's Love
+W	1beb	Video Memory
+W	1bf8	Memory
+W	1bfd	Look
+W	1c02	UV therapy
+W	1c13	Temple
+W	1c18	Cash
+W	1c1f	Show Posessions
+W	1c2a	Your Feelings
+W	1c37	Your Job
+W	1c42	About Photo
+W	1c4b	Exit Vehicle
+W	1c56	Chin Shu Oh
+W	1c5d	Don't Answer
+W	1c66	Answer
+W	1c6d	Ask
+W	1c72	Dream
+W	1c75	Answer machine
+W	1c80	Old man's house
+W	1c89	Talk
+M	1c8e	We've boarded the turbocycle. Where would you like to go?
+M	1cae	Gillian! I have a videophone call from Jamie! I'll connect you..
+M	1ccf	What good will it do to go back to your apartment?
+M	1ce8	We've already requested that the Neo Kobe Police protect Katrina.
+M	1d0c	We should get to Queens Hospital quickly!
+M	1d20	Let's head to Queens Hospital.
+M	1d35	What's wrong? Aren't you going to go and search for Katrina?
+M	1d57	Katrina is not here. Let's look elsewhere.
+M	1d76	If we waste too much time, the SNATCHERS will get there first! We must hurry!
+M	1d9e	There is nothing left to do here. Let's move on!
+M	1dbe	What are you doing? We need to determine whose patient record this is as quickly as possible.
+M	1def	Let's hurry back to headquarters!
+M	1e0e	We've arrived at headquarters. What would you like to do?
+M	1e2a	We've arrived at your house. What would you like to do?
+M	1e44	We've arrived at Jean Jack Gibson's house. What would you like to do?
+M	1e67	We've arrived at Alton Plaza. What would you like to do?
+M	1e81	We've arrived at Oleen Hospital. What would you like to do?
+M	1e9d	We've arrived at Queens Hospital. What would you like to do?
+M	1eb7	We've arrived at Outer Heaven. What would you like to do?
+M	1ed4	All right. Now heading for Junker Headquarters.
+M	1eee	Why don't we stop by my apartment?
+M	1f00	Good idea. That fortune teller's comment has been bothering me...
+M	1f26	Good idea. It might be worthwhile to search the neighborhood.
+M	1f48	Let's go, Metal!
+M	1f55	Understood. Setting course for your apartment...
+M	1f6c	All right, now heading for your apartment.
+M	1f83	What good will it do to go to your apartment at a time like this? We have to find Katrina as quickly as possible!
+M	1fb0	Gillian! You have to look for Katrina first! We can visit your apartment later.
+M	1fe0	All right, now heading for your apartment.
+M	1ff7	Get us to Gibson's house, now Metal! Set the automatic traffic control system to give us absolute priority!
+M	202e	10-4!
+M	2034	God, I hope she's safe...
+M	2047	All right, now heading for Jean Jack Gibson's house.
+M	2067	All right, now heading for Alton Plaza.
+M	207e	All right, now heading for Hospital Oleen.
+M	2098	Okay, let's get out to Queens Hospital!
+M	20ae	This is it!
+M	20bc	All right, now heading for Queens Hospital.
+M	20d3	All right, now heading for Outer Heaven.
+M	20ee	Gillian! Where are you going? Katrina is in danger!
+M	2115	Gillian! We have to get to Gibson's house quickly!
+M	212d	Where are you going? We should hurry to Queens Hospital.
+M	214e	Why don't we check out Queens Hospital first?
+M	216d	Gillian! We have to hurry back to Headquarters!
+M	2189	Gillian, what's wrong? Are you trying to flee?
+M	2199	All right, let's use the videophone.
+M	21ae	What number should I dial?
+M	21bb	They're not home. We should head for Alton Plaza quickly ourselves.
+M	21e2	There's no answer. Apparently no one is there.
+M	21f7	We probably shouldn't get involved any further with them.
+M	2216	Gillian, we don't have any reason to go to Plato's Cavern, do we?
+M	2236	Metal, could you give me Jamie's videophone number again?
+M	2251	Sure. It's 39-3444.
+M	226a	The number of the lab where she works is 39-1009.
+M	228b	At this time of day, I suppose she's at work.
+M	22a5	It's 39-3444.
+M	22b5	What was Napoleon's videophone number?
+M	22d1	Please Gillian, you really should have it memorized by now.
+M	22e3	It's 39-5644.
+M	22f3	Remember it as 39-5644, okay?
+M	231d	What was the number on those tissues we got at Alton Plaza?
+M	2351	That would be 55-6666.
+M	2361	What was the number I got for answering that quiz question correctly?
+M	238c	...it's 0990-932510.
+M	23a0	What was the number on those tissues we found at Alton Plaza?
+M	23d4	It was 39-0910.
+M	23e4	What was Isabella's videophone number?
+M	23ff	It's 39-6004.
+M	240f	What's the number for the old guy we met by Ivan's house?
+M	2432	It was 30-2501.
+M	2442	What? You again? What do you want, more information?
+M	2458	That's right. I need your help.
+M	246c	Why don't we get the password out of the way first...
+M	247e	What? You again?
+M	248a	Sorry. You'd prefer a woman, I suppose?
+M	249e	Whatever. Anyway, how about giving me the password?
+M	24b3	The revolution...
+M	24bc	The 100 day...
+M	24c3	Please input using the cursor.
+M	24d3	What? That's totally wrong!
+M	24dd	You haven't input anything at all!
+M	24f2	Nice try, but no cigar!
+M	24fc	You're guessing are'nt you?
+M	250f	You're so close, it's almost sad!
+M	251d	You need to work on your verb tenses a bit.
+M	2529	Way off the mark, son!
+M	2538	You haven't input anything at all!
+M	2548	I don't know anything about that.
+M	2552	I think you should go back to school, you need some spelling lessons!
+M	255c	Did you forget how to spell when you lost your memory?
+M	2571	Never heard of that.
+M	2581	Did you forget how to spell when you lost your memory?
+M	2590	Did you forget how to spell when you lost your memory?
+M	25a0	Did you forget how to spell when you lost your memory?
+M	25af	Stop fantasizing!
+M	25be	Stop fantasizing!
+M	25d1	All right, you pass! But we can't talk on the videophone. I'll meet you in the usual place.
+M	25fb	Don't blow-off your appointment this time, either. Come right away!
+M	2615	I'll be seeing you. Look me up again after you've done your homework!
+M	2635	Have you forgotten it, Gillian?
+M	2647	"The hundred days reign", right?
+M	265b	You're really forgetful...
+M	266f	Have you forgotten it, Gillian?
+M	2681	"The revolution is ended", right?
+M	2697	You're really forgetful...
+M	26ab	What? Don't you know?
+M	26b5	He hung up...what are you going to do?
+M	26ca	That's funny, I'm sure I got the phone number right.
+M	26e9	Perhaps the SNATCHERS have killed Napoleon, too!
+M	2706	This isn't right! Where could he have gotten off to?
+M	271e	Besides, Napoleon should be able to read the code on that patient record that we found.
+M	2744	Huh? What's this symbol?
+M	2754	It looks vaguely familiar...
+M	2765	Where in the world has Napoleon gone?
+M	277f	What? It's that symbol again. What is this? This isn't anything of JT&T's.
+M	27b0	Gillian, I know where Napoleon is. Have you figured it out? Let's hurry up and head there.
+M	27f9	It's a code telling where he is! Let's hurry and head there!
+M	2850	I don't have the slightest idea what you're talking about.
+M	2874	Gillian! A wolfman! We've seen this wolfman before, right!
+M	2899	The wolfman is the hint! We've met him elsewhere before, right?
+M	28bc	You know, the wolfman! The one we saw at that place that serves buffalo...
+M	28de	My god! A SNATCHER!
+M	28ed	!!!!
+M	28f1	I guess she's at the lab.
+M	2902	Jamie is probably at the lab now.
+M	291d	Oh, that's right.
+M	292a	She is at the lab. That is what she said on the videophone, right?
+M	294e	At the lab again, eh?
+M	295d	She is quite busy.
+M	296d	She is at the lab now. Why don't you try contacting her there?
+M	2992	She really had me for a moment there! Since when did she start pulling practical jokes like this?
+M	29bc	Well, you did show her your mask the other day.
+M	29d4	What, the one I use to get into Outer Heaven? Even so, that last joke wasn't very funny.
+M	29f3	No doubt that message is a strategy of hers to deal with your troublesome calling.
+M	2a13	Just what is that supposed to mean, Metal?
+M	2a25	There's no need to be embarrassed, Gillian. I'm fully aware that Jamie has "snatched" your heart.
+M	2a60	Sorry about that. I mean, being on duty and all...
+M	2a72	Gillian, please ask Jamie for her assistance.
+M	2a92	Yeah, yeah... we need to know if she has any ideas about black market hospitals, right?
+M	2aab	It was nice talking to you Jamie. Bye for now...
+M	2ac7	If I find anything out about the hospital, I'll give you a call.
+M	2ae6	Thanks. I really need your help on this one.
+M	2af3	See you later, Gillian. Bye!
+M	2b07	Talk to you later Gillian. Bye!
+M	2b1a	What's wrong, Gillian? Didn't you have something you wanted to talk about?
+M	2b3c	Jamie, I can't see you very well from here!
+M	2b58	Well, I'm glad you called, but don't get carried away, all right?
+M	2b7b	Jamie?
+M	2b83	What's the problem Gillian? C'mon, cheer up! Don't worry! Be happy!
+M	2bb8	It's been a while since we met, hasn't it, Jamie.
+M	2bcd	Yeah. It's been since before you became a Junker, hasn't it.
+M	2bea	What was it you said that night? I couldn't hear you over the noise of the turbocycle's engine.
+M	2c17	Oh, nothing.
+M	2c28	Jamie, you're always so pretty.
+M	2c3f	Oh Gillian, you've been saying that since they found us in Siberia.
+M	2c5a	Siberia... We do have a shared past after all, don't we. It's a little short, but...
+M	2c85	Jamie, you really look good in white.
+M	2c9d	You think so?
+M	2ca6	You're looking really good, Jamie.
+M	2cb7	I'm doing all right.
+M	2cc4	Jamie, we may not have any memories of our life together, but we can make them from here on out.
+M	2cf1	Yes, but Gillian...
+M	2d03	Why are we always so worried about some lost past? Let's build a bright future together!
+M	2d2c	My heart knows that, but in my head... I just can't make up my mind.
+M	2d53	So is that? Are we finished?
+M	2d69	If we separate now, it will be painless Gillian. We don't have to hurt each other.
+M	2d89	Jamie, this is something I've learned since we split up.
+M	2da8	Although my memories of our time together aren't coming back, my feelings of our time together never left...
+M	2de3	Gillian...
+M	2ded	My feelings for you are still strong. Actually I think I'm beginning to fall in love with you all over again.
+M	2e23	And in a way that has nothing to do with our lost past.
+M	2e3f	Thanks, Gillian. You're probably right. We can't keep looking back over our shoulders forever.
+M	2e72	It was short, but our time together was wonderful.
+M	2e95	Yes but we could never stop arguing.
+M	2ea9	Yeah, but even those memories are precious now.
+M	2ec0	Our only memory together...
+M	2ed4	I was really worried at first about becoming a Junker.
+M	2eff	Of course, Gillian. People like us who have lost their memories never know at first what they're cut out for.
+M	2f43	I feel like I can really find myself through this job.
+M	2f8c	I know what you mean. You get surprised by your own actions... You feel like you can see your inner self, right?
+M	2fc4	It all feels like fate somehow. Me and the Junker agency... and me and those SNATCHERS.
+M	2ff6	Well, it can't all be unrelated. If it was, why would we have been called to Neo Kobe like this?
+M	302e	But I wonder how long this can last...
+M	3042	Chasing them down...
+M	3054	Probably at least until our memories return.
+M	306f	Jamie, I've learned that the SNATCHERS have taken over a hospital somewhere on the island. I need your help in investigating this.
+M	30ae	All you have to do is ask, Gillian. I'll do anything to help out.
+M	30cd	I'll see what I can do on this end. It may take me a while, though.
+M	30f7	Ask me anything. I may be able to help you out.
+M	311d	Jamie, that message on your answering machine... Wasn't that going a bit too far?
+M	313b	Did I scare ya'?
+M	3145	You bet you did!
+M	3154	Were you worried?
+M	315d	Yes, I was worried.
+M	316c	How worried?
+M	3175	How worried? Well, really worried, you know...
+M	3189	Good...
+M	3193	Would you cut the jokes like that... If the SNATCHERS ever actually got their hands on you, I'd...
+M	31b5	I don't even want to think about it as a joke.
+M	31c7	Okay, Gillian.
+M	31d7	Still, that mask was really well done.
+M	31ee	Well, after you showed me your mask for Outer Heaven...
+M	3212	What? Was that made at Plato's Cavern?
+M	3225	Yeah. I borrowed it from a guy at work.
+M	323c	No wonder. They make really good stuff over there.
+M	3250	Jamie? I'm sorry about that little stunt I pulled the other day.
+M	3265	Oh... that?
+M	3272	I heard from the Chief.
+M	327f	Oh really...
+M	3288	Why didn't you tell me?
+M	329b	I don't know... I really don't.
+M	32a7	I'm sorry. It was really immature of me.
+M	32bb	I just got really upset...
+M	32cc	Gillian?
+M	32d4	Yes?
+M	32dc	You're the only one for me. I'm always thinking about you.
+M	3302	Don't forget it, okay?
+M	3310	Thanks Jamie.
+M	331e	Jamie, the other day I asked you if you had been to Alton Plaza, right?
+M	3344	Yes.
+M	334c	And you said you had never been there...
+M	3362	That's right.
+M	3369	Don't lie to me...
+M	3374	..........
+M	337b	Jamie, as a matter of fact, I...
+M	338c	...what?
+M	3395	I saw you Jamie. I saw you walking with the Chief.
+M	33b7	..........
+M	33be	Was that some kind of mistake?
+M	33cc	...you saw us..
+M	33db	Hmm?
+M	33df	It must have been somebody else.
+M	33ef	Somebody else?
+M	33f6	Can't we talk about something a little more positive?
+M	340d	Dodging the issue, eh? Sounds like an admission of guilt to me.
+M	341b	Hey! Stop trying to play detective with my personal life!
+M	342d	..........
+M	3436	Can I ask you one question?
+M	3446	What?
+M	344c	Do you remember the picture of you that I have?
+M	3467	Yes, that picture of me when I was a little girl, right?
+M	3482	Where was that taken?
+M	348d	I don't really know... It looks like the Olympics or something.
+M	34a8	I wonder how long you've had that.
+M	34bd	I suppose I had it with me when the army picked us up.
+M	34e4	Hmmm. That picture looks like it might have been taken at the Moscow Olympics.
+M	3508	Moscow? When was that?
+M	351b	A long time ago. Long before we were born.
+M	3538	And that's all you wanted to ask about it?
+M	3541	You see, Jamie, the picture looks like it may have been faked.
+M	355a	Faked? Who would do something like that? And why?
+M	356c	I don't know. But they may be using us as their guinea pigs.
+M	3591	What are you talking about?
+M	359b	It's as if we're being controlled by something we cannot see.
+M	35b5	Only us? Hmmm. We're the only ones who don't even know about ourselves.
+M	35d8	Maybe the government knows something.
+M	35ec	Oh, let's just forget this Gillian. Let's just be ourselves.
+M	3608	Let's worry about what to do from now on.
+M	361c	How's your memory doing? Any sign it might be coming back?
+M	3635	I seem to remember wearing white... Can't you recall anything Gillian?
+M	3684	Jamie in white. Hmmm. I'm afraid not. Nothing.
+M	36a5	What about your memory therapy?
+M	36b5	I'm still going.
+M	36bf	Any progress?
+M	36c9	No change yet.
+M	36d5	Oh... okay.
+M	36df	Sometimes, when I'm not even trying, I get these really vague images, but when I try to recall anything more, they vanish.
+M	3712	I guess we're just going to have to let time do its work.
+M	3730	The SNATCHERS require a hospital which has facilities to treat ultraviolet ray exposure. Do you have any ideas about that?
+M	3765	Well, having facilities to treat ultraviolet ray exposure is nothing rare. But we keep records here on the hospitals on the island. I'll take a look at those.
+M	37a5	But don't get your hopes up. If it's a black market place running on its own, we probably won't have anything at all on it.
+M	37e0	If I learn anything, I'll give you a call.
+M	37fb	Don't worry. If I figure anything out, I'll give you a call.
+M	381a	Now I've got a reason to talk to you again sometime.
+M	3834	You silly. You don't have to have a reason to talk to me.
+M	3850	You know, I...
+M	3858	No...I'm sorry.
+M	3867	Oleen Hospital? Oh, that's right! That's that veterinary clinic, isn't it? They're totally legit. Rather stuffy operation though. They only treat purebreds and official genetic manipulants.
+M	38ad	I really doubt they have anything to do with SNATCHERS.
+M	38d0	Ah! Here it is! They placed a large order for anti-cancer drugs from between October and December.
+M	392d	Anti-cancer drugs, huh? I knew it!
+M	393d	Well, that settles that.
+M	3947	The director is Chinese, named Chin Shu Oh.
+M	395d	Hmmm. Chin Shu Oh...
+M	3968	Wow, it looks like they were ordering truckloads of the stuff, too. I'd be careful, Gillian.
+M	3997	Our records aren't all that detailed, though. That's all I can tell you.
+M	39b1	I wonder who this Chin Shu Oh is?
+M	39c4	I've never heard the name before. We have nothing on him in here either. He might be one of those unlicensed underground doctors.
+M	39f6	How about your Junker data?
+M	3a0c	Yeah, we checked him out. He's had quite a career.
+M	3a1d	He's had his license suspended, right? There's a lot of those underground doctors here in the city.
+M	3a4c	Why don't you check your Junker records. You might have something on him.
+M	3a75	I'll take a look at our data here, too.
+M	3a90	Thanks, that'll be a big help.
+M	3a9c	Jamie, are you still having that dream?
+M	3ab1	Yes. Almost every day now.
+M	3ac6	It must have some meaning. What does your counselor say?
+M	3ae8	He says that it means I'm refusing or rejecting something.
+M	3b05	I'm scared, Gillian. Maybe I'm better off not getting my memory back.
+M	3b2d	Jamie?
+M	3b35	Maybe it's better for us, too, keeping things the way they are now.
+M	3b5f	No way! I'll never settle for keeping things like this.
+M	3b73	Gillian, are we really married?
+M	3b90	What's that supposed to mean?
+M	3b9a	Maybe we are really enemies or something...
+M	3bb4	Oh relax, Jamie, that's a silly idea...
+M	3bc1	I really care about you, Gillian, but those feelings aren't some gate into the past...
+M	3bf1	I feel the same way.
+M	3bf8	Then why don't we just keep things the way they are?
+M	3c0c	Okay, okay. Let's just take it naturally. Not try to force anything.
+M	3c2a	But I don't want to have that dream again tonight. It's so painful.
+M	3c47	It's not just you, Jamie. It's me, too.
+M	3c61	Thanks, Gillian.
+M	3c71	Thanks for asking me to dinner the other day.
+M	3c8f	Thanks for asking me to the musical the other day.
+M	3cb1	Thanks for asking me to the zoo the other day.
+M	3cd1	Thanks for asking me to the amusement park the other day.
+M	3cf1	Thanks for asking me to go to the beach with you the other day.
+M	3d0e	Thanks for asking me to the races the other day.
+M	3d2d	Thanks for asking me to go out with you the other day.
+M	3d4b	Thanks for asking me to the arcade the other day.
+M	3d6f	Thanks for asking me to the aquarium the other day.
+M	3d8f	I'm sorry I couldn't go, but I was really happy that you asked.
+M	3dac	If we don't get together now, we may never have another chance.
+M	3dc4	Please don't say things like that. This is hard on me, too.
+M	3de6	Jamie, I don't want to talk to you over the videophone like this. Let's meet and talk face-to-face.
+M	3e08	Gillian, I'm always thinking about you. But I don't know if we should see each other right now.
+M	3e37	We'll just run into the same old problems.
+M	3e47	Jamie, I'd really like to see you. When can we meet?
+M	3e5b	Seeing you would just bring more pain, Gillian. Let's leave it at that.
+M	3e77	I want to see you...
+M	3e81	I can't see you now, Gillian. We're better off like this.
+M	3e97	So that's your Junker ID, eh? It's kinda fancy looking.
+M	3ec3	Fancy? This thing? Whatever you say.
+M	3ed7	That's really nice. Now you finally have something to identify yourself with.
+M	3efb	Oh Gillian, I'm not having any money problems now. I've got a good job. Don't worry about me.
+M	3f24	So they actually pay you? That's a relief...
+M	3f45	That is your expense money which is...
+M	3f56	Metal! You shut up!
+M	3f65	Ye..Yessir!
+M	3f6f	That's a chess piece. What's that for?
+M	3f8a	I still haven't figured that out myself.
+M	3f98	Is that supposed to have some meaning?
+M	3fae	From what I know of Gibson's personality, it probably does.
+M	3fc7	I found this at that hospital I was telling you about.
+M	3fe4	I found this at Queens Hospital, the place the SNATCHERS are probably using as their maintenance facility. Any ideas?
+M	401c	Do you know what it is?
+M	4027	Looks like part of a patient's chart, but that's Chinese, right? Those underground doctors sometimes use code to protect themselves from prying eyes. Maybe that's what this is.
+M	407d	Chinese? Wait! That's right! Napoleon is Chinese! He should be able to read this!
+M	40af	These five characters should be the patient's name. Why don't you ask somebody who knows Chinese to help you.
+M	40ed	We should ask Napoleon.
+M	4101	Gillian, do you smoke?
+M	4112	No, I need this for my investigation.
+M	412b	I see. After all, hardly anybody smokes anymore...
+M	4152	Gillian, you know smoking's bad for your health. Don't even think about doing it, okay?
+M	4178	Don't worry. I'm always chewing a piece of gum anyway.
+M	4192	They give it to me at the agency. It's got adrenaline in it.
+M	41b3	Oh, so it was "Queens," eh?
+M	41c7	"Oleen". Hmmm. I think I've heard of that. I think it might be a hospital on the island.
+M	41f4	Almost all of the development and administration of pharmaceuticals on the island takes place here.
+M	421d	I'm sorry. I'm not really sure if there is any such hospital.
+M	423b	A palace, eh? I wonder where it is?
+M	424b	It looks like a palace. I've never seen anything like that here. It must be far away.
+M	425e	There is no answer. Apparently no one is home.
+M	4273	The call will not go through.
+M	4282	It seems that the line is busy.

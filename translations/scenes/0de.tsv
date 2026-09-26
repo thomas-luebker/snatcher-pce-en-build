@@ -1,0 +1,274 @@
+W	0d2a	Junker Card
+W	0d35	Junker Coat
+W	0d40	Junker Belt
+W	0d4b	About Junkers
+W	0d5c	Junkers Blood
+W	0d67	STBO
+W	0d70	Return to Menu
+W	0d7f	Create Montage
+W	0d90	Runner's gear
+W	0d9f	Items
+W	0dae	Liquid Sky
+W	0dbf	Robo Musical
+W	0dd0	Alpha-One
+W	0ddd	Insector
+W	0dea	Air Surfing
+W	0dfb	Use Card
+W	0e06	Quit Jordan
+W	0e17	Kyoto Summit
+W	0e28	Kobe Bridge
+W	0e39	Neo Kobe Pizza
+W	0e44	Isolation policy
+W	0e53	Siberian zone
+W	0e64	Junker's Rush
+W	0e75	Scanning Permit
+W	0e86	Staff
+W	0e8f	About Snatchers
+W	0ea0	Snow 9
+W	0eab	Tube-Liner
+W	0ebc	Turbocycle
+W	0ecb	Dragon Horse
+W	0edc	Dreamcorder
+W	0eed	Navigator
+W	0efa	About Neo Kobe
+W	0f0b	Neo Kobe History
+W	0f1c	Neo Kobe Data
+W	0f2d	Biocommunication
+W	0f3a	Bio-Zoo
+W	0f47	Blaster
+W	0f52	Purse-Pet
+W	0f63	Black Taxi
+W	0f6e	Black Market
+W	0f73	Immigration
+W	0f7c	Science
+W	0f81	Mars chronology
+W	0f8c	Mars greening
+W	0f99	Space program
+W	0fa2	Eyes 1
+W	0fa7	Eyes 2
+W	0fac	Eyes 3
+W	0fb1	Eyes 4
+W	0fb6	Eyes 5
+W	0fbb	Eyes 6
+W	0fc0	Eyes
+W	0fc3	Nuclear removal
+W	0fcc	Junker Bylaws
+W	0fd3	Transportation
+W	0fd8	Mouth 1
+W	0fdd	Mouth 2
+W	0fe2	Mouth 3
+W	0fe7	Mouth 4
+W	0fec	Mouth 5
+W	0ff1	Mouth 6
+W	0ff6	Mouth
+W	0ff9	Quit Montage
+W	1004	Structure
+W	1009	Load Fact File
+W	101a	Auto traffic
+W	102b	Freemen
+W	1034	Quit
+W	1041	Scan Database
+W	104a	Bounty Hunter
+W	1055	Outer Districts
+W	1064	Politics
+W	1069	Official Name
+W	1072	Junker history
+W	107b	Skin spray
+W	108c	Load I.D. File
+W	109d	The Catastrophe
+W	10a4	World War Three
+W	10b3	Organization
+W	10bc	North-South gap
+W	10c5	Hair Style 1
+W	10cc	Hair Style 2
+W	10d3	Hair Style 3
+W	10da	Hair Style 4
+W	10e1	Hair Style 5
+W	10e8	Hair Style 6
+W	10ef	Hair Style
+W	10f4	Known facts
+W	10fb	Chronology
+W	1100	Culture-Sports
+W	110f	Culture-Science
+W	1118	Nose 1
+W	111d	Nose 2
+W	1122	Nose 3
+W	1127	Nose 4
+W	112c	Nose 5
+W	1131	Nose 6
+W	1136	Nose
+W	1139	Witch Hunt
+W	1142	Retina fortunes
+W	114b	HQ Data
+W	1156	HQ Facilities
+W	115f	Shape 1
+W	1166	Shape 2
+W	116d	Shape 3
+W	1174	Shape 4
+W	117b	Shape 5
+W	1182	Shape 6
+W	1189	Facial Shape
+W	118e	History
+M	1193	, Junker Headquarters' host A.I. computer system.
+M	11c6	Please insert your ID card.
+M	11e0	What? Has this thing got a personality?
+M	11f3	Heh, it asks about everything. What an inflexible computer.
+M	1217	Okay, Junker card going in...
+M	1231	In the slot she goes...
+M	1244	...I'll try it some other time.
+M	1257	On second thought, maybe later.
+M	1267	...User confirmed as Gillian Seed. Welcome to Jordan.
+M	1288	What sort of information do you need?
+M	129d	Well at least it let me in.
+M	12b6	Jordan ID File. Use the cursor to input the name of the person you are searching for.
+M	12e6	Input first name then last name without a space.
+M	1306	For example, John Smith should be entered as JohnSmith.
+M	1336	Or you can search by just entering Smith.
+M	1363	Montage Mode. Select facial parts to assemble complete likeness.
+M	138f	I hope that I was able to be of service.
+M	13a2	Thank you for using Jordan.
+M	13b5	I look forward to our next session together.
+M	13c9	Jordan Fact File. Please select the category you wish to search.
+M	13ee	"Catastrophe, The." On June 6, 1996, a mysterious explosion destroyed the Chernoton research facility near Moscow. The explosion released a biological weapon called "Lucifer-Alpha," which had been under development by the old Soviet regime, into the atmosphere, creating the greatest biohazard in history. Within one week, the bacteria spread throughout Eastern Europe and Eurasia, killing 80% of the population there. Six months later, "Lucifer-Alpha" suddenly mutated into a non-lethal form. Northern Eurasia, now an unpopulated wasteland, was designated and remains a United Nations Neutral Zone to prevent unauthorized exploitation. Since the disaster, which has become known simply as "The Catastrophe," hundreds of research papers have been published purporting to reveal its causes, but the real reason behind it remains unknown.
+M	157b	World War Three (2010-2011) On August 24, 2010, exactly ten years after The Catastrophe, World War Three broke out over the UN Neutral Zone, the largest buffer region remaining. China provided military support to hardline remnants of the old Soviet army who had escaped The Catastrophe, in an attempt to invade the neutral zone. However, an economic blockade by the Western powers quickly forced China to withdraw, securing victory for the UN forces. Ending just six months after it began, this conflict has become known as the "Half-Year War".
+M	169c	"Siberian Neutral Zone, The" Left uninhabited by "The Catastrophe," the United Nations has controlled the bulk of Siberian territory for the past 50 years, prohibiting any outside interference. Aftereffects of "Lucifer-Alpha" contamination are expected to prevent any plant or animal life from flourishing there for the next 50 years. In order to prevent reoccurrence of something like "World War III," the United Nations has set-up extensive monitoring stations on the borders of the region.
+M	17b6	"Elimination of Nuclear Weapons" Beginning with the INF (Intermediate Nuclear Forces) treaty in 1987, strategic and theater nuclear weapons were steadily reduced. The threat of nuclear war was further reduced by the IAEA's (International Atomic Energy Agency) implementation of its "Military-Use Nuclear Material Manufacturing Cessation Accord," which enforced the disposal of all military-use nuclear material at the beginning of this century.
+M	1874	"Witch Hunts (a.k.a. Bioroid Hunts)" A social phenomenon caused by the SNATCHER problem. A form of group violence involving the lynching of numerous innocent individuals who were believed to be bioroid SNATCHERS in reality. In general, individuals of lower social standing were the targets of the attacks. Named after the medieval witch hunts which took place in Salem, Massachusetts, U.S.A., due to the similarity of the two occurrences. The phenomenon underscored the "North-South" rift of modern society, a form of revulsion at the growing poverty problem. Well-to-do groups from the north attacked slum dwellers in the southern regions, resulting in great loss of life to individuals who had no connection to the SNATCHER menace. The problem died out when it became clear that SNATCHERS only targeted individuals of high social standing.
+M	1a00	Junker Official Name: JUDGEMENT (to judge) - UNINFECTED (not infected) - NAKED (pure) - KIND (humanity) - AND (whether, and if necessary) - EXECUTE (process) - RANGER (special agent). Also includes the meaning of JUNK (scrap) plus ER (person): a scrap processor.
+M	1b01	"Junker Agency History". April, 2047: National Police Agency forms special team to deal with SNATCHER problem. May, 2047: Government Intelligence Agencies establish investigative science team to research SNATCHER activities and devise solutions. August, 2047: Police and Government organizations are formally combined into new agency, called Junker. New group is organizationally overseen by the government intelligence agencies.
+M	1bcd	The Navigator is a support robot. Related group - "Junk Team". 'Engineer' is responsible for development and maintenance of all Junker support equipment. 'OPERATOR' is responsible for management of data transmitted from the field by 'navigators' as well as day-to-day operation of HQ facilities. 'Chief' is in charge of judgment of overall situation and assignment of duties to 'runners'. 'Runners' are responsible for carrying out actual investigations of SNATCHER activities with the assistance of 'Navigator' robots. This post is exceptionally dangerous. 'Junk Team' is responsible for clean-up and data gathering at sites where 'Runners' have dispatched SNATCHERS.
+M	1d74	Junker Staff: Benson Cunningham - Chief. Harry Benson - Mechanic. Mika - Operator. Gillian Seed - Runner. Lewis Gilmore - Runner (KIA). Sergio Glazer - Runner (KIA). David Johnson - Runner (KIA). Schultz Deckard - Runner (KIA). Jean-Jack Gibson - Runner (KIA). (As of December 2047)
+M	1e99	Junker Staff: Benson Cunningham - Chief. Jean-Jack Gibson - Runner. Harry Benson - Mechanic. Mika - Operator. Gillian Seed - Runner (New). Lewis Gilmore - Runner (KIA). Sergio Glazer - Runner (KIA). David Johnson - Runner (KIA). Schultz Deckard - Runner (KIA). (As of December 2047)
+M	1fbf	"Junker Headquarters Layout": Front Hallway; Agency Chief's Office; Engineering Room; Shooting Range (Junker's Eye practice system); Detective's Room; Computer Room (A.I. Computer Jordan); Turbocycle Parking Lot.
+M	204a	Junker Data: Address - Neo Kobe City, Central Ward, Port Island MT-7-3-2, Konami Omni Building, Floor 150. (Konami Omni Building: 165 floors above ground, 35 below, 630 meters tall.) Videophone Number: 256-128
+M	2103	Junker Bylaws: (1) A Junker's purpose is to process bioroid SNATCHERS. (2) A Junker must never harm a human being, even to carry out (1). (3) Under Civil Code 18-12 (Protection of Citizens' Rights in SNATCHER Cases), a Junker may not physically restrain or directly investigate a suspect without conclusive proof they are a SNATCHER. (4) Under Criminal Code Special Clause 3 (Bounty Hunter Assistance), a Junker is obligated to cooperate with and support civilian bounty hunters. (5) In order to carry out (1), a Junker is allowed the use of a blaster, and a navigator, and a turbocycle.
+M	229e	"Scanning Warrant". In accordance with Civil Code 18, Section 12, "SNATCHERS and the Protection of Citizens' Rights," civilians have the right to deny Junkers permission to directly analyze (scan) their physical person. Direct scanning of a suspect is permitted only by issuance of a scanning warrant by the appropriate court. As such, use of navigators' sensors or other instruments to scan a suspect is strictly prohibited unless the attending officer (runner) is in possession of such a warrant.
+M	23a7	A personal identification card designed exclusively for Junkers, containing an integrated IC chip upon which is stored crucial personal information about the holder, such as their DNA pattern.
+M	2406	Flexion armor installed around vital organ areas helps protect the wearer against physical blows or external pressure. Use of these materials makes manufacture to exact specification of wearer necessary.
+M	2512	Constructed with shape-retaining polymers, ceramics and flexible plastics. The buckle contains a high-voltage shock generator to stun adversaries in emergency situations.
+M	2578	Developed with protein engineering biochemical technologies, this spray, when applied to exposed skin, provides high-levels of protection, including resistance to heat and physical blows. While oxygen transfer can take place, sweat and other waste matter cannot be expelled, limiting continuous usage of the spray to 24 hours.
+M	2622	Runners have adopted the following two blood transfusion techniques for lowering the risk of death due to injuries suffered in the line of duty. (1) Artificial Blood Exchange. Artificial blood is supplied to an injured runner while their natural blood is withdrawn and then duplicated through bio-genetic culturing techniques. When sufficient quantities of their natural blood are available, the two blood types are swapped once again. While artificial blood can be produced in unlimited quantities, making it useful in cases of massive blood loss, it's ion structure places strain on the recipient's organs, making prolonged use inadvisable. (2) Self-Donation (Personal Blood Bank) Runners collect their own blood through regular donation. This blood is mixed with a nutrient solution, concentrated, and stored at minus 42 Celsius. In an emergency, the blood is flash-thawed and returned to its "owner".
+M	2797	A type of chewing gum supplied to Junkers with adrenaline crystals incorporated into the gum base. Its use in World War III as an emergency adrenaline supplier gained widespread attention. Use of the gum allows a Junker in an emergency situation to temporarily boost their reflexes, accuracy and strength. Extended continuous use creates extreme depression and fatigue. Its effects are similar to the burst of superhuman power occasionally observed in persons caught in extreme circumstances, such as fires, and other accidents.
+M	2874	A personal support robot designed to assist a Junker with their investigation. Navigators are programmed with the needs of their actual users in mind. For example, runners who suffer from tension relatively easily are given navigators programmed to help calm them down, etc. Navigators are equipped with a variety of sensors to aid in the detection of possible danger. In addition, these sensors can be used to perform direct physical scanning of suspected SNATCHERS if a scanning warrant has been issued. Navigators are programmed to ignore orders to scan suspects if a warrant has not been granted.
+M	29be	A land/air vehicle used by Junkers. Three wheels are available for Ground travel; wheels are retracted during jet powered hover or full-flight mode. Vehicle's on-board computer is linked to city's traffic network, permitting completely automatic operation. Manual operation also available. On-board computer assists driver during manual operation depending on their flight/driving abilities. Automatic computer-takeover feature installed to help prevent accidents in emergency situations.
+M	2abe	The only firearm capable of eliminating SNATCHERS. Carbon polymer/ceramic construction offers very light weight and almost complete resistance to heat, resulting in near-perfect shape retention. Grip and trigger shape are ergonomically designed from cast of user's hand to maximize comfort and accuracy. Neural feedback circuitry adjusts weapon to user's capabilities, allowing nearly unlimited improvement in marksmanship skills.
+M	2b91	"Insectors". Spider-shaped probe/security robots used by SNATCHERS. Thread-like sensor apparatus deployed from rear of robot triggers needle gun attack if touched or approached. Micro-jet powered; known to jump. Length: 30cm. Weight: 500g. Specimens recovered for study by "Junk Team" invariably self-destruct, preventing further analysis.
+M	2c63	Distinguishing Features of SNATCHERS: (1) SNATCHERS are only active in winter, and only at night. (2) SNATCHERS only snatch VIPs; their goal seems to lie in secondary effects rather than the snatch itself. (3) A SNATCHER's snatching ability has limits, since there are set standards for contracting body parts, joints and skeleton. This range is thought to be a height of 150 to 180cm, meaning children and the elderly probably cannot be snatched. (4) SNATCHER weapon: a laser cannon hidden in the mouth. (5) Weak point: Thin, slit portions of their skull armor which make head size adjustment possible.
+M	2db9	(6) SNATCHER's artificial skin becomes cancerous when exposed to ultraviolet rays for extended periods.
+M	2de8	(7) SNATCHERS employ a bioengineered crystal form of pollen, known as SNOW 9, as a type of electronic camouflage because of its disruptive effect on electromagnetic radiation (radio signals, et. al.).
+M	2e1d	"SNATCHER History". Dec. 22, 2044: First contact. A bioroid's remains are recovered from the wreckage of SRS Flight 4003, which crashed in the Rokko Mountain range. Feb. 18, 2045: A SNATCHER which had killed and replaced ("snatched") the mayor of Neo Kobe, B. O'Connor, is captured, but self-destructs during transport. In December, Neo Kobe is thrown into a panic over the problem. The "Witch Hunts" take place as people try to uncover and destroy imagined SNATCHERS. Nov. 3, 2047: A KBC newscaster is discovered to be a SNATCHER and terminated. The remains are destroyed by self-detonation. Nov. 15, 2047: The leader of a radical new religious group is found to be a SNATCHER; the remains catch fire in a traffic accident during pursuit. Nov. 20, 2047: The former president of a biotechnology firm is uncovered as a SNATCHER and terminated. During transport, the remains are stolen.
+M	2fea	"Bounty Hunter Program". In order to elicit civilian support in the effort to combat SNATCHERS, the government instituted the following reward program: All eligible voters of Neo Kobe were given the right to register as bounty hunters. Registration involves a few simple tests and procedures (firearm license, psychological profile, Junker test, etc.). Actual rewards for SNATCHER termination depend on individual circumstances. Government also provides numerous insurance benefits for those injured or killed while attempting to terminate a SNATCHER.
+M	3127	"Neo Kobe City Statistics" Total Population: 5.83 mil. Ethnic Groups: Japanese, 30%; Chinese, 24%; American, 10%; West European, 5%; East European, 11%; Hispanic, 5%; Jewish, 5%; Philippine, 3%; Other, 7%. Unregistered Population: 1.2 mil. (est.) Total Area: Undetermined
+M	320d	"Development of the City" Construction to link major man-made islands of the Inland Sea begins near the end of the 20th century. Plan to link the five major blocks into one large metropolis -- "Neo Kobe" -- is promoted in early 21st century. Plan is completed 10 years later in conjunction with Kobe expo. City launched as a major new "hub" for Asia, and experiences heavy immigration. By 2045, city becomes known as "Neo Crowbar" due to its infamy as the city with the world's highest crime rate.
+M	3328	"Kobe Bridge" Complete quarantine of Neo Kobe is launched on December 1, 2047 as a method of preventing the spread of the SNATCHER menace. All land, sea and air links to the city, except for Kobe Bridge, are cut and patrolled by the military. Passage over Kobe bridge requires a government issued pass and numerous, thorough checks.
+M	33e0	A high-speed "neuro-computer" capable of mimicking human thought and reasoning patterns. Maintains extensive files on all individuals, corporations, and groups within the city. Also manages the day-to-day operation of the city's financial, distribution and transport systems.
+M	34ca	Alpha-One program maintenance is coordinated by Konami Software's Project Development Division, Sub-group #48.
+M	34fb	Videophone number 30-1234.
+M	3517	Larger than ordinary pollen, the crystals are visible to the naked eye and appear similar to snow, hence the name. Nevertheless, it is re-emerging in tropical regions, as well as those sub-tropical regions where water supplies are plentiful, such as near rivers. At present, the only known area affected in Neo Kobe is in the vicinity of the Ina River. As the pollen appeared in Neo Kobe only after the first presence of SNATCHERS was confirmed, the relationship between the two is currently under careful investigation.
+M	36d6	A mysterious disease which originated in France around 2035. The first patient in Neo Kobe was recorded in the summer of 2040. At present, between 50,000 and 100,000 residents of Neo Kobe are believed infected. STBO Victims develop fever, joint and muscle pain, diarrhea, lymph node inflammation, tremors and pneumonia, with over 60% dying from the disease. Transmission is via bodily fluids such as blood, saliva and semen and generally spread by sexual contact or hypodermic needles, particularly when unsterilized ones are used for the injection of illegal drugs. Similarities to the disease AIDS, which emerged some 55 years ago, led researchers to believe at one time that STBO was a mutated form of the AIDS virus, but the two have since been shown to be unrelated. There is still no treatment or cure. Public discomfort about the disease and concerns about whether others close to them are carriers has noticeably increased the level of suspicion in the general population, and significantly harmed interpersonal communication. In many ways, this trend has made detection of SNATCHERS more difficult.
+M	38b9	A recently developed, new type of hallucinogen derived from alkaloids. Usage is via injection, either under the skin, or directly into a vein. The drug directly stimulates the user's nervous and lymbic system, creating a strong sense of excitement as well as hallucinations. Additional effects include lowering the user's sensitivity to feelings of worry, doubt or fear. The drug soared in popularity among young people during the late 2040s. Regular use causes changes in brain tissue synapses which can result in impaired nervous function if use is prolonged.
+M	39c1	The underground market in Neo Kobe. Vast numbers of products, both legal and illegal are available at cut-rate prices. Chinese immigrants with excellent business and marketing skills contributed greatly to the market's growth during its early years. Some experts believe its size now exceeds that of the regular marketplace. The market had mainly served to meet the needs of immigrants from the mainland and illegal aliens, but the wide variety of merchandise and low prices now attract many regular customers from the general population, severely hurting the business of traditional merchants. The largest organization in Neo Kobe in the market is the so-called "Plato's Cavern" area.
+M	3b44	A linear motor train utilizing superconducting magnets for propulsion. The system was the backbone of transport in Neo Kobe for 30 years after the war, but was scrapped due to the spread of slums in the South, and the introduction of automatic traffic control via central computer. The original plan was for trains to travel in near-vacuum tunnels to reduce air resistance to almost zero, but high-costs and the weak foundations of the reclaimed land in the city prevented realization. The abandoned tunnels of the system still exist, demolition efforts have been hampered by property ownership disputes and the weak foundations.
+M	3c7d	A system which maintains the entire transportation network of Neo Kobe, including land, air and water routes, via direct computer control of traffic flow by the Alpha-One mother computer system. In particular, the system's ASV (Automatic Safe Vehicle) routines work to prevent traffic accidents and congestion. They have boosted the efficiency of ground transport, in particular, to levels not dreamed of in the 20th century. The system has eliminated the need for public transportation.
+M	3d4d	A term referring to illegal, manned taxis. The word "taxi" usually refers to government operated, computer-controlled, unmanned vehicles. However such taxis, requiring personal identification to board, only operate in areas designated as "municipal data administration districts". They generate records of where customers board and get out, thus making their use impossible or impractical for many immigrants and illegal aliens. On the other hand "black taxis" require no identification and will go anywhere, making them extremely popular. As such, government officials have decided that the "black taxis", though illegal, have formed such a sophisticated organization throughout the city that they cannot be ignored any longer and plans are being studied which would legalize their operation.
+M	3ef7	Plans were made in the late 20th century to develop space resources for the betterment of mankind, but global warming, The Catastrophe, and other factors which harmed the environment speeded this trend significantly. The construction of the U.S. space station "Freedom" as well as the development of successful fusion-based propulsion represented enormous steps forward in this effort. At present, a helium-3 mine to provide fuel for fusion rockets is under development on the moon. In addition, the "New Promised Land" project to create permanent colonies on Mars is in advanced stages.
+M	3fdc	"Mars Research Chronology" Aug., 1988: The Phobos Project. Phobos 1 & 2, launched by the former Soviet Union, explore Mars and its two moons, Phobos and Deimos. Oct., 1989: Mars Observer, launched by the U.S., studies the planet's atmosphere and soil. Apr., 1997: Pesta Project. Unmanned probe retrieves data on Mars, asteroids and comets. Project initiated by Eastern European nations, but The Catastrophe forces transfer of the project to the U.S. Dec., 2005: Construction begins on "Wells Project," an unmanned robot production facility on Mars. Jun., 2010: First satellite put into permanent Mars orbit. Jul., 2015: Construction begins on experimental manned base, "Le Guin". Nov., 2022: Construction begins on Mars space port, "Moorcock". Jun, 2025: Completion of early manned base, "Herbert". Dec., 2030: First full-scale Mars base, "Vonnegut," begins operations. Jan., 2035: Operations begin at "Asimov," the first mine on Mars.
+M	41d4	"The Mars Greening Project". A project to turn the barren planet into a lush, green world like Earth. Initially, large reflecting mirrors will be placed in orbit to reflect heat radiation back down to the planet. Simultaneously, greenhouse gasses will be released into the Martian atmosphere. By warming the planet, conditions which allow yeast and other bacteria to flourish are established. Following this, the oxygen given off by these bacteria will be employed to make conditions favorable for higher forms of life. The vast underground deposits of frozen water, the existence of which was discovered by earlier bases on the planet, have moved this project from the realm of fantasy, into likely reality. At present, phrases like "Turn the Red Planet Green," and "Mars: The New Promised Land" represent the energy that those involved are putting into the project. Phase one of the project, the installation of reflecting mirrors around the planet, is currently scheduled for 2049. A rocket carrying the first immigration investigative team to Mars, the "Beagle Jerusalem," was launched just last week.
+M	43c2	"Biocommunication" Communication without language by mechanically detecting and encoding the organic responses of chemical and other products given off by living organisms. The technique is hoped to provide a way for humans to communicate with other species some day, but logistical obstacles have limited it to scientist's one-way observations at this point. PPET scans of the brains of vertebrates using these techniques have led science to a nearly full understanding of the structure of these animals' consciousness.
+M	44e5	"Dreamcorder" A device for recording human dreams. Pick-up of brain waves allows for playback which recreates distinct sights, sounds and physical sensations. However, regulations prohibit playback by other than a licensed counselor or psychologist. Recordings are not legally admissible as evidence in a court of law.
+M	4581	A museum of living genes, featuring live animals (endangered or extinct species only), recreated through genetic manipulation. Created by the International Union for the Conservation of Nature (IUCN) in order to recreate and culture extinct mammal and bird species. Besides caring for living animals, the museum operates a library of frozen genetic samples. Successful birth of a unicorn in '47 (natural delivery) drew widespread attention. The baby unicorn has also been adopted as Neo Kobe's mascot.
+M	4690	A musical performed by humanoid robots. As each robot's expressions and movements are sampled from actual actors, there is virtually no difference between their performances and that of live actors. The popularity of this art form no doubt lies in the technology's ability to change the performers with a simple software modification, including the ability to inject long dead, classical actors into modern roles. The big hit of '47 has so far been "The Phantom of the Opera".
+M	47a3	Genetically engineered marsupials which function as pets or handbags. Their added value of being able to carry around personal belongings led to a huge boom in these animals in the early 2040's. Originally designed for a television commercial, their subsequent widespread media exposure touched off huge sales. Several firms became involved in a copyright dispute over the animals' design, but their popularity waned when the Society for the Prevention of Cruelty to Animals complained of the slave-like treatment many owners gave their "living luggage".
+M	489d	A popular food item said to have been born by accident when a Japanese student accidentally dropped his pizza in someone's soup. The floating shape apparently reminded him of the island of Neo Kobe in the sea, hence the name. Scores of different varieties are available by combining different toppings and soups. NEO KOBE Pizza is beginning to gain popularity internationally as well.
+M	4968	A high-tech form of divination which purports to read a person's future from the pattern of blood vessels on the retina of the eye. Like fingerprints and voice prints, this "art" gains its popularity from the fact that all individual's patterns are unique.
+M	49cb	A sport which is enjoying tremendous recent popularity among young people.
+M	49ed	When conventional surfing became impossible due to heavy contamination of the sea around the city, a local university's Air Sciences department developed the new board and wave generator.
+M	4a32	With just moderate protective gear, a board and the air wave generator, anyone can enjoy the sport. Popularity has been centered among young people of the slum districts. As winds and weather have no effect on use, competitions and tournaments have been held year-round in cities throughout the country.
+M	4ade	A sport involving the use of a winged horse developed through bioengineering. Originally popular among the British upper class, participants compete for the longest time and distance flown. Developed from ponies, these "Dragon Horses," are only capable of 50 meters or so of continuous flight. The first official competition took place in Neo Kobe in 2045. The winner, an entrant invited from overseas (Oracion Highlander breed), managed a 30-second flight covering 80 meters.
+M	4bf9	"Neo Kobe Quarantine" The government, fearing mainland SNATCHER infiltration from Neo Kobe, designated the city a contaminated zone and ordered the closure of all land, sea and air links, excluding the Kobe Bridge. The policy was enacted on December 1, 2047. While the policy appears to have so far prevented any spread of the problem to the mainland, it has exacerbated the isolation of the city itself, without contributing to a comprehensive solution to the SNATCHER menace.
+M	4cf5	Since the 2025 declaration of Neo Kobe as an "immigrant's paradise," vast numbers of foreigners from countries throughout Southeast Asia have moved to the city. Nevertheless, this has increased the asset distribution gap between rich and poor and contributed to the social and ethnic splintering of the populace. The problem is best illustrated by the concentration of relatively wealthy, long-time residents in the city's northern zones, versus the relatively poor, mainly immigrant population centered in the cities newly reclaimed, southern regions. The trend was spurred by The Catastrophe, which created vast waves of new immigrants who developed this "underground" society, effectively splitting the city into two distinct groups or cultures, that of the North and the South.
+M	4e22	Individuals who have managed to erase all record of their own existence from public and private databases and live without fixed residences. Also known as "freemen". Not to be confused with "homeless" who have been forced into their condition by economic misfortune. In modern, information-controlled society, the lack of computer records on any given individual is tantamount to that individual's non-existence. The recent increase in their numbers has begun to contribute to crime and labor difficulties in the city. Many of the individuals who choose this lifestyle are former workers in computer-related and data management industries. Their presence underscores one of the major shortcomings of society's current dependence on centralized data control and management. Most of these individuals live in regions of the city which are not "municipal data administration districts," or in the old tunnels of the abandoned Tube-Liner system.
+M	4f5e	The Catastrophe created vast quantities of Eurasian refugees who spread throughout the world creating a massive global immigrant problem. Chinese form the largest sub-group, and over 2,000,000 have found their way to Japan in at least five waves. Neo Kobe, touting its status as an "immigrants' paradise" at the time, was the logical government choice as the area for them to resettle. As a result, the Chinese percentage of the population grew to become second only to Japanese, but the majority of these individuals have ended up living in the slum districts of the city's southern regions. Dissatisfied with these conditions and the perceived lack of any government effort to rectify them, they have formed their own "underground" society, which is now far too large of an organization for the "legitimate" government to control.
+M	50d1	A summit of world leaders scheduled for December of 2047 in Kyoto. Despite the fact that no accounts of a SNATCHER outside of Neo Kobe exist, world leaders, fearing "contamination" by them, are pursuing a policy of sealing the city off from the rest of the world by severing all land, sea and air transport links. The main function of this year's summit is to formally agree to the above policy, and enlist the cooperation of the Japanese government in carrying it out.
+M	5204	Neo Kobe can be divided into two distinct areas. Those regions where satellite and fiber-optic cable networks are used to manage all forms of data, the so-called "municipal data administration districts," and the mainly slum regions which are not under such control and oversight. Individuals who cannot get personal guarantees or identification invariably concentrate in the latter regions as the lack of such ID prevents social functioning in the controlled regions of the city. No forms of cards or credit are accepted in these areas; cash is the only currency. While government proposals to remedy the situation have been discussed for a number of years, debate over implementation methods, civil rights and the like has prevented any actual progress from being made. Approximately 30% of the city's total area is officially recognized as falling outside of the municipal data administration districts, and at least another 10% is believed to be similarly beyond government control, though not yet designated as such.
+M	5360	All right, let's play with Jordan's montage functions!
+M	5377	However, we won't be able to run any montages we build through the database.
+M	5392	All right, let's try constructing a montage photograph of the suspect.
+M	53af	You can use the SCAN DATABASE command to search for possible matches when completed.
+M	53da	FILE search
+M	53eb	Now scanning montage against Alpha-One database.
+M	540f	FILE EXIST
+M	5420	All right! We did it!
+M	542a	Good work, Gillian!
+M	543a	2 possible matches for montage photograph located.
+M	5456	Possibility #1: Probability of Match 70%
+M	546b	Ivan Rodriguez: Air surfer (amateur) 27 years old. Address: 5-22 South Itayado, SN District. Caution: Non-municipal data administration district
+M	54da	Possibility #2: Probability of Match 65%. Displaying data...
+M	5500	Freddy Nielsen: Taxi driver (no company affiliation) 29 years old. Address: Dormitore Okamoto, Apt. #202, 3-78 New Okamoto, MR District. Family: Wife, Lisa, age 25.
+M	5577	Now printing montage photograph.
+M	5591	Gillian, the montage has been printed.
+M	55ae	Now we're in business!
+M	55ba	It's a simple two-dimensional rendering of Jordan's three-dimensional data, but it should prove useful anyway.
+M	55f0	Well, we've got their addresses, shall we pay these gentlemen a visit?
+M	5616	One of these men is no doubt the SNATCHER who killed Jean.
+M	5638	We've almost got him now!
+M	5649	Let's go investigate the suspects.
+M	5665	FILE NOT FOUND
+M	5678	Maybe the facial shape is wrong...
+M	5689	Maybe the eyes are wrong.,,
+M	569d	Maybe we've got the wrong nose.
+M	56b1	Maybe we should try a different mouth.
+M	56c5	Maybe the hairstyle is wrong.
+M	56d6	FILE NOT FOUND
+M	56e9	Maybe the montage is all wrong. Let's carefully think about the description we got and try again.
+M	5726	Gillian, this isn't enough data.
+M	5740	Gillian, look closely okay?
+M	5755	You forgot to input facial shape data.
+M	5769	You forgot to input eye data.
+M	577b	You forgot to input nose data.
+M	578d	You forgot to input mouth data.
+M	579f	You forgot to input hairstyle data.
+M	57b3	You're still not finished. You can't call this a face!
+M	57d6	But Gillian, you haven't input anything yet...
+M	57f2	Isabella said the guy had sort of a bony look, didn't she?
+M	5816	Hmmm... Which one...
+M	582b	Facial Shape #1
+M	5834	Facial Shape #2
+M	583d	Hmmm... That doesn't seem right...
+M	5851	Facial Shape #3
+M	585a	Facial Shape #4
+M	5863	Facial Shape #5
+M	586c	Facial Shape #6
+M	5875	What was it that Isabella said?
+M	58a2	Hmmm...
+M	58b7	Eye Data #1
+M	58be	Eye Data #2
+M	58c5	Eye Data #3
+M	58cc	Eye Data #4
+M	58d3	Eye Data #5
+M	58da	Eye Data #6
+M	58e1	What kind of nose did Isabella say he had?
+M	5906	This is really confusing...
+M	591b	Nose Data #1
+M	5922	Nose Data #2
+M	5929	Nose Data #3
+M	5930	Hmmm... This doesn't look quite right.
+M	5942	Nose Data #4
+M	5949	Nose Data #5
+M	5950	Nose Data #6
+M	5957	What kind of mouth did Isabella say he had?
+M	597b	I'm really baffled here...
+M	5994	Mouth Data #1
+M	599b	Mouth Data #2
+M	59a2	Mouth Data #3
+M	59a9	Mouth Data #4
+M	59b0	Mouth Data #5
+M	59b7	Mouth Data #6
+M	59be	How did Isabella describe his hair?
+M	59ea	What was it... "naturally flowing"... I think that's what she said...
+M	5a03	Hairstyle #1
+M	5a0c	Hairstyle #2
+M	5a15	Hairstyle #3
+M	5a1e	Hairstyle #4
+M	5a27	Hairstyle #5
+M	5a30	Hairstyle #6

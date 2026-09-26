@@ -1,0 +1,278 @@
+W	1601	Area
+W	1608	1 and 2 together
+W	1615	Use Metal Gear
+W	1624	Monitors
+W	162d	Use Switches
+W	163a	Switches
+W	1643	Snatcher
+W	1650	Don't Save
+W	165d	Save
+W	1668	Save 1
+W	1671	Save 2
+W	167a	Save 3
+W	1683	Save 4
+W	168c	Duct
+W	1693	Switch 1
+W	169c	Switch 2
+W	16a5	Move
+W	16aa	Rebuild corpse
+W	16b7	Desk Top
+W	16be	Exit
+W	16c7	Skeleton
+W	16cc	Look
+W	16d1	Look Over
+W	16d8	Cause Of Death
+W	16dd	Remains
+W	16e2	Time of death
+W	16ef	Room
+W	16f4	Operating Table
+W	16fb	Reception Desk
+W	1700	Floor
+W	1703	Smell
+W	170e	Identity
+W	1713	Quit Investigate
+W	1720	Continue search
+W	172d	Investigate
+W	1734	Shelf
+W	1737	Motion Detector
+W	1740	Ceiling
+W	1745	Door 1
+W	174a	Door 2
+W	174f	Door 3
+W	1754	Doors
+W	1757	Wall
+W	175a	Containers
+W	175f	Talk
+M	1764	We're in the hospital's hallway.
+M	1775	They seem to like things tidy, don't they.
+M	178c	It's obviously used differently from the floor above.
+M	17a5	All right, let's check out the first room.
+M	17bc	Let's take a look in the second room.
+M	17d4	Are you ready Random? Let's have a look at the last room...
+M	17f7	Let's investigate a different room first.
+M	180c	Gillian, let's take a look at a different room.
+M	1821	There is a reception booth in the middle of the floor, as upstairs. And there are three doors off the hallway.
+M	1855	Everything is exactly the same...
+M	1865	It's like we've jumped through time or something.
+M	187c	It's been polished quite meticulously. Nothing like upstairs at all.
+M	18a2	I see... It was a linoleum floor, huh?
+M	18bc	The monitors and control consoles also appear well cared-for.
+M	18da	In other words, this stuff gets looked at regularly. We better be real careful.
+M	18fe	The monitors are switched off, but the AC power lamps are still lit.
+M	1922	...there are two switches here.
+M	193b	There are switches here just like the first floor.
+M	1951	So they work the doors just like upstairs, huh?
+M	196d	The third door is just like the other two.
+M	1983	They are the same doors as we saw on the first floor.
+M	1999	The construction and design of the hallways and rooms is absolutely identical to the floor above.
+M	19bf	I'm not reading any movement. We are the only ones in the area.
+M	19df	It's waxed rather nicely.
+M	19f8	I just can't imagine a bunch of SNATCHERS crawling around waxing floors...
+M	1a19	There are switches here to open the doors.
+M	1a32	The design of the reception booth is the same as that upstairs.
+M	1a4b	It has been used quite recently. The monitors are still warm.
+M	1a72	What's this? Unlike the first floor, there are only two door switches!
+M	1a98	There are only two buttons here.
+M	1aae	It says "Morgue".
+M	1abf	"Morgue?" As in where dead bodies are kept?
+M	1ad2	There are no doorknobs or handles. It cannot be opened manually.
+M	1af3	It's a very heavy door. Strength alone won't be enough to open it.
+M	1b13	If there was one in the operating room, there are bound to be others.
+M	1b34	You never know. They could be hiding anywhere around here.
+M	1b52	I don't know... For a supposed hideout, there aren't very many of them.
+M	1b68	All right, I'll push switch #1.
+M	1b7a	...Door #1 closed.
+M	1b90	...Door #1 opened.
+M	1ba5	All right, I'll push switch #2.
+M	1bb7	...Door #2 closed.
+M	1bcd	...Door #2 opened.
+M	1be2	...Door #3 closed.
+M	1bf8	...Door #3 opened.
+M	1c0d	There's got to be a switch somewhere, just like the floor above.
+M	1c2c	Gillian, we've got to find the switch!
+M	1c40	There's only two buttons. Maybe it can be opened using those two buttons?
+M	1c6f	I wonder how one can get the third door open?
+M	1c8b	There must be some kind of trick or something. I mean, there's only two buttons.
+M	1cac	Why don't we check out the other rooms until we figure out how to open the third door?
+M	1cd2	There must be some way to open the third door. Let's check out this floor a little more.
+M	1d0c	That door is open.
+M	1d1c	That door is closed.
+M	1d2d	We're in room #1.
+M	1d3c	The lights are on, unlike upstairs.
+M	1d51	...let's go out in the hall.
+M	1d61	Just like that last one, you never know when they might pop out. Keep your blaster ready, Gillian.
+M	1d9d	There is an operating table in the middle of the room. This appears to be their real treatment area.
+M	1dc4	With these lights, it actually looks like a real hospital.
+M	1dda	Various X-ray devices have been installed in the ceiling.
+M	1df9	A number of brand-new medical monitors are installed.
+M	1e16	It appears to be a standard operating table. Cables run from it to a number of the machines around the room.
+M	1e46	It's a model of a human skeleton. No doubt used for anatomical study.
+M	1e5b	The remains of the SNATCHER are on the floor.
+M	1e6d	There is nothing of note besides the medical equipment.
+M	1e89	It's a pretty big place. Can't really see everything at once. Let's take a look from one side to the other.
+M	1eaf	Besides the standard X and gamma rays, they can also project neutron and proton particle beams with this equipment. I would suspect that it is used in cancer treatment.
+M	1f00	The lens has been polished quite nicely.
+M	1f18	These are monitors for ultrasound, MRI scanners, and other imaging equipment. They are already connected to the nearby machines.
+M	1f52	Though switched off, they are getting power. The equipment is in stand-by mode.
+M	1f72	There is nothing unusual there.
+M	1f85	The surface of the bed is still quite warm. It's as if someone was lying there until just moments ago...
+M	1fb7	I'm no longer reading movement. There is nothing around at the moment.
+M	1fd9	I'm not picking up any movement, at least not anymore. There was some movement, but I've lost it now.
+M	2009	This is odd... The reading comes and goes. Probably a sensor malfunction on my part.
+M	2041	This is rather grotesque. It's somewhat distorted. For a medical model, it's quite inaccurate.
+M	207a	When you look at them like this, there isn't much difference between them and humans, is there?
+M	209d	It's functions have been completely terminated. It won't be moving again.
+M	20be	All right, let's look over the entire room.
+M	20d2	Hmm? The skeleton is gone...?
+M	20e9	It was definitely there a moment ago...
+M	20f8	Motion detected! ...It's in this room!
+M	2114	Gillian, here it comes!!
+M	2125	...there is one skeletal specimen.
+M	213d	It's a SNATCHER!
+M	2149	Don't scare me like that. It's just a specimen!
+M	2161	...it's a skeletal specimen.
+M	2173	So it looks like this is where they're doing their treatment.
+M	218e	And the proof is over there on the floor.
+M	21a4	Don't let your guard down. His friends are probably around here somewhere.
+M	21c3	I wonder if this is where they carry out their treatment?
+M	21db	It sure looks that way.
+M	21ef	Well that's it then. Let's trash the place.
+M	2203	There's no mistake. This is their nest. Let's take the place out.
+M	2222	Don't get too hasty, Gillian. Let's check out the other room a little more first.
+M	2245	Just relax. Let's take a look at the other rooms, too.
+M	225d	...it smells like burning machinery.
+M	2275	The stench from that SNATCHER we wasted is still around.
+M	2291	Whoa! The smell from those drugs could knock a guy down...
+M	22aa	Oh yeah... it's that same smell you get at just about any hospital...an operating one that is.
+M	22d0	There's no sign that it's moved at all. Don't worry. It's dead.
+M	22fa	Shoot it!! Aim for the head!!
+M	230d	It's in the forehead!! Aim for the center of the forehead!!
+M	2328	I think it's definitely dead, er.. terminated this time.
+M	2347	Yes. All its functions have ceased. I don't read any residual energy, either.
+M	2374	That was a really close call, Gillian.
+M	2389	I took five hits...one more and I'd be taking a dirt nap.
+M	23a2	That was close, Gillian.
+M	23b3	...yeah, took four hits. I almost bought the farm back there.
+M	23d5	That was close, Gillian.
+M	23e6	Yeah... I took three hits back there.
+M	23f7	Are you all right, Gillian?
+M	2406	I'll live... it hit me twice, though.
+M	2419	Are you hit, Gillian?
+M	242a	Yeah, but just once. Don't worry.
+M	243f	We finally beat it, eh?
+M	2450	We almost lost you again there, didn't we?
+M	2463	That was quite a tough customer... You get a few hundred of those together and that would be it.
+M	248f	Gillian, let's get on with the investigation.
+M	24aa	We're in room #2.
+M	24b9	Look at this! Some kind of testing equipment is running.
+M	24d3	That's a real nasty sound. Gets on my nerves...
+M	24ea	Let's get out of here.
+M	24f9	Ugh. I feel sick.
+M	250c	This room seems to be their real biotech research lab.
+M	2527	Looks like Frankenstein could show up any minute...
+M	2542	It is well-equipped, with micro-manipulators, various types of lasers...
+M	2567	It has a micro-surgery system.
+M	2582	No cobwebs in this room.
+M	259b	There are a number of jars for formaldehyde and other chemicals.
+M	25c1	The vast number of jars almost suggests a museum.
+M	25d5	There are a number of machines for biotech experiments. It seems they are quite serious about their work.
+M	2601	They are all finest-quality monitors, microscopes, and the like.
+M	261f	...perhaps they are culturing skin cells?
+M	263d	Samples mutated cells and organs with tumors... I don't want to look at this stuff...
+M	265f	The room is illuminated with red light. It makes for a very disquieting atmosphere.
+M	268c	What are they doing here? What with all these samples? This looks like a lot more than a place to treat skin cancer.
+M	26cd	Argon lasers, Argon dye lasers...
+M	26e9	It's a device for selectively destroying certain types of cancer cells. They also have the latest gene cannon.
+M	272b	Everything is quite neatly organized.
+M	2742	There are samples here of monoclonal antibodies.
+M	2756	What in the world is that?
+M	2763	Antibodies which are said to have beneficial effects on cancerous melanomas.
+M	277e	There's no mistake! This is definitely their maintenance hospital!
+M	27a9	DNA synthesizers, DNA sequencers, a nucleic acid extractor, chromatography equipment, automatic pipetting devices...
+M	27e7	That's a particle accelerator used to generate a stream of heavy particles for a number of different treatment techniques. The machine is in stand-by mode.
+M	281b	It looks like the SNATCHERS were working on artificial skin regeneration techniques as well as various cancer treatments.
+M	2850	This is quite an impressive array of equipment. Some university hospitals are not stocked this well.
+M	2876	NMR (nuclear magnetic resonance) microscopes, STM's (scanning tunnel microscopes), high-voltage electron microscopes, electron beam holography cameras, streak cameras...
+M	28cb	Gillian, the SNATCHERS obviously possess much greater intelligence than we have previously given them credit for. Nevertheless, their technology seems somewhat dated.
+M	2910	Dated? What do you mean by that?
+M	2921	The equipment and techniques they are using... most of these methods were abandoned years ago. This is well behind the current level of technology in most developed countries.
+M	2979	It's a rough approximation, but I would say that they are 20 to 30 years behind the times. What's more, judging from the imbalance of the research material here, it appears to be primarily the work of one individual.
+M	29c9	You're telling me that all this work on the SNATCHERS artificial skin is being carried out by one person, and not some government institution?
+M	2a18	The design of this lab itself is in violation of a number of the biohazard prevention safety codes. While a few safety cabinets have been installed, there is no autoclave or gas sterilizer anywhere.
+M	2a96	This is quite far from "P4" level. I seriously doubt that this lab was set up by a government or any other large organization.
+M	2ad5	There are a number of cell cultures and other specimens. It's all rather grotesque.
+M	2afc	The dates on the samples indicate that they are rather new.
+M	2b1a	That skeleton back there was probably waiting to get his skin here, eh?
+M	2b3a	Do you think this place is only used for skin treatment?
+M	2b55	What do you think. Sure looks like we've found their hideout to me.
+M	2b72	Let's take a look at the room next door.
+M	2b84	So is this there lab?
+M	2b94	These samples here are probably failed attempts at their new skin, I suppose.
+M	2bb5	So this is their hideout...
+M	2bc6	Gillian, let's make sure we haven't missed anything.
+M	2bdf	Whew! What a smell!!
+M	2bf4	Ugh! Smells lot rotting fish or something.
+M	2c06	That's the smell of decomposing protein.
+M	2c1f	So that's the smell of cancerous skin cells, like Gibson wrote about, eh?
+M	2c45	Uhh. I can't stand this smell.
+M	2c58	Yech. I think I'm going to be sick.
+M	2c6c	It appears to have been a proper morgue at one time, but now is being used as little more than a closet.
+M	2c92	It appears that they're just using this room to hide these bodies.
+M	2cac	There is a ventilation duct on one side of the room.
+M	2cc0	I don't see anything except for the ventilation duct.
+M	2cdd	One of the bodies is still decomposing. The other three are little more than skeletons.
+M	2d01	The positions of the bodies suggest that they were simply thrown into the room.
+M	2d24	There is a cover on the duct, but it has been weakened by oxidation.
+M	2d46	It's rusted somewhat, but it appears that it could be easily removed.
+M	2d61	The only thing in the room besides the bodies is some dust and scraps, as well the maggots infesting the newest body.
+M	2d85	There are a few droppings on the floor from mice who were no doubt feeding on the bodies.
+M	2da1	A number of different insect larva have infested the body. It hasn't been well preserved, to say the least.
+M	2dd1	But it's definitely a human body.
+M	2dec	The insects infesting a decomposing body can be divided into 8 large groups. Each of those groups works on the body for roughly 15 days, making an 8 x 15 day, or 4-month, cycle.
+M	2e55	As such, an analysis of the variety, number and size of the organisms on the body allows a rather accurate estimation of which group is currently present.
+M	2e87	In other words, you can figure out how long the victim's been dead without analyzing the body itself, right?
+M	2ebd	On this particular body, flies have laid eggs, and the maggots have grown into adult flies, so it has been less than 30 days since death. As for the other three bodies, one full cycle has been completed, so at least 4 months have passed.
+M	2f3b	Can you determine the cause of death?
+M	2f4a	The bodies are severely damaged. Such a determination would require more extensive facilities than are available here.
+M	2f6c	What about the identity of the victims?
+M	2f78	Hair, clothing, even teeth... anything that could be used to make an identification is gone.
+M	2fa9	Let's try a simulated reconstruction, Gillian.
+M	2fbc	Damn SNATCHERS. They were careful to make sure their identities didn't get out. If we even had some teeth, we might be able to make an ID.
+M	2ff5	What about these teeth here?
+M	2fff	They've been deliberately misaligned to prevent identification.
+M	301a	Then I guess we'll never be able to ID them...
+M	3026	There is a way.
+M	3032	What? How?
+M	3039	We can perform a simulated reconstruction. Fortunately, the skulls of the victims are still intact.
+M	3065	Reconstruction, eh? Good idea...
+M	3075	Great idea!
+M	307e	Warm air is flowing from the vent. It is apparently a rather large duct.
+M	30a7	It is connected to an underground air circulation system. It may even lead into the Tube-Liner as well.
+M	30da	Ugh. What a horrible smell...
+M	30ed	Whew! That stench... So that's what rotting protein smells like...
+M	3110	The decomposition process releases numerous gasses.
+M	3126	Metal, let's do this reconstruction thing on the bodies!
+M	3140	So Gillian, now it's down to just room number three.
+M	315b	So now we're down to just room number three.
+M	316d	Quiet Gillian! They will hear us if we make too much noise!
+M	318d	You never know where they could be hiding. Let's keep conversation to an absolute minimum.
+M	31b6	Gillian, please be more quiet. They'll hear us!
+M	31d9	<<sniff, sniff>> Smells like some kind of chemicals.
+M	31f0	<<sniff, sniff>> ...some kind of chemicals... I've smelled that somewhere else before...
+M	3211	You know, I like this smell, those chemicals and stuff.
+M	3231	All right, now continuing with the investigation.
+M	3246	All right, now ending the investigation.
+M	325d	All right, I'll save everything that has happened up until now.
+M	3274	Which file number would you like to save it in?
+M	3283	This file contains data from a previous save.
+M	32a5	Is it okay for me to overwrite it with the new data?
+M	32c0	In that case, I won't write the new data there.
+M	32de	This file contains data from a previous save.
+M	3300	Is it okay for me to overwrite it with the new data?
+M	331b	In that case, I won't write the new data there.
+M	3339	This file contains data from a previous save.
+M	335b	Is it okay for me to overwrite it with the new data?
+M	3376	In that case, I won't write the new data there.
+M	3394	This file contains data from a previous save.
+M	33b6	Is it okay for me to overwrite it with the new data?
+M	33d1	In that case, I won't write the new data there.
