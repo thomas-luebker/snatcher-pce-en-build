@@ -33,10 +33,14 @@ OUT = "build-en"
 # A wrong pair puts the wrong music under a scene, which is worse than leaving the speech Japanese.
 PAIRS = [
     (17, 3),    # the opening narration. Verified on real hardware. Correlates 0.39 at alignment.
-    (20, 14),   # CANDIDATE, not verified by ear. The only pair in the whole disc that scores above
-                # the verified intro pair (0.48 vs 0.39) with the PC Engine track fully contained in
-                # the Sega CD one. Remove this line if the scene comes out with the wrong music.
 ]
+# The other cutscenes are dubbed by tools/cutscene_dub.py instead (English voice over the PC Engine's
+# own music), which is how the pairs below were settled: by transcript, PCE 20 is Sega CD 20.
+# (20, 14) was tried and reverted. It was the only pair on the disc scoring above the verified intro
+# pair (0.48 vs 0.39), but on hardware it did not put English in the scene it was meant to, and it
+# was the single difference between a build that played and a build that froze -- so it went back out
+# while that freeze is being chased. Swapping a track is not free: the scene it belongs to is cued to
+# positions inside it.
 # Nothing else qualifies, and the near miss is worth recording so it is not retried:
 # PCE 10 (422.20s) and SCD 19 (422.63s) agree in length to 0.43s, and the matcher ranked them top
 # with every rival at zero -- but two tracks of equal length can only align at offset 0, and there

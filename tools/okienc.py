@@ -6,8 +6,11 @@
 import sys, struct, math, os
 sys.path.insert(0, os.path.dirname(__file__))
 from okidec import STEPS, IDX, decode, write_wav
-def encode(samples16):
-    """samples16: signed 16-bit ints at the target rate. Returns bytes (high nibble first), padded with 0x88 to 2048."""
+def encode(samples16, pad=b'\x88'):
+    """samples16: signed 16-bit ints at the target rate. Returns bytes (high nibble first), padded to 2048.
+    Pad $88 steps the decoder down by half a step per sample and, over a long run, slides the output to the
+    bottom of the range -- fine after Konami's clips, which fill their slot, but a pop after a shorter
+    replacement. Pad $08 alternates up and down instead and holds the level still."""
     val, si, nibs = 0x800, 0, []
     for s in samples16:
         tgt=(s>>4)+0x800; step=STEPS[si]; d=tgt-val; sign=8 if d<0 else 0; d=abs(d)
@@ -21,7 +24,7 @@ def encode(samples16):
         _,code,val=best; nibs.append(sign|code); si=max(0,min(48,si+IDX[code]))
     if len(nibs)&1: nibs.append(8)
     out=bytearray((nibs[i]<<4)|nibs[i+1] for i in range(0,len(nibs),2))
-    out+=b'\x88'*((-len(out))%2048)
+    out+=pad*((-len(out))%2048)
     return bytes(out)
 def snr(ref,test):
     n=min(len(ref),len(test)); sig=sum(r*r for r in ref[:n]); err=sum((r-t)**2 for r,t in zip(ref[:n],test[:n]))

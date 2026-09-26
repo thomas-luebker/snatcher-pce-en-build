@@ -10,12 +10,21 @@ Only RAM banks $68-$6A are never a load target, and their free tails are small, 
         $648C  jsr $69C2  ->  jsr GLYPH_HOOK    SJIS lead $89-$97 = letter-pair cell, drawn by us
         $7272  (entry of decode_next_pair)  ->  jmp DEC_HOOK
                                                  lead $88/$98 = dictionary token, expanded into cells
-  $82 tail +$1800-$1FFF (ISO 0x1C800)              all real code + the dictionary. Loaded once at boot
-        with the clip tables; the 3-sector table switches do not reach it.
+  $82 tail +$1800-$1FFF (ISO 0x1C800, sector 57)   one 2 KB block, seen at $9800: magic word "EN", the
+        dispatcher and all the code, the Huffman tables and the dictionary. Loaded at boot with the clip
+        tables -- but the cutscene / act loads overwrite it (the freeze at the end of the intro).
+  $68 $5BB3-$5BFF (ISO 0xCBB3)                      the resident part: loader_hook. Every load that wipes the
+        block is made by the game's scene_loader_main, so its success path ($54F1 stz $3F21) calls
+        loader_hook, which re-reads sector 57 right there if the magic word is gone -- the drive has
+        just finished the loader's read and no CD audio has started. (Re-reading at the next English
+        line instead would stop a CD-DA cutscene that is playing by then.)
+        Only these 77 bytes of the $68 tail are safe: $5C00-$5FFF is the game's table of 10-byte
+        animation records, which reached $5D0D in Harry's blaster scene. Code placed at $5BB3 and later
+        at $5CE2 was overwritten by it -- the second time was the crash after the blaster.
   $69 tail +$1CD2-$1FFF (ISO 0xD000 + $1CD2)       the 6x9 font.
 
 A trampoline maps $82 -> MPR4 ($8000) and $69 -> MPR5 ($A000) with interrupts off, calls the dispatcher
-at $9800 with the function number in X, and restores both.
+at $9802 with the function number in X, and restores both.
 (The engine bank's $5C40 tail is $FF on disc but work RAM at runtime; code put there was overwritten.
  tools/snhack_v1.py is the first, glyph-only version of this patch.)
 """
@@ -28,7 +37,10 @@ DIALOGUE_ISO = 0xF000
 GLYPH_SITE, GLYPH_ORIG = 0x648C, bytes.fromhex("20c269")            # jsr $69C2
 DEC_SITE, DEC_ORIG = 0x7272, bytes.fromhex("ad0b36f0034c6673")      # lda $360B ; beq +3 ; jmp $7366
 TRAMP_ORG, TRAMP_END = 0x7F50, 0x8000
-CODE_BANK, CODE_ISO, CODE_ORG, CODE_END = 0x82, 0x1C800, 0x9800, 0xA000
+RES_ORG, RES_END, RES_ISO = 0x5BB3, 0x5C00, 0xCBB3                 # bank $68 (ISO 0xB000), always at MPR2
+DATA_BANK, DATA_ISO, DATA_ORG, DATA_END = 0x82, 0x1C800, 0x9800, 0xA000
+DATA_SECTOR = DATA_ISO // 2048                                       # 57: the BIOS counts from the booted track
+MAGIC = b"EN"
 FONT_BANK, FONT_ISO, FONT_ORG, FONT_END = 0x69, 0xD000 + 0x1CD2, 0xA000 + 0x1CD2, 0xC000
 ROWS, TOP, SRC_ROW = 9, 2, 2
 FONT_TTF, FONT_SIZE = "/System/Library/Fonts/Monaco.ttf", 9
@@ -106,7 +118,7 @@ class Asm:
         return bytes(self.out)
 
 
-def build_trampolines():
+def build_trampolines(entry):
     a = Asm(TRAMP_ORG)
     a.label("glyph_hook")
     a.b(0xA5, 0xF9, 0xC9, 0x88); a.r(0x90, "g_orig")               # lda <$F9 ; < $88: not a cell
@@ -144,69 +156,116 @@ def build_trampolines():
     a.label("skip"); a.b(0xE6, 0xE0); a.r(0xD0, "sk1"); a.b(0xE6, 0xE1)
     a.label("sk1"); a.b(0x60)
     a.label("mapcall")
-    a.b(0x08, 0x78, 0x5A)                                           # php ; sei ; phy
+    # No sei here. The game's interrupt handler saves MPR3-6 on entry and restores them on exit
+    # (engine.asm vblank_irq_handler / vbi_restore_exit), so our mapping survives an interrupt. What
+    # a sei did was hold off the raster interrupt for a whole glyph, and on the videophone -- where the
+    # portrait sits below a mid-frame split -- that showed as the portrait flickering while Napoleon
+    # spoke and while menus redrew (hardware, 22 Sep).
+    import os
+    sei = os.environ.get("SNATCHER_SEI") == "1"                     # hardware A/B only: the pre-22-Sep behaviour
+    a.b(0x5A)                                                       # phy
+    if sei:
+        a.b(0x08, 0x78)                                             # php ; sei
     a.b(0x43, 0x10, 0x48, 0x43, 0x20, 0x48)                         # tma #$10 ; pha ; tma #$20 ; pha
-    a.b(0xA9, CODE_BANK, 0x53, 0x10, 0xA9, FONT_BANK, 0x53, 0x20)   # lda #$82 ; tam #$10 ; lda #$69 ; tam #$20
-    a.w(0x20, CODE_ORG)                                             # jsr dispatcher (X = function, X = status back)
-    a.b(0x68, 0x53, 0x20, 0x68, 0x53, 0x10, 0x7A, 0x28, 0x60)       # pla ; tam #$20 ; pla ; tam #$10 ; ply ; plp ; rts
+    a.b(0xA9, DATA_BANK, 0x53, 0x10, 0xA9, FONT_BANK, 0x53, 0x20)   # lda #$82 ; tam #$10 ; lda #$69 ; tam #$20
+    a.w(0x20, entry)                                             # jsr dispatcher (X = function, X = status back)
+    a.b(0x68, 0x53, 0x20, 0x68, 0x53, 0x10)                         # pla ; tam #$20 ; pla ; tam #$10
+    if sei:
+        a.b(0x28)                                                   # plp
+    a.b(0x7A, 0x60)                                                 # ply ; rts
     code = a.link()
     assert TRAMP_ORG + len(code) <= TRAMP_END, f"trampolines: {len(code)} bytes, {TRAMP_END - TRAMP_ORG} free"
     return code, a.labels["glyph_hook"], a.labels["dec_hook"]
 
 
-def build_code(coding):
-    """Everything that runs from bank $82 (seen at $9800). coding = snhuff.Coding."""
-    G1, a = sncells.G1, Asm(CODE_ORG)
+def build_block(coding, extra=b""):
+    """The 2 KB block for bank $82 + $1800 (seen at $9800): magic word, then code, then tables.
+
+    `extra` rides along at the end for code that is not ours to hold: the name-entry overlay has no room
+    left for the keyboard's letters, but it can map this bank in for as long as it needs them.
+    """
+    code = _code(coding, DATA_ORG + len(MAGIC))
+    block = MAGIC + code + extra
+    assert DATA_ORG + len(block) <= DATA_END, f"bank $82 block = {len(block)} bytes, {DATA_END - DATA_ORG} free"
+    return block, DATA_ORG + len(MAGIC) + len(code)
+
+
+def build_resident():
+    """loader_hook for $5BB3, called from the loader's success path with the loader's context."""
+    a = Asm(RES_ORG)
+    a.label("loader_hook")
+    a.w(0x9C, 0x3F21)                                               # the instruction the jsr replaced
+    a.b(0x43, 0x10, 0x48, 0xA9, DATA_BANK, 0x53, 0x10)              # tma #$10 ; pha ; lda #$82 ; tam #$10
+    a.w(0xAD, DATA_ORG); a.b(0xC9, MAGIC[0]); a.r(0xD0, "rtry")     # block intact?
+    a.w(0xAD, DATA_ORG + 1); a.b(0xC9, MAGIC[1]); a.r(0xF0, "done")
+    a.label("rtry")                                                 # CD_READ ($E009): sector 0:0:57 in $FC/$FD/$FE,
+    a.b(0x64, 0xFC, 0x64, 0xFD, 0xA9, DATA_SECTOR, 0x85, 0xFE, 0x64, 0xFF)   # $FF = 0: to local memory
+    a.b(0x64, 0xFA, 0xA9, DATA_ORG >> 8, 0x85, 0xFB)                # at $9800
+    a.b(0x64, 0xF8, 0xA9, 0x08, 0x85, 0xF9)                         # $0800 bytes
+    a.w(0x20, 0xE009); a.b(0xC9, 0x00); a.r(0xD0, "rtry")          # again until it succeeds, as the loader does
+    a.label("done")
+    a.b(0x68, 0x53, 0x10, 0x60)                                     # pla ; tam #$10 ; rts
+    code = a.link()
+    assert RES_ORG + len(code) <= RES_END, f"loader_hook = {len(code)} bytes, {RES_END - RES_ORG} free"
+    assert DATA_ORG & 0xFF == 0
+    return code, a.labels["loader_hook"]
+
+
+LOADER_OK, LOADER_ORIG = 0x54F1, bytes.fromhex("9c213f")            # scene_loader_main_readok: stz $3F21
+
+
+def _code(coding, org):
+    G1, a = sncells.G1, Asm(org)
     N_LO, N_HI, LEFT, RIGHT, P_LO, P_HI = 0x02, 0x03, 0x04, 0x05, 0x00, 0x01
     a.b(0x7C); a.dw("table")                                        # jmp (table,x)
     a.label("table"); a.dw("glyph"); a.dw("step"); a.dw("init")
 
     # ---- glyph: compose two 6x9 glyphs into the 16x16 buffer at ($FA) -------------------------------
     a.label("glyph")
-    for z in (N_LO, N_HI, LEFT, RIGHT):
+    for z in (LEFT, RIGHT):
         a.b(0xA5, z, 0x48)                                          # save the scratch zero page
-    a.b(0xA5, 0xF9, 0xC9, 0xE0); a.r(0x90, "k_low")                 # k = lead - $88, or lead - $E0 + 24
-    a.b(0x38, 0xE9, 0xE0 - 24 - 0x88)                               # bring $E0.. down next to $9F
+    a.b(0xA5, 0xF9, 0xC9, 0xE0); a.r(0x90, "k_low")                 # lead -> k (the $E0.. range follows $9F)
+    a.b(0x38, 0xE9, 0xE0 - 24 - 0x88)
     a.label("k_low"); a.b(0x38, 0xE9, 0x88)
-    a.b(0x85, LEFT)                                                 # keep k: the spacing is 191, not 192
-    a.b(0x64, N_HI, 0x4A, 0x66, N_HI, 0x4A, 0x66, N_HI, 0x85, N_LO)  # k*64 = (N_LO<<8)|N_HI
-    a.b(0xA5, N_HI, 0x0A, 0x85, P_LO, 0xA5, N_LO, 0x2A, 0x85, P_HI)  # P = k*128
-    a.b(0x18, 0xA5, P_LO, 0x65, N_HI, 0x85, P_LO, 0xA5, P_HI, 0x65, N_LO, 0x85, P_HI)   # P = k*192
-    a.b(0x38, 0xA5, P_LO, 0xE5, LEFT, 0x85, P_LO, 0xA5, P_HI, 0xE9, 0x00, 0x85, P_HI)   # P = k*191
+    a.b(0x0A, 0x85, LEFT)                                           # left = k * 2
     a.b(0x38, 0xA5, 0xF8, 0xE9, 0x40)                               # t = trail - $40
-    a.b(0x18, 0x65, P_LO, 0x85, N_LO, 0xA5, P_HI, 0x69, 0x00, 0x85, N_HI)               # N = k*192 + t
-    a.b(0x64, LEFT)                                                 # left = N / G1, right = N % G1
-    a.label("div")
-    a.b(0xA5, N_HI); a.r(0xD0, "sub"); a.b(0xA5, N_LO, 0xC9, G1); a.r(0x90, "divdone")
-    a.label("sub")
-    a.b(0x38, 0xA5, N_LO, 0xE9, G1, 0x85, N_LO, 0xA5, N_HI, 0xE9, 0x00, 0x85, N_HI, 0xE6, LEFT); a.r(0x80, "div")
-    a.label("divdone"); a.b(0xA5, N_LO, 0x85, RIGHT)
+    a.b(0xC9, G1); a.r(0x90, "t_low")                               # t >= G1: the odd half of this lead
+    a.b(0xE9, G1, 0xE6, LEFT)                                       # t -= G1 ; left += 1
+    a.label("t_low"); a.b(0x85, RIGHT)
     a.label("draw")
+    # Only the rows above and below the glyph need clearing: in the rows the glyphs cover, the left
+    # glyph writes the high byte and the right glyph writes the low byte (a BLANK glyph fetches as 0).
     a.b(0xC2, 0xA9, 0x00)
-    a.label("clr"); a.b(0x91, 0xFA, 0xC8, 0xC0, 0x20); a.r(0xD0, "clr")
-    a.b(0xA5, LEFT); a.w(0x20, "gptr"); a.b(0xA0, TOP * 2, 0x82)
-    a.label("lrow"); a.w(0x20, "fetch"); a.b(0x91, 0xFA, 0xC8, 0xC8, 0xE8, 0xE0, ROWS); a.r(0xD0, "lrow")
-    a.b(0xA5, RIGHT); a.w(0x20, "gptr"); a.b(0xA0, TOP * 2, 0x82)
-    a.label("rrow"); a.w(0x20, "fetch"); a.b(0x48)
+    a.label("clr"); a.b(0x91, 0xFA, 0xC8, 0xC0, TOP * 2); a.r(0xD0, "clr")
+    a.b(0xA0, (TOP + ROWS) * 2)
+    a.label("clr2"); a.b(0x91, 0xFA, 0xC8, 0xC0, 0x20); a.r(0xD0, "clr2")
+    a.b(0xA5, LEFT); a.w(0x20, "gptr"); a.b(0xA0, TOP * 2, 0xA2, ROWS)   # row pointer, row counter
+    a.label("lrow")                                                 # left glyph: font byte -> high byte
+    a.b(0xB2, P_LO, 0x91, 0xFA, 0xC8, 0xC8)                         # lda (P) ; sta ($FA),y ; iny ; iny
+    a.b(0xE6, P_LO); a.r(0xD0, "l1"); a.b(0xE6, P_HI)
+    a.label("l1"); a.b(0xCA); a.r(0xD0, "lrow")
+    a.b(0xA5, RIGHT); a.w(0x20, "gptr"); a.b(0xA0, TOP * 2, 0xA2, ROWS)
+    a.label("rrow")                                                 # right glyph: 6 pixels on, across the byte edge
+    a.b(0xB2, P_LO, 0x48)
     a.b(0x4A, 0x4A, 0x4A, 0x4A, 0x4A, 0x4A, 0x11, 0xFA, 0x91, 0xFA, 0xC8)
-    a.b(0x68, 0x0A, 0x0A, 0x91, 0xFA, 0xC8, 0xE8, 0xE0, ROWS); a.r(0xD0, "rrow")
-    for z in (RIGHT, LEFT, N_HI, N_LO):
+    a.b(0x68, 0x0A, 0x0A, 0x91, 0xFA, 0xC8)
+    a.b(0xE6, P_LO); a.r(0xD0, "r1"); a.b(0xE6, P_HI)
+    a.label("r1"); a.b(0xCA); a.r(0xD0, "rrow")
+    for z in (RIGHT, LEFT):
         a.b(0x68, 0x85, z)
     a.b(0x60)
     a.label("gptr")                                                 # A = glyph index -> P = font + A*9 ; index G1-1 = BLANK (P = 0)
-    a.b(0xC9, G1 - 1); a.r(0xD0, "gp2"); a.b(0x64, P_HI, 0x64, P_LO, 0x60)
+    a.b(0xC9, G1 - 1); a.r(0xD0, "gp2")
+    a.imm(0xA9, "zeros", "lo"); a.b(0x85, P_LO); a.imm(0xA9, "zeros", "hi"); a.b(0x85, P_HI); a.b(0x60)
     a.label("gp2")
     assert ROWS == 9
     a.b(0x85, P_LO, 0x64, P_HI, 0x0A, 0x26, P_HI, 0x0A, 0x26, P_HI, 0x0A, 0x26, P_HI)
     a.b(0x18, 0x65, P_LO, 0x90, 0x02, 0xE6, P_HI)
     a.b(0x18, 0x69, FONT_ORG & 0xFF, 0x85, P_LO, 0xA5, P_HI, 0x69, FONT_ORG >> 8, 0x85, P_HI, 0x60)
-    a.label("fetch")
-    a.b(0xA5, P_HI); a.r(0xD0, "f1"); a.b(0x62, 0x60)
-    a.label("f1"); a.b(0x5A, 0x8A, 0xA8, 0xB1, P_LO, 0x7A, 0x60)
 
     # ---- text decoder: Huffman symbols -> glyphs / word tokens -> letter-pair cells -----------------
     import snhuff
-    G, NL, END, TOK0 = snhuff.G, snhuff.NL, snhuff.END, snhuff.TOK0
+    G, NL, END, NOWAIT, TOK0 = snhuff.G, snhuff.NL, snhuff.END, snhuff.NOWAIT, snhuff.TOK0
     for v in ("need", "bitbuf", "bitcnt", "code_lo", "code_hi", "first_lo", "first_hi", "index", "len", "t_lo",
               "leftsym", "pendsym", "tokleft", "n_lo", "n_hi", "cnt"):
         a.label(v); a.b(0)
@@ -227,7 +286,8 @@ def build_code(coding):
     a.w(0x20, "getsym"); a.r(0x90, "got_a"); a.w(0x4C, "want")
     a.label("got_a")
     a.b(0xC9, END); a.r(0xD0, "ga1"); a.w(0x4C, "do_end")
-    a.label("ga1"); a.b(0xC9, NL); a.r(0xD0, "ga2"); a.w(0x4C, "do_nl")
+    a.label("ga1"); a.b(0xC9, NL); a.r(0xD0, "ga1b"); a.w(0x4C, "do_nl")
+    a.label("ga1b"); a.b(0xC9, NOWAIT); a.r(0xD0, "ga2"); a.w(0x4C, "do_f5")
     a.label("ga2")
     a.w(0x8D, "leftsym")
     a.label("have_a")
@@ -236,28 +296,22 @@ def build_code(coding):
     a.b(0xC9, G); a.r(0x90, "pair_b")
     a.w(0x8D, "pendsym"); a.b(0xA9, G1 - 1)                         # line break / end: left + BLANK now, that symbol next time
     a.label("pair_b")
-    a.w(0x8D, "n_lo"); a.w(0x9C, "n_hi")                            # n = right + left * G1
-    a.w(0xAE, "leftsym")
-    a.label("mul"); a.b(0xE0, 0x00); a.r(0xF0, "mul_done")
-    a.b(0x18); a.w(0xAD, "n_lo"); a.b(0x69, G1); a.w(0x8D, "n_lo"); a.r(0x90, "mul1"); a.w(0xEE, "n_hi")
-    a.label("mul1"); a.b(0xCA); a.r(0x80, "mul")
-    a.label("mul_done")
+    a.w(0x8D, "n_lo")                                               # right symbol
+    a.w(0xAD, "leftsym"); a.b(0x4A); a.w(0x8D, "n_hi")              # k = left >> 1
+    a.w(0xAD, "leftsym"); a.b(0x29, 0x01); a.r(0xF0, "e_even")      # odd left: trail += G1
+    a.b(0x18); a.w(0xAD, "n_lo"); a.b(0x69, G1); a.w(0x8D, "n_lo")
+    a.label("e_even")
     a.b(0xA9, 0xFF); a.w(0x8D, "leftsym")
-    a.label("emit_n")                                               # n -> SJIS lead $88.. (then $E0..) + n/191, trail $40 + n%191
-    a.b(0xA2, 0x88)
-    a.label("e_div")
-    a.w(0xAD, "n_hi"); a.r(0xD0, "e_sub"); a.w(0xAD, "n_lo"); a.b(0xC9, 191); a.r(0x90, "e_done")
-    a.label("e_sub")
-    a.b(0x38); a.w(0xAD, "n_lo"); a.b(0xE9, 191); a.w(0x8D, "n_lo"); a.r(0xB0, "e_s1"); a.w(0xCE, "n_hi")
-    a.label("e_s1"); a.b(0xE8); a.r(0x80, "e_div")
-    a.label("e_done")
-    a.b(0xE0, 0xA0); a.r(0x90, "e_lead"); a.b(0x8A, 0x18, 0x69, 0x40, 0xAA)   # lead >= $A0 -> + $40 ($E0..)
-    a.label("e_lead")
-    a.w(0x8E, 0x360D)                                               # stx $360D
+    a.w(0xAD, "n_hi"); a.b(0xC9, 24); a.r(0x90, "e_lo")             # lead = $88 + k, or $E0 + k - 24
+    a.b(0x18, 0x69, 0xE0 - 24); a.r(0x80, "e_st")
+    a.label("e_lo"); a.b(0x18, 0x69, 0x88)
+    a.label("e_st"); a.w(0x8D, 0x360D)
     a.b(0x18); a.w(0xAD, "n_lo"); a.b(0x69, 0x40); a.w(0x8D, 0x360E)
     a.b(0xA2, 0x00, 0x60)
     a.label("do_nl")
     a.b(0xA9, 0x82); a.w(0x8D, 0x360D); a.b(0xA9, 0xF2); a.w(0x8D, 0x360E); a.b(0xA2, 0x00, 0x60)
+    a.label("do_f5")                                                # <82F5>: the box closes without a button
+    a.b(0xA9, 0x82); a.w(0x8D, 0x360D); a.b(0xA9, 0xF5); a.w(0x8D, 0x360E); a.b(0xA2, 0x00, 0x60)
     a.label("do_end")
     a.b(0xA9, 0x01); a.w(0x8D, 0x3607); a.b(0xA2, 0x00, 0x60)
     a.label("want")
@@ -298,33 +352,37 @@ def build_code(coding):
     a.label("w1"); a.b(0xCA); a.r(0x80, "walk")
     a.label("found")
     a.w(0x20, "rd"); a.w(0x8D, "tokleft"); a.w(0x4C, "gs_tok")
+    a.label("zeros"); a.b(*([0] * ROWS))                            # the BLANK glyph reads from here
     a.label("count"); a.b(*coding.count)
     a.label("syms"); a.b(*coding.syms)
     a.label("dict")
     for w in coding.tokens:
         a.b(len(w), *[sncells.GLYPHS.index(c) for c in w])
-    code = a.link()
-    assert CODE_ORG + len(code) <= CODE_END, f"bank $82 code + dictionary = {len(code)} bytes, {CODE_END - CODE_ORG} free"
-    return code, a.labels["count"] - CODE_ORG
+    return a.link()
 
 
-def apply(iso, coding=None):
+def apply(iso, coding=None, extra=b""):
     import snhuff
     coding = coding or snhuff.Coding()
     iso = bytearray(iso)
-    tramp, glyph_hook, dec_hook = build_trampolines()
-    code, code_only = build_code(coding)
+    block, extra_at = build_block(coding, extra)
+    resident, loader_hook = build_resident()
+    tramp, glyph_hook, dec_hook = build_trampolines(DATA_ORG + len(MAGIC))
     font = font_bytes()
     assert len(font) <= 0x2000 - 0x1CD2, f"font is {len(font)} bytes"
     base = DIALOGUE_ISO - 0x6000
     assert iso[base + GLYPH_SITE:base + GLYPH_SITE + 3] == GLYPH_ORIG, "glyph call site differs"
     assert iso[base + DEC_SITE:base + DEC_SITE + 8] == DEC_ORIG, "decoder entry differs"
-    for off, blob in ((base + TRAMP_ORG, tramp), (CODE_ISO, code), (FONT_ISO, font)):
+    for off, blob in ((base + TRAMP_ORG, tramp), (RES_ISO, resident), (DATA_ISO, block), (FONT_ISO, font)):
         assert set(iso[off:off + len(blob)]) == {0xFF}, f"target area at ISO {off:#x} is not free"
         iso[off:off + len(blob)] = blob
+    lo = 0xB000 + LOADER_OK - 0x4000                                  # bank $68 on disc
+    assert iso[lo:lo + 3] == LOADER_ORIG, "scene loader success path differs"
+    iso[lo:lo + 3] = bytes([0x20]) + loader_hook.to_bytes(2, "little")
     iso[base + GLYPH_SITE:base + GLYPH_SITE + 3] = bytes([0x20]) + glyph_hook.to_bytes(2, "little")
     iso[base + DEC_SITE:base + DEC_SITE + 3] = bytes([0x4C]) + dec_hook.to_bytes(2, "little")
-    return bytes(iso), {"trampolines": len(tramp), "code": code_only, "tables+dictionary": len(code) - code_only, "font": len(font)}
+    return bytes(iso), {"trampolines": len(tramp), "resident loader_hook": len(resident),
+                        "block at $9800": len(block), "font": len(font)}, extra_at
 
 
 if __name__ == "__main__":

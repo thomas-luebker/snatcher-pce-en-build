@@ -3,6 +3,7 @@
 
   retro.py CUE --frames 3000 --press "start@300-310,a@600-605" --shots 290,620,3000 [--every 300]
            [--core emu/mednafen_pce_libretro.dylib] [--out work/shots] [--state-out f] [--state-in f]
+           [--bram save.brm]
 
 Buttons: up down left right a(=I) b(=II) select start(=RUN).
 The System Card is taken from ~/.mednafen/firmware/syscard3.pce.
@@ -15,6 +16,7 @@ import zlib
 
 BUTTONS = {"b": 0, "select": 2, "start": 3, "up": 4, "down": 5, "left": 6, "right": 7, "a": 8}
 ENV_GET_CAN_DUPE, ENV_GET_SYSTEM_DIRECTORY, ENV_SET_PIXEL_FORMAT = 3, 9, 10
+RETRO_MEMORY_SAVE_RAM, RETRO_MEMORY_SYSTEM_RAM = 0, 2
 ENV_GET_VARIABLE, ENV_GET_VARIABLE_UPDATE, ENV_GET_LOG_INTERFACE, ENV_GET_SAVE_DIRECTORY = 15, 17, 27, 31
 
 
@@ -43,7 +45,8 @@ class Emu:
         INP = C.CFUNCTYPE(C.c_int16, C.c_uint, C.c_uint, C.c_uint, C.c_uint)
         # printf-style and variadic in C; only the fixed arguments are read here (the core crashes without a logger)
         self._log = C.CFUNCTYPE(None, C.c_int, C.c_char_p)(lambda level, fmt: None)
-        self._cbs = [ENV(self._env), VID(self._video), AUD(lambda l, r: None), AUDB(lambda d, n: n),
+        self.audio = None            # set to a bytearray to start capturing 16-bit stereo output
+        self._cbs = [ENV(self._env), VID(self._video), AUD(lambda l, r: None), AUDB(self._audio_batch),
                      POLL(lambda: None), INP(self._input)]
         L = self.lib
         L.retro_set_environment(self._cbs[0])
@@ -60,6 +63,36 @@ class Emu:
         L.retro_serialize.restype = C.c_bool
         L.retro_unserialize.argtypes = [C.c_void_p, C.c_size_t]
         L.retro_unserialize.restype = C.c_bool
+        L.retro_get_memory_data.argtypes = [C.c_uint]
+        L.retro_get_memory_data.restype = C.c_void_p
+        L.retro_get_memory_size.argtypes = [C.c_uint]
+        L.retro_get_memory_size.restype = C.c_size_t
+
+    def ram(self):
+        """The console's 8 KB work RAM, or None if the core will not hand it over."""
+        p = self.lib.retro_get_memory_data(RETRO_MEMORY_SYSTEM_RAM)
+        n = self.lib.retro_get_memory_size(RETRO_MEMORY_SYSTEM_RAM)
+        return C.cast(p, C.POINTER(C.c_ubyte * n))[0] if p and n else None
+
+    def put_bram(self, path):
+        """Load backup RAM before the game runs, so the title offers つづきから and Continue works.
+
+        The EverDrive keeps each game's 2 KB at edturbo/gamedata/<game>.cue/bram_exp.brm, so a real
+        save from the card can be played in the emulator -- which is the only way to reach the parts
+        of the game that exist only when there is something to continue.
+        """
+        d = open(path, "rb").read()
+        p = self.lib.retro_get_memory_data(RETRO_MEMORY_SAVE_RAM)
+        n = self.lib.retro_get_memory_size(RETRO_MEMORY_SAVE_RAM)
+        if not p or not n:
+            return False
+        C.memmove(p, d[:n], min(len(d), n))
+        return True
+
+    def peek(self, addr):
+        """Read a CPU address in work RAM. The PC Engine maps its 8 KB at $2000-$3FFF."""
+        r = self.ram()
+        return None if r is None else r[(addr - 0x2000) % len(r)]
 
     def _env(self, cmd, data):
         cmd &= 0xFFFF
@@ -80,6 +113,14 @@ class Emu:
             return True
         return False
 
+    def _audio_batch(self, data, frames):
+        # Capturing lets a caller identify what the game is playing without knowing where the game
+        # keeps that in RAM: the core outputs the same CD recordings that are on the disc, so a
+        # window of output can simply be matched against the tracks themselves.
+        if self.audio is not None and data:
+            self.audio += C.string_at(data, int(frames) * 4)
+        return frames
+
     def _video(self, data, w, h, pitch):
         if data:
             self.frame = (C.string_at(data, pitch * h), w, h, pitch)
@@ -94,7 +135,10 @@ class Emu:
         self.lib.retro_set_controller_port_device(0, 1)          # plug a joypad in, or input is ignored
 
     def run(self, pressed=()):
-        self.pressed = set(pressed)
+        # Accept either libretro button ids or the names in BUTTONS. _input compares against ids, so
+        # a name passed straight through silently never matches and the game just sits there waiting
+        # for a button -- which looks exactly like a hang.
+        self.pressed = {BUTTONS[p] if isinstance(p, str) else p for p in pressed}
         self.lib.retro_run()
 
     def screenshot(self, path):
@@ -132,6 +176,7 @@ def main():
     ap.add_argument("--shots", default="")
     ap.add_argument("--every", type=int, default=0)
     ap.add_argument("--out", default="work/shots")
+    ap.add_argument("--bram", help="backup RAM to load before booting (EverDrive bram_exp.brm)")
     ap.add_argument("--state-in")
     ap.add_argument("--state-out")
     a = ap.parse_args()
@@ -144,6 +189,8 @@ def main():
     shots = {int(x) for x in a.shots.split(",") if x}
     emu = Emu(os.path.abspath(a.core), os.path.expanduser("~/.mednafen/firmware"))
     emu.load(os.path.abspath(a.cue))
+    if a.bram:
+        print("backup RAM loaded:", emu.put_bram(a.bram))
     if a.state_in:
         emu.run()
         print("state loaded:", emu.load_state(a.state_in))

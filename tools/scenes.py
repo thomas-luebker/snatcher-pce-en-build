@@ -87,6 +87,54 @@ def main():
         for r in chain:
             r["speaker_name"] = names[r["speaker"] - 1] if 0 < r["speaker"] <= len(names) else ""
         words = snwords.word_list(iso, base, text_start)
+        # Two scenes keep their word list somewhere the walk-back from the text cannot see. 0x19E has a
+        # 30-byte table between the last word and the first message, so walking back from the text finds
+        # nothing. 0x1CE is worse: a chance "message" decodes inside its word list, so the text was
+        # recorded as starting there -- and the build wrote English text over the menu words. So when the
+        # walk-back finds nothing, look for the fullest word run near the text; if it ends after the
+        # recorded start, the text really starts at the first message beyond it.
+        if len(words) < 5:
+            best = (0, None, [])
+            for p in range(max(0x40, text_start - 0x240), min(loaded, text_start + 0x240)):
+                if iso[base + p - 1] == 0xFF:
+                    w = snwords.word_list(iso, base, p)
+                    if len(w) > best[0]:
+                        best = (len(w), p, w)
+            if best[0] >= 5:
+                words, p = best[2], best[1]
+                if p > text_start:
+                    chain = [r for r in chain if r["ptr"] >= p]
+                    regions = [[max(lo, p), hi] for lo, hi in regions if hi > p]
+                    regions[0][0] = min(r["ptr"] for r in chain)
+                    text_start = regions[0][0]
+        # Messages the chains never reach. The text area is found by following back-to-back messages,
+        # and a few are not in any chain: 19E keeps 「・・・店の外に出ました」 in the 19 bytes between its
+        # word list and its first chained message, 1CE keeps two lines there, and 0CE and 1CE have lines
+        # inside the text area that no chain includes. A say command (`63 12 ss 00 lo hi`) pointing at
+        # text that decodes as Japanese is a message whatever the chains say -- and one inside the
+        # text area that is not listed gets repacked over and shows garbage on hardware.
+        listed = {r["ptr"] for r in chain}
+        words_end = max((o + z + 1 for o, t, z in words), default=0)
+        extra = {}
+        for m in re.finditer(rb"\x63\x12([\x00-\x4a])\x00(.)(.)", iso[base:base + text_start], re.S):
+            ptr = m.group(2)[0] | m.group(3)[0] << 8
+            if ptr in listed or not (words_end <= ptr < loaded):
+                continue
+            pairs, end = snpack.decode(iso, base + ptr, 0, limit=300)
+            if end is None or not pairs:
+                continue
+            t = D.render(pairs)
+            if not re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", t) or "<" in t[:6]:
+                continue
+            r = extra.setdefault(ptr, {"ptr": ptr, "end": (end >> 1) - base, "cmds": [], "speaker": m.group(1)[0], "jp": t})
+            r["cmds"].append(m.start() + 1)
+        for r in extra.values():
+            r["speaker_name"] = names[r["speaker"] - 1] if 0 < r["speaker"] <= len(names) else ""
+            chain.append(r)
+            if not any(lo <= r["ptr"] < hi for lo, hi in regions):
+                regions.append([r["ptr"], r["end"]])
+        regions.sort()
+        text_start, text_end = regions[0][0], regions[-1][1]
         last = max(i for i in range(loaded) if iso[base + i] not in (0x00, 0xFF)) + 1
         json.dump({"lba": lba, "base": base, "loaded": loaded, "text_start": text_start, "text_end": text_end, "regions": regions,
                    "data_end": last, "words": [{"off": o, "jp": t, "size": z} for o, t, z in words], "messages": chain},

@@ -3,8 +3,10 @@
 
   snhuff.py build reference/junkerhq-dumps/scd translations/coding.json
 
-Symbols: 0..G-1 = glyphs of sncells.GLYPHS, G = line break, G+1 = end of message, G+2.. = word tokens
-(strings of glyphs, stored in the resident dictionary). The patched decoder (tools/snhack.py) walks the
+Symbols: 0..G-1 = glyphs of sncells.GLYPHS, G = line break, G+1 = end of message, G+2 = "close without
+waiting" (the game's <82F5>: the text box closes by itself, used on the line spoken as a shootout starts --
+"Gillian, look out!!" -- without it the box waits for a button while the shots come and the cursor never
+appears), G+3.. = word tokens (strings of glyphs, stored in the resident dictionary). The patched decoder (tools/snhack.py) walks the
 bit stream MSB first with the canonical tables COUNT[len] / SYMS[], expands tokens and pairs the glyphs
 into letter-pair cells. An English message starts with the marker bytes $1F $FF, which cannot occur at
 the start of a Japanese message, so untouched scenes keep working.
@@ -21,7 +23,7 @@ sys.path.insert(0, __file__.rsplit("/", 1)[0])
 import sncells  # noqa: E402
 
 G = len(sncells.GLYPHS)
-NL, END, TOK0 = G, G + 1, G + 2
+NL, END, NOWAIT, TOK0 = G, G + 1, G + 2, G + 3
 MARKER = b"\x1f\xff"
 MAXLEN = 15
 
@@ -50,8 +52,8 @@ def screen_chars(line):
     return sncells.normalise(line)
 
 
-def symbols(text, tokens):
-    """Message -> symbol list (with NL / END)."""
+def symbols(text, tokens, nowait=False):
+    """Message -> symbol list (with NL / END, and NOWAIT before END when the Japanese ended in <82F5>)."""
     by_len = {}
     for k, w in enumerate(tokens):
         by_len.setdefault(len(w), {})[w] = k
@@ -76,6 +78,8 @@ def symbols(text, tokens):
                 out.append(NL)                       # the decoder closes an open pair with BLANK before a line break
             elif len(s) % 2:
                 out.append(sncells.GLYPHS.index(" "))  # full line wraps by itself: complete its last cell
+    if nowait:
+        out.append(NOWAIT)
     out.append(END)
     return out
 
@@ -177,9 +181,9 @@ class Coding:
         self.lens = {int(k): v for k, v in d["lengths"].items()}
         self.count, self.syms, self.codes = canonical(self.lens)
 
-    def encode(self, text):
+    def encode(self, text, nowait=False):
         bits = []
-        for s in symbols(text, self.tokens):
+        for s in symbols(text, self.tokens, nowait):
             code, n = self.codes[s]
             bits += [(code >> (n - 1 - k)) & 1 for k in range(n)]
         bits += [0] * (-len(bits) % 8)

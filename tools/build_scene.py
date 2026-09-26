@@ -73,7 +73,7 @@ def build_scene(iso, base, cfg, coding, report):
             untranslated += 1
             en = "(untranslated)"
         new_ptr[m["ptr"]] = cursor + len(blob)
-        blob += coding.encode(en)
+        blob += coding.encode(en, nowait=m["jp"].rstrip().endswith("<82F5>"))
     end = cursor + len(blob)
     report.append(f"  text: Japanese {msgs[-1]['end'] - cfg['text_start']} bytes -> English {end - cfg['text_start']} bytes "
                   f"(limit {cfg['loaded'] - cfg['text_start']}); {untranslated} untranslated")
