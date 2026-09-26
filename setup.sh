@@ -15,12 +15,13 @@ mkdir -p reference emu disc segacd work
 
 say() { print -P "%F{green}==>%f $*"; }
 
-# --- numpy, for the cutscene audio matcher ----------------------------------------------------
-# Only tools/match_cutscenes.py needs it; the build itself is pure Python, so a failure here is
-# not fatal.
-if ! python3 -c "import numpy" 2>/dev/null; then
-  say "numpy (tools/match_cutscenes.py only)"
-  python3 -m pip install --quiet numpy 2>/dev/null || print "  could not install numpy - the build still works without it"
+# --- the cutscene venv: Demucs splits voice from music ----------------------------------------
+# Only the cutscene dub needs it (and only with your Sega CD rip). Several hundred MB; skip with NO_VENV=1.
+# The build runs without it and says the cutscenes stayed Japanese.
+if [[ -z $NO_VENV && ! -x work/venv/bin/python ]]; then
+  say "Python venv for the cutscene dub (demucs, soundfile) -- NO_VENV=1 skips it"
+  python3 -m venv work/venv && work/venv/bin/pip install --quiet demucs soundfile \
+    || print "  could not set up work/venv - the build still works, the cutscenes stay Japanese"
 fi
 
 # --- the Sega CD English script dump (Artemio Urbina / Junker HQ) -----------------------------
@@ -84,6 +85,7 @@ say "public prerequisites are in place"
 print "Still needed from you:"
 [[ -f "disc/Snatcher CD-ROMantic (Japan).cue" ]] && print "  disc/            ok" || print "  disc/            MISSING - your own Snatcher (Japan) rip"
 [[ -f segacd/files/PCMLD_01.BIN ]] && print "  Sega CD files    ok" || print "  Sega CD files    missing - only needed for English voices/intro"
+[[ -x work/venv/bin/python ]] && print "  cutscene venv    ok" || print "  cutscene venv    missing - cutscenes stay Japanese"
 [[ -f ~/.mednafen/firmware/syscard3.pce ]] && print "  System Card      ok" || print "  System Card      missing - ~/.mednafen/firmware/syscard3.pce (test harness only)"
 print
-print "Then: see BUILD.md"
+print "Then: ./build.sh  (BUILD.md has the details)"
