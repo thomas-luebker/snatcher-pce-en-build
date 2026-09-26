@@ -46,6 +46,71 @@
 - [ ] Re-pack whole scenes (all say pointers), all 33 slots, both tracks (Track 24 has its own layout)
 - [ ] Plain-SJIS text: command menus, topic words, item names, speaker names
 
+## Done (19 Sep 2026, evening)
+- [x] **Intro freeze fixed** (emulator): code in bank $68 top ($5CE2-$5FFF), tables + dictionary at $82+$1800
+  behind a magic word, re-read from sector 57 when a load has wiped them. Reproduced first with the intro
+  NOT skipped (`work/press_intro.txt`); details and the three wrong assumptions in `docs/FINDINGS.md`
+- [x] **Cutscenes dubbed**: 15 tracks, English speech from the Sega CD over the PC Engine music (`tools/cutscene_dub.py`)
+- [x] **Hardware test** (19 Sep night): intro, reception, Chief, Harry's blaster, flight to the factory (dubbed
+  track 20, English) -- all good. Crash after the blaster found and fixed on the way (animation records at $5C00)
+- [ ] Play on from the factory; cutscenes by ear (listening set in `work/cutscene/listen/`); weak spots PCE 10
+  at 263-300 s, PCE 4 at 26 s (1.4 s overlap)
+
+## Voice pairing by content (19 Sep night)
+- [x] `tools/clip_pair.py`: all 1,238 PC Engine clips transcribed (Japanese) and paired with the 1,215 Sega CD
+  clips by meaning (LaBSE) + order + duration. Fixes Gibson in the factory (was Japanese), the time-bomb
+  escape (English was three lines late), English speech that had been put on sound-effect slots, and English
+  on PC Engine-only scenes (e.g. the videotape shop). 1,002 clips English; 8 slightly cut (>=87% kept)
+- [ ] ~40 correct pairings are rejected because the English is >2.3x the Japanese slot: grow those slots
+  (relocate clip data, edit the clip tables) instead of leaving the line Japanese
+- [ ] Review the ~230 pairs that changed against the old pairing, by reading (as for the cutscenes)
+
+## Open hardware reports
+- [x] Katrina's door showed "Dummy F" and "8*" among the numbers on the bust question (21 Sep): the
+  answer list holds part-typed shapes -- ０★, ０★★, ８★, ★★★ -- where ★ stands for a digit not yet
+  entered. They are data like the digits themselves, and are left alone now
+- [x] Katrina's file on Jordan read the Sega CD text (21 Sep): the builder reads work/scenes_resolved,
+  not translations/scenes, so the retranslation was never built. Her file now carries the Japanese
+  measurements (B 81, W 58, H 83) with the US age 18, which is what makes the door quiz solvable
+- [x] **Five files of fixes had never shipped** (21 Sep): the blaster's SELECT, the RUN button for
+  number entry, button II for the flashlight and the Gibson records were all in translations/scenes,
+  which the build ignored in favour of the stale generated copy. Ported into translations/scenes_ref
+  and the stale copy retired; the build now compares the two by content and says so
+- [ ] `tools/resolve_refs.py` cannot regenerate work/scenes_resolved: KeyError 8435, a Sega CD reference
+  it cannot find. Until that is fixed, edits have to go into both the ref file and the generated one
+- [ ] ~~Katrina's file on Jordan still reads the Sega CD text~~ ("Age: 18 ... 43kg ... blood type O-") while
+  `translations/scenes/0fe.tsv` holds the retranslation from the Japanese (age 14, B81 W58 H83), which is
+  what the door quiz matches. The text on screen is not reachable from scene 0x0FE's say commands, so it
+  lives somewhere else -- find where the records are really stored before retranslating again
+- [ ] **Scene banks exist twice on track 24** (21 Sep): 17 of 33 scenes have a second copy at its own
+  offset, and for the name search the game reads *that* one (sector 83), not the one the scene table
+  names. Only 0x0FE is built in both copies so far (`tools/scene_copies.py`). If another screen shows
+  Japanese on hardware while the build says it is translated, it is this
+
+- [x] Jordan name search showed no characters to pick (20 Sep): the katakana grid and the name dictionary
+  were being translated as menu words; they stay Japanese now (`tools/build_all.py`, KANA_GRID)
+- [x] "I cant search in the comuter as the interface is japanese" (21 Sep, branch `computer-search`):
+  the screen is a typed lookup -- the keys are the keyboard, the entries are what the typed name is
+  compared with, grouped by first character (the videophone is the same screen with digits). Both are
+  now written in the game's own full-width Latin, the encoding the videophone's digits already use, so
+  typed and stored bytes are identical and the renderer is not involved. Keyboard
+  ＡＢＣＫＤＥＦＨＧＩＯＵＪＬＲＭＮＰＱＳＴＶＷＸＹＺ; the input field holds ten characters and every
+  record is reachable within it (asserted at build time). **Hardware test outstanding: type GIBSON**
+  - the romaji rendering tried the day before is reverted: it never reached this screen, because these
+    characters come from the scene's own words, and it put a bank switch in front of every character
+- [x] Katrina's door quiz rejected every answer and the videophone showed no numbers (20 Sep): the numeric
+  entries those screens match against were being translated; digit-only words are now left alone
+- [x] Katrina's file on Jordan shows the Sega CD rewrite (age 18, no measurements) while the door quiz
+  wants the Japanese values (14, B81 W58 H83, and Gibson 55) -- retranslate that record from the Japanese
+- [x] **Flickering / picture shaking while text draws and menus scroll** (20 Sep): the cell mapping needed a
+  multiply and two divisions per character, done by repeated addition inside the interrupt with interrupts
+  off (~3,600 cycles/cell against an ~8-10k cycle vblank), which delayed the raster split. The mapping is now
+  division-free (`tools/sncells.py`); ~100 cycles. Not reproducible in the emulator -- judge on hardware
+- [ ] ~~Flickering in some scenes~~ (20 Sep, details to come). Where to look first: the glyph/decoder calls run
+  with interrupts off (`mapcall` does `sei`), so a long line could cost a frame -- that would flicker while
+  text draws; the loader hook adds a sector read to loads that wiped the block (~11 frames), which would show
+  at scene changes instead. Ask which scene, during text or on a still picture, whole screen or part.
+
 ## Next
 - [ ] Check the weak bank candidates (< 100 votes, above ISO 0x1B5800); look for text that is not said via opcode 12 (menus, topic words in plain SJIS, item names, the Jordan computer)
 - [x] Which track: emulator reads Track 02 (one-letter experiment); the EverDrive is known to serve the last data track -> patch both, test on hardware with `work/test-t02mod` / `work/test-t24mod`
@@ -88,9 +153,80 @@
 - [x] Reported fixes: "Bullpen" -> "Detective's room", "I tems" (capital I now has serifs), extra glyphs, first menu word of each list detected
 
 ## Next
+- [ ] Hardware test: the English title, the shortened menu words, and the 42 restored voice clips
 - [ ] Playtest the full build; check the scenes that grew (0x0de, 0x1be, 0x21e, 0x26e) and the low-confidence alignments (0x09e, 0x0ce, 0x0fe, 0x1fe, 0x27e)
 - [ ] Voice pairing is still only order+duration for most clips - verify by ear as you play
-- [ ] Title menu `初めから` is a sprite built at runtime - needs instruction-level tracing
+- [x] **Title menu `初めから` -> `NEW GAME`** (21 Sep, `tools/title_text.py` + `tools/title_patch.py`).
+  Rewriting the runs in place turned out **not** to work: four of the sixteen planes the glyphs are made
+  of are not literal runs, and none of the sprites' top halves is, so English drawn into the writable
+  planes has the kana showing through it. The lettering is written into VRAM at runtime instead, from
+  code that rides inside the title screen's own load. Verified from a cold boot in the emulator
+- [x] **`つづきから` -> `CONTINUE`** (21 Sep): `tools/retro.py --bram` boots with the card's own save, which
+  puts both lines on screen; the second line is 128x32 with one corner parked off screen, and uses a
+  different palette pair than the first. Verified from a cold boot in the emulator
+- [x] Hardware test of the English title: `▶ NEW GAME` confirmed on the PC Engine (22 Sep). CONTINUE with a
+  save present still to be seen on hardware
+- [x] **Typed answers** (22 Sep, `tools/answers.py`): three things on these screens look like text and are
+  data -- the fallback word (its first byte picks the keyboard: stays Japanese), the entries (matched
+  against full-width Latin, so stored that way), and the field width (ten now). Verified in the emulator
+  through the real phone call: Napoleon accepts ENDED
+- [x] Hardware test of the typed answers, first riddle (22 Sep): Napoleon accepts, the Plaza scene plays,
+  no portrait flicker, keypad behaves. Still ahead in the story: the second riddle (REIGN), BENSON at
+  Outer Heaven, QUEEN at the hospital
+- [x] 0x19E and 0x1CE menu words found and translated (22 Sep): neither scene had a word list on record;
+  0x1CE's text had been overwriting its own menu words. Copies now take text start and words from the scene
+- [x] Every duplicated scene is built (22 Sep): Outer Heaven's entrance (0x1BE's twin at sector 275)
+  showed Japanese menu words through the English renderer. Real copies are told from stray sectors by
+  the whole script matching; 0x1BE's 398-byte shortfall was found in its Sega CD verbosity
+- [x] Videophone recordings (22 Sep): Plato's Cavern's greeting, Katrina half asleep and the labs' afternoon
+  greeting were Japanese -- unclaimed English takes twenty clips away, added to `clip_fixups.tsv`. Still
+  Japanese on the phone, no English take exists: 「ギリアン危ない」, 「おやすみなさい」, the 「キャー!エッチ!」
+  line (its English is 2.5x the slot), and four garbled ones the transcripts cannot name
+- [x] 24 Sep 19:51 image on hardware: apart from the intro, flawless up to the abandoned factory (Thomas, 24 Sep late); the factory shows none of the door glitches seen on 23 Sep on the same code -- the fault may not be stable (FINDINGS, door section)
+- [x] Intro broken by the credits step (24 Sep, from hardware, same evening): the opening roll at sector 170 belongs
+  to the cutscene engine, not the dialogue renderer; left untouched now. A "which sectors did the build change"
+  gate follows, so an unexpected write is a failure
+- [x] The staff roll in English (24 Sep, from hardware): kanji names had gone through the letter-pair hook as
+  salad. `translations/credits.tsv` + `tools/credits.py`, 130 lines as cells in the same slots, every copy; gate check
+- [x] **Game finished on hardware (24 Sep)**: Act 3 through the ending. The one Japanese stretch left in the ending is
+  deliberate: Jamie's farewell with Harry's cap (track 16, 49-75 s) has no Sega CD counterpart -- Konami replaced it
+  with Katrina and Mika seeing Gillian off -- so `cutscene_dub.py` keeps the original voices there (KEEP_JP) rather
+  than silence; English resumes at "Metal?"
+- [x] **Act 2 played through on hardware (24 Sep, on the 23 Sep 13:45 image)**: everything works; the faults reported
+  along the way were all voices -- unpaired clips, and the track-24 copies -- and are in the image waiting for the card
+- [x] Voice twins on track 24 (24 Sep, from hardware): 244 clips sit at another offset on the track the cart
+  serves and were never replaced there. `voices.py` replaces every copy by content; the gate checks none is left
+- [x] Queen's Hospital arrival, office drawers and the stairs (23 Sep, from hardware): 15 lines never paired. The
+  rock-paper-scissors on the stairs stays Japanese -- the Sega CD cut that scene. 1,103 clips English
+- [x] Shower scene at Gillian's (23 Sep, from hardware): Metal's "serves you right" never paired, the shutters
+  joke and "Oh, shut up" shifted by one. Three hand pairs; 1,088 clips English
+- [x] Hardware, 23 Sep evening: Gibson's house in Act 2 (Alice, the ransacked house -- the re-paired voices) plays
+  perfectly; the HQ emergency call is the game's own gate for it, not a fault
+- [x] Jamie's voicemail opened in Japanese (23 Sep, from hardware): clip 94/217 -- Whisper heard only the phone
+  tone -- paired to "Hi, Jamie speaking"; the other videophone tape to "this is just a tape". 1,086 clips
+- [x] Oleen Hospital voices (23 Sep, from hardware): the aligner had drifted -- Napoleon's Santa scene played
+  Oleen's takes and Oleen had none. 35 hand pairs by transcript; hand pairs now override and may reuse a take.
+  1,084 clips English. Confirmed on hardware 23 Sep. 199 clips still without a take: re-pair by transcript as they are heard
+- [x] Konami's debug menu mapped (23 Sep): 39 entries, each run and matched to its scene; `docs/DEBUG_MENU.md`;
+  `debug_menu.py go ... "Shooting/With Ivan"` by name. The way to reach any chapter or shootout in the emulator
+- [x] Ivan's door shootout (23 Sep, from hardware): lines ending in `<82F5>` close without a button and
+  the English never carried the code, so the box waited while Ivan shot. NOWAIT symbol in coder and
+  decoder; `verify_build.py` checks it; `tools/debug_menu.py` reaches every shootout from Konami's debug
+  scene. Confirmed in the emulator, to be confirmed at Ivan's door on hardware
+- [x] Hardware, 23 Sep (the image before the say-target fix): played through Plato's Cavern and Outer
+  Heaven; the Junker HQ computer identifies a person (the English keyboard on the real copy, sector 83).
+  The night image with Metal's line and Napoleon's overwritten replies is still to go on the card
+- [x] Seven say targets no scene list knew (22 Sep, from hardware): Metal's 「店の外に出ました」 after
+  Plato's Cavern's store, two more arrivals in 0x1CE, three of Napoleon's replies and one 「誰かの声」 that
+  the repacked text had been writing over. `scenes.py` now follows every say command; `verify_build.py`
+  checks every say in the build lands on English. "Plato's Cavern" everywhere (was "Joy", "Plato's Cave")
+- [ ] The intro's caption cards (the disclaimer, the dedication, "Moscow, 1991", "50 years later") are drawn by
+  the cutscene engine from the act image, not by the dialogue renderer: still Japanese, and a separate job
+- [ ] The videophone's "number not in service" card is a Japanese graphic (現在、使われておりません), like
+  the title glyphs were -- same kind of job if it is worth doing
+- [ ] `tools/keypad_probe.py` reads the overlay's cursor/typed buffer out of the emulator; the keypad and
+  letter-grid cell maps are in docs/FINDINGS.md. A direction press right after a different direction is
+  swallowed -- allow for it when scripting input
 - [x] **Cutscene audio (CD-DA): settled, mostly negative.** The intro (PCE 17 <- SCD 3) works. The
   rest cannot be done by swapping tracks - the two versions do not share recordings, and outside one
   coincidence no two tracks are even the same length. `tools/match_cutscenes.py` automates the search
@@ -122,9 +258,10 @@
   to positions inside the track. The 5-second loudness profiles of the two tracks match closely.
 - Samples for listening: `work/audio/intro/intro_{japanese,english}_{start,end}.wav`.
 
-## Title menu 初めから (not solved - what has been ruled out)
-Drawn by sprites: patterns at VRAM $6700 and $6800 (32x32 each) and $6E40 (16x32), cursor at $5280.
-Ruled out, so nobody repeats it:
+## Title menu 初めから (solved 2026-09-21 — see docs/FINDINGS.md)
+Drawn by sprites: patterns at VRAM $6700 and $6800 (32x32 each) and $6E40 (16x32), cursor at $5280 —
+this line was right all along, and a later note that called them four 16x32 sprites was not.
+Ruled out along the way, so nobody repeats it:
 - the glyph pixels are **not on the disc** in any of four bitplane orders (plane-major, row-interleaved,
   big-endian, 1bpp plane 0), and not in RAM either;
 - the characters are **not on the disc** as SJIS, JIS, EUC, kuten or byte-swapped, whole or in pieces;

@@ -5,10 +5,9 @@ only) from discs you already own. The game never left Japan on the PC Engine; th
 in English, two years later. These tools move that English onto the PC Engine disc and translate the
 content the Sega CD version never had.
 
-**No game data lives in this repository.** Not the game, not the dialogue, not the audio. What is here
-is the tooling, and an index that says *where* each line sits in Konami's script — file and byte
-offset, never the words. `build.sh` reads the text from your own source and assembles the image
-locally.
+**What is here is the tooling and the translation tables** — the English per scene, the voice pairing,
+the credit and answer tables. The game itself, its audio and its discs are not: you bring your own rips,
+and `build.sh` assembles the English image from them locally.
 
 ## What you get
 
@@ -17,31 +16,42 @@ locally.
 | Text | all 32 scene slots, 9,201 messages, plus menus, topic words and character names |
 | Voices | ~1,200 in-game clips in English, re-encoded per clip to fit the original slots |
 | Intro | the opening narration, aligned so the visuals stay in step |
-| Verified | on real hardware (PC Engine + Turbo EverDrive Pro), not only in an emulator |
+| Cutscenes | all 15 voiced cutscenes dubbed: English speech over the PC Engine's own music |
+| Title | NEW GAME / CONTINUE, drawn into video memory at runtime |
+| Puzzles | the typed answers, the computer name search and the door quiz, solvable in English |
+| Staff roll | the ending credits in English |
+| Verified | played from start to ending on real hardware (PC Engine + Turbo EverDrive Pro), and every fault found there is a check the build runs before it hands you an image |
 
-Still Japanese: the "start" option on the title screen (a picture the game builds at runtime — see
-`BACKLOG.md` for what has been ruled out), and the speech in cutscenes other than the opening. That
-last one is not an oversight — the two versions do not share music recordings, so there is no Sega CD
-track to put in most cutscenes' place. `tools/match_cutscenes.py` is the search, and
-`docs/FINDINGS.md` records what it found and the three ways of asking that gave confident wrong
+Still Japanese, on purpose: Jamie's farewell in the ending (the Sega CD replaced that scene, so there is no
+English to lay over it and the original voices are kept rather than silence), a handful of in-game lines
+the Sega CD never recorded, and the opening staff roll's headings, which the cutscene engine draws with
+its own font.
+
+The cutscenes are not whole-track swaps — the two versions use different music recordings, and the
+pictures are cued to positions inside the PC Engine's. So Demucs splits both into voice and music,
+and each English line is laid over the PC Engine's own music where its Japanese counterpart was.
+`docs/FINDINGS.md` records how that was found, and the three ways of asking that gave confident wrong
 answers first.
 
 ## What you need
 
 1. **Your own rip of Snatcher CD-ROMantic (Japan)** — Redump layout, 24 tracks plus a `.cue`. Required.
-2. **The English script.** Either Junker HQ's published dump, which `setup.sh` downloads for you, or
-   your own Sega CD rip — the tools read either, and both give the same result.
-3. **Your own Sega CD rip of Snatcher (USA)** — only for the English *voices* and intro narration.
-   Without it you still get the full English text and the Japanese voices are kept.
+2. **Your own Sega CD rip of Snatcher (USA)** — for the English *voices*, the intro narration and the
+   cutscenes. Without it you still get the full English text; the Japanese voices are kept, and the
+   build says so.
+3. **Python 3.** The cutscene dub also wants a venv with Demucs, which `setup.sh` offers to create
+   (`NO_VENV=1` skips it; the cutscenes then stay Japanese).
 
 ## Build
 
 ```
 ./setup.sh      # fetches the public prerequisites and says what is still missing
-./build.sh      # -> build-en-single/  (a single .bin + .cue, for emulators and flash carts)
+./build.sh      # -> work/single/Snatcher (English).bin + .cue, for emulators and flash carts
 ```
 
-`VOICES=0 ./build.sh` forces the text-only build. `SCD_TEXT=` and `SCD_DISC=` point the script
+`build.sh` runs `tools/verify_build.py` before it merges the image: each check there is a fault that
+was found by playing the game through on a PC Engine, and none of them gets to come back unnoticed.
+`VOICES=0 ./build.sh` forces the text-only build; `SCD_FILES=`, `SCD_RIP=` and `VENV=` point the script
 somewhere else. `BUILD.md` has the details, and how to check a build before you trust it.
 
 ## How the text works
@@ -51,7 +61,10 @@ per Japanese one. So the text is re-encoded as word tokens plus canonical Huffma
 character — and decoded by a routine added to the game. English is drawn as two 6-pixel letters inside
 each 12-pixel character cell, giving 36 letters per line without disturbing the game's spacing logic.
 `docs/FINDINGS.md` is the long version, including the things that cost days to work out: the second
-data track a flash cart may read from, and the free memory that turns out not to be free.
+data track a flash cart may read from, the free memory that turns out not to be free, and the screens
+where what looks like text is data the game compares against. `docs/ENGINE.md` is the engine as
+measured — memory map, loads, the script, the renderer — and `docs/DEBUG_MENU.md` maps Konami's own
+debug menu, which reaches every chapter and shootout.
 
 ## Credit
 
