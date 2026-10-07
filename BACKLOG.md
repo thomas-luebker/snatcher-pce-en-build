@@ -197,7 +197,12 @@
   glyph hook jumped into nothing. The caption is now `ＪＵＮＫＥＲ　ＨＱ` (full-width, the game's own path), and the gate
   plays the whole intro unskipped (its boot had pressed START through it) and fails unless the game reaches play
 - [x] Gillian's file at natural speed (26 Sep, Thomas: "do not speed it up"): 143.7-183.7 s, half a second before the cut
-- [ ] Hardware, the next image: the car scene's timing; the sound effects that had played stray English lines
+- [x] Hardware, 26 Sep 20:21 image (Thomas: "looking good"): intro clean through the Junker HQ picture and the Act 1 card, car scene timed
+- [x] 26 Sep 20:21 image played from the start to the abandoned factory on hardware (Thomas, 26 Sep evening)
+- [x] Gibson's disk on the PC68 (26 Sep, from hardware): one Japanese clip in the middle of the snatcher file -- the
+  PC Engine speaks points one and two as two clips, Konami's English as one take (227). Split at the pause as two
+  hand pairs (90/74, 90/75); 1,092 clips. Still unpaired nearby: 531 (Napoleon, Act 2), 468/469 (Gillian's apartment)
+- [ ] In play: the sound effects that had played stray English lines
   ("Something to give me?", "Gillian, we should hurry.", "Sounds cold...") are back to the original effects -- listen
 - [x] Intro broken by the credits step (24 Sep, from hardware, same evening): the opening roll at sector 170 belongs
   to the cutscene engine, not the dialogue renderer; left untouched now. A "which sectors did the build change"

@@ -125,3 +125,8 @@
 94	224	544	And oxygen is O.
 # 24 Sep (Thomas, Act 3 opening): Metal hedging before Gillian snaps "Metal!"
 102	56	799	Well, uh, you see...
+# 26 Sep (Thomas, Gibson's disk read on the PC): one Japanese clip in the middle of Gibson's snatcher file. The PC
+# Engine speaks points one and two as two clips (90/74, 90/75); Konami's English recorded them as one take (227),
+# which the aligner put on point two -- so point one stayed Japanese and point two played both. Split at the pause.
+90	74	227:0-4.85	One, investigate skin condition. Check for any evidence of melanoma.
+90	75	227:4.85-	Two, check for odor. Cancer cells secrete a unique foul odor.

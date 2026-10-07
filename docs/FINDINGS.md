@@ -1246,3 +1246,15 @@ cells; with the block kept out of the intro, the glyph hook called into nothing.
 The gate had not seen it because its emulator boot presses START through the intro; `verify_build --emu` now also
 plays the whole intro, unskipped, in its own process, and fails unless the game reaches engine state 4 or 5.
 
+## Gibson's snatcher file: one take for two clips (2026-09-26, from hardware)
+
+Reading Gibson's disk on the PC68 played one Japanese line in the middle of the file. The file is voiced as clips
+171-186 of table 90; the PC Engine speaks "1. examine the skin" and "2. smell" as two clips (entries 74 and 75),
+while Konami's English has both points in one 10.9 s take (227). The aligner, which allows gaps but no splits, put
+the whole take on point two -- so point one stayed Japanese and point two played both. Two hand pairs split the take
+at the pause (`227:0-4.85`, `227:4.85-`), which fit their slots at natural speed. 1,092 clips English.
+
+A side trip worth recording: decoding clip 177 from track 24 at the table's LBA showed "One," at its end. Track 24
+stores this stretch two sectors earlier than track 02 (177 at 11671, 178 at 11690), so the table LBA reads into the
+next clip's copy; at track 24's own offsets both clips are clean. Decode what the cart plays, not what the table says.
+
